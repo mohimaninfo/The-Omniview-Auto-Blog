@@ -1,0 +1,78 @@
+name: Daily Content Pipeline
+
+on:
+  schedule:
+    # Run at 08:00 UTC every day
+    - cron: '0 8 * * *'
+    # Second run at 18:00 UTC (2 posts per day total)
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+    inputs:
+      posts_per_run:
+        description: 'Number of posts to generate'
+        required: false
+        default: '2'
+
+permissions:
+  contents: write  # needed to commit logs back to repo
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check quota state
+        run: python -c "from utils.quota_manager import QuotaManager; QuotaManager()._check_daily_quota()"
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Run orchestrator
+        run: |
+          python -c "
+          import logging
+          logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(name)s: %(message)s')
+          from agents.orchestrator import OrchestratorAgent
+          agent = OrchestratorAgent()
+          posts = int('${{ github.event.inputs.posts_per_run }}' or '2')
+          results = agent.run(posts_per_run=posts)
+          print(f'Pipeline complete. Published: {sum(1 for r in results if \"url\" in r)}/{posts}')
+          for r in results:
+            if 'url' in r:
+              print(f'  ✓ {r[\"title\"]} → {r[\"url\"]}')
+            else:
+              print(f'  ✗ Error: {r.get(\"error\", \"unknown\")}')
+          "
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+          BLOGGER_OAUTH_CREDENTIALS: ${{ secrets.BLOGGER_OAUTH_CREDENTIALS }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
+          DISQUS_SHORTNAME: ${{ secrets.DISQUS_SHORTNAME }}
+
+      - name: Commit logs back to repo
+        run: |
+          git config user.name "AutonomousBlogger[bot]"
+          git config user.email "bot@yourblog.com"
+          git add logs/ config/quota_state.json taxonomy/ || true
+          git diff --staged --quiet || git commit -m "🤖 Auto: pipeline run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      - name: Post pipeline summary
+        if: always()
+        run: python scripts/pipeline_summary.py >> $GITHUB_STEP_SUMMARY

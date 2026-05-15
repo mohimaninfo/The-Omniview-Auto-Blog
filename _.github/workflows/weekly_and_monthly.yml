@@ -1,0 +1,118 @@
+name: Weekly Self-Improvement
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Run weekly review
+        run: |
+          python -c "
+          import logging
+          logging.basicConfig(level=logging.INFO)
+          from agents.self_improvement import SelfImprovementAgent
+          agent = SelfImprovementAgent()
+          summary = agent.weekly_review()
+          print('Weekly review complete:', summary)
+          "
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit any changes
+        run: |
+          git config user.name "AutonomousBlogger[bot]"
+          git config user.email "bot@yourblog.com"
+          git add logs/ || true
+          git diff --staged --quiet || git commit -m "📊 Auto: weekly review $(date -u +%Y-%m-%d)"
+          git push
+
+---
+# Save as: .github/workflows/monthly_expansion.yml
+
+name: Monthly Genre Expansion
+
+on:
+  schedule:
+    # First day of each month at 07:00 UTC
+    - cron: '0 7 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monthly-expansion:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Run monthly expansion
+        run: |
+          python -c "
+          import logging
+          logging.basicConfig(level=logging.INFO)
+          from agents.self_improvement import SelfImprovementAgent
+          agent = SelfImprovementAgent()
+          proposals = agent.monthly_expansion()
+          new_topics = len(proposals.get('new_topics', []))
+          new_genres = len(proposals.get('new_genres', []))
+          print(f'Monthly expansion: +{new_topics} topics, +{new_genres} genres')
+          "
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit taxonomy changes
+        run: |
+          git config user.name "AutonomousBlogger[bot]"
+          git config user.email "bot@yourblog.com"
+          git add taxonomy/ logs/ || true
+          git diff --staged --quiet || git commit -m "🌱 Auto: monthly taxonomy expansion $(date -u +%Y-%m)"
+          git push
+
+      - name: Expansion summary
+        run: |
+          echo "## Monthly Taxonomy Expansion" >> $GITHUB_STEP_SUMMARY
+          python -c "
+          import json
+          with open('taxonomy/taxonomy_changelog.json') as f: log = json.load(f)
+          if log:
+            latest = log[-1]
+            new_t = latest.get('proposals', {}).get('new_topics', [])
+            new_g = latest.get('proposals', {}).get('new_genres', [])
+            print(f'- New topics: {len(new_t)}')
+            print(f'- New genres: {len(new_g)}')
+            for t in new_t: print(f'  + {t[\"topic_label\"]} (in {t[\"for_genre\"]})')
+            for g in new_g: print(f'  + Genre: {g[\"genre_label\"]}')
+          " >> $GITHUB_STEP_SUMMARY
