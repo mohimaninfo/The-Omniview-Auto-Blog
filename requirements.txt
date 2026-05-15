@@ -1,0 +1,40 @@
+# ============================================================
+# autonomous-blogger — Python dependencies
+# All packages available on free tiers / open source
+# ============================================================
+
+# --- Google APIs ---
+google-genai                        # Gemini 3 / 2.5 / 1.5 Flash
+google-auth>=2.29.0                 # OAuth2 for Blogger & YouTube
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.127.0   # Blogger API v3 + YouTube Data API v3
+
+# --- Firebase ---
+firebase-admin>=6.5.0               # Firebase Realtime Database (Spark free plan)
+
+# --- HTTP / Web ---
+requests>=2.31.0                    # HTTP HEAD checks, RSS fetching
+feedparser>=6.0.11                  # Google Trends & Reddit RSS parsing
+beautifulsoup4>=4.12.3              # HTML parsing / post assembly
+lxml>=5.2.1                         # Fast XML/HTML backend for BS4
+
+# --- Rate limiting & resilience ---
+tenacity>=8.3.0                     # Exponential backoff + retry logic
+ratelimit>=2.2.1                    # Simple decorator-based rate limiter
+
+# --- Data & utilities ---
+python-dotenv>=1.0.1                # Load .env secrets
+pydantic>=2.7.0                     # Config validation / data models
+jinja2>=3.1.4                       # HTML template rendering
+python-slugify>=8.0.4               # URL-safe slug generation
+pytz>=2024.1                        # Timezone handling for scheduler
+dateparser>=1.2.0                   # Flexible date parsing
+tiktoken>=0.7.0                     # Token counting for Gemini prompts
+
+# --- Logging ---
+structlog>=24.1.0                   # Structured JSON logging
+
+# --- Testing ---
+pytest>=8.2.0
+pytest-mock>=3.14.0
+responses>=0.25.3                   # Mock HTTP calls in tests

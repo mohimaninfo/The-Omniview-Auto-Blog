@@ -1,0 +1,373 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.11.6, pytest-9.0.3, pluggy-1.6.0 -- C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\python.exe
+cachedir: .pytest_cache
+rootdir: D:\GitHub\Local Repo\Fully-Autonomous-Blogger-Pipeline
+configfile: pytest.ini
+plugins: anyio-4.13.0, mock-3.15.1
+collecting ... collected 22 items
+
+tests/test_agents.py::TestOrchestratorAgent::test_builds_task_packet PASSED [  4%]
+tests/test_agents.py::TestOrchestratorAgent::test_posts_per_day_config_respected PASSED [  9%]
+tests/test_agents.py::TestOrchestratorAgent::test_rotation_covers_all_genres_over_n_days PASSED [ 13%]
+tests/test_agents.py::TestTopicDiscoveryAgent::test_duplicates_are_filtered FAILED [ 18%]
+tests/test_agents.py::TestTopicDiscoveryAgent::test_returns_ranked_topics FAILED [ 22%]
+tests/test_agents.py::TestResearchAgent::test_invalid_urls_get_archive_fallback FAILED [ 27%]
+tests/test_agents.py::TestResearchAgent::test_returns_research_brief FAILED [ 31%]
+tests/test_agents.py::TestContentGenerationAgent::test_malformed_json_response_raises FAILED [ 36%]
+tests/test_agents.py::TestContentGenerationAgent::test_returns_post_draft FAILED [ 40%]
+tests/test_agents.py::TestReferenceAgent::test_empty_sources_returns_empty_ref_section FAILED [ 45%]
+tests/test_agents.py::TestReferenceAgent::test_reference_list_numbered_correctly FAILED [ 50%]
+tests/test_agents.py::TestSEOAgent::test_json_ld_schema_present FAILED   [ 54%]
+tests/test_agents.py::TestSEOAgent::test_read_time_calculated FAILED     [ 59%]
+tests/test_agents.py::TestImageAgent::test_fallback_to_pollinations_on_404 FAILED [ 63%]
+tests/test_agents.py::TestImageAgent::test_returns_image_url_and_credit FAILED [ 68%]
+tests/test_agents.py::TestVideoAgent::test_howto_layer_embeds_video FAILED [ 72%]
+tests/test_agents.py::TestVideoAgent::test_opinion_layer_skips_video FAILED [ 77%]
+tests/test_agents.py::TestPublisherAgent::test_logs_post_metadata FAILED [ 81%]
+tests/test_agents.py::TestPublisherAgent::test_publishes_and_returns_url FAILED [ 86%]
+tests/test_agents.py::TestSelfImprovementAgent::test_performance_review_returns_report FAILED [ 90%]
+tests/test_agents.py::TestSelfImprovementAgent::test_proposes_new_genres FAILED [ 95%]
+tests/test_agents.py::TestPipelineSmoke::test_full_single_post_pipeline FAILED [100%]
+
+================================== FAILURES ===================================
+____________ TestTopicDiscoveryAgent.test_duplicates_are_filtered _____________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.topic_discovery' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\topic_discovery.py'> does not have the attribute 'GeminiClient'
+_____________ TestTopicDiscoveryAgent.test_returns_ranked_topics ______________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.topic_discovery' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\topic_discovery.py'> does not have the attribute 'GeminiClient'
+__________ TestResearchAgent.test_invalid_urls_get_archive_fallback ___________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.research' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\research.py'> does not have the attribute 'LinkValidator'
+________________ TestResearchAgent.test_returns_research_brief ________________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.research' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\research.py'> does not have the attribute 'LinkValidator'
+_______ TestContentGenerationAgent.test_malformed_json_response_raises ________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.content_generation' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\content_generation.py'> does not have the attribute 'GeminiClient'
+_____________ TestContentGenerationAgent.test_returns_post_draft ______________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.content_generation' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\content_generation.py'> does not have the attribute 'GeminiClient'
+_______ TestReferenceAgent.test_empty_sources_returns_empty_ref_section _______
+tests\test_agents.py:280: in test_empty_sources_returns_empty_ref_section
+    from agents.agents_5_to_9 import ReferenceAgent
+E   ImportError: cannot import name 'ReferenceAgent' from 'agents.agents_5_to_9' (D:\GitHub\Local Repo\Fully-Autonomous-Blogger-Pipeline\agents\agents_5_to_9.py)
+__________ TestReferenceAgent.test_reference_list_numbered_correctly __________
+tests\test_agents.py:269: in test_reference_list_numbered_correctly
+    from agents.agents_5_to_9 import ReferenceAgent
+E   ImportError: cannot import name 'ReferenceAgent' from 'agents.agents_5_to_9' (D:\GitHub\Local Repo\Fully-Autonomous-Blogger-Pipeline\agents\agents_5_to_9.py)
+__________________ TestSEOAgent.test_json_ld_schema_present ___________________
+tests\test_agents.py:307: in test_json_ld_schema_present
+    seo_output = agent.run(post_data)
+                 ^^^^^^^^^
+E   AttributeError: 'SEOAgent' object has no attribute 'run'
+___________________ TestSEOAgent.test_read_time_calculated ____________________
+tests\test_agents.py:318: in test_read_time_calculated
+    read_time = agent._calculate_read_time(body)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+E   AttributeError: 'SEOAgent' object has no attribute '_calculate_read_time'
+_____________ TestImageAgent.test_fallback_to_pollinations_on_404 _____________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.agents_5_to_9' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\agents_5_to_9.py'> does not have the attribute 'GeminiClient'
+______________ TestImageAgent.test_returns_image_url_and_credit _______________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.agents_5_to_9' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\agents_5_to_9.py'> does not have the attribute 'GeminiClient'
+________________ TestVideoAgent.test_howto_layer_embeds_video _________________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.agents_5_to_9' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\agents_5_to_9.py'> does not have the attribute 'GeminiClient'
+________________ TestVideoAgent.test_opinion_layer_skips_video ________________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.agents_5_to_9' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\agents_5_to_9.py'> does not have the attribute 'GeminiClient'
+_________________ TestPublisherAgent.test_logs_post_metadata __________________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.agents_5_to_9' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\agents_5_to_9.py'> does not have the attribute 'BloggerClient'
+______________ TestPublisherAgent.test_publishes_and_returns_url ______________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.agents_5_to_9' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\agents_5_to_9.py'> does not have the attribute 'BloggerClient'
+_______ TestSelfImprovementAgent.test_performance_review_returns_report _______
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.self_improvement' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\self_improvement.py'> does not have the attribute 'BloggerClient'
+______________ TestSelfImprovementAgent.test_proposes_new_genres ______________
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1828: in _inner
+    return f(*args, **kw)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1372: in patched
+    with self.decoration_helper(patched,
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:137: in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1354: in decoration_helper
+    arg = exit_stack.enter_context(patching)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\contextlib.py:505: in enter_context
+    result = _enter(cm)
+             ^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1443: in __enter__
+    original, local = self.get_original()
+                      ^^^^^^^^^^^^^^^^^^^
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\unittest\mock.py:1416: in get_original
+    raise AttributeError(
+E   AttributeError: <module 'agents.self_improvement' from 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\agents\\self_improvement.py'> does not have the attribute 'RSSFetcher'
+______________ TestPipelineSmoke.test_full_single_post_pipeline _______________
+tests\test_agents.py:544: in test_full_single_post_pipeline
+    research_brief = load_fixture("sample_research_brief.json")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\test_agents.py:22: in load_fixture
+    with open(FIXTURES_DIR / name) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+E   FileNotFoundError: [Errno 2] No such file or directory: 'D:\\GitHub\\Local Repo\\Fully-Autonomous-Blogger-Pipeline\\tests\\fixtures\\sample_research_brief.json'
+=========================== short test summary info ===========================
+FAILED tests/test_agents.py::TestTopicDiscoveryAgent::test_duplicates_are_filtered
+FAILED tests/test_agents.py::TestTopicDiscoveryAgent::test_returns_ranked_topics
+FAILED tests/test_agents.py::TestResearchAgent::test_invalid_urls_get_archive_fallback
+FAILED tests/test_agents.py::TestResearchAgent::test_returns_research_brief
+FAILED tests/test_agents.py::TestContentGenerationAgent::test_malformed_json_response_raises
+FAILED tests/test_agents.py::TestContentGenerationAgent::test_returns_post_draft
+FAILED tests/test_agents.py::TestReferenceAgent::test_empty_sources_returns_empty_ref_section
+FAILED tests/test_agents.py::TestReferenceAgent::test_reference_list_numbered_correctly
+FAILED tests/test_agents.py::TestSEOAgent::test_json_ld_schema_present - Attr...
+FAILED tests/test_agents.py::TestSEOAgent::test_read_time_calculated - Attrib...
+FAILED tests/test_agents.py::TestImageAgent::test_fallback_to_pollinations_on_404
+FAILED tests/test_agents.py::TestImageAgent::test_returns_image_url_and_credit
+FAILED tests/test_agents.py::TestVideoAgent::test_howto_layer_embeds_video - ...
+FAILED tests/test_agents.py::TestVideoAgent::test_opinion_layer_skips_video
+FAILED tests/test_agents.py::TestPublisherAgent::test_logs_post_metadata - At...
+FAILED tests/test_agents.py::TestPublisherAgent::test_publishes_and_returns_url
+FAILED tests/test_agents.py::TestSelfImprovementAgent::test_performance_review_returns_report
+FAILED tests/test_agents.py::TestSelfImprovementAgent::test_proposes_new_genres
+FAILED tests/test_agents.py::TestPipelineSmoke::test_full_single_post_pipeline
+======================== 19 failed, 3 passed in 2.80s =========================

@@ -1,0 +1,46 @@
+# ── Secrets & credentials ────────────────────────────────────
+.env
+config/client_secrets.json
+config/quota_state.json
+config/token.pickle
+*credentials*.json
+*service_account*.json
+firebase-adminsdk*.json
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Testing ───────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# ── IDEs ─────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Runtime state (logs ARE committed for persistence) ───────
+# quota_state.json is gitignored — reset on each Actions runner
+config/quota_state.json
