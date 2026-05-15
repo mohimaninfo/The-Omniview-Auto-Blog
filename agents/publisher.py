@@ -27,18 +27,28 @@ class PublisherAgent:
     def _build_blogger_service(self):
         creds_json = os.environ.get("BLOGGER_OAUTH_CREDENTIALS_JSON")
         if not creds_json:
-            raise ValueError("BLOGGER_OAUTH_CREDENTIALS_JSON is empty")
-        creds_data = json.loads(creds_json)
-        creds = Credentials(
-            token=creds_data.get("token"),
-            refresh_token=creds_data.get("refresh_token"),
-            token_uri="https://oauth2.googleapis.com/token",
-            client_id=creds_data.get("client_id"),
-            client_secret=creds_data.get("client_secret"),
-            scopes=["https://www.googleapis.com/auth/blogger"],
-        )
-        if creds.expired and creds.refresh_token:
+            raise ValueError("BLOGGER_OAUTH_CREDENTIALS_JSON environment variable is empty or missing!")
+        
+        try:
+            creds_data = json.loads(creds_json)
+        except json.JSONDecodeError as e:
+            raise ValueError(f"Failed to parse BLOGGER_OAUTH_CREDENTIALS_JSON as valid JSON: {e}")
+
+        # Ensure token_uri exists in the credentials block
+        if "token_uri" not in creds_data:
+            creds_data["token_uri"] = "https://oauth2.googleapis.com/token"
+
+        # FIXED: Use from_authorized_user_info to cleanly instantiate refresh capabilities
+        creds = Credentials.from_authorized_user_info(creds_data, scopes=["https://www.googleapis.com/auth/blogger"])
+        
+        # Verify fields are correctly loaded to preempt hidden failures
+        if not creds.refresh_token:
+            raise ValueError("The provided JSON is missing the 'refresh_token' field!")
+
+        if creds.expired:
+            logger.info("Blogger credentials expired. Triggering automated refresh...")
             creds.refresh(GoogleRequest())
+            
         return build("blogger", "v3", credentials=creds)
 
     def _assemble_html(self, task: dict) -> str:
@@ -165,7 +175,7 @@ class PublisherAgent:
       s.src = 'https://{disqus_shortname}.disqus.com/embed.js';
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
-    }})();
+    }}})();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>"""
@@ -195,7 +205,7 @@ class PublisherAgent:
                 body=post_body,
                 isDraft=False,
                 fetchImages=False,
-            ).execute()
+                ).execute()
 
             post_url = result.get("url", "")
             post_id = result.get("id", "")
