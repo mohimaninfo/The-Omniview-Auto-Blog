@@ -32,7 +32,7 @@ DAILY_LIMITS = {
     GeminiConfig.PRIMARY_MODEL: GeminiConfig.DAILY_TOKEN_LIMIT,
     "gemini-3.1-flash-lite": GeminiConfig.DAILY_TOKEN_LIMIT,
     GeminiConfig.FALLBACK_MODEL: GeminiConfig.DAILY_TOKEN_LIMIT,
-    "gemini-1.5-flash": GeminiConfig.DAILY_TOKEN_LIMIT,
+    "gemini-3.1-flash-lite": GeminiConfig.DAILY_TOKEN_LIMIT,
 }
 
 class QuotaExhaustedError(Exception):
