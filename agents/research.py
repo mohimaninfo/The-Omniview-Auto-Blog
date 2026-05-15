@@ -85,7 +85,7 @@ Do NOT include:
 - explanations
 - extra text
 
-Your response must start with { and end with }."""
+Your response must start with {{ and end with }}."""
 
         response_text = call_gemini(
             prompt,
