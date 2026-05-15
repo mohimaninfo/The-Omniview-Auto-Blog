@@ -81,7 +81,13 @@ Produce the research brief now:"""
         )
 
         try:
-            brief = json.loads(response_text)
+            
+
+            match = re.search(r'\{.*\}', response_text, re.DOTALL)
+            if not match:
+                raise ValueError("No JSON found")
+            
+            brief = json.loads(match.group(0))
         except json.JSONDecodeError:
             match = re.search(r'\{.*\}', response_text, re.DOTALL)
             if match:
