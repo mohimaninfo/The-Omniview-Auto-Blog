@@ -1,0 +1,48 @@
+name: Weekly Self-Improvement
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Run weekly review
+        run: |
+          python -c "
+          import logging
+          logging.basicConfig(level=logging.INFO)
+          from agents.self_improvement import SelfImprovementAgent
+          agent = SelfImprovementAgent()
+          summary = agent.weekly_review()
+          print('Weekly review complete:', summary)
+          "
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit any changes
+        run: |
+          git config user.name "AutonomousBlogger[bot]"
+          git config user.email "bot@yourblog.com"
+          git add logs/ || true
+          git diff --staged --quiet || git commit -m "📊 Auto: weekly review $(date -u +%Y-%m-%d)"
+          git push
