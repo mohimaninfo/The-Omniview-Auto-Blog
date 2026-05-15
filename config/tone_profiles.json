@@ -1,0 +1,142 @@
+{
+  "technology": {
+    "genre": "Technology",
+    "voice": "precise, forward-looking, technically authoritative",
+    "sentence_style": "Clear declarative sentences. Active voice. Short paragraphs. Use exact figures and version numbers when available.",
+    "vocabulary_level": "technical but accessible — define acronyms on first use",
+    "avoid": "hype words like 'revolutionary', 'game-changing', vague superlatives",
+    "persona": "Senior software engineer and tech analyst writing for peers and informed enthusiasts",
+    "opening_style": "Lead with the most significant technical development or capability",
+    "example_phrases": [
+      "The architecture introduces a key improvement over its predecessor:",
+      "Benchmark results indicate a 2.3× throughput gain under concurrent load.",
+      "The primary trade-off here is between latency and memory overhead."
+    ]
+  },
+  "health": {
+    "genre": "Health",
+    "voice": "empathetic, evidence-based, cautious and responsible",
+    "sentence_style": "Warm but precise. Always qualify health claims with study context. Never prescribe.",
+    "vocabulary_level": "accessible to general public — avoid jargon or define it immediately",
+    "avoid": "absolute medical claims, fear-mongering, miracle cure language",
+    "persona": "Health journalist with a science background writing for health-conscious general readers",
+    "opening_style": "Open with a relatable human context before introducing the evidence",
+    "example_phrases": [
+      "According to a 2024 study published in The Lancet,",
+      "Speak with your healthcare provider before making changes to your routine.",
+      "The research is promising, though larger trials are still needed."
+    ]
+  },
+  "finance": {
+    "genre": "Finance",
+    "voice": "analytical, data-driven, risk-aware, measured",
+    "sentence_style": "Use numbers, percentages, and timeframes precisely. Acknowledge uncertainty.",
+    "vocabulary_level": "intermediate financial literacy assumed — explain advanced terms",
+    "avoid": "investment advice, price predictions presented as certainties",
+    "persona": "Financial analyst writing for informed retail investors and business professionals",
+    "opening_style": "Lead with a key data point or market development that frames the analysis",
+    "example_phrases": [
+      "Year-to-date performance through Q3 2024 shows a 14.2% contraction in the sector.",
+      "This carries meaningful downside risk if interest rates remain elevated.",
+      "Past performance does not guarantee future results."
+    ]
+  },
+  "science": {
+    "genre": "Science",
+    "voice": "rigorous, curious, intellectually honest, accessible",
+    "sentence_style": "Explain mechanisms, not just conclusions. Use analogies for complex concepts.",
+    "vocabulary_level": "educated general audience — bridge technical and lay understanding",
+    "avoid": "overstating findings beyond what the research supports",
+    "persona": "Science communicator with a research background writing for curious, educated readers",
+    "opening_style": "Open with the surprising or counterintuitive aspect of the discovery",
+    "example_phrases": [
+      "Think of it like a molecular lock-and-key mechanism operating at nanoscale.",
+      "The peer-reviewed study, published in Nature, involved 847 participants over 18 months.",
+      "Importantly, correlation in this data does not establish causation."
+    ]
+  },
+  "lifestyle": {
+    "genre": "Lifestyle",
+    "voice": "conversational, aspirational, warm, practical",
+    "sentence_style": "Friendly tone. Use 'you' liberally. Short punchy sentences mixed with fuller explanations.",
+    "vocabulary_level": "everyday language — accessible to all adults",
+    "avoid": "preachy moralizing, unrealistic perfection standards",
+    "persona": "Knowledgeable friend who has researched the topic deeply and shares genuine insights",
+    "opening_style": "Open with a relatable scenario or common problem the reader faces",
+    "example_phrases": [
+      "Here's what actually works — and what doesn't.",
+      "You don't need to overhaul your entire routine overnight.",
+      "The good news? Small, consistent changes tend to stick."
+    ]
+  },
+  "education": {
+    "genre": "Education",
+    "voice": "clear, structured, encouraging, pedagogically sound",
+    "sentence_style": "Build concepts incrementally. Use examples before abstractions. Anticipate confusion.",
+    "vocabulary_level": "adapts to topic complexity — always scaffolds new vocabulary",
+    "avoid": "condescension, assuming too much prior knowledge",
+    "persona": "Experienced educator and curriculum designer explaining with patience and precision",
+    "opening_style": "Open with the key question or learning objective this piece addresses",
+    "example_phrases": [
+      "Before we dive in, let's establish a shared understanding of the core concept.",
+      "A helpful analogy here is to think of it as...",
+      "By the end of this guide, you will be able to..."
+    ]
+  },
+  "business": {
+    "genre": "Business",
+    "voice": "strategic, results-oriented, practical, credible",
+    "sentence_style": "Efficient and direct. Use frameworks and structures. Cite real examples.",
+    "vocabulary_level": "professional business audience — MBA-level concepts are fine",
+    "avoid": "buzzword-heavy management speak, vague platitudes",
+    "persona": "Business strategist and management consultant writing for executives and entrepreneurs",
+    "opening_style": "Lead with the strategic implication or business outcome at stake",
+    "example_phrases": [
+      "Three core levers drive performance improvement in this scenario:",
+      "The unit economics here only hold if customer acquisition cost stays below $42.",
+      "This mirrors the playbook used by [Company] during their 2022 expansion."
+    ]
+  },
+  "entertainment": {
+    "genre": "Entertainment",
+    "voice": "engaging, opinionated, culturally aware, energetic",
+    "sentence_style": "Lively prose. Don't be afraid of strong opinions. Use cultural references.",
+    "vocabulary_level": "casual and accessible — pop culture literacy assumed",
+    "avoid": "spoilers without warning, dismissive criticism without substance",
+    "persona": "Culture critic and entertainment journalist writing for pop culture enthusiasts",
+    "opening_style": "Open with a bold hook — a strong opinion, surprising stat, or cultural moment",
+    "example_phrases": [
+      "This isn't just another streaming release — it genuinely changes the conversation.",
+      "Here's what the discourse is missing:",
+      "Whether you love it or hate it, you can't ignore it."
+    ]
+  },
+  "environment": {
+    "genre": "Environment",
+    "voice": "urgent but constructive, scientifically grounded, solution-focused",
+    "sentence_style": "Ground urgency in data. Always pair problems with concrete responses.",
+    "vocabulary_level": "accessible to general public — explain environmental science clearly",
+    "avoid": "doom-and-gloom without solutions, denial of scientific consensus",
+    "persona": "Environmental journalist and science communicator with deep policy knowledge",
+    "opening_style": "Open with a specific, concrete data point that makes the abstract real",
+    "example_phrases": [
+      "Global mean surface temperature in 2024 exceeded pre-industrial levels by 1.48°C.",
+      "The most viable near-term solution involves a combination of policy and technology.",
+      "Community-led initiatives have demonstrated measurable impact in similar contexts."
+    ]
+  },
+  "society": {
+    "genre": "Society",
+    "voice": "thoughtful, nuanced, humanistic, intellectually curious",
+    "sentence_style": "Present multiple perspectives with fairness. Acknowledge complexity.",
+    "vocabulary_level": "educated general audience — social science concepts explained clearly",
+    "avoid": "false balance on factual matters, editorializing disguised as reporting",
+    "persona": "Social researcher and journalist who examines systemic patterns without partisan framing",
+    "opening_style": "Open with a specific human story or social moment that illustrates the broader trend",
+    "example_phrases": [
+      "The data reveals a pattern that cuts across demographic lines:",
+      "To understand why this is happening, we need to examine both structural and cultural factors.",
+      "This is not a simple problem — and it doesn't have a simple solution."
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "latest_news": {
+    "layer_key": "latest_news",
+    "display_name": "Latest News",
+    "badge_color": "#E53E3E",
+    "sections": [
+      {
+        "id": "headline_summary",
+        "heading": "Summary",
+        "instruction": "A 2-3 sentence factual summary of the news event. Answer: What happened, when, and who is involved.",
+        "required": true
+      },
+      {
+        "id": "key_facts",
+        "heading": "Key Facts",
+        "instruction": "5-7 bullet points of the most important verifiable facts. Each fact must have a citation marker.",
+        "required": true
+      },
+      {
+        "id": "context",
+        "heading": "Background & Context",
+        "instruction": "2-3 paragraphs explaining the relevant background. Why does this news matter? What preceded it?",
+        "required": true
+      },
+      {
+        "id": "impact",
+        "heading": "Impact & Implications",
+        "instruction": "Analysis of short and long-term implications. Use specific examples and data where possible.",
+        "required": true
+      },
+      {
+        "id": "expert_reaction",
+        "heading": "Expert Reactions",
+        "instruction": "2-3 attributed quotes or paraphrased reactions from named experts, organizations, or official sources. Only include real, citable statements.",
+        "required": false
+      },
+      {
+        "id": "whats_next",
+        "heading": "What Happens Next",
+        "instruction": "Forward-looking paragraph: upcoming dates, decisions, or developments to watch.",
+        "required": true
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "instruction": "Numbered reference list. Automatically populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "research_articles": {
+    "layer_key": "research_articles",
+    "display_name": "Research Articles",
+    "badge_color": "#3182CE",
+    "sections": [
+      {
+        "id": "abstract",
+        "heading": "Abstract",
+        "instruction": "150-200 word structured summary: objective, methodology, key findings, and significance.",
+        "required": true
+      },
+      {
+        "id": "background",
+        "heading": "Background & Prior Work",
+        "instruction": "Survey the existing research landscape. What was known before? What gap does this address?",
+        "required": true
+      },
+      {
+        "id": "methodology",
+        "heading": "Methodology",
+        "instruction": "Explain the research approach, data sources, experimental design, or analytical framework.",
+        "required": true
+      },
+      {
+        "id": "findings",
+        "heading": "Key Findings",
+        "instruction": "Present findings with specific data points, statistics, and direct citations. Use subheadings for multiple findings.",
+        "required": true
+      },
+      {
+        "id": "analysis",
+        "heading": "Analysis & Discussion",
+        "instruction": "Interpret the findings in context. What do they mean? Acknowledge limitations.",
+        "required": true
+      },
+      {
+        "id": "implications",
+        "heading": "Implications & Applications",
+        "instruction": "Real-world significance: who benefits, what changes, what new questions emerge.",
+        "required": true
+      },
+      {
+        "id": "future_work",
+        "heading": "Future Research Directions",
+        "instruction": "What should be studied next? What questions remain open?",
+        "required": false
+      },
+      {
+        "id": "citations",
+        "heading": "References & Citations",
+        "instruction": "Full numbered reference list. Automatically populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "how_to_guides": {
+    "layer_key": "how_to_guides",
+    "display_name": "How-To Guides",
+    "badge_color": "#38A169",
+    "sections": [
+      {
+        "id": "overview",
+        "heading": "Overview",
+        "instruction": "What will the reader achieve? Why does this guide exist? Estimated time and difficulty.",
+        "required": true
+      },
+      {
+        "id": "prerequisites",
+        "heading": "What You'll Need",
+        "instruction": "Bulleted list: required tools, software, knowledge, or materials with brief explanations.",
+        "required": true
+      },
+      {
+        "id": "steps",
+        "heading": "Step-by-Step Instructions",
+        "instruction": "Numbered steps. Each step: clear action verb, specific instruction, expected result. Use code blocks for technical content.",
+        "required": true
+      },
+      {
+        "id": "tips_warnings",
+        "heading": "Tips, Tricks & Common Mistakes",
+        "instruction": "3-5 practical tips derived from real-world application. Flag common pitfalls clearly.",
+        "required": true
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "Troubleshooting",
+        "instruction": "Common problems and solutions in Q&A format.",
+        "required": false
+      },
+      {
+        "id": "faq",
+        "heading": "Frequently Asked Questions",
+        "instruction": "4-6 genuine questions a reader might have after following the guide. Honest, practical answers.",
+        "required": true
+      },
+      {
+        "id": "references",
+        "heading": "References",
+        "instruction": "Sources, official documentation, and further reading. Populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "opinion_analysis": {
+    "layer_key": "opinion_analysis",
+    "display_name": "Opinion & Analysis",
+    "badge_color": "#D69E2E",
+    "sections": [
+      {
+        "id": "thesis",
+        "heading": "The Core Argument",
+        "instruction": "A clear, direct statement of the central argument or thesis. No hedging — commit to a position.",
+        "required": true
+      },
+      {
+        "id": "evidence",
+        "heading": "The Evidence",
+        "instruction": "3-4 concrete data points, case studies, or examples that support the argument. Each cited.",
+        "required": true
+      },
+      {
+        "id": "counterarguments",
+        "heading": "Counterarguments & Rebuttals",
+        "instruction": "Present the strongest opposing view fairly, then rebut it with evidence and reasoning.",
+        "required": true
+      },
+      {
+        "id": "broader_context",
+        "heading": "Broader Context",
+        "instruction": "Situate the argument within larger trends, historical patterns, or systemic factors.",
+        "required": true
+      },
+      {
+        "id": "implications",
+        "heading": "What This Means",
+        "instruction": "Practical and conceptual implications if the argument is correct. Who should care and why.",
+        "required": true
+      },
+      {
+        "id": "conclusion",
+        "heading": "Conclusion",
+        "instruction": "Return to the thesis with the confidence earned by the preceding argument. Leave the reader with something to act on or think about.",
+        "required": true
+      },
+      {
+        "id": "references",
+        "heading": "References",
+        "instruction": "Numbered reference list for all cited claims. Populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "case_studies": {
+    "layer_key": "case_studies",
+    "display_name": "Case Studies",
+    "badge_color": "#805AD5",
+    "sections": [
+      {
+        "id": "executive_summary",
+        "heading": "Executive Summary",
+        "instruction": "100-150 words: who is the subject, what challenge/opportunity they faced, and the key outcome.",
+        "required": true
+      },
+      {
+        "id": "background",
+        "heading": "Background",
+        "instruction": "Establish the context: company/entity profile, industry position, and relevant history.",
+        "required": true
+      },
+      {
+        "id": "challenge",
+        "heading": "The Challenge",
+        "instruction": "Specific, quantified description of the problem or opportunity. Avoid vague language.",
+        "required": true
+      },
+      {
+        "id": "approach",
+        "heading": "The Approach",
+        "instruction": "What strategy, methodology, or solution was applied? Step-by-step where appropriate.",
+        "required": true
+      },
+      {
+        "id": "results",
+        "heading": "Results & Outcomes",
+        "instruction": "Quantified outcomes wherever possible (%, $, time). Acknowledge both wins and shortfalls.",
+        "required": true
+      },
+      {
+        "id": "lessons",
+        "heading": "Key Lessons Learned",
+        "instruction": "3-5 distilled, transferable insights that readers can apply in their own context.",
+        "required": true
+      },
+      {
+        "id": "references",
+        "heading": "References",
+        "instruction": "Sources and citations. Populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "interviews": {
+    "layer_key": "interviews",
+    "display_name": "Interviews",
+    "badge_color": "#319795",
+    "sections": [
+      {
+        "id": "intro",
+        "heading": "Introduction",
+        "instruction": "Introduce the interviewee with relevant credentials, role, and why their perspective matters now.",
+        "required": true
+      },
+      {
+        "id": "qa_main",
+        "heading": "The Interview",
+        "instruction": "8-12 Q&A exchanges. Questions are incisive and build on each other. Answers are substantive and specific. For AI-generated interviews, clearly label as 'editorial simulation based on public statements' and cite sources.",
+        "required": true
+      },
+      {
+        "id": "key_takeaways",
+        "heading": "Key Takeaways",
+        "instruction": "3-5 bulleted distillations of the most important insights from the conversation.",
+        "required": true
+      },
+      {
+        "id": "about",
+        "heading": "About the Subject",
+        "instruction": "Brief bio, links to work, relevant publications or projects.",
+        "required": false
+      },
+      {
+        "id": "references",
+        "heading": "References",
+        "instruction": "Sources cited in the interview. Populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "listicles": {
+    "layer_key": "listicles",
+    "display_name": "Listicles",
+    "badge_color": "#DD6B20",
+    "sections": [
+      {
+        "id": "intro",
+        "heading": "Introduction",
+        "instruction": "Why does this list matter? What problem does it solve or what insight does it deliver? Promise the value.",
+        "required": true
+      },
+      {
+        "id": "list_items",
+        "heading": "The List",
+        "instruction": "Each item gets: numbered heading, 1-3 paragraph explanation with a concrete example or data point, and a citation where applicable. Items must be substantively different from each other.",
+        "required": true
+      },
+      {
+        "id": "verdict",
+        "heading": "The Verdict",
+        "instruction": "What's the single most important item or insight? What should the reader do with this list?",
+        "required": true
+      },
+      {
+        "id": "faq",
+        "heading": "Frequently Asked Questions",
+        "instruction": "3-5 questions related to the list topic with direct answers.",
+        "required": false
+      },
+      {
+        "id": "references",
+        "heading": "References",
+        "instruction": "Sources cited across list items. Populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "reviews": {
+    "layer_key": "reviews",
+    "display_name": "Reviews",
+    "badge_color": "#2B6CB0",
+    "sections": [
+      {
+        "id": "verdict_box",
+        "heading": "Quick Verdict",
+        "instruction": "A 50-75 word upfront summary with an overall score (out of 10) and 3 pros/3 cons bullets.",
+        "required": true
+      },
+      {
+        "id": "overview",
+        "heading": "Overview",
+        "instruction": "What is being reviewed? Context: price, version, publisher, release date, intended audience.",
+        "required": true
+      },
+      {
+        "id": "in_depth",
+        "heading": "In-Depth Review",
+        "instruction": "Use subheadings per dimension being evaluated (e.g., Performance, Ease of Use, Value, Design). Each dimension rated and explained with specific observations.",
+        "required": true
+      },
+      {
+        "id": "comparison",
+        "heading": "How It Compares",
+        "instruction": "Brief comparison to 2-3 alternatives at similar price/category. Be specific.",
+        "required": false
+      },
+      {
+        "id": "who_its_for",
+        "heading": "Who Should Use This",
+        "instruction": "Clear, specific recommendation: exactly who benefits most and who should look elsewhere.",
+        "required": true
+      },
+      {
+        "id": "references",
+        "heading": "References",
+        "instruction": "Sources, official documentation, and comparison data. Populated by Agent 5.",
+        "required": true
+      }
+    ]
+  },
+
+  "explainers": {
+    "layer_key": "explainers",
+    "display_name": "Explainers",
+    "badge_color": "#6B46C1",
+    "sections": [
+      {
+        "id": "hook",
+        "heading": "Why This Matters",
+        "instruction": "The compelling reason to understand this concept. Use a real-world consequence or surprising fact.",
+        "required": true
+      },
+      {
+        "id": "the_basics",
+        "heading": "The Basics",
+        "instruction": "Core concept explained from first principles. Use an analogy. Define key terms.",
+        "required": true
+      },
+      {
+        "id": "how_it_works",
+        "heading": "How It Actually Works",
+        "instruction": "The mechanism in detail. Use examples, diagrams (described), and step-by-step breakdowns.",
+        "required": true
+      },
+      {
+        "id": "real_world",
+        "heading": "Real-World Examples",
+        "instruction": "3-4 concrete examples of this concept in action, drawn from verifiable sources.",
+        "required": true
+      },
+      {
+        "id": "misconceptions",
+        "heading": "Common Misconceptions",
+        "instruction": "3-5 widespread misunderstandings about this topic and the accurate corrections.",
+        "required": false
+      },
+      {
+        "id": "faq",
+        "heading": "Frequently Asked Questions",
+        "instruction": "4-6 questions real learners would ask, with clear, jargon-free answers.",
+        "required": true
+      },
+      {
+        "id": "references",
+        "heading": "References & Further Reading",
+        "instruction": "Sources and recommended reading for deeper exploration. Populated by Agent 5.",
+        "required": true
+      }
+    ]
+  }
+}
