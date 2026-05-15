@@ -34,14 +34,11 @@ class PublisherAgent:
         except json.JSONDecodeError as e:
             raise ValueError(f"Failed to parse BLOGGER_OAUTH_CREDENTIALS_JSON as valid JSON: {e}")
 
-        # Ensure token_uri exists in the credentials block
         if "token_uri" not in creds_data:
             creds_data["token_uri"] = "https://oauth2.googleapis.com/token"
 
-        # FIXED: Use from_authorized_user_info to cleanly instantiate refresh capabilities
         creds = Credentials.from_authorized_user_info(creds_data, scopes=["https://www.googleapis.com/auth/blogger"])
         
-        # Verify fields are correctly loaded to preempt hidden failures
         if not creds.refresh_token:
             raise ValueError("The provided JSON is missing the 'refresh_token' field!")
 
@@ -175,7 +172,7 @@ class PublisherAgent:
       s.src = 'https://{disqus_shortname}.disqus.com/embed.js';
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
-    }}})();
+    }})();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>"""
