@@ -46,53 +46,53 @@ class TestQuotaManager(unittest.TestCase):
         self.patcher.stop()
 
     def test_initial_state_is_zero(self):
-        self.assertEqual(self.qm.get_usage("gemini-2.5-flash"), 0)
+        self.assertEqual(self.qm.get_usage("gemini-3.1-flash-lite"), 0)
 
     def test_increment_usage(self):
-        self.qm.increment("gemini-2.5-flash", tokens=1000)
-        self.assertGreater(self.qm.get_usage("gemini-2.5-flash"), 0)
+        self.qm.increment("gemini-3.1-flash-lite", tokens=1000)
+        self.assertGreater(self.qm.get_usage("gemini-3.1-flash-lite"), 0)
 
     def test_quota_not_exceeded_under_limit(self):
-        self.assertFalse(self.qm.is_quota_exceeded("gemini-2.5-flash"))
+        self.assertFalse(self.qm.is_quota_exceeded("gemini-3.1-flash-lite"))
 
     def test_quota_exceeded_at_limit(self):
         from utils.quota_manager import DAILY_LIMITS
-        limit = DAILY_LIMITS.get("gemini-2.5-flash", 1_000_000)
+        limit = DAILY_LIMITS.get("gemini-3.1-flash-lite", 1_000_000)
         # Simulate usage at 101%
-        self.qm.state["gemini-2.5-flash"]["tokens"] = int(limit * 1.01)
-        self.assertTrue(self.qm.is_quota_exceeded("gemini-2.5-flash"))
+        self.qm.state["gemini-3.1-flash-lite"]["tokens"] = int(limit * 1.01)
+        self.assertTrue(self.qm.is_quota_exceeded("gemini-3.1-flash-lite"))
 
     def test_fallback_model_returned_on_exceeded(self):
         from utils.quota_manager import DAILY_LIMITS
-        limit = DAILY_LIMITS.get("gemini-2.5-flash", 1_000_000)
-        self.qm.state["gemini-2.5-flash"]["tokens"] = int(limit * 1.01)
+        limit = DAILY_LIMITS.get("gemini-3.1-flash-lite", 1_000_000)
+        self.qm.state["gemini-3.1-flash-lite"]["tokens"] = int(limit * 1.01)
         fallback = self.qm.get_active_model()
         self.assertEqual(fallback, "gemini-1.5-flash")
 
     def test_primary_model_returned_under_limit(self):
         model = self.qm.get_active_model()
-        self.assertEqual(model, "gemini-2.5-flash")
+        self.assertEqual(model, "gemini-3.1-flash-lite")
 
     def test_state_persists_to_disk(self):
-        self.qm.increment("gemini-2.5-flash", tokens=500)
+        self.qm.increment("gemini-3.1-flash-lite", tokens=500)
         self.qm.save()
         # Re-load and verify
         from utils.quota_manager import QuotaManager
         qm2 = QuotaManager()
         self.assertEqual(
-            qm2.get_usage("gemini-2.5-flash"),
-            self.qm.get_usage("gemini-2.5-flash")
+            qm2.get_usage("gemini-3.1-flash-lite"),
+            self.qm.get_usage("gemini-3.1-flash-lite")
         )
 
     def test_daily_reset_on_new_day(self):
         """If state date != today, counters reset to 0."""
         import datetime
-        self.qm.state["gemini-2.5-flash"]["tokens"] = 99999
+        self.qm.state["gemini-3.1-flash-lite"]["tokens"] = 99999
         self.qm.state["_date"] = "2000-01-01"  # old date
         self.qm.save()
         from utils.quota_manager import QuotaManager
         qm2 = QuotaManager()
-        self.assertEqual(qm2.get_usage("gemini-2.5-flash"), 0)
+        self.assertEqual(qm2.get_usage("gemini-3.1-flash-lite"), 0)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
