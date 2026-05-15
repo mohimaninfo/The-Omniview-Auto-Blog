@@ -330,8 +330,8 @@ class ContentGenerationAgent:
 
         html_content = smart_gemini_call(
             prompt,
-            primary_model="gemini-2.5-flash",
-            fallback_model="gemini-1.5-flash",
+            primary_model="gemini-3.1-flash-lite",
+            fallback_model="gemini-3.1-flash-lite",
             system_instruction=f"You are an expert {genre} writer. Output clean HTML only. No markdown.",
             json_mode=False,
             max_tokens=8192,
