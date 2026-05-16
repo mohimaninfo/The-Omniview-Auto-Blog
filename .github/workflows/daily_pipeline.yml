@@ -2,14 +2,8 @@ name: Daily Content Pipeline
 
 on:
   schedule:
-    # 1. Morning Run: 06:00 AM BD Time (00:00 UTC)
-    - cron: '0 0 * * *'
-    
-    # 2. Afternoon Run: 02:00 PM BD Time (08:00 UTC)
-    - cron: '0 8 * * *'
-    
-    # 3. Midnight Run: 12:00 AM BD Time (18:00 UTC)
-    - cron: '0 18 * * *'
+  
+    - cron: '0 * * * *'
     
   workflow_dispatch:
     inputs:
