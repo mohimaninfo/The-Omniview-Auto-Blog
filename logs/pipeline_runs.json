@@ -438,5 +438,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-16T17:44:48.808873",
+    "run_end": "2026-05-16T17:45:43.837063",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "608311331378124809",
+        "title": "Post-GLP-1 Weight Maintenance: A Nutritional Strategy for Preventing Post-Diet Rebound",
+        "url": "https://theomniview.blogspot.com/2026/05/post-glp-1-weight-maintenance.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "GLP-1 weight maintenance",
+          "prevent weight regain",
+          "metabolic adaptation"
+        ],
+        "slug": "post-glp-1-weight-maintenance-a-nutritional-strategy-for-preventing-post-diet-re",
+        "published_at": "2026-05-16T17:50:18+00:00",
+        "word_count": 1013,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4897299216477949027",
+        "title": "7 Cosmic 'Stranded Assets': Why Space Debris Could Create an Orbital Housing Crisis",
+        "url": "https://theomniview.blogspot.com/2026/05/7-cosmic-stranded-assets-why-space.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "space debris",
+          "orbital environment",
+          "stranded assets"
+        ],
+        "slug": "7-cosmic-stranded-assets-why-space-debris-could-create-an-orbital-housing-crisis",
+        "published_at": "2026-05-16T17:50:43+00:00",
+        "word_count": 854,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
