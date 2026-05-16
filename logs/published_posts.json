@@ -618,5 +618,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2936378282381366658",
+    "title": "The Wave-Powered Data Center: Assessing the Viability of Peter Thiel\u2019s $1B Ocean Energy Bet",
+    "url": "https://theomniview.blogspot.com/2026/05/the-wave-powered-data-center-assessing.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Research Articles",
+      "wave energy",
+      "renewable energy",
+      "data center sustainability"
+    ],
+    "slug": "the-wave-powered-data-center-assessing-the-viability-of-peter-thiels-1b-ocean-en",
+    "published_at": "2026-05-16T23:46:34+00:00",
+    "word_count": 1042,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2948788564657809704",
+    "title": "The Digital Dead End: Why the Right-to-Preserve Movement is Challenging Hollywood\u2019s Erasure Culture",
+    "url": "https://theomniview.blogspot.com/2026/05/the-digital-dead-end-why-right-to.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Opinion & Analysis",
+      "digital preservation",
+      "gaming industry regulation",
+      "streaming media rights"
+    ],
+    "slug": "the-digital-dead-end-why-the-right-to-preserve-movement-is-challenging-hollywood",
+    "published_at": "2026-05-16T23:48:53+00:00",
+    "word_count": 920,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
