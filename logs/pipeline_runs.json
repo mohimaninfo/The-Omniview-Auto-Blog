@@ -646,5 +646,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-16T21:38:15.811107",
+    "run_end": "2026-05-16T21:41:19.644580",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4598048590502352707",
+        "title": "The Exit Strategy Paradox: Interviewing Founders Who Navigated Sudden Liquidity Events During Market Volatility",
+        "url": "https://theomniview.blogspot.com/2026/05/the-exit-strategy-paradox-interviewing.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup exit strategy",
+          "founder liquidity event",
+          "tax planning for entrepreneurs"
+        ],
+        "slug": "the-exit-strategy-paradox-interviewing-founders-who-navigated-sudden-liquidity-e",
+        "published_at": "2026-05-16T21:44:21+00:00",
+        "word_count": 1016,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8872308801992077535",
+        "title": "The Post-Server Pivot: 7 Ecommerce Strategies to Survive California\u2019s Gaming Preservation Bill",
+        "url": "https://theomniview.blogspot.com/2026/05/the-post-server-pivot-7-ecommerce.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Listicles",
+          "ecommerce strategy",
+          "digital ownership",
+          "California gaming bill"
+        ],
+        "slug": "the-post-server-pivot-7-ecommerce-strategies-to-survive-californias-gaming-prese",
+        "published_at": "2026-05-16T21:46:18+00:00",
+        "word_count": 807,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
