@@ -282,5 +282,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-16T14:17:34.474882",
+    "run_end": "2026-05-16T14:18:58.859805",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4423538711176201965",
+        "title": "The Synthetic Blockbuster: How Stealth Marketing and AI-Generated 'Viral' Moments Are Rewriting Film Distribution",
+        "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-blockbuster-how-stealth.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "stealth marketing",
+          "AI film promotion",
+          "synthetic media"
+        ],
+        "slug": "the-synthetic-blockbuster-how-stealth-marketing-and-ai-generated-viral-moments-a",
+        "published_at": "2026-05-16T14:23:26+00:00",
+        "word_count": 942,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3047035879481325796",
+        "title": "The Physics of Following: Why Collective Crowd Movement Mirrors Fluid Dynamics",
+        "url": "https://theomniview.blogspot.com/2026/05/the-physics-of-following-why-collective.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "physics of crowds",
+          "fluid dynamics",
+          "collective behavior"
+        ],
+        "slug": "the-physics-of-following-why-collective-crowd-movement-mirrors-fluid-dynamics",
+        "published_at": "2026-05-16T14:23:58+00:00",
+        "word_count": 991,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
