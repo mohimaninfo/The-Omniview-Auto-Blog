@@ -134,5 +134,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6612614880277607914",
+    "title": "The Hidden Energy Cost of Your Inbox: Why Decluttering Digital Storage is a Sustainable Living Essential",
+    "url": "https://theomniview.blogspot.com/2026/05/the-hidden-energy-cost-of-your-inbox.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Explainers",
+      "digital sustainability",
+      "carbon footprint of data",
+      "sustainable digital habits"
+    ],
+    "slug": "the-hidden-energy-cost-of-your-inbox-why-decluttering-digital-storage-is-a-susta",
+    "published_at": "2026-05-16T11:47:33+00:00",
+    "word_count": 1180,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6188608843251511287",
+    "title": "The Gut-Organ Axis: How Your Organs Build Their Own Nervous Systems Independent of the Brain",
+    "url": "https://theomniview.blogspot.com/2026/05/the-gut-organ-axis-how-your-organs.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Research Articles",
+      "gut-organ axis",
+      "neurobiology",
+      "enteric nervous system"
+    ],
+    "slug": "the-gut-organ-axis-how-your-organs-build-their-own-nervous-systems-independent-o",
+    "published_at": "2026-05-16T11:48:31+00:00",
+    "word_count": 1066,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
