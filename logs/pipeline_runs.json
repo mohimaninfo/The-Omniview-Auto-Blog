@@ -1010,5 +1010,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-17T11:52:33.193365",
+    "run_end": "2026-05-17T11:55:17.566292",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4762886409354972725",
+        "title": "The Cognitive Reserve Curriculum: Why Universities Must Pivot from AI-Assisted Learning to Neuroplasticity-Focused Pedagogy",
+        "url": "https://theomniview.blogspot.com/2026/05/the-cognitive-reserve-curriculum-why.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Research Articles",
+          "higher education",
+          "neuroplasticity in education",
+          "cognitive reserve"
+        ],
+        "slug": "the-cognitive-reserve-curriculum-why-universities-must-pivot-from-ai-assisted-le",
+        "published_at": "2026-05-17T11:58:41+00:00",
+        "word_count": 1010,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2983800581181859237",
+        "title": "The Cognitive Reserve Audit: Why Offloading Memory to AI Is Shrinking Your Brain\u2019s Problem-Solving Capacity",
+        "url": "https://theomniview.blogspot.com/2026/05/the-cognitive-reserve-audit-why.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "cognitive reserve",
+          "neuroplasticity",
+          "mental atrophy"
+        ],
+        "slug": "the-cognitive-reserve-audit-why-offloading-memory-to-ai-is-shrinking-your-brains",
+        "published_at": "2026-05-17T12:00:16+00:00",
+        "word_count": 859,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
