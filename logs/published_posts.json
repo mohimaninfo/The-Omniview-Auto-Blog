@@ -1102,5 +1102,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1657244171273062396",
+    "title": "The Lithium-Ion Mountain: How the UK\u2019s Vape Recycling Crisis is Rewriting Circular Economy Policy",
+    "url": "https://theomniview.blogspot.com/2026/05/the-lithium-ion-mountain-how-uks-vape.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Case Studies",
+      "vape recycling",
+      "circular economy",
+      "lithium-ion battery waste"
+    ],
+    "slug": "the-lithium-ion-mountain-how-the-uks-vape-recycling-crisis-is-rewriting-circular",
+    "published_at": "2026-05-17T18:56:46+00:00",
+    "word_count": 663,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2596213563290344107",
+    "title": "The Drone-Resistant City: A Case Study on Modern Urban Infrastructure in the Age of Autonomous Warfare",
+    "url": "https://theomniview.blogspot.com/2026/05/the-drone-resistant-city-case-study-on.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Case Studies",
+      "urban infrastructure",
+      "drone defense",
+      "digital warfare"
+    ],
+    "slug": "the-drone-resistant-city-a-case-study-on-modern-urban-infrastructure-in-the-age-",
+    "published_at": "2026-05-17T18:57:18+00:00",
+    "word_count": 744,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
