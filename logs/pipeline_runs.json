@@ -958,5 +958,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-17T10:16:23.746663",
+    "run_end": "2026-05-17T10:19:01.442254",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5907776347027458696",
+        "title": "Hardening Your MacOS: How to Defend Against Memory Exploits After the Anthropic AI Vulnerability",
+        "url": "https://theomniview.blogspot.com/2026/05/hardening-your-macos-how-to-defend.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "How-To Guides",
+          "MacOS security",
+          "Apple M5 memory exploit",
+          "kernel protection"
+        ],
+        "slug": "hardening-your-macos-how-to-defend-against-memory-exploits-after-the-anthropic-a",
+        "published_at": "2026-05-17T10:22:44+00:00",
+        "word_count": 770,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4694157698188453560",
+        "title": "The Analog Traveler\u2019s Guide: Why Digital Minimalism Is the New Luxury for 2025 Travel",
+        "url": "https://theomniview.blogspot.com/2026/05/the-analog-travelers-guide-why-digital.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "case-studies",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Case Studies",
+          "digital minimalism",
+          "travel safety tips",
+          "analog travel"
+        ],
+        "slug": "the-analog-travelers-guide-why-digital-minimalism-is-the-new-luxury-for-2025-tra",
+        "published_at": "2026-05-17T10:24:00+00:00",
+        "word_count": 755,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
