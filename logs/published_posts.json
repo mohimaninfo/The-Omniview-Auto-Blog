@@ -882,5 +882,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4765816329795634544",
+    "title": "The Jailbreak Economy: Why Unlocking Obsolete Tech is the Future of Circular Hardware",
+    "url": "https://theomniview.blogspot.com/2026/05/the-jailbreak-economy-why-unlocking.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Explainers",
+      "circular economy",
+      "planned obsolescence",
+      "right to repair"
+    ],
+    "slug": "the-jailbreak-economy-why-unlocking-obsolete-tech-is-the-future-of-circular-hard",
+    "published_at": "2026-05-17T12:57:46+00:00",
+    "word_count": 914,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "4094330600964460847",
+    "title": "The Surveillance Paradox: Interviewing Tech Leaders on Balancing Employee Privacy with Meta-Style Mouse Tracking",
+    "url": "https://theomniview.blogspot.com/2026/05/the-surveillance-paradox-interviewing.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Interviews",
+      "employee privacy",
+      "workplace surveillance",
+      "leadership ethics"
+    ],
+    "slug": "the-surveillance-paradox-interviewing-tech-leaders-on-balancing-employee-privacy",
+    "published_at": "2026-05-17T12:58:42+00:00",
+    "word_count": 913,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
