@@ -1478,5 +1478,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-17T21:43:18.455491",
+    "run_end": "2026-05-17T21:44:16.295085",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "171857934325184190",
+        "title": "The Cold Storage Inheritance: A Practical Guide to Securing Cryptocurrency for Your Estate Plan",
+        "url": "https://theomniview.blogspot.com/2026/05/the-cold-storage-inheritance-practical.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "reviews",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Reviews",
+          "crypto estate planning",
+          "bitcoin inheritance",
+          "cold storage security"
+        ],
+        "slug": "the-cold-storage-inheritance-a-practical-guide-to-securing-cryptocurrency-for-yo",
+        "published_at": "2026-05-17T21:48:51+00:00",
+        "word_count": 670,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3625935742173660434",
+        "title": "The Windfall Trap: Why Startup Founders Are Abandoning Traditional Wealth Management for Private Equity Secondary Markets",
+        "url": "https://theomniview.blogspot.com/2026/05/the-windfall-trap-why-startup-founders.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Opinion & Analysis",
+          "startup founder wealth management",
+          "private equity secondary markets",
+          "liquidity event strategy"
+        ],
+        "slug": "the-windfall-trap-why-startup-founders-are-abandoning-traditional-wealth-managem",
+        "published_at": "2026-05-17T21:49:15+00:00",
+        "word_count": 825,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
