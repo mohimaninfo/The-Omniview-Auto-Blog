@@ -1582,5 +1582,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-17T23:45:47.790567",
+    "run_end": "2026-05-17T23:47:06.961797",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2784343505064085892",
+        "title": "The Atomic Energy Paradox: Why AI Datacenters Are Stalling the Green Transition",
+        "url": "https://theomniview.blogspot.com/2026/05/the-atomic-energy-paradox-why-ai.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "AI energy consumption",
+          "sustainable infrastructure",
+          "datacenter sustainability"
+        ],
+        "slug": "the-atomic-energy-paradox-why-ai-datacenters-are-stalling-the-green-transition",
+        "published_at": "2026-05-17T23:51:10+00:00",
+        "word_count": 823,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "91010768724208426",
+        "title": "7 Ways to Audit Your Dependencies for 'Black Box' Code in the Age of AI Supply Chain Attacks",
+        "url": "https://theomniview.blogspot.com/2026/05/7-ways-to-audit-your-dependencies-for.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Listicles",
+          "software supply chain security",
+          "dependency auditing",
+          "AI code security"
+        ],
+        "slug": "7-ways-to-audit-your-dependencies-for-black-box-code-in-the-age-of-ai-supply-cha",
+        "published_at": "2026-05-17T23:52:06+00:00",
+        "word_count": 879,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
