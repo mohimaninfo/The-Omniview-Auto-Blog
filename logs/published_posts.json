@@ -970,5 +970,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5767323804079837946",
+    "title": "The Low-Power Sanctuary: How to Optimize Your Home Office for Energy Independence Amidst Rising Grid Costs \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/05/the-low-power-sanctuary-how-to-optimize.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Explainers",
+      "home office energy saving",
+      "sustainable home office",
+      "energy independence"
+    ],
+    "slug": "the-low-power-sanctuary-how-to-optimize-your-home-office-for-energy-independence",
+    "published_at": "2026-05-17T15:53:56+00:00",
+    "word_count": 898,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3055546817705982309",
+    "title": "The Microbiome-Brain Connection: Why Mild Head Trauma Triggers Gut Health Decline",
+    "url": "https://theomniview.blogspot.com/2026/05/the-microbiome-brain-connection-why.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Latest News",
+      "microbiome",
+      "gut-brain axis",
+      "mild traumatic brain injury"
+    ],
+    "slug": "the-microbiome-brain-connection-why-mild-head-trauma-triggers-gut-health-decline",
+    "published_at": "2026-05-17T15:55:03+00:00",
+    "word_count": 739,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
