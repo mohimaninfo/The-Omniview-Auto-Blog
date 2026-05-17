@@ -802,5 +802,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-17T01:52:36.207952",
+    "run_end": "2026-05-17T01:55:56.304180",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8917193934104925149",
+        "title": "The Neuroplasticity Classroom: A Case Study on Replacing AI-Assisted Homework with Cognitive Reserve Exercises",
+        "url": "https://theomniview.blogspot.com/2026/05/the-neuroplasticity-classroom-case.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "case-studies",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Case Studies",
+          "neuroplasticity in education",
+          "K-12 AI policy",
+          "cognitive reserve"
+        ],
+        "slug": "the-neuroplasticity-classroom-a-case-study-on-replacing-ai-assisted-homework-wit",
+        "published_at": "2026-05-17T01:59:18+00:00",
+        "word_count": 719,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1604560611904628065",
+        "title": "The End of Digital Renting: How California\u2019s Server Preservation Bill Could Save Your Favorite Streaming Shows",
+        "url": "https://theomniview.blogspot.com/2026/05/the-end-of-digital-renting-how.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Latest News",
+          "streaming",
+          "California server preservation bill",
+          "digital content ownership"
+        ],
+        "slug": "the-end-of-digital-renting-how-californias-server-preservation-bill-could-save-y",
+        "published_at": "2026-05-17T02:00:55+00:00",
+        "word_count": 808,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
