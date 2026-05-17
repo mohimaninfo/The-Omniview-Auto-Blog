@@ -926,5 +926,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8681338337624671311",
+    "title": "The Analog Relationship Audit: 7 Ways to Reclaim Intimacy from Algorithmic Burnout",
+    "url": "https://theomniview.blogspot.com/2026/05/the-analog-relationship-audit-7-ways-to.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Listicles",
+      "digital minimalism in relationships",
+      "relationship burnout",
+      "algorithmic burnout"
+    ],
+    "slug": "the-analog-relationship-audit-7-ways-to-reclaim-intimacy-from-algorithmic-burnou",
+    "published_at": "2026-05-17T14:26:19+00:00",
+    "word_count": 901,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2173990494328457250",
+    "title": "The Pregnancy-Antidepressant Paradox: Separating Clinical Data from Stigma in Mental Health Care",
+    "url": "https://theomniview.blogspot.com/2026/05/the-pregnancy-antidepressant-paradox.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Research Articles",
+      "antidepressants during pregnancy",
+      "prenatal mental health",
+      "perinatal depression treatment"
+    ],
+    "slug": "the-pregnancy-antidepressant-paradox-separating-clinical-data-from-stigma-in-men",
+    "published_at": "2026-05-17T14:27:07+00:00",
+    "word_count": 1200,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
