@@ -1790,5 +1790,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-18T14:24:12.008990",
+    "run_end": "2026-05-18T14:25:16.788910",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7430521180294901422",
+        "title": "The GLP-1 Rebound Phenomenon: Why Metabolic Memory May Undermine Weight-Loss Drug Discontinuation",
+        "url": "https://theomniview.blogspot.com/2026/05/the-glp-1-rebound-phenomenon-why.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Opinion & Analysis",
+          "GLP-1 rebound",
+          "weight-loss drug discontinuation",
+          "metabolic memory"
+        ],
+        "slug": "the-glp-1-rebound-phenomenon-why-metabolic-memory-may-undermine-weight-loss-drug",
+        "published_at": "2026-05-18T14:29:43+00:00",
+        "word_count": 875,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3306412049249814472",
+        "title": "The 30-Plant Protocol: A Science-Backed Review of Microbiome Diversity Apps",
+        "url": "https://theomniview.blogspot.com/2026/05/the-30-plant-protocol-science-backed.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "gut health apps",
+          "30 plants a week",
+          "microbiome diversity"
+        ],
+        "slug": "the-30-plant-protocol-a-science-backed-review-of-microbiome-diversity-apps",
+        "published_at": "2026-05-18T14:30:15+00:00",
+        "word_count": 642,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
