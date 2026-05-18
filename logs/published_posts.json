@@ -1718,5 +1718,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2387570900579725662",
+    "title": "7 Ways to Hard-Wire Your Home Against 'Cascading' Smart Tech Failures",
+    "url": "https://theomniview.blogspot.com/2026/05/7-ways-to-hard-wire-your-home-against.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Listicles",
+      "smart home automation",
+      "home security",
+      "internet of things"
+    ],
+    "slug": "7-ways-to-hard-wire-your-home-against-cascading-smart-tech-failures",
+    "published_at": "2026-05-19T00:00:48+00:00",
+    "word_count": 793,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8234080833048088411",
+    "title": "The Human-in-the-Loop Audit: How to Future-Proof Your Career Against AI 'Cascading' Failures",
+    "url": "https://theomniview.blogspot.com/2026/05/the-human-in-loop-audit-how-to-future.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "How-To Guides",
+      "AI career resilience",
+      "cascading failure",
+      "human-in-the-loop"
+    ],
+    "slug": "the-human-in-the-loop-audit-how-to-future-proof-your-career-against-ai-cascading",
+    "published_at": "2026-05-19T00:02:20+00:00",
+    "word_count": 800,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
