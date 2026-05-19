@@ -2154,5 +2154,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-19T06:38:00.401083",
+    "run_end": "2026-05-19T06:39:12.048591",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8890023659305840377",
+        "title": "The Post-Game Void: How Neurobiology Explains the Emptiness After Finishing Immersive Games",
+        "url": "https://theomniview.blogspot.com/2026/05/the-post-game-void-how-neurobiology.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Opinion & Analysis",
+          "post-game depression",
+          "neuroscience of gaming",
+          "dopamine withdrawal"
+        ],
+        "slug": "the-post-game-void-how-neurobiology-explains-the-emptiness-after-finishing-immer",
+        "published_at": "2026-05-19T06:43:39+00:00",
+        "word_count": 967,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6488721619755395267",
+        "title": "The Sovereign Grid: Why Energy Independence is the New Taiwan Defense Strategy \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-sovereign-grid-why-energy_01658419482.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "Taiwan defense strategy",
+          "energy independence",
+          "geopolitical security"
+        ],
+        "slug": "the-sovereign-grid-why-energy-independence-is-the-new-taiwan-defense-strategy-a-",
+        "published_at": "2026-05-19T06:44:11+00:00",
+        "word_count": 742,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
