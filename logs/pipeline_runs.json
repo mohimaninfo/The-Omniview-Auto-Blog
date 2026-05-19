@@ -2518,5 +2518,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-19T23:52:47.426215",
+    "run_end": "2026-05-19T23:54:21.791988",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9202601924966256395",
+        "title": "The Analog Kitchen Audit: Protecting Your Culinary Workflow from 'Cascading' Smart Appliance Failures",
+        "url": "https://theomniview.blogspot.com/2026/05/the-analog-kitchen-audit-protecting.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen",
+          "analog cooking",
+          "kitchen technology"
+        ],
+        "slug": "the-analog-kitchen-audit-protecting-your-culinary-workflow-from-cascading-smart-",
+        "published_at": "2026-05-19T23:58:33+00:00",
+        "word_count": 913,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2686425347254809205",
+        "title": "The Subscription Trap: Why Your Smart Home Gadgets Are Becoming 'Bricked' Assets",
+        "url": "https://theomniview.blogspot.com/2026/05/the-subscription-trap-why-your-smart.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "smart home subscription",
+          "planned obsolescence",
+          "e-waste"
+        ],
+        "slug": "the-subscription-trap-why-your-smart-home-gadgets-are-becoming-bricked-assets",
+        "published_at": "2026-05-19T23:59:21+00:00",
+        "word_count": 909,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
