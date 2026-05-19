@@ -2258,5 +2258,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-19T13:48:21.299593",
+    "run_end": "2026-05-19T13:49:36.847121",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "191304722000518784",
+        "title": "The Compensation Cliff: 7 Strategies to Fix Internal Pay Equity After the Samsung Chip Strike",
+        "url": "https://theomniview.blogspot.com/2026/05/the-compensation-cliff-7-strategies-to.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "internal pay equity",
+          "employee retention strategy",
+          "compensation structure"
+        ],
+        "slug": "the-compensation-cliff-7-strategies-to-fix-internal-pay-equity-after-the-samsung",
+        "published_at": "2026-05-19T13:53:55+00:00",
+        "word_count": 851,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6242135815995550293",
+        "title": "The Human-in-the-Loop Interview: Can Audio Engineers Survive the Post-Spotify AI Bans?",
+        "url": "https://theomniview.blogspot.com/2026/05/the-human-in-loop-interview-can-audio.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "interviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Interviews",
+          "AI-generated music",
+          "Spotify AI policy",
+          "music production ethics"
+        ],
+        "slug": "the-human-in-the-loop-interview-can-audio-engineers-survive-the-post-spotify-ai-",
+        "published_at": "2026-05-19T13:54:36+00:00",
+        "word_count": 1038,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
