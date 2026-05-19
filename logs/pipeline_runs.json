@@ -2362,5 +2362,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-19T18:31:37.773226",
+    "run_end": "2026-05-19T18:33:21.991239",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6866553949366749147",
+        "title": "The Cascading Liability Audit: 7 Ways to Stress-Test Your Business Against AI-Driven Operational Collapse",
+        "url": "https://theomniview.blogspot.com/2026/05/the-cascading-liability-audit-7-ways-to.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Listicles",
+          "AI operational risk",
+          "cascading failure",
+          "AI business liability"
+        ],
+        "slug": "the-cascading-liability-audit-7-ways-to-stress-test-your-business-against-ai-dri",
+        "published_at": "2026-05-19T18:37:26+00:00",
+        "word_count": 804,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2934332597404272924",
+        "title": "The Algorithmic Classroom: Why Schools Must Audit EdTech for 'Cascading' AI Failures",
+        "url": "https://theomniview.blogspot.com/2026/05/the-algorithmic-classroom-why-schools.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "k12 edtech",
+          "ai in schools",
+          "cascading failures"
+        ],
+        "slug": "the-algorithmic-classroom-why-schools-must-audit-edtech-for-cascading-ai-failure",
+        "published_at": "2026-05-19T18:38:20+00:00",
+        "word_count": 970,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
