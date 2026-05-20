@@ -2466,5 +2466,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7833491611465339935",
+    "title": "The Offline Itinerary: How to Audit Your Travel Tech Against 'Bricked' Smart Device Failures",
+    "url": "https://theomniview.blogspot.com/2026/05/the-offline-itinerary-how-to-audit-your.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Explainers",
+      "travel tech audit",
+      "offline travel planning",
+      "smart luggage security"
+    ],
+    "slug": "the-offline-itinerary-how-to-audit-your-travel-tech-against-bricked-smart-device",
+    "published_at": "2026-05-20T23:09:41+00:00",
+    "word_count": 1269,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5826772737846273787",
+    "title": "The Inheritance Pivot: A Step-by-Step Guide to Managing Unexpected Windfalls Without Triggering Tax Traps",
+    "url": "https://theomniview.blogspot.com/2026/05/the-inheritance-pivot-step-by-step.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "how-to-guides",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "How-To Guides",
+      "managing an inheritance",
+      "tax-efficient investing",
+      "financial windfall"
+    ],
+    "slug": "the-inheritance-pivot-a-step-by-step-guide-to-managing-unexpected-windfalls-with",
+    "published_at": "2026-05-20T23:10:56+00:00",
+    "word_count": 976,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
