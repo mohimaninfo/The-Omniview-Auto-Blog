@@ -2674,5 +2674,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-20T10:16:34.448558",
+    "run_end": "2026-05-20T10:17:40.509633",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3851092047633228115",
+        "title": "The Self-Custody Inheritance Gap: How to Pass Down Cryptocurrency Without a Seed Phrase Disaster",
+        "url": "https://theomniview.blogspot.com/2026/05/the-self-custody-inheritance-gap-how-to.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Explainers",
+          "cryptocurrency inheritance",
+          "self-custody",
+          "estate planning"
+        ],
+        "slug": "the-self-custody-inheritance-gap-how-to-pass-down-cryptocurrency-without-a-seed-",
+        "published_at": "2026-05-20T10:22:04+00:00",
+        "word_count": 1032,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7801722178484385407",
+        "title": "The Strait of Hormuz Digital Toll: Why Iran\u2019s Undersea Cable Fee Threatens Internet Sovereignty",
+        "url": "https://theomniview.blogspot.com/2026/05/the-strait-of-hormuz-digital-toll-why.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Explainers",
+          "undersea internet cables",
+          "Strait of Hormuz",
+          "digital sovereignty"
+        ],
+        "slug": "the-strait-of-hormuz-digital-toll-why-irans-undersea-cable-fee-threatens-interne",
+        "published_at": "2026-05-20T10:22:40+00:00",
+        "word_count": 1066,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
