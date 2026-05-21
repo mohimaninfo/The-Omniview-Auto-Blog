@@ -2774,5 +2774,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5600752081666375052",
+    "title": "The Junior Skill Gap: How Cognitive Apprenticeship Can Save Entry-Level Careers from AI Automation",
+    "url": "https://theomniview.blogspot.com/2026/05/the-junior-skill-gap-how-cognitive.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Explainers",
+      "cognitive apprenticeship",
+      "entry-level jobs",
+      "ai automation"
+    ],
+    "slug": "the-junior-skill-gap-how-cognitive-apprenticeship-can-save-entry-level-careers-f",
+    "published_at": "2026-05-21T20:34:59+00:00",
+    "word_count": 808,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7671082149646268370",
+    "title": "The Caffeine Pouch Paradox: Nutritional Risks of Nicotine-Free Energy Supplements",
+    "url": "https://theomniview.blogspot.com/2026/05/the-caffeine-pouch-paradox-nutritional.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Explainers",
+      "caffeine pouches",
+      "energy supplements",
+      "caffeine toxicity"
+    ],
+    "slug": "the-caffeine-pouch-paradox-nutritional-risks-of-nicotine-free-energy-supplements",
+    "published_at": "2026-05-21T20:35:27+00:00",
+    "word_count": 985,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
