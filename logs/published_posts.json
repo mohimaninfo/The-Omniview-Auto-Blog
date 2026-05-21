@@ -2730,5 +2730,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3566500990974421389",
+    "title": "The Surveillance Streaming Audit: How to Shield Your Smart TV From Private Intelligence-Sharing Networks",
+    "url": "https://theomniview.blogspot.com/2026/05/the-surveillance-streaming-audit-how-to.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Reviews",
+      "smart tv privacy",
+      "streaming data surveillance",
+      "Seattle Shield"
+    ],
+    "slug": "the-surveillance-streaming-audit-how-to-shield-your-smart-tv-from-private-intell",
+    "published_at": "2026-05-21T18:56:12+00:00",
+    "word_count": 699,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7690622459096222728",
+    "title": "The Junior Talent Drought: 7 Strategies to Build an Internal Apprenticeship Pipeline as CEOs Slash Entry-Level Roles",
+    "url": "https://theomniview.blogspot.com/2026/05/the-junior-talent-drought-7-strategies.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Listicles",
+      "entry-level hiring",
+      "talent pipeline",
+      "apprenticeship model"
+    ],
+    "slug": "the-junior-talent-drought-7-strategies-to-build-an-internal-apprenticeship-pipel",
+    "published_at": "2026-05-21T18:56:49+00:00",
+    "word_count": 911,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
