@@ -3766,5 +3766,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-22T20:27:01.868745",
+    "run_end": "2026-05-22T20:28:29.799583",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "903158094530201722",
+        "title": "The Kill-Switch Geopolitics: How State-Level Internet Shutdowns Are Weaponizing Undersea Cable Infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/05/the-kill-switch-geopolitics-how-state.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "internet sovereignty",
+          "undersea cables",
+          "digital infrastructure security"
+        ],
+        "slug": "the-kill-switch-geopolitics-how-state-level-internet-shutdowns-are-weaponizing-u",
+        "published_at": "2026-05-22T20:32:47+00:00",
+        "word_count": 954,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "123391917843468227",
+        "title": "The Vibe-Coding Backlash: Why Anthropic\u2019s Engineering Crisis Signals a Shift Toward Deterministic AI",
+        "url": "https://theomniview.blogspot.com/2026/05/the-vibe-coding-backlash-why-anthropics.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Opinion & Analysis",
+          "vibe coding",
+          "AI software engineering",
+          "deterministic AI"
+        ],
+        "slug": "the-vibe-coding-backlash-why-anthropics-engineering-crisis-signals-a-shift-towar",
+        "published_at": "2026-05-22T20:33:29+00:00",
+        "word_count": 898,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
