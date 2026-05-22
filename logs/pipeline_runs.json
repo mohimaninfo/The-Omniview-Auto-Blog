@@ -3610,5 +3610,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-22T13:20:32.775006",
+    "run_end": "2026-05-22T13:22:21.116407",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4117373743743499736",
+        "title": "The Junior Talent Drought: A How-To Guide for Building an Internal Apprenticeship Pipeline",
+        "url": "https://theomniview.blogspot.com/2026/05/the-junior-talent-drought-how-to-guide.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "How-To Guides",
+          "junior talent drought",
+          "career development strategies",
+          "workplace apprenticeship"
+        ],
+        "slug": "the-junior-talent-drought-a-how-to-guide-for-building-an-internal-apprenticeship",
+        "published_at": "2026-05-22T13:26:51+00:00",
+        "word_count": 953,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6733975597374976785",
+        "title": "The Heat-Wealth Gap: Why India\u2019s Power Crisis Exposes the New Class Divide in Climate Adaptation",
+        "url": "https://theomniview.blogspot.com/2026/05/the-heat-wealth-gap-why-indias-power.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Explainers",
+          "climate inequality",
+          "energy poverty",
+          "heatwave adaptation"
+        ],
+        "slug": "the-heat-wealth-gap-why-indias-power-crisis-exposes-the-new-class-divide-in-clim",
+        "published_at": "2026-05-22T13:27:20+00:00",
+        "word_count": 1148,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
