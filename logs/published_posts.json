@@ -3126,5 +3126,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5587094669448011359",
+    "title": "The Junior Talent Bottleneck: Building Resilient Remote Apprenticeships in the Age of AI-Driven Role Elimination",
+    "url": "https://theomniview.blogspot.com/2026/05/the-junior-talent-bottleneck-building.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Opinion & Analysis",
+      "remote work strategy",
+      "entry-level hiring",
+      "AI job displacement"
+    ],
+    "slug": "the-junior-talent-bottleneck-building-resilient-remote-apprenticeships-in-the-ag",
+    "published_at": "2026-05-22T18:33:22+00:00",
+    "word_count": 914,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5985957718219616945",
+    "title": "The Remote-Kill Switch Audit: How to Shield Your IoT Gadgets from Manufacturer 'Bricking' Policies",
+    "url": "https://theomniview.blogspot.com/2026/05/the-remote-kill-switch-audit-how-to.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Explainers",
+      "IoT security",
+      "smart home privacy",
+      "device bricking"
+    ],
+    "slug": "the-remote-kill-switch-audit-how-to-shield-your-iot-gadgets-from-manufacturer-br",
+    "published_at": "2026-05-22T18:34:11+00:00",
+    "word_count": 1089,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
