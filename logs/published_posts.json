@@ -2950,5 +2950,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8006073750186362077",
+    "title": "The Data Center Drought: Why 'Water-Positive' Tech Claims Are Obscuring Local Water Scarcity \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-drought-why-water_01796341600.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Latest News",
+      "data center water usage",
+      "AI environmental impact",
+      "water neutrality greenwashing"
+    ],
+    "slug": "the-data-center-drought-why-water-positive-tech-claims-are-obscuring-local-water",
+    "published_at": "2026-05-22T06:43:19+00:00",
+    "word_count": 731,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5463385469977831059",
+    "title": "The Digital Sovereignty Audit: How to Shield Your Infrastructure from State-Level Internet Kill-Switches",
+    "url": "https://theomniview.blogspot.com/2026/05/the-digital-sovereignty-audit-how-to.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "digital sovereignty",
+      "internet kill-switch",
+      "geopolitical infrastructure"
+    ],
+    "slug": "the-digital-sovereignty-audit-how-to-shield-your-infrastructure-from-state-level",
+    "published_at": "2026-05-22T06:43:49+00:00",
+    "word_count": 866,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
