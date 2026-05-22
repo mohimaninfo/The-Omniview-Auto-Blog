@@ -3558,5 +3558,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-22T10:14:28.211238",
+    "run_end": "2026-05-22T10:15:58.090346",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1959719609020980046",
+        "title": "The Data Center Drought: Why 'Water-Positive' Tech Claims Are Obscuring Local Water Scarcity \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-data-center-drought-why-water_0949764606.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "data center water consumption",
+          "sustainable tech infrastructure",
+          "AI environmental impact"
+        ],
+        "slug": "the-data-center-drought-why-water-positive-tech-claims-are-obscuring-local-water",
+        "published_at": "2026-05-22T10:20:23+00:00",
+        "word_count": 891,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6361388788965504442",
+        "title": "The Circadian Disruption Audit: How to Reverse Screen-Induced Sleep Fragmentation in Teens",
+        "url": "https://theomniview.blogspot.com/2026/05/the-circadian-disruption-audit-how-to.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "teen sleep health",
+          "circadian rhythm disruption",
+          "screen time mental health"
+        ],
+        "slug": "the-circadian-disruption-audit-how-to-reverse-screen-induced-sleep-fragmentation",
+        "published_at": "2026-05-22T10:20:57+00:00",
+        "word_count": 861,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
