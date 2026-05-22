@@ -3454,5 +3454,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-22T02:02:15.726068",
+    "run_end": "2026-05-22T02:03:50.236275",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4236895153226303131",
+        "title": "The Neuro-Nutritional Reset: How Targeted Amino Acid Supplementation Can Counteract Screen-Induced Cognitive Fatigue",
+        "url": "https://theomniview.blogspot.com/2026/05/the-neuro-nutritional-reset-how.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Research Articles",
+          "cognitive fatigue",
+          "neuro-nutrition",
+          "screen time mental health"
+        ],
+        "slug": "the-neuro-nutritional-reset-how-targeted-amino-acid-supplementation-can-countera",
+        "published_at": "2026-05-22T02:08:09+00:00",
+        "word_count": 987,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2133257751276940112",
+        "title": "The Enshittification Audit: Why Streaming Platforms Are Outsourcing Curation to AI-Driven Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/05/the-enshittification-audit-why.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "streaming platforms",
+          "algorithmic bias",
+          "data privacy"
+        ],
+        "slug": "the-enshittification-audit-why-streaming-platforms-are-outsourcing-curation-to-a",
+        "published_at": "2026-05-22T02:08:49+00:00",
+        "word_count": 771,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
