@@ -3870,5 +3870,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-22T22:49:04.631450",
+    "run_end": "2026-05-22T22:50:44.538571",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8616614103634915794",
+        "title": "The Deterministic Code Audit: Replacing 'Vibe Coding' with Formal Verification in Critical Systems",
+        "url": "https://theomniview.blogspot.com/2026/05/the-deterministic-code-audit-replacing.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Explainers",
+          "formal verification",
+          "vibe coding",
+          "deterministic programming"
+        ],
+        "slug": "the-deterministic-code-audit-replacing-vibe-coding-with-formal-verification-in-c",
+        "published_at": "2026-05-22T22:54:44+00:00",
+        "word_count": 949,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7082862359240272092",
+        "title": "The Pelvic-Mind Connection: 7 Somatic Exercises to Release Anxiety-Induced Tension",
+        "url": "https://theomniview.blogspot.com/2026/05/the-pelvic-mind-connection-7-somatic.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Listicles",
+          "pelvic floor exercises",
+          "anxiety and pelvic tension",
+          "somatic fitness"
+        ],
+        "slug": "the-pelvic-mind-connection-7-somatic-exercises-to-release-anxiety-induced-tensio",
+        "published_at": "2026-05-22T22:55:44+00:00",
+        "word_count": 928,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
