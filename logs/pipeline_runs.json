@@ -3922,5 +3922,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-22T23:55:31.723972",
+    "run_end": "2026-05-22T23:57:26.052775",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6016724940427530792",
+        "title": "The Deterministic Code Audit: Replacing 'Vibe Coding' with Formal Verification in Critical Systems \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-deterministic-code-audit-replacing_01091356892.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Research Articles",
+          "formal verification",
+          "vibe coding",
+          "software reliability"
+        ],
+        "slug": "the-deterministic-code-audit-replacing-vibe-coding-with-formal-verification-in-c",
+        "published_at": "2026-05-23T00:01:33+00:00",
+        "word_count": 996,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5811047143979071365",
+        "title": "The Diploma-to-Data-Center Pipeline: Why Universities Are Facing a 'Water-Rights' Crisis in Campus AI Expansion",
+        "url": "https://theomniview.blogspot.com/2026/05/the-diploma-to-data-center-pipeline-why.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Latest News",
+          "higher education",
+          "AI data centers",
+          "campus sustainability"
+        ],
+        "slug": "the-diploma-to-data-center-pipeline-why-universities-are-facing-a-water-rights-c",
+        "published_at": "2026-05-23T00:02:25+00:00",
+        "word_count": 813,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
