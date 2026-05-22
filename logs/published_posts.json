@@ -3082,5 +3082,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "7825322618334192886",
+    "title": "The Malware-Proof Storefront: A Step-by-Step Guide to Auditing Your Ecommerce Checkout for Supply Chain Injection",
+    "url": "https://theomniview.blogspot.com/2026/05/the-malware-proof-storefront-step-by.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "How-To Guides",
+      "ecommerce security audit",
+      "preventing supply chain attacks",
+      "checkout malware protection"
+    ],
+    "slug": "the-malware-proof-storefront-a-step-by-step-guide-to-auditing-your-ecommerce-che",
+    "published_at": "2026-05-22T16:18:48+00:00",
+    "word_count": 758,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1341332709640425588",
+    "title": "The Inflamed Mind Protocol: How to Audit Your Diet for Depression-Triggering Cytokines",
+    "url": "https://theomniview.blogspot.com/2026/05/the-inflamed-mind-protocol-how-to-audit.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Explainers",
+      "anti-inflammatory diet for depression",
+      "gut-brain axis",
+      "mental health nutrition"
+    ],
+    "slug": "the-inflamed-mind-protocol-how-to-audit-your-diet-for-depression-triggering-cyto",
+    "published_at": "2026-05-22T16:19:18+00:00",
+    "word_count": 947,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
