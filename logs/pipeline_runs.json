@@ -4390,5 +4390,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T16:46:01.560678",
+    "run_end": "2026-05-23T16:47:42.977226",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6996005515210219560",
+        "title": "The 'Bricked' Blockbuster: Why Streaming Platforms Are Adopting Remote Kill-Switches for Digital Film Libraries",
+        "url": "https://theomniview.blogspot.com/2026/05/the-bricked-blockbuster-why-streaming.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Opinion & Analysis",
+          "digital film libraries",
+          "streaming platform ownership",
+          "remote kill-switch"
+        ],
+        "slug": "the-bricked-blockbuster-why-streaming-platforms-are-adopting-remote-kill-switche",
+        "published_at": "2026-05-23T16:52:16+00:00",
+        "word_count": 846,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5492740863432793583",
+        "title": "The Stress-Pelvic Floor Loop: A How-To Guide for Releasing Anxiety-Induced Muscle Tension",
+        "url": "https://theomniview.blogspot.com/2026/05/the-stress-pelvic-floor-loop-how-to.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "How-To Guides",
+          "pelvic floor exercises",
+          "anxiety-induced muscle tension",
+          "somatic fitness"
+        ],
+        "slug": "the-stress-pelvic-floor-loop-a-how-to-guide-for-releasing-anxiety-induced-muscle",
+        "published_at": "2026-05-23T16:52:42+00:00",
+        "word_count": 1017,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
