@@ -4494,5 +4494,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T18:52:34.413631",
+    "run_end": "2026-05-23T18:53:42.509561",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "168818790863550338",
+        "title": "The Seed Oil-Colon Cancer Hypothesis: Why Ultra-Processed Inflammation Is the New Metabolic Frontier",
+        "url": "https://theomniview.blogspot.com/2026/05/the-seed-oil-colon-cancer-hypothesis.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "seed oils",
+          "colon cancer risk",
+          "ultra-processed foods"
+        ],
+        "slug": "the-seed-oil-colon-cancer-hypothesis-why-ultra-processed-inflammation-is-the-new",
+        "published_at": "2026-05-23T18:58:10+00:00",
+        "word_count": 950,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5166191407220674125",
+        "title": "The WiFi Surveillance Audit: How to Shield Your Home from Router-Based Occupancy Tracking",
+        "url": "https://theomniview.blogspot.com/2026/05/the-wifi-surveillance-audit-how-to.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "WiFi privacy",
+          "smart home security",
+          "network surveillance"
+        ],
+        "slug": "the-wifi-surveillance-audit-how-to-shield-your-home-from-router-based-occupancy-",
+        "published_at": "2026-05-23T18:58:41+00:00",
+        "word_count": 866,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
