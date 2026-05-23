@@ -3346,5 +3346,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3548312169012428075",
+    "title": "The Equity-to-Equity Pivot: A Case Study on Managing Startup Vesting During Forced Acquisitions",
+    "url": "https://theomniview.blogspot.com/2026/05/the-equity-to-equity-pivot-case-study.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Case Studies",
+      "startup equity",
+      "vesting acceleration",
+      "equity rollover"
+    ],
+    "slug": "the-equity-to-equity-pivot-a-case-study-on-managing-startup-vesting-during-force",
+    "published_at": "2026-05-23T02:01:01+00:00",
+    "word_count": 781,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2143914330815172865",
+    "title": "The Post-Sedentary Protocol: 7 Movement Hacks to Reverse 'Tech-Neck' and Pelvic Floor Dysfunction",
+    "url": "https://theomniview.blogspot.com/2026/05/the-post-sedentary-protocol-7-movement.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Listicles",
+      "pelvic floor health",
+      "tech neck exercises",
+      "sedentary lifestyle risks"
+    ],
+    "slug": "the-post-sedentary-protocol-7-movement-hacks-to-reverse-tech-neck-and-pelvic-flo",
+    "published_at": "2026-05-23T02:02:10+00:00",
+    "word_count": 874,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
