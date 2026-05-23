@@ -4598,5 +4598,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T20:54:41.314294",
+    "run_end": "2026-05-23T20:56:13.328421",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7254377197625294301",
+        "title": "The Crypto-Mortgage Audit: How to Stress-Test Your Digital Assets Against Real Estate Volatility",
+        "url": "https://theomniview.blogspot.com/2026/05/the-crypto-mortgage-audit-how-to-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "reviews",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Reviews",
+          "crypto mortgage strategy",
+          "liquidating crypto for real estate",
+          "digital asset financial planning"
+        ],
+        "slug": "the-crypto-mortgage-audit-how-to-stress-test-your-digital-assets-against-real-es",
+        "published_at": "2026-05-23T21:00:35+00:00",
+        "word_count": 723,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1416207077103589425",
+        "title": "The 'Windfall' Audit: 7 Steps to Protect a Sudden Settlement or Inheritance from Lifestyle Inflation",
+        "url": "https://theomniview.blogspot.com/2026/05/the-windfall-audit-7-steps-to-protect.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "sudden wealth management",
+          "lifestyle inflation",
+          "financial windfall"
+        ],
+        "slug": "the-windfall-audit-7-steps-to-protect-a-sudden-settlement-or-inheritance-from-li",
+        "published_at": "2026-05-23T21:01:12+00:00",
+        "word_count": 822,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
