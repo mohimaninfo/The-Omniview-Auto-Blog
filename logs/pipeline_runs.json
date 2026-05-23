@@ -4286,5 +4286,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T14:25:04.108193",
+    "run_end": "2026-05-23T14:25:53.031783",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3711538170140066108",
+        "title": "The Data Center 'Bricking' Cycle: Why AI Infrastructure is Creating a Circular Economy Crisis",
+        "url": "https://theomniview.blogspot.com/2026/05/the-data-center-bricking-cycle-why-ai.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "data center sustainability",
+          "e-waste management"
+        ],
+        "slug": "the-data-center-bricking-cycle-why-ai-infrastructure-is-creating-a-circular-econ",
+        "published_at": "2026-05-23T14:30:33+00:00",
+        "word_count": 915,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7081275802381994274",
+        "title": "The Power-Grid Paradox: Why AI Data Centers Are Triggering a Corporate-Residential Energy War",
+        "url": "https://theomniview.blogspot.com/2026/05/the-power-grid-paradox-why-ai-data.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Opinion & Analysis",
+          "AI data center energy costs",
+          "energy grid inflation",
+          "AI sustainability crisis"
+        ],
+        "slug": "the-power-grid-paradox-why-ai-data-centers-are-triggering-a-corporate-residentia",
+        "published_at": "2026-05-23T14:30:52+00:00",
+        "word_count": 916,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
