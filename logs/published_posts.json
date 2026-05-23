@@ -3962,5 +3962,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4579163312129074429",
+    "title": "The Post-AI Inventory Audit: How to Reclaim Marketing Data Accuracy After the Starbucks Tech Exit",
+    "url": "https://theomniview.blogspot.com/2026/05/the-post-ai-inventory-audit-how-to.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "How-To Guides",
+      "marketing data accuracy",
+      "predictive analytics",
+      "first-party data"
+    ],
+    "slug": "the-post-ai-inventory-audit-how-to-reclaim-marketing-data-accuracy-after-the-sta",
+    "published_at": "2026-05-23T22:47:28+00:00",
+    "word_count": 873,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1347297603456153785",
+    "title": "The Analog Traveler\u2019s Audit: How to Shield Your Itinerary from WiFi-Based Occupancy Tracking",
+    "url": "https://theomniview.blogspot.com/2026/05/the-analog-travelers-audit-how-to.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "case-studies",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Case Studies",
+      "travel privacy",
+      "wifi tracking",
+      "digital nomad security"
+    ],
+    "slug": "the-analog-travelers-audit-how-to-shield-your-itinerary-from-wifi-based-occupanc",
+    "published_at": "2026-05-23T22:48:10+00:00",
+    "word_count": 720,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
