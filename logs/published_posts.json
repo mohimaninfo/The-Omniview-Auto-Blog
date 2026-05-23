@@ -3390,5 +3390,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "1206603922213588164",
+    "title": "The Political Somatic Reset: A How-To Guide to De-escalating Your Body\u2019s Stress Response to Election News",
+    "url": "https://theomniview.blogspot.com/2026/05/the-political-somatic-reset-how-to.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "how-to-guides",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "How-To Guides",
+      "somatic nervous system regulation",
+      "political anxiety relief",
+      "neuroscience of stress"
+    ],
+    "slug": "the-political-somatic-reset-a-how-to-guide-to-de-escalating-your-bodys-stress-re",
+    "published_at": "2026-05-23T05:37:13+00:00",
+    "word_count": 963,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6010539007001675349",
+    "title": "The Data Center Hydration Audit: Why Renewable-Energy Microgrids are the Only Fix for Local Water Scarcity",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-hydration-audit-why.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "data center water consumption",
+      "renewable energy microgrids",
+      "ai energy efficiency"
+    ],
+    "slug": "the-data-center-hydration-audit-why-renewable-energy-microgrids-are-the-only-fix",
+    "published_at": "2026-05-23T05:38:45+00:00",
+    "word_count": 1036,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
