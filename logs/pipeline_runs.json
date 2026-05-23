@@ -4182,5 +4182,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T11:52:42.653741",
+    "run_end": "2026-05-23T11:53:49.111526",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6620082579564424778",
+        "title": "The Data Center Power-Grab: Why Local Renewable-Energy Microgrids are the Only Defense Against Grid-Scale Inflation",
+        "url": "https://theomniview.blogspot.com/2026/05/the-data-center-power-grab-why-local.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "renewable-energy microgrids",
+          "data center power consumption",
+          "energy independence"
+        ],
+        "slug": "the-data-center-power-grab-why-local-renewable-energy-microgrids-are-the-only-de",
+        "published_at": "2026-05-23T11:58:12+00:00",
+        "word_count": 817,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8419598387560856038",
+        "title": "The 'Paperweight' Protocol: Why Gaming Hardware Bricking is Becoming the New Industry Standard",
+        "url": "https://theomniview.blogspot.com/2026/05/the-paperweight-protocol-why-gaming.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Explainers",
+          "anti-cheat software",
+          "Riot Vanguard",
+          "hardware bricking"
+        ],
+        "slug": "the-paperweight-protocol-why-gaming-hardware-bricking-is-becoming-the-new-indust",
+        "published_at": "2026-05-23T11:58:48+00:00",
+        "word_count": 930,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
