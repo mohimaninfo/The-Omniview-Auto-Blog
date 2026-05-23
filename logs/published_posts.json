@@ -3566,5 +3566,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2181874032411117741",
+    "title": "The 'Liquidity Trap' Audit: Why High-Yield Savings Accounts Are Masking Your Real Purchasing Power",
+    "url": "https://theomniview.blogspot.com/2026/05/the-liquidity-trap-audit-why-high-yield.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Research Articles",
+      "high-yield savings account",
+      "inflation hedge",
+      "purchasing power"
+    ],
+    "slug": "the-liquidity-trap-audit-why-high-yield-savings-accounts-are-masking-your-real-p",
+    "published_at": "2026-05-23T13:01:02+00:00",
+    "word_count": 959,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5015609693900804232",
+    "title": "The 'Human Capital' Audit: Interviewing Labor Historians on the Shift from Employee Value to Algorithmic Utility",
+    "url": "https://theomniview.blogspot.com/2026/05/the-human-capital-audit-interviewing.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "interviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Interviews",
+      "human capital",
+      "corporate culture",
+      "labor ethics"
+    ],
+    "slug": "the-human-capital-audit-interviewing-labor-historians-on-the-shift-from-employee",
+    "published_at": "2026-05-23T13:02:05+00:00",
+    "word_count": 1006,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
