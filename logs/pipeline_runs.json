@@ -4650,5 +4650,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T21:42:29.387633",
+    "run_end": "2026-05-23T21:44:22.766453",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4543323514760799717",
+        "title": "The Strategic Chokepoint: Why Global Food Security Now Depends on Hormuz Maritime Sovereignty",
+        "url": "https://theomniview.blogspot.com/2026/05/the-strategic-chokepoint-why-global.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Explainers",
+          "global food security",
+          "Hormuz Strait",
+          "supply chain crisis"
+        ],
+        "slug": "the-strategic-chokepoint-why-global-food-security-now-depends-on-hormuz-maritime",
+        "published_at": "2026-05-23T21:48:29+00:00",
+        "word_count": 1150,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4930190326469187454",
+        "title": "The 'Vanguard' Resilience Audit: How to Protect Your Local Dev Environment from Kernel-Level Anti-Cheat Bricking",
+        "url": "https://theomniview.blogspot.com/2026/05/the-vanguard-resilience-audit-how-to.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Programming",
+          "How-To Guides",
+          "kernel-level anti-cheat",
+          "development environment security",
+          "Vanguard anti-cheat"
+        ],
+        "slug": "the-vanguard-resilience-audit-how-to-protect-your-local-dev-environment-from-ker",
+        "published_at": "2026-05-23T21:49:21+00:00",
+        "word_count": 932,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
