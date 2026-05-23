@@ -3434,5 +3434,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "7331122655782829001",
+    "title": "The Inventory-as-a-Service Audit: Why Starbucks\u2019 AI Exit Signals an Ecommerce Tech-Debt Crisis",
+    "url": "https://theomniview.blogspot.com/2026/05/the-inventory-as-service-audit-why.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Reviews",
+      "ecommerce inventory management",
+      "ai technology audit",
+      "retail operational efficiency"
+    ],
+    "slug": "the-inventory-as-a-service-audit-why-starbucks-ai-exit-signals-an-ecommerce-tech",
+    "published_at": "2026-05-23T08:09:15+00:00",
+    "word_count": 576,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4684184452757520176",
+    "title": "The 'Human Capital' Audit: How the Bank Boss Scandal is Reshaping Corporate Rhetoric and Employee Retention",
+    "url": "https://theomniview.blogspot.com/2026/05/the-human-capital-audit-how-bank-boss.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Latest News",
+      "human capital",
+      "corporate culture",
+      "employee retention"
+    ],
+    "slug": "the-human-capital-audit-how-the-bank-boss-scandal-is-reshaping-corporate-rhetori",
+    "published_at": "2026-05-23T08:10:06+00:00",
+    "word_count": 770,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 7
   }
 ]
