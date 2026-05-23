@@ -4006,5 +4006,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8260289063509937569",
+    "title": "The Smart Home Power-Drain Audit: Protecting Your Budget from AI Data Center Energy Inflation",
+    "url": "https://theomniview.blogspot.com/2026/05/the-smart-home-power-drain-audit.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Explainers",
+      "home energy efficiency",
+      "smart home power usage",
+      "utility cost reduction"
+    ],
+    "slug": "the-smart-home-power-drain-audit-protecting-your-budget-from-ai-data-center-ener",
+    "published_at": "2026-05-23T23:51:42+00:00",
+    "word_count": 1025,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "3092914956148564083",
+    "title": "The Digital Minimalism Audit: How to Shield Your Attention from WiFi-Based Occupancy Tracking",
+    "url": "https://theomniview.blogspot.com/2026/05/the-digital-minimalism-audit-how-to.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Listicles",
+      "digital minimalism",
+      "wifi occupancy tracking",
+      "online privacy protection"
+    ],
+    "slug": "the-digital-minimalism-audit-how-to-shield-your-attention-from-wifi-based-occupa",
+    "published_at": "2026-05-23T23:53:08+00:00",
+    "word_count": 1030,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
