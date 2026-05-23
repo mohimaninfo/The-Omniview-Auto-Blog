@@ -4546,5 +4546,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T20:00:10.028017",
+    "run_end": "2026-05-23T20:02:13.691091",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "740470944314697645",
+        "title": "The Founder's Exit Audit: How to Protect Your Startup Equity from Forced Liquidity Events",
+        "url": "https://theomniview.blogspot.com/2026/05/the-founders-exit-audit-how-to-protect.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Case Studies",
+          "startup equity",
+          "founder exit strategy",
+          "cap table management"
+        ],
+        "slug": "the-founders-exit-audit-how-to-protect-your-startup-equity-from-forced-liquidity",
+        "published_at": "2026-05-23T20:06:17+00:00",
+        "word_count": 782,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9221609379685271573",
+        "title": "The Algorithmic Breakup: How to Protect Your Relationship Data from WiFi-Based Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/05/the-algorithmic-breakup-how-to-protect.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "research-articles",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Research Articles",
+          "WiFi surveillance",
+          "relationship privacy",
+          "smart home security"
+        ],
+        "slug": "the-algorithmic-breakup-how-to-protect-your-relationship-data-from-wifi-based-su",
+        "published_at": "2026-05-23T20:07:12+00:00",
+        "word_count": 1006,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
