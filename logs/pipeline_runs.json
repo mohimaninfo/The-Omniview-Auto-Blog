@@ -4442,5 +4442,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-23T17:52:21.979531",
+    "run_end": "2026-05-23T17:53:55.625441",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8776935477940303614",
+        "title": "The Data Center Gridlock: Why State-Level Power Tariffs Are the New Climate Policy Battleground",
+        "url": "https://theomniview.blogspot.com/2026/05/the-data-center-gridlock-why-state.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Opinion & Analysis",
+          "climate policy",
+          "data center energy consumption",
+          "AI power costs"
+        ],
+        "slug": "the-data-center-gridlock-why-state-level-power-tariffs-are-the-new-climate-polic",
+        "published_at": "2026-05-23T17:58:07+00:00",
+        "word_count": 802,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6744385812784560491",
+        "title": "The 'Shadow Apprenticeship' Audit: Why You Must Build a Human-Led Skill Path Before AI Becomes Your Only Mentor",
+        "url": "https://theomniview.blogspot.com/2026/05/the-shadow-apprenticeship-audit-why-you.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "career development",
+          "ai in the workplace",
+          "upskilling strategies"
+        ],
+        "slug": "the-shadow-apprenticeship-audit-why-you-must-build-a-human-led-skill-path-before",
+        "published_at": "2026-05-23T17:58:55+00:00",
+        "word_count": 965,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
