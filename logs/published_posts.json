@@ -4182,5 +4182,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8579924129739523635",
+    "title": "The 'Settlement Trap' Audit: Why Your Sudden Financial Windfall Needs a 90-Day Cooling-Off Period",
+    "url": "https://theomniview.blogspot.com/2026/05/the-settlement-trap-audit-why-your.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Opinion & Analysis",
+      "financial windfall",
+      "sudden wealth management",
+      "personal finance strategy"
+    ],
+    "slug": "the-settlement-trap-audit-why-your-sudden-financial-windfall-needs-a-90-day-cool",
+    "published_at": "2026-05-24T11:11:29+00:00",
+    "word_count": 1059,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4399031976843958518",
+    "title": "The 'Mortgage Rate Lock' Audit: Why Paying Off Your Home Early Could Cost You Retirement Liquidity",
+    "url": "https://theomniview.blogspot.com/2026/05/the-mortgage-rate-lock-audit-why-paying.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Explainers",
+      "mortgage payoff vs investing",
+      "mortgage liquidity risk",
+      "opportunity cost of home equity"
+    ],
+    "slug": "the-mortgage-rate-lock-audit-why-paying-off-your-home-early-could-cost-you-retir",
+    "published_at": "2026-05-24T11:12:34+00:00",
+    "word_count": 1024,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
