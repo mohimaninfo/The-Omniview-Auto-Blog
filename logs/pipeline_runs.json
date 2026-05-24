@@ -4910,5 +4910,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-24T09:12:37.158104",
+    "run_end": "2026-05-24T09:14:18.298418",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8151470970712567416",
+        "title": "The Classroom Occupancy Audit: How to Shield K-12 Student Privacy from WiFi-Based Tracking",
+        "url": "https://theomniview.blogspot.com/2026/05/the-classroom-occupancy-audit-how-to.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "How-To Guides",
+          "K-12 student privacy",
+          "WiFi sensing technology",
+          "school network security"
+        ],
+        "slug": "the-classroom-occupancy-audit-how-to-shield-k-12-student-privacy-from-wifi-based",
+        "published_at": "2026-05-24T09:18:10+00:00",
+        "word_count": 913,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8720132846932166021",
+        "title": "The 'Shadow Compute' Audit: How to Stress-Test Your Startup\u2019s Dependency on AI-Powered Enterprise SaaS",
+        "url": "https://theomniview.blogspot.com/2026/05/the-shadow-compute-audit-how-to-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Opinion & Analysis",
+          "enterprise SaaS",
+          "AI operational risk",
+          "shadow compute"
+        ],
+        "slug": "the-shadow-compute-audit-how-to-stress-test-your-startups-dependency-on-ai-power",
+        "published_at": "2026-05-24T09:19:17+00:00",
+        "word_count": 875,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
