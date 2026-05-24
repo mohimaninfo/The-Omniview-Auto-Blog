@@ -4094,5 +4094,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3052449762478915993",
+    "title": "The Border-Processing Bias: How Automated Refugee Screening Creates a Digital Inequality Gap",
+    "url": "https://theomniview.blogspot.com/2026/05/the-border-processing-bias-how.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Latest News",
+      "algorithmic inequality",
+      "refugee crisis",
+      "border security technology"
+    ],
+    "slug": "the-border-processing-bias-how-automated-refugee-screening-creates-a-digital-ine",
+    "published_at": "2026-05-24T06:07:05+00:00",
+    "word_count": 803,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7655217167593057285",
+    "title": "The Data Center Heat-Island Audit: How AI Infrastructure is Accelerating Local Biodiversity Loss",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-heat-island-audit-how.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Latest News",
+      "data center environmental impact",
+      "AI infrastructure sustainability",
+      "biodiversity conservation"
+    ],
+    "slug": "the-data-center-heat-island-audit-how-ai-infrastructure-is-accelerating-local-bi",
+    "published_at": "2026-05-24T06:08:09+00:00",
+    "word_count": 776,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
