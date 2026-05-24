@@ -4358,5 +4358,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "5928725510381395872",
+    "title": "The GLP-1 Olfactory Audit: How GLP-1 Agonists Alter Taste and Smell Perception",
+    "url": "https://theomniview.blogspot.com/2026/05/the-glp-1-olfactory-audit-how-glp-1.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "reviews",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Reviews",
+      "GLP-1 side effects",
+      "taste changes",
+      "semaglutide nutrition"
+    ],
+    "slug": "the-glp-1-olfactory-audit-how-glp-1-agonists-alter-taste-and-smell-perception",
+    "published_at": "2026-05-24T16:54:55+00:00",
+    "word_count": 668,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "359227328941089061",
+    "title": "The Junior Talent Audit: Interviewing Industry Mentors on Surviving the 'AI-Displacement' Hiring Freeze",
+    "url": "https://theomniview.blogspot.com/2026/05/the-junior-talent-audit-interviewing.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "interviews",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Interviews",
+      "junior talent hiring",
+      "AI job displacement",
+      "career skills for AI"
+    ],
+    "slug": "the-junior-talent-audit-interviewing-industry-mentors-on-surviving-the-ai-displa",
+    "published_at": "2026-05-24T16:55:36+00:00",
+    "word_count": 901,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
