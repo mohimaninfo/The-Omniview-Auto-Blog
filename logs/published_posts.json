@@ -4050,5 +4050,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3700006286454691412",
+    "title": "The Refugee Displacement Audit: How Border-Processing Algorithms Are Automating Inequality",
+    "url": "https://theomniview.blogspot.com/2026/05/the-refugee-displacement-audit-how.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Research Articles",
+      "digital inequality",
+      "refugee rights",
+      "algorithmic border control"
+    ],
+    "slug": "the-refugee-displacement-audit-how-border-processing-algorithms-are-automating-i",
+    "published_at": "2026-05-24T02:05:24+00:00",
+    "word_count": 1092,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3731097568894980345",
+    "title": "The Data Center Energy Audit: 7 Ways to Shield Your Household Budget from AI-Driven Power Hikes",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-energy-audit-7-ways-to.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "listicles",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Listicles",
+      "sustainable living",
+      "energy efficiency",
+      "data center power costs"
+    ],
+    "slug": "the-data-center-energy-audit-7-ways-to-shield-your-household-budget-from-ai-driv",
+    "published_at": "2026-05-24T02:06:56+00:00",
+    "word_count": 899,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
