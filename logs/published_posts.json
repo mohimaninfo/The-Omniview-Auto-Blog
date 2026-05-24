@@ -4314,5 +4314,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2906889511099834870",
+    "title": "The Synthetic Performance Audit: Why AI-Driven CGI Is Creating a Digital Performance Rights Crisis",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-performance-audit-why-ai.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Opinion & Analysis",
+      "AI performance rights",
+      "generative AI in film",
+      "digital actor identity"
+    ],
+    "slug": "the-synthetic-performance-audit-why-ai-driven-cgi-is-creating-a-digital-performa",
+    "published_at": "2026-05-24T15:58:52+00:00",
+    "word_count": 913,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2419079759721351937",
+    "title": "The 'Liquidity Gap' Audit: Why Paying Off Your Mortgage Early Can Trigger a Retirement Tax Trap",
+    "url": "https://theomniview.blogspot.com/2026/05/the-liquidity-gap-audit-why-paying-off.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Explainers",
+      "mortgage payoff vs investing",
+      "retirement liquidity",
+      "mortgage interest deduction"
+    ],
+    "slug": "the-liquidity-gap-audit-why-paying-off-your-mortgage-early-can-trigger-a-retirem",
+    "published_at": "2026-05-24T15:59:29+00:00",
+    "word_count": 1222,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
