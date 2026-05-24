@@ -4622,5 +4622,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3300243782837249179",
+    "title": "The Synthetic Witness Audit: How to Verify Digital Evidence in the Age of AI-Generated Content",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-witness-audit-how-to.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "AI-generated evidence",
+      "digital forensics",
+      "deepfake detection"
+    ],
+    "slug": "the-synthetic-witness-audit-how-to-verify-digital-evidence-in-the-age-of-ai-gene",
+    "published_at": "2026-05-24T23:54:44+00:00",
+    "word_count": 975,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1076090106055505127",
+    "title": "The Synthetic Engagement Audit: How to Detect and Disarm AI-Generated 'Engagement Farming' in Your Marketing Funnel",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-engagement-audit-how-to.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Reviews",
+      "AI engagement farming",
+      "marketing analytics audit",
+      "bot traffic detection"
+    ],
+    "slug": "the-synthetic-engagement-audit-how-to-detect-and-disarm-ai-generated-engagement-",
+    "published_at": "2026-05-24T23:55:25+00:00",
+    "word_count": 621,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
