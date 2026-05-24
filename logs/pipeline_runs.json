@@ -5066,5 +5066,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-24T14:19:11.973668",
+    "run_end": "2026-05-24T14:21:23.080029",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "648134392543133692",
+        "title": "The Resilience Paradox: Why Modern Infrastructure is Becoming a Weapon of War",
+        "url": "https://theomniview.blogspot.com/2026/05/the-resilience-paradox-why-modern.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Opinion & Analysis",
+          "infrastructure resilience",
+          "geopolitical risk",
+          "critical infrastructure security"
+        ],
+        "slug": "the-resilience-paradox-why-modern-infrastructure-is-becoming-a-weapon-of-war",
+        "published_at": "2026-05-24T14:25:27+00:00",
+        "word_count": 955,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5306847604708301226",
+        "title": "The Synthetic Vocal Rights Audit: How to Protect Your Artist Persona from AI-Voice Cloning",
+        "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-vocal-rights-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Listicles",
+          "AI voice cloning",
+          "music copyright",
+          "deepfake music protection"
+        ],
+        "slug": "the-synthetic-vocal-rights-audit-how-to-protect-your-artist-persona-from-ai-voic",
+        "published_at": "2026-05-24T14:26:22+00:00",
+        "word_count": 933,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
