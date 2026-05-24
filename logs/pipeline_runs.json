@@ -5378,5 +5378,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-24T21:43:36.523836",
+    "run_end": "2026-05-24T21:46:16.861082",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5975398646761844331",
+        "title": "The WiFi Sensing Privacy Audit: How to Shield Your Home from Router-Based Occupancy Tracking \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-wifi-sensing-privacy-audit-how-to.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "How-To Guides",
+          "WiFi sensing privacy",
+          "router occupancy tracking",
+          "CSI surveillance"
+        ],
+        "slug": "the-wifi-sensing-privacy-audit-how-to-shield-your-home-from-router-based-occupan",
+        "published_at": "2026-05-24T21:49:33+00:00",
+        "word_count": 1097,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8241562909704332481",
+        "title": "The Cognition-Energy Audit: How to Shield Your Focus from AI-Driven Data Center Power Inflation",
+        "url": "https://theomniview.blogspot.com/2026/05/the-cognition-energy-audit-how-to.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "AI energy consumption",
+          "household budget optimization",
+          "energy inflation"
+        ],
+        "slug": "the-cognition-energy-audit-how-to-shield-your-focus-from-ai-driven-data-center-p",
+        "published_at": "2026-05-24T21:51:15+00:00",
+        "word_count": 779,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
