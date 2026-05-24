@@ -5014,5 +5014,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-24T12:55:24.142838",
+    "run_end": "2026-05-24T12:56:28.893714",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "463475772062841206",
+        "title": "The 'Inheritance Shock' Audit: Why Your First 90 Days Post-Windfall Require a Custodial Freeze",
+        "url": "https://theomniview.blogspot.com/2026/05/the-inheritance-shock-audit-why-your.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "sudden wealth syndrome",
+          "financial windfall management",
+          "inheritance tax planning"
+        ],
+        "slug": "the-inheritance-shock-audit-why-your-first-90-days-post-windfall-require-a-custo",
+        "published_at": "2026-05-24T13:00:49+00:00",
+        "word_count": 792,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6476416408788181893",
+        "title": "The Serotonin Belief-Flexibility Gap: Why Neurochemistry Dictates Our Political Polarization",
+        "url": "https://theomniview.blogspot.com/2026/05/the-serotonin-belief-flexibility-gap.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "serotonin",
+          "belief stickiness",
+          "neurobiology of belief"
+        ],
+        "slug": "the-serotonin-belief-flexibility-gap-why-neurochemistry-dictates-our-political-p",
+        "published_at": "2026-05-24T13:01:27+00:00",
+        "word_count": 852,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
