@@ -5326,5 +5326,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-24T20:01:51.658468",
+    "run_end": "2026-05-24T20:03:04.272162",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4434198396121642294",
+        "title": "The Classroom Sovereignty Audit: Why AI-Driven Facial Recognition at School Entrances Risks Student Privacy",
+        "url": "https://theomniview.blogspot.com/2026/05/the-classroom-sovereignty-audit-why-ai.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "student privacy",
+          "facial recognition in schools",
+          "K12 data security"
+        ],
+        "slug": "the-classroom-sovereignty-audit-why-ai-driven-facial-recognition-at-school-entra",
+        "published_at": "2026-05-24T20:07:26+00:00",
+        "word_count": 915,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2127017200948696096",
+        "title": "The Hydrogen Gridlock Audit: Why Small-Scale Electrolysis Is Outpacing Utility-Scale Infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/05/the-hydrogen-gridlock-audit-why-small.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Case Studies",
+          "clean hydrogen production",
+          "renewable energy microgrids",
+          "industrial decarbonization"
+        ],
+        "slug": "the-hydrogen-gridlock-audit-why-small-scale-electrolysis-is-outpacing-utility-sc",
+        "published_at": "2026-05-24T20:08:03+00:00",
+        "word_count": 746,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
