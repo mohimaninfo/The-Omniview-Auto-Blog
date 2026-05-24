@@ -4402,5 +4402,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2767813336873141928",
+    "title": "The Glacier-to-Tap Audit: How Record-Breaking Ice Loss Threatens Local Water Security",
+    "url": "https://theomniview.blogspot.com/2026/05/the-glacier-to-tap-audit-how-record.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Explainers",
+      "glacier melt",
+      "water security",
+      "climate change impacts"
+    ],
+    "slug": "the-glacier-to-tap-audit-how-record-breaking-ice-loss-threatens-local-water-secu",
+    "published_at": "2026-05-24T17:56:32+00:00",
+    "word_count": 1277,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "3795799236432308790",
+    "title": "The 'Mortgage-to-Market' Arbitrage: Why Paying Off Your Debt Early Could Be a Retirement Liability",
+    "url": "https://theomniview.blogspot.com/2026/05/the-mortgage-to-market-arbitrage-why.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Research Articles",
+      "mortgage payoff vs investing",
+      "opportunity cost of home equity",
+      "retirement liquidity"
+    ],
+    "slug": "the-mortgage-to-market-arbitrage-why-paying-off-your-debt-early-could-be-a-retir",
+    "published_at": "2026-05-24T17:57:20+00:00",
+    "word_count": 1006,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
