@@ -4446,5 +4446,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1689809578970499078",
+    "title": "the humanitarian triage gap: why algorithmic disaster response is deepening global inequality",
+    "url": "https://theomniview.blogspot.com/2026/05/the-humanitarian-triage-gap-why.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Explainers",
+      "humanitarian aid",
+      "algorithmic bias",
+      "digital inequality"
+    ],
+    "slug": "the-humanitarian-triage-gap-why-algorithmic-disaster-response-is-deepening-globa",
+    "published_at": "2026-05-24T19:03:43+00:00",
+    "word_count": 1109,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "6814942723399986599",
+    "title": "The Data Center Biodiversity Audit: How AI Power Demands Are Fragmenting Critical Wildlife Corridors",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-biodiversity-audit-how.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Opinion & Analysis",
+      "biodiversity loss",
+      "AI data center impact",
+      "conservation planning"
+    ],
+    "slug": "the-data-center-biodiversity-audit-how-ai-power-demands-are-fragmenting-critical",
+    "published_at": "2026-05-24T19:04:13+00:00",
+    "word_count": 757,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
