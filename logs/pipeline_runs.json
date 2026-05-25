@@ -5898,5 +5898,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-25T21:59:32.825042",
+    "run_end": "2026-05-25T22:00:59.362738",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2915686840151181633",
+        "title": "The Classroom Sovereignty Audit: How to Shield K-12 Student Privacy from Wi-Fi-Based Occupancy Tracking \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-classroom-sovereignty-audit-how-to.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "How-To Guides",
+          "student privacy",
+          "Wi-Fi sensing",
+          "classroom surveillance"
+        ],
+        "slug": "the-classroom-sovereignty-audit-how-to-shield-k-12-student-privacy-from-wi-fi-ba",
+        "published_at": "2026-05-25T22:05:12+00:00",
+        "word_count": 968,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4140471595912521470",
+        "title": "The 'Opaque Algorithm' Audit: A How-To Guide for Mitigating AI-Driven Performance Bias in Remote Teams",
+        "url": "https://theomniview.blogspot.com/2026/05/the-opaque-algorithm-audit-how-to-guide.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote work management",
+          "algorithmic bias",
+          "employee monitoring software"
+        ],
+        "slug": "the-opaque-algorithm-audit-a-how-to-guide-for-mitigating-ai-driven-performance-b",
+        "published_at": "2026-05-25T22:05:58+00:00",
+        "word_count": 916,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
