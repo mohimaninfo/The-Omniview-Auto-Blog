@@ -5586,5 +5586,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-25T07:00:18.111103",
+    "run_end": "2026-05-25T07:02:26.343914",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1700038722034352332",
+        "title": "The Maritime Chokepoint Audit: 7 Ways to Shield Your Supply Chain from Global Shipping Volatility",
+        "url": "https://theomniview.blogspot.com/2026/05/the-maritime-chokepoint-audit-7-ways-to.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "supply chain resilience",
+          "maritime security",
+          "global logistics"
+        ],
+        "slug": "the-maritime-chokepoint-audit-7-ways-to-shield-your-supply-chain-from-global-shi",
+        "published_at": "2026-05-25T07:06:37+00:00",
+        "word_count": 793,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4021835271148210912",
+        "title": "The Microplastic-Packaging Loop: How Global Food Waste Policies Are Missing the Shoreline Crisis",
+        "url": "https://theomniview.blogspot.com/2026/05/the-microplastic-packaging-loop-how.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Explainers",
+          "marine litter",
+          "plastic food packaging",
+          "environmental policy"
+        ],
+        "slug": "the-microplastic-packaging-loop-how-global-food-waste-policies-are-missing-the-s",
+        "published_at": "2026-05-25T07:07:25+00:00",
+        "word_count": 962,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
