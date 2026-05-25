@@ -5950,5 +5950,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-25T23:01:33.854066",
+    "run_end": "2026-05-25T23:03:25.202486",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2791750603774984304",
+        "title": "The Synthetic Vocal Rights Audit: How to Protect Your Artist Persona from AI-Voice Cloning \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-vocal-rights-audit-how-to_01238395411.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Reviews",
+          "AI voice cloning",
+          "musician rights",
+          "vocal synthesis"
+        ],
+        "slug": "the-synthetic-vocal-rights-audit-how-to-protect-your-artist-persona-from-ai-voic",
+        "published_at": "2026-05-25T23:07:34+00:00",
+        "word_count": 588,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6240215605214197126",
+        "title": "The 'Wellness-Benefit' Arbitrage: A Tactical Audit for Maximizing Employer-Sponsored Personal Growth Funds",
+        "url": "https://theomniview.blogspot.com/2026/05/the-wellness-benefit-arbitrage-tactical.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Research Articles",
+          "personal wellness benefit",
+          "employer perks",
+          "financial optimization"
+        ],
+        "slug": "the-wellness-benefit-arbitrage-a-tactical-audit-for-maximizing-employer-sponsore",
+        "published_at": "2026-05-25T23:08:24+00:00",
+        "word_count": 1020,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
