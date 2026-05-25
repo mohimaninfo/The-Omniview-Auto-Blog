@@ -4930,5 +4930,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6590552276313210623",
+    "title": "The Offline-First Gadget Audit: How to Shield Your Smart Home from AI-Driven 'Cloud-Dependency' Outages",
+    "url": "https://theomniview.blogspot.com/2026/05/the-offline-first-gadget-audit-how-to.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "smart home privacy",
+      "local-first automation",
+      "cloud-dependency"
+    ],
+    "slug": "the-offline-first-gadget-audit-how-to-shield-your-smart-home-from-ai-driven-clou",
+    "published_at": "2026-05-25T20:23:19+00:00",
+    "word_count": 902,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "6810707914196303646",
+    "title": "the 'windfall-to-inflation' audit: why sudden wealth gains require a tax-efficient cooling-off period",
+    "url": "https://theomniview.blogspot.com/2026/05/the-windfall-to-inflation-audit-why.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Research Articles",
+      "sudden wealth syndrome",
+      "financial windfall management",
+      "lifestyle inflation"
+    ],
+    "slug": "the-windfall-to-inflation-audit-why-sudden-wealth-gains-require-a-tax-efficient-",
+    "published_at": "2026-05-25T20:24:12+00:00",
+    "word_count": 1056,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
