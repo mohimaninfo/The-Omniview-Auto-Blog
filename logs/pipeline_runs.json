@@ -5534,5 +5534,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-25T02:06:40.476503",
+    "run_end": "2026-05-25T02:08:40.825209",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2615533862891610751",
+        "title": "The Radar-Absorbent Robotics Audit: How to Shield Autonomous Drones from Volcanic-Formulation Detection",
+        "url": "https://theomniview.blogspot.com/2026/05/the-radar-absorbent-robotics-audit-how.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Research Articles",
+          "radar-absorbent material",
+          "stealth drone technology",
+          "robotics surveillance"
+        ],
+        "slug": "the-radar-absorbent-robotics-audit-how-to-shield-autonomous-drones-from-volcanic",
+        "published_at": "2026-05-25T02:12:19+00:00",
+        "word_count": 997,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2867051228629381562",
+        "title": "The GLP-1 movement gap: how to prevent muscle atrophy during rapid weight loss",
+        "url": "https://theomniview.blogspot.com/2026/05/the-glp-1-movement-gap-how-to-prevent.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Explainers",
+          "GLP-1 weight loss",
+          "muscle atrophy prevention",
+          "resistance training for weight loss"
+        ],
+        "slug": "the-glp-1-movement-gap-how-to-prevent-muscle-atrophy-during-rapid-weight-loss",
+        "published_at": "2026-05-25T02:13:39+00:00",
+        "word_count": 881,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
