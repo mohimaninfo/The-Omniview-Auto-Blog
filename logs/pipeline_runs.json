@@ -5638,5 +5638,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-25T11:12:15.350016",
+    "run_end": "2026-05-25T11:13:25.835004",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8979293869304050749",
+        "title": "The Play-Based Neuro-Resilience Audit: Why Imaginative Play is a Biological Buffer Against Childhood Anxiety",
+        "url": "https://theomniview.blogspot.com/2026/05/the-play-based-neuro-resilience-audit.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "imaginative play",
+          "childhood neurodevelopment",
+          "emotional regulation"
+        ],
+        "slug": "the-play-based-neuro-resilience-audit-why-imaginative-play-is-a-biological-buffe",
+        "published_at": "2026-05-25T11:17:42+00:00",
+        "word_count": 879,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "307515720442714987",
+        "title": "The Quantum-Thermal Link: How Atmospheric Methane Signatures Reveal Earth\u2019s Future Climate Trajectory",
+        "url": "https://theomniview.blogspot.com/2026/05/the-quantum-thermal-link-how.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Physics",
+          "Research Articles",
+          "atmospheric physics",
+          "radiative transfer",
+          "methane feedback loops"
+        ],
+        "slug": "the-quantum-thermal-link-how-atmospheric-methane-signatures-reveal-earths-future",
+        "published_at": "2026-05-25T11:18:25+00:00",
+        "word_count": 1050,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
