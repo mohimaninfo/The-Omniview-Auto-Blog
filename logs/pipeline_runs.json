@@ -5742,5 +5742,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-25T16:56:52.904901",
+    "run_end": "2026-05-25T16:58:03.864468",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6888026368554209497",
+        "title": "The Graphene Quantum Dot Protocol: How Nanoscale Physics Is Rewriting Parkinson\u2019s Treatment",
+        "url": "https://theomniview.blogspot.com/2026/05/the-graphene-quantum-dot-protocol-how.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "graphene quantum dots",
+          "Parkinson's research",
+          "nanoscale physics"
+        ],
+        "slug": "the-graphene-quantum-dot-protocol-how-nanoscale-physics-is-rewriting-parkinsons-",
+        "published_at": "2026-05-25T17:02:23+00:00",
+        "word_count": 943,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1354641381243377238",
+        "title": "The GLP-1 Mental Health Shift: Managing the Psychological Impact of Rapid Weight Loss",
+        "url": "https://theomniview.blogspot.com/2026/05/the-glp-1-mental-health-shift-managing.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Explainers",
+          "GLP-1 mental health",
+          "semaglutide psychological side effects",
+          "weight loss mental health"
+        ],
+        "slug": "the-glp-1-mental-health-shift-managing-the-psychological-impact-of-rapid-weight-",
+        "published_at": "2026-05-25T17:03:02+00:00",
+        "word_count": 989,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
