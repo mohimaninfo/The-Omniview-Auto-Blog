@@ -4798,5 +4798,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8650053041654224849",
+    "title": "The 'AI-Washing' Liability Audit: How to Stress-Test Your Marketing Claims Against Impending FTC Enforcement",
+    "url": "https://theomniview.blogspot.com/2026/05/the-ai-washing-liability-audit-how-to.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Case Studies",
+      "AI-washing",
+      "marketing compliance",
+      "FTC advertising guidelines"
+    ],
+    "slug": "the-ai-washing-liability-audit-how-to-stress-test-your-marketing-claims-against-",
+    "published_at": "2026-05-25T14:34:56+00:00",
+    "word_count": 730,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5825326765607803255",
+    "title": "The AI Hardware Lifecycle Audit: A How-To Guide for Preventing Planned Obsolescence in Circular Economy IT",
+    "url": "https://theomniview.blogspot.com/2026/05/the-ai-hardware-lifecycle-audit-how-to.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "circular economy",
+      "planned obsolescence",
+      "e-waste management"
+    ],
+    "slug": "the-ai-hardware-lifecycle-audit-a-how-to-guide-for-preventing-planned-obsolescen",
+    "published_at": "2026-05-25T14:35:23+00:00",
+    "word_count": 988,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
