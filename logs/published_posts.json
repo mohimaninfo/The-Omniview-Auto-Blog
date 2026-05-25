@@ -4886,5 +4886,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6055255775456075490",
+    "title": "The 'Synthetic Refund' Audit: How to Shield Your Ecommerce Store from AI-Driven Return Fraud",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-refund-audit-how-to.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Case Studies",
+      "ecommerce return fraud",
+      "AI fraud detection",
+      "synthetic identity theft"
+    ],
+    "slug": "the-synthetic-refund-audit-how-to-shield-your-ecommerce-store-from-ai-driven-ret",
+    "published_at": "2026-05-25T18:27:52+00:00",
+    "word_count": 707,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "159808072397292594",
+    "title": "The 'Deepfake-Proof' Hardware Audit: How to Verify Biometric Integrity in the Age of Realtime AI Impersonation",
+    "url": "https://theomniview.blogspot.com/2026/05/the-deepfake-proof-hardware-audit-how.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "deepfake detection",
+      "biometric security",
+      "hardware authentication"
+    ],
+    "slug": "the-deepfake-proof-hardware-audit-how-to-verify-biometric-integrity-in-the-age-o",
+    "published_at": "2026-05-25T18:28:19+00:00",
+    "word_count": 906,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
