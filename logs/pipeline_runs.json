@@ -6158,5 +6158,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-26T13:44:53.545259",
+    "run_end": "2026-05-26T13:45:39.343025",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3595685795202854316",
+        "title": "The Synthetic Royalty Audit: How to Shield Your Music Catalog from AI-Driven Engagement Farming",
+        "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-royalty-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Listicles",
+          "music royalties",
+          "AI music",
+          "streaming fraud"
+        ],
+        "slug": "the-synthetic-royalty-audit-how-to-shield-your-music-catalog-from-ai-driven-enga",
+        "published_at": "2026-05-26T13:50:15+00:00",
+        "word_count": 899,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8030160486614282408",
+        "title": "The 'Campus Sovereignty' Audit: Why University-Owned Data Centers Are Fueling a New Class Divide",
+        "url": "https://theomniview.blogspot.com/2026/05/the-campus-sovereignty-audit-why.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Opinion & Analysis",
+          "higher education",
+          "AI infrastructure",
+          "university energy consumption"
+        ],
+        "slug": "the-campus-sovereignty-audit-why-university-owned-data-centers-are-fueling-a-new",
+        "published_at": "2026-05-26T13:50:38+00:00",
+        "word_count": 852,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
