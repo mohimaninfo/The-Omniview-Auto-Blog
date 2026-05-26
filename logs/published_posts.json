@@ -5106,5 +5106,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2249466617106641865",
+    "title": "The Cloud-Dependency Audit: How to Reclaim Local Control of Your Smart Home Devices",
+    "url": "https://theomniview.blogspot.com/2026/05/the-cloud-dependency-audit-how-to.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Explainers",
+      "smart home privacy",
+      "local control gadgets",
+      "iot cloud dependency"
+    ],
+    "slug": "the-cloud-dependency-audit-how-to-reclaim-local-control-of-your-smart-home-devic",
+    "published_at": "2026-05-26T06:08:40+00:00",
+    "word_count": 1054,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7127024764568936451",
+    "title": "The 'Right to Repair' Home Energy Audit: How to Shield Your Smart Home from AI-Driven Power Inflation",
+    "url": "https://theomniview.blogspot.com/2026/05/the-right-to-repair-home-energy-audit.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "reviews",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Reviews",
+      "home energy audit",
+      "smart home energy monitoring",
+      "right to repair"
+    ],
+    "slug": "the-right-to-repair-home-energy-audit-how-to-shield-your-smart-home-from-ai-driv",
+    "published_at": "2026-05-26T06:09:13+00:00",
+    "word_count": 716,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
