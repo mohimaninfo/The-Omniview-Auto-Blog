@@ -5062,5 +5062,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3981992303203655634",
+    "title": "The Renewable-Energy Gridlock: Why Local Microgrid Autonomy is the Only Defense Against AI Data Center Power Spikes",
+    "url": "https://theomniview.blogspot.com/2026/05/the-renewable-energy-gridlock-why-local.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Research Articles",
+      "renewable-energy",
+      "microgrids",
+      "AI data centers"
+    ],
+    "slug": "the-renewable-energy-gridlock-why-local-microgrid-autonomy-is-the-only-defense-a",
+    "published_at": "2026-05-26T02:03:11+00:00",
+    "word_count": 1035,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3385791548293728483",
+    "title": "The 'Digital Sovereignty' Audit: How to Shield Your Personal Data from State-Level Internet Kill-Switches \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/05/the-digital-sovereignty-audit-how-to_02009085688.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Explainers",
+      "digital sovereignty",
+      "internet kill-switch",
+      "data privacy"
+    ],
+    "slug": "the-digital-sovereignty-audit-how-to-shield-your-personal-data-from-state-level-",
+    "published_at": "2026-05-26T02:04:07+00:00",
+    "word_count": 1055,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
