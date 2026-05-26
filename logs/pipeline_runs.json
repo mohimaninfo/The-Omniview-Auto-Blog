@@ -6106,5 +6106,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-26T10:39:32.401470",
+    "run_end": "2026-05-26T10:40:28.606018",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2307825552871676272",
+        "title": "The Last-Mile Liability Audit: Why Municipal Delivery Robot Proliferation is Triggering a New Urban Tort Crisis",
+        "url": "https://theomniview.blogspot.com/2026/05/the-last-mile-liability-audit-why.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Opinion & Analysis",
+          "delivery robots",
+          "robotics liability",
+          "urban robotics"
+        ],
+        "slug": "the-last-mile-liability-audit-why-municipal-delivery-robot-proliferation-is-trig",
+        "published_at": "2026-05-26T10:45:06+00:00",
+        "word_count": 935,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3076660929246813969",
+        "title": "The Interplanetary Radio Audit: How Electron Exciter Beams Reveal Real-Time Space Weather Risks",
+        "url": "https://theomniview.blogspot.com/2026/05/the-interplanetary-radio-audit-how.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "space weather",
+          "interplanetary radio emissions",
+          "solar flares"
+        ],
+        "slug": "the-interplanetary-radio-audit-how-electron-exciter-beams-reveal-real-time-space",
+        "published_at": "2026-05-26T10:45:28+00:00",
+        "word_count": 895,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
