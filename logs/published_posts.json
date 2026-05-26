@@ -5326,5 +5326,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2644968280911046973",
+    "title": "The Synthetic Intimacy Audit: 7 Ways to Shield Real-World Relationships from AI-Chatbot Displacement",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-intimacy-audit-7-ways-to.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Listicles",
+      "AI chatbots",
+      "relationship advice",
+      "digital boundaries"
+    ],
+    "slug": "the-synthetic-intimacy-audit-7-ways-to-shield-real-world-relationships-from-ai-c",
+    "published_at": "2026-05-26T21:31:42+00:00",
+    "word_count": 825,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8180370199655364819",
+    "title": "The 'Synthetic Attention' Audit: How to Reclaim Your Focus from AI-Driven Engagement Loops",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-attention-audit-how-to.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Opinion & Analysis",
+      "digital minimalism",
+      "attention economy",
+      "AI-driven engagement"
+    ],
+    "slug": "the-synthetic-attention-audit-how-to-reclaim-your-focus-from-ai-driven-engagemen",
+    "published_at": "2026-05-26T21:32:33+00:00",
+    "word_count": 780,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
