@@ -5634,5 +5634,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1864593475926456947",
+    "title": "The 'Synthetic Diplomat' Audit: Interviewing Conflict Mediators on the Rise of AI-Generated Peace Proposals",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-diplomat-audit.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "interviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Interviews",
+      "AI diplomacy",
+      "geopolitical conflict resolution",
+      "synthetic negotiation"
+    ],
+    "slug": "the-synthetic-diplomat-audit-interviewing-conflict-mediators-on-the-rise-of-ai-g",
+    "published_at": "2026-05-27T21:48:48+00:00",
+    "word_count": 1046,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "2420100155305315022",
+    "title": "The 'Divorce-to-Debt' Audit: How to Stress-Test Your Assets Against Post-Separation Liquidity Shocks",
+    "url": "https://theomniview.blogspot.com/2026/05/the-divorce-to-debt-audit-how-to-stress.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Opinion & Analysis",
+      "divorce financial planning",
+      "protecting assets during divorce",
+      "post-divorce financial recovery"
+    ],
+    "slug": "the-divorce-to-debt-audit-how-to-stress-test-your-assets-against-post-separation",
+    "published_at": "2026-05-27T21:49:11+00:00",
+    "word_count": 863,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
