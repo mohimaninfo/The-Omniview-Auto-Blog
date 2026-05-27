@@ -6730,5 +6730,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-27T23:07:27.462862",
+    "run_end": "2026-05-27T23:08:26.617520",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5032910204785915505",
+        "title": "the pfas-metabolic audit: how persistent chemical exposure is rewriting the glp-1 weight loss narrative",
+        "url": "https://theomniview.blogspot.com/2026/05/the-pfas-metabolic-audit-how-persistent.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Opinion & Analysis",
+          "PFAS contamination",
+          "GLP-1 weight loss",
+          "endocrine disruptors"
+        ],
+        "slug": "the-pfas-metabolic-audit-how-persistent-chemical-exposure-is-rewriting-the-glp-1",
+        "published_at": "2026-05-27T23:12:53+00:00",
+        "word_count": 921,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1395483268173289382",
+        "title": "The 'Offline-Kitchen' Audit: How to Shield Your Cooking Workflow from AI-Driven Smart Appliance Outages",
+        "url": "https://theomniview.blogspot.com/2026/05/the-offline-kitchen-audit-how-to-shield.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "How-To Guides",
+          "smart kitchen security",
+          "offline cooking",
+          "smart appliance privacy"
+        ],
+        "slug": "the-offline-kitchen-audit-how-to-shield-your-cooking-workflow-from-ai-driven-sma",
+        "published_at": "2026-05-27T23:13:25+00:00",
+        "word_count": 1092,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
