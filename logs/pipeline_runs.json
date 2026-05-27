@@ -6418,5 +6418,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-27T00:05:07.935720",
+    "run_end": "2026-05-27T00:06:02.375838",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4820746253461009710",
+        "title": "The 'Kernel-to-Cloud' Audit: How to Shield Your Local Dev Environment from AI-Bloat and Forced Telemetry",
+        "url": "https://theomniview.blogspot.com/2026/05/the-kernel-to-cloud-audit-how-to-shield.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Listicles",
+          "local development environment",
+          "AI bloat",
+          "kernel telemetry"
+        ],
+        "slug": "the-kernel-to-cloud-audit-how-to-shield-your-local-dev-environment-from-ai-bloat",
+        "published_at": "2026-05-27T00:10:29+00:00",
+        "word_count": 919,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7846265655932391062",
+        "title": "The Orbital Debris Audit: Why Self-Aligning Nanotech Is Our Only Defense Against Kessler Syndrome",
+        "url": "https://theomniview.blogspot.com/2026/05/the-orbital-debris-audit-why-self.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "orbital debris",
+          "Kessler syndrome",
+          "nanotechnology"
+        ],
+        "slug": "the-orbital-debris-audit-why-self-aligning-nanotech-is-our-only-defense-against-",
+        "published_at": "2026-05-27T00:11:01+00:00",
+        "word_count": 963,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
