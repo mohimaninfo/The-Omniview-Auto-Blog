@@ -5502,5 +5502,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7822516972311821180",
+    "title": "The GLP-1 Nutrient-Density Audit: How to Prevent Micronutrient Deficiencies During Rapid Weight Loss",
+    "url": "https://theomniview.blogspot.com/2026/05/the-glp-1-nutrient-density-audit-how-to.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Explainers",
+      "GLP-1 nutrition",
+      "micronutrient deficiency",
+      "weight loss side effects"
+    ],
+    "slug": "the-glp-1-nutrient-density-audit-how-to-prevent-micronutrient-deficiencies-durin",
+    "published_at": "2026-05-27T09:03:03+00:00",
+    "word_count": 1104,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6353462973586740544",
+    "title": "The 'Surveillance Pricing' Marketing Audit: How to Protect Brand Equity from AI-Driven Dynamic Churn",
+    "url": "https://theomniview.blogspot.com/2026/05/the-surveillance-pricing-marketing.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Research Articles",
+      "surveillance pricing",
+      "dynamic pricing strategy",
+      "customer trust"
+    ],
+    "slug": "the-surveillance-pricing-marketing-audit-how-to-protect-brand-equity-from-ai-dri",
+    "published_at": "2026-05-27T09:03:44+00:00",
+    "word_count": 1094,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
