@@ -5546,5 +5546,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2838298621455929050",
+    "title": "The 'Offline-First' Travel Audit: How to Shield Your Itinerary from AI-Driven Dynamic Pricing and Data Scraping",
+    "url": "https://theomniview.blogspot.com/2026/05/the-offline-first-travel-audit-how-to.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "How-To Guides",
+      "travel privacy",
+      "dynamic pricing",
+      "AI travel tools"
+    ],
+    "slug": "the-offline-first-travel-audit-how-to-shield-your-itinerary-from-ai-driven-dynam",
+    "published_at": "2026-05-27T16:37:04+00:00",
+    "word_count": 904,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1005391570148106746",
+    "title": "The 'Shadow Executive' Audit: How to Stress-Test Your Leadership Team Against AI-Induced Decision Paralysis",
+    "url": "https://theomniview.blogspot.com/2026/05/the-shadow-executive-audit-how-to.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Listicles",
+      "leadership strategy",
+      "AI decision making",
+      "executive decision paralysis"
+    ],
+    "slug": "the-shadow-executive-audit-how-to-stress-test-your-leadership-team-against-ai-in",
+    "published_at": "2026-05-27T16:37:28+00:00",
+    "word_count": 818,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
