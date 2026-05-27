@@ -5458,5 +5458,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4788065840916699971",
+    "title": "The 'Surveillance Pricing' Travel Audit: How to Shield Your Booking Itinerary from Dynamic AI Price Hikes",
+    "url": "https://theomniview.blogspot.com/2026/05/the-surveillance-pricing-travel-audit.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Explainers",
+      "surveillance pricing",
+      "dynamic travel pricing",
+      "travel booking privacy"
+    ],
+    "slug": "the-surveillance-pricing-travel-audit-how-to-shield-your-booking-itinerary-from-",
+    "published_at": "2026-05-27T05:13:08+00:00",
+    "word_count": 959,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6752645628500684776",
+    "title": "The 'Always-Online' Gaming Audit: How to Shield Your Library from Cloud-Dependency Shutdowns",
+    "url": "https://theomniview.blogspot.com/2026/05/the-always-online-gaming-audit-how-to.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "gaming preservation",
+      "live-service games",
+      "digital ownership"
+    ],
+    "slug": "the-always-online-gaming-audit-how-to-shield-your-library-from-cloud-dependency-",
+    "published_at": "2026-05-27T05:14:17+00:00",
+    "word_count": 816,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
