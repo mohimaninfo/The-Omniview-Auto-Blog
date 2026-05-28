@@ -6938,5 +6938,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-28T14:26:48.384808",
+    "run_end": "2026-05-28T14:28:47.495817",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2505685254938861799",
+        "title": "the 'sovereign-grid' migration: how local microgrids are shielding homeowners from ai-driven energy inequality",
+        "url": "https://theomniview.blogspot.com/2026/05/the-sovereign-grid-migration-how-local.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Case Studies",
+          "energy inequality",
+          "microgrid",
+          "utility costs"
+        ],
+        "slug": "the-sovereign-grid-migration-how-local-microgrids-are-shielding-homeowners-from-",
+        "published_at": "2026-05-28T14:33:15+00:00",
+        "word_count": 752,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4239483214057002514",
+        "title": "The Cosmic Fermentation Audit: How Ferroptosis in Space-Born Microbes Influences Exobiological Survival",
+        "url": "https://theomniview.blogspot.com/2026/05/the-cosmic-fermentation-audit-how.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Explainers",
+          "ferroptosis",
+          "exobiology",
+          "space microbiology"
+        ],
+        "slug": "the-cosmic-fermentation-audit-how-ferroptosis-in-space-born-microbes-influences-",
+        "published_at": "2026-05-28T14:33:46+00:00",
+        "word_count": 936,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
