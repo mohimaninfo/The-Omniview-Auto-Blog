@@ -7094,5 +7094,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-28T22:25:06.959426",
+    "run_end": "2026-05-28T22:26:44.495028",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3456186217704053541",
+        "title": "The 'Circular Subscription' Audit: How to Shield Your Household Budget from AI-Driven SaaS Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/05/the-circular-subscription-audit-how-to.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "How-To Guides",
+          "circular economy",
+          "SaaS obsolescence",
+          "digital sustainability"
+        ],
+        "slug": "the-circular-subscription-audit-how-to-shield-your-household-budget-from-ai-driv",
+        "published_at": "2026-05-28T22:30:40+00:00",
+        "word_count": 875,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4908412731296368048",
+        "title": "The 'Contract-Kill' Audit: How to Shield Your Municipality from Surveillance Tech Vendor Lock-in",
+        "url": "https://theomniview.blogspot.com/2026/05/the-contract-kill-audit-how-to-shield.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "How-To Guides",
+          "surveillance contract termination",
+          "vendor lock-in cybersecurity",
+          "Flock camera privacy"
+        ],
+        "slug": "the-contract-kill-audit-how-to-shield-your-municipality-from-surveillance-tech-v",
+        "published_at": "2026-05-28T22:31:43+00:00",
+        "word_count": 941,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
