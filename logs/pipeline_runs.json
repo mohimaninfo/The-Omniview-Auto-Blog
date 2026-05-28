@@ -6886,5 +6886,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-28T10:01:53.796062",
+    "run_end": "2026-05-28T10:02:53.936250",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3610498372979403601",
+        "title": "The 'Polymarket' Behavioral Audit: How to Shield Your Financial Decision-Making from AI-Driven FOMO",
+        "url": "https://theomniview.blogspot.com/2026/05/the-polymarket-behavioral-audit-how-to.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Explainers",
+          "financial decision making",
+          "AI market trends",
+          "behavioral finance"
+        ],
+        "slug": "the-polymarket-behavioral-audit-how-to-shield-your-financial-decision-making-fro",
+        "published_at": "2026-05-28T10:07:30+00:00",
+        "word_count": 933,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1214299859939497889",
+        "title": "The 'Smart-Kitchen' Sunset Audit: How to Reclaim Manual Cooking Control from Cloud-Dependent Appliances",
+        "url": "https://theomniview.blogspot.com/2026/05/the-smart-kitchen-sunset-audit-how-to.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen security",
+          "offline cooking",
+          "appliance cloud dependency"
+        ],
+        "slug": "the-smart-kitchen-sunset-audit-how-to-reclaim-manual-cooking-control-from-cloud-",
+        "published_at": "2026-05-28T10:07:53+00:00",
+        "word_count": 1138,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
