@@ -5942,5 +5942,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4404429692989955997",
+    "title": "The 'Math-Deficit' Recovery Audit: Why Low-Tech Cognitive Load Training Outperforms AI-Assisted Tutoring",
+    "url": "https://theomniview.blogspot.com/2026/05/the-math-deficit-recovery-audit-why-low.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Research Articles",
+      "math proficiency",
+      "learning science",
+      "cognitive load theory"
+    ],
+    "slug": "the-math-deficit-recovery-audit-why-low-tech-cognitive-load-training-outperforms",
+    "published_at": "2026-05-28T20:07:56+00:00",
+    "word_count": 915,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "7814581447857721656",
+    "title": "The 'Math-Deficit' Recovery Audit: Why Low-Tech Cognitive Load Training Outperforms AI-Assisted Tutoring \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/05/the-math-deficit-recovery-audit-why-low_0694542999.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Explainers",
+      "math-deficit recovery",
+      "cognitive load theory",
+      "learning science"
+    ],
+    "slug": "the-math-deficit-recovery-audit-why-low-tech-cognitive-load-training-outperforms",
+    "published_at": "2026-05-28T20:08:57+00:00",
+    "word_count": 1103,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
