@@ -6782,5 +6782,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-28T01:49:28.090344",
+    "run_end": "2026-05-28T01:50:49.296003",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4436018400871692308",
+        "title": "The 'Return-Fraud' Audit: How to Shield Your Ecommerce Store from AI-Driven Automated Refund Exploits \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-return-fraud-audit-how-to-shield.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Reviews",
+          "ecommerce fraud prevention",
+          "ai return fraud",
+          "refund exploitation"
+        ],
+        "slug": "the-return-fraud-audit-how-to-shield-your-ecommerce-store-from-ai-driven-automat",
+        "published_at": "2026-05-28T01:55:22+00:00",
+        "word_count": 618,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1203916448157209948",
+        "title": "The 'Inherited Property' Audit: How to Stress-Test Your Family Home Against Capital Gains and Liquidity Traps",
+        "url": "https://theomniview.blogspot.com/2026/05/the-inherited-property-audit-how-to.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "inherited house",
+          "capital gains tax",
+          "property inheritance"
+        ],
+        "slug": "the-inherited-property-audit-how-to-stress-test-your-family-home-against-capital",
+        "published_at": "2026-05-28T01:55:48+00:00",
+        "word_count": 804,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
