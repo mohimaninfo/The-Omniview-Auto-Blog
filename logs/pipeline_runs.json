@@ -6834,5 +6834,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-28T05:59:40.808004",
+    "run_end": "2026-05-28T06:01:20.723488",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8189349740990830831",
+        "title": "The 'Cognitive Atrophy' Audit: Why AI-Assisted Note-Taking Risks Your Long-Term Retention",
+        "url": "https://theomniview.blogspot.com/2026/05/the-cognitive-atrophy-audit-why-ai.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Opinion & Analysis",
+          "cognitive atrophy",
+          "learning science",
+          "AI note-taking"
+        ],
+        "slug": "the-cognitive-atrophy-audit-why-ai-assisted-note-taking-risks-your-long-term-ret",
+        "published_at": "2026-05-28T06:05:28+00:00",
+        "word_count": 990,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5534147614700844963",
+        "title": "The 'Prompt-to-Promotion' Audit: How to Shield Your Career Path from AI-Driven Skill Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/05/the-prompt-to-promotion-audit-how-to.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Explainers",
+          "career development",
+          "future of work",
+          "AI skill obsolescence"
+        ],
+        "slug": "the-prompt-to-promotion-audit-how-to-shield-your-career-path-from-ai-driven-skil",
+        "published_at": "2026-05-28T06:06:20+00:00",
+        "word_count": 845,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
