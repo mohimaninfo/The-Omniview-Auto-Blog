@@ -5898,5 +5898,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "8979793702475192854",
+    "title": "The 'Flock-Proof' Privacy Audit: How to Shield Your Personal Commute from Automated Surveillance Cameras",
+    "url": "https://theomniview.blogspot.com/2026/05/the-flock-proof-privacy-audit-how-to.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Latest News",
+      "Flock safety cameras",
+      "license plate recognition privacy",
+      "digital surveillance audit"
+    ],
+    "slug": "the-flock-proof-privacy-audit-how-to-shield-your-personal-commute-from-automated",
+    "published_at": "2026-05-28T18:00:12+00:00",
+    "word_count": 820,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "521326549126373845",
+    "title": "The 'Crypto-Inheritance' Audit: How to Stress-Test Your Digital Asset Custody Against Probate Latency",
+    "url": "https://theomniview.blogspot.com/2026/05/the-crypto-inheritance-audit-how-to.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "crypto inheritance",
+      "self-custody security",
+      "digital asset estate planning"
+    ],
+    "slug": "the-crypto-inheritance-audit-how-to-stress-test-your-digital-asset-custody-again",
+    "published_at": "2026-05-28T18:00:56+00:00",
+    "word_count": 811,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
