@@ -7198,5 +7198,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-29T03:49:27.236492",
+    "run_end": "2026-05-29T03:50:18.943140",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7718171449762914786",
+        "title": "The Einstein-Euler Instability Audit: Why Dark Energy Might Be a Mathematical Mirage",
+        "url": "https://theomniview.blogspot.com/2026/05/the-einstein-euler-instability-audit.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "dark energy",
+          "Einstein-Euler equations",
+          "cosmological constant"
+        ],
+        "slug": "the-einstein-euler-instability-audit-why-dark-energy-might-be-a-mathematical-mir",
+        "published_at": "2026-05-29T03:54:51+00:00",
+        "word_count": 849,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6840910849508273940",
+        "title": "The Thyroid-Nutrient Audit: Evaluating Iodine-Rich Supplements Amidst Rising Thyroid Cancer Concerns",
+        "url": "https://theomniview.blogspot.com/2026/05/the-thyroid-nutrient-audit-evaluating.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Reviews",
+          "thyroid health supplements",
+          "iodine deficiency",
+          "thyroid cancer prevention"
+        ],
+        "slug": "the-thyroid-nutrient-audit-evaluating-iodine-rich-supplements-amidst-rising-thyr",
+        "published_at": "2026-05-29T03:55:18+00:00",
+        "word_count": 640,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
