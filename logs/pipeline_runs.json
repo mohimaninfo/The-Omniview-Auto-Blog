@@ -7250,5 +7250,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-29T07:44:30.672409",
+    "run_end": "2026-05-29T07:45:27.233952",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3909896670719022444",
+        "title": "The 'Robotaxi-Resilience' Audit: How to Stress-Test Your Startup\u2019s Liability Against Autonomous Vehicle Infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/05/the-robotaxi-resilience-audit-how-to.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Interviews",
+          "autonomous vehicle liability",
+          "robotaxi business risk",
+          "urban tort law"
+        ],
+        "slug": "the-robotaxi-resilience-audit-how-to-stress-test-your-startups-liability-against",
+        "published_at": "2026-05-29T07:50:02+00:00",
+        "word_count": 1011,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "639382937597138323",
+        "title": "The 'Geopolitical-Filter' Audit: How to Shield Your Smart Home from Automated Censorship and Regional Service Kill-Switches",
+        "url": "https://theomniview.blogspot.com/2026/05/the-geopolitical-filter-audit-how-to.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "smart home privacy",
+          "digital sovereignty",
+          "geopolitical censorship"
+        ],
+        "slug": "the-geopolitical-filter-audit-how-to-shield-your-smart-home-from-automated-censo",
+        "published_at": "2026-05-29T07:50:26+00:00",
+        "word_count": 611,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
