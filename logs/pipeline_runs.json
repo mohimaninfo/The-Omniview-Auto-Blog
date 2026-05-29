@@ -7510,5 +7510,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-29T22:23:17.565034",
+    "run_end": "2026-05-29T22:25:20.410464",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5979897068351655836",
+        "title": "The Data Center Water-Print Audit: How AI Cooling Infrastructure Threatens Local Watershed Resilience",
+        "url": "https://theomniview.blogspot.com/2026/05/the-data-center-water-print-audit-how.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Opinion & Analysis",
+          "data center water consumption",
+          "AI environmental impact",
+          "water conservation policy"
+        ],
+        "slug": "the-data-center-water-print-audit-how-ai-cooling-infrastructure-threatens-local-",
+        "published_at": "2026-05-29T22:29:26+00:00",
+        "word_count": 821,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4568482207975886316",
+        "title": "The Mycelial Interference Audit: How AI Data Center Electromagnetic Fields Disrupt Pollinator Navigation",
+        "url": "https://theomniview.blogspot.com/2026/05/the-mycelial-interference-audit-how-ai.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Research Articles",
+          "data center impact",
+          "pollinator conservation",
+          "electromagnetic pollution"
+        ],
+        "slug": "the-mycelial-interference-audit-how-ai-data-center-electromagnetic-fields-disrup",
+        "published_at": "2026-05-29T22:30:19+00:00",
+        "word_count": 1221,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
