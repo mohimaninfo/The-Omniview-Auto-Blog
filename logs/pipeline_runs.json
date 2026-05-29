@@ -7458,5 +7458,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-05-29T20:26:02.766158",
+    "run_end": "2026-05-29T20:26:47.947629",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7935477964629093682",
+        "title": "The 'Oyster-Cement' Structural Audit: Why Biomimetic Physics is Disrupting Concrete Sustainability",
+        "url": "https://theomniview.blogspot.com/2026/05/the-oyster-cement-structural-audit-why.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Physics",
+          "Opinion & Analysis",
+          "biomimetic physics",
+          "sustainable construction",
+          "oyster cement"
+        ],
+        "slug": "the-oyster-cement-structural-audit-why-biomimetic-physics-is-disrupting-concrete",
+        "published_at": "2026-05-29T20:31:24+00:00",
+        "word_count": 812,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3810955985946746400",
+        "title": "The Pheromone-Interruption Audit: How Low-Level Ozone Pollution Is Sabotaging Insect-Driven Ecosystem Services",
+        "url": "https://theomniview.blogspot.com/2026/05/the-pheromone-interruption-audit-how.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "ozone pollution",
+          "pollinator decline",
+          "chemical ecology"
+        ],
+        "slug": "the-pheromone-interruption-audit-how-low-level-ozone-pollution-is-sabotaging-ins",
+        "published_at": "2026-05-29T20:31:47+00:00",
+        "word_count": 985,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
