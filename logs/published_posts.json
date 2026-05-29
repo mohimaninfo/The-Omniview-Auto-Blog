@@ -6030,5 +6030,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "416486003067686793",
+    "title": "The 'Vendor-Lock' Exit Audit: How to Stress-Test Your Startup Against SaaS Price Hikes and Cloud Dependency",
+    "url": "https://theomniview.blogspot.com/2026/05/the-vendor-lock-exit-audit-how-to.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Case Studies",
+      "SaaS exit strategy",
+      "cloud dependency",
+      "business continuity planning"
+    ],
+    "slug": "the-vendor-lock-exit-audit-how-to-stress-test-your-startup-against-saas-price-hi",
+    "published_at": "2026-05-29T00:06:06+00:00",
+    "word_count": 819,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5879912617625769464",
+    "title": "The 'Churn-Proof' Subscription Audit: How to Counteract the 95% Subscriber Attrition Crisis in Ecommerce",
+    "url": "https://theomniview.blogspot.com/2026/05/the-churn-proof-subscription-audit-how.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "How-To Guides",
+      "ecommerce subscription retention",
+      "subscription churn strategy",
+      "customer retention tactics"
+    ],
+    "slug": "the-churn-proof-subscription-audit-how-to-counteract-the-95-subscriber-attrition",
+    "published_at": "2026-05-29T00:06:48+00:00",
+    "word_count": 896,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
