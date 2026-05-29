@@ -6162,5 +6162,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "944932470715839008",
+    "title": "The 'Smart-Home' Offline-Switch Audit: How to Reclaim Local Control from Cloud-Dependent Ecosystems",
+    "url": "https://theomniview.blogspot.com/2026/05/the-smart-home-offline-switch-audit-how.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Explainers",
+      "smart home privacy",
+      "offline smart home",
+      "cloud dependency"
+    ],
+    "slug": "the-smart-home-offline-switch-audit-how-to-reclaim-local-control-from-cloud-depe",
+    "published_at": "2026-05-29T11:23:17+00:00",
+    "word_count": 904,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "117596411665589095",
+    "title": "The 'Dark Fiber' Conservation Audit: How Subterranean Data Infrastructure Disrupts Mycorrhizal Networks",
+    "url": "https://theomniview.blogspot.com/2026/05/the-dark-fiber-conservation-audit-how.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Research Articles",
+      "data center infrastructure",
+      "mycorrhizal networks",
+      "conservation biology"
+    ],
+    "slug": "the-dark-fiber-conservation-audit-how-subterranean-data-infrastructure-disrupts-",
+    "published_at": "2026-05-29T11:23:48+00:00",
+    "word_count": 1078,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
