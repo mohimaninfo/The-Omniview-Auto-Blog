@@ -6646,5 +6646,49 @@
     "has_video": false,
     "image_count": 2,
     "reference_count": 3
+  },
+  {
+    "post_id": "5509931093294766671",
+    "title": "The 'Vibe Coder' Proficiency Audit: How to Shield Your Software Engineering Career from AI-Induced Skill Decay",
+    "url": "https://theomniview.blogspot.com/2026/05/the-vibe-coder-proficiency-audit-how-to.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Explainers",
+      "vibe coder",
+      "AI software engineering",
+      "skill decay"
+    ],
+    "slug": "the-vibe-coder-proficiency-audit-how-to-shield-your-software-engineering-career-",
+    "published_at": "2026-05-30T14:33:21+00:00",
+    "word_count": 1041,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8377595995530325319",
+    "title": "The 'Usage-Cap' Classroom Audit: How to Shield School Budgets from Uncapped AI API Costs",
+    "url": "https://theomniview.blogspot.com/2026/05/the-usage-cap-classroom-audit-how-to.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "How-To Guides",
+      "edtech budget management",
+      "AI usage limits",
+      "school district IT security"
+    ],
+    "slug": "the-usage-cap-classroom-audit-how-to-shield-school-budgets-from-uncapped-ai-api-",
+    "published_at": "2026-05-30T14:33:58+00:00",
+    "word_count": 971,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
