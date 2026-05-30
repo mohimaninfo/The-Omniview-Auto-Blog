@@ -7666,5 +7666,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-30T07:34:44.356366",
+    "run_end": "2026-05-30T07:36:14.994793",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2489984345253230282",
+        "title": "The 'Insurance-Gap' Anxiety Audit: Tactical Psychological Frameworks for Navigating Healthcare Displacement",
+        "url": "https://theomniview.blogspot.com/2026/05/the-insurance-gap-anxiety-audit.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Research Articles",
+          "insurance loss anxiety",
+          "healthcare displacement stress",
+          "medical financial anxiety"
+        ],
+        "slug": "the-insurance-gap-anxiety-audit-tactical-psychological-frameworks-for-navigating",
+        "published_at": "2026-05-30T07:40:16+00:00",
+        "word_count": 1033,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7540447627639634597",
+        "title": "The 'Prompt-Injection' Sabotage Audit: How to Shield Your Codebase From Disgruntled Developer Backdoors",
+        "url": "https://theomniview.blogspot.com/2026/05/the-prompt-injection-sabotage-audit-how.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Latest News",
+          "prompt injection",
+          "codebase security",
+          "AI-assisted coding"
+        ],
+        "slug": "the-prompt-injection-sabotage-audit-how-to-shield-your-codebase-from-disgruntled",
+        "published_at": "2026-05-30T07:41:14+00:00",
+        "word_count": 745,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
