@@ -6954,5 +6954,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7235194604287450749",
+    "title": "The 'Analog-Mastery' Music Audit: Interviewing Vinyl Engineers on Shielding Human Performance from AI-Sampling Bias",
+    "url": "https://theomniview.blogspot.com/2026/05/the-analog-mastery-music-audit.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "interviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Interviews",
+      "analog recording",
+      "AI music production",
+      "vinyl mastering"
+    ],
+    "slug": "the-analog-mastery-music-audit-interviewing-vinyl-engineers-on-shielding-human-p",
+    "published_at": "2026-05-30T22:51:14+00:00",
+    "word_count": 1042,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5706123972298741967",
+    "title": "The 'Data-Center Drought' Risk Audit: How to Stress-Test Your Municipal Water Security Against AI Infrastructure Expansion",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-drought-risk-audit-how.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "data center water consumption",
+      "AI infrastructure impact",
+      "municipal water security"
+    ],
+    "slug": "the-data-center-drought-risk-audit-how-to-stress-test-your-municipal-water-secur",
+    "published_at": "2026-05-30T22:52:35+00:00",
+    "word_count": 1037,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
