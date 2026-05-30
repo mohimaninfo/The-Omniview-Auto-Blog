@@ -7718,5 +7718,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-30T09:48:45.962534",
+    "run_end": "2026-05-30T09:50:25.898860",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7829345529077004854",
+        "title": "The Dental-Regeneration Audit: How Small-Molecule Drug Research Is Challenging the Implant Industry",
+        "url": "https://theomniview.blogspot.com/2026/05/the-dental-regeneration-audit-how-small.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "tooth regeneration drug",
+          "dental research",
+          "biotech dentistry"
+        ],
+        "slug": "the-dental-regeneration-audit-how-small-molecule-drug-research-is-challenging-th",
+        "published_at": "2026-05-30T09:54:17+00:00",
+        "word_count": 962,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "7430089832267675342",
+        "title": "The 'HSA-to-Brokerage' Arbitrage: A Tactical Audit for Maximizing Tax-Advantaged Health Savings",
+        "url": "https://theomniview.blogspot.com/2026/05/the-hsa-to-brokerage-arbitrage-tactical.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "how-to-guides",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "How-To Guides",
+          "HSA investment strategy",
+          "tax-advantaged health savings",
+          "HSA vs HDHP"
+        ],
+        "slug": "the-hsa-to-brokerage-arbitrage-a-tactical-audit-for-maximizing-tax-advantaged-he",
+        "published_at": "2026-05-30T09:55:25+00:00",
+        "word_count": 979,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
