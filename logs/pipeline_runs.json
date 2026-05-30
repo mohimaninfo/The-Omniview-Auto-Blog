@@ -7562,5 +7562,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-30T00:01:08.910119",
+    "run_end": "2026-05-30T00:03:38.749415",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1699647531824555957",
+        "title": "The AI-Power-Gridlock Audit: How Data Center Energy Consumption Threatens Regional Conservation Efforts",
+        "url": "https://theomniview.blogspot.com/2026/05/the-ai-power-gridlock-audit-how-data.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Research Articles",
+          "AI data center energy consumption",
+          "environmental conservation",
+          "grid capacity"
+        ],
+        "slug": "the-ai-power-gridlock-audit-how-data-center-energy-consumption-threatens-regiona",
+        "published_at": "2026-05-30T00:07:20+00:00",
+        "word_count": 926,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7155889727803668587",
+        "title": "The 'Local-First' Gaming Audit: How to Shield Your Save Files from AI-Driven Server Sunsets",
+        "url": "https://theomniview.blogspot.com/2026/05/the-local-first-gaming-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Listicles",
+          "gaming preservation",
+          "live-service games",
+          "offline gaming"
+        ],
+        "slug": "the-local-first-gaming-audit-how-to-shield-your-save-files-from-ai-driven-server",
+        "published_at": "2026-05-30T00:08:38+00:00",
+        "word_count": 846,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
