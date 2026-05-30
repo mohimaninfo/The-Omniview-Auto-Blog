@@ -6822,5 +6822,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3122829581755889388",
+    "title": "The 'Usage-Cap' Operational Audit: How to Shield Your Startup from $500k AI API Bloat",
+    "url": "https://theomniview.blogspot.com/2026/05/the-usage-cap-operational-audit-how-to.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Listicles",
+      "AI cost management",
+      "startup financial strategy",
+      "API usage limits"
+    ],
+    "slug": "the-usage-cap-operational-audit-how-to-shield-your-startup-from-500k-ai-api-bloa",
+    "published_at": "2026-05-30T19:06:55+00:00",
+    "word_count": 871,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7121682514942301834",
+    "title": "The 'Founder-to-Fiduciary' Audit: Interviewing Wealth Managers on Protecting Startup Equity During Personal Financial Crises",
+    "url": "https://theomniview.blogspot.com/2026/05/the-founder-to-fiduciary-audit.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "interviews",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Interviews",
+      "startup equity protection",
+      "founder financial planning",
+      "personal financial crisis"
+    ],
+    "slug": "the-founder-to-fiduciary-audit-interviewing-wealth-managers-on-protecting-startu",
+    "published_at": "2026-05-30T19:07:53+00:00",
+    "word_count": 1023,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
