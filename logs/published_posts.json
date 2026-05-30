@@ -6426,5 +6426,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2571480259993611346",
+    "title": "The 'Synthetic-Churn' Audit: How to Shield Your Marketing Funnel from AI-Generated Bot Traffic",
+    "url": "https://theomniview.blogspot.com/2026/05/the-synthetic-churn-audit-how-to-shield.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "How-To Guides",
+      "marketing funnel optimization",
+      "bot traffic detection",
+      "AI engagement farming"
+    ],
+    "slug": "the-synthetic-churn-audit-how-to-shield-your-marketing-funnel-from-ai-generated-",
+    "published_at": "2026-05-30T04:48:59+00:00",
+    "word_count": 949,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5770421747789722705",
+    "title": "The 'Analog-First' Classroom Audit: How to Shield K-12 Literacy from AI-Induced Cognitive Atrophy",
+    "url": "https://theomniview.blogspot.com/2026/05/the-analog-first-classroom-audit-how-to.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "How-To Guides",
+      "k12 literacy",
+      "generative AI in schools",
+      "cognitive atrophy"
+    ],
+    "slug": "the-analog-first-classroom-audit-how-to-shield-k-12-literacy-from-ai-induced-cog",
+    "published_at": "2026-05-30T04:49:55+00:00",
+    "word_count": 893,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
