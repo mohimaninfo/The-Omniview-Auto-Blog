@@ -7926,5 +7926,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-30T15:57:30.177345",
+    "run_end": "2026-05-30T15:58:56.320909",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4002092158792140346",
+        "title": "The 'Oyster-Cement' Structural Audit: Why Biomimetic Physics is Disrupting Concrete Sustainability \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-oyster-cement-structural-audit-why_069298722.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Physics",
+          "Latest News",
+          "biomimetic physics",
+          "sustainable construction",
+          "oyster cement"
+        ],
+        "slug": "the-oyster-cement-structural-audit-why-biomimetic-physics-is-disrupting-concrete",
+        "published_at": "2026-05-30T16:03:16+00:00",
+        "word_count": 654,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1590054592669514715",
+        "title": "The 'Data-Center Drought' Audit: How AI Cooling Systems Are Depleting Local Groundwater Reserves",
+        "url": "https://theomniview.blogspot.com/2026/05/the-data-center-drought-audit-how-ai_0419846171.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Latest News",
+          "data center water consumption",
+          "AI environmental impact",
+          "groundwater conservation"
+        ],
+        "slug": "the-data-center-drought-audit-how-ai-cooling-systems-are-depleting-local-groundw",
+        "published_at": "2026-05-30T16:03:55+00:00",
+        "word_count": 772,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
