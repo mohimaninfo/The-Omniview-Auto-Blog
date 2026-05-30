@@ -6734,5 +6734,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2273904560466387456",
+    "title": "The 'Data-Center Drought' Home Audit: How to Shield Your Property Value from Municipal Water Rationing",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-drought-home-audit-how.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Explainers",
+      "data center water usage",
+      "home water conservation",
+      "property value protection"
+    ],
+    "slug": "the-data-center-drought-home-audit-how-to-shield-your-property-value-from-munici",
+    "published_at": "2026-05-30T17:01:33+00:00",
+    "word_count": 1038,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5053765194703998293",
+    "title": "The 'Usage-Cap' Infrastructure Audit: How to Shield Your Startup from Uncapped AI API Costs",
+    "url": "https://theomniview.blogspot.com/2026/05/the-usage-cap-infrastructure-audit-how.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Case Studies",
+      "AI API costs",
+      "startup financial risk",
+      "LLM usage limits"
+    ],
+    "slug": "the-usage-cap-infrastructure-audit-how-to-shield-your-startup-from-uncapped-ai-a",
+    "published_at": "2026-05-30T17:02:08+00:00",
+    "word_count": 728,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
