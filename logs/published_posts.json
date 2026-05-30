@@ -6602,5 +6602,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8709649740714131534",
+    "title": "The 'Usage-Cap' Audit: How to Stress-Test Your Marketing Stack Against AI-Driven Cost Spikes",
+    "url": "https://theomniview.blogspot.com/2026/05/the-usage-cap-audit-how-to-stress-test.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Listicles",
+      "marketing budget management",
+      "AI cost control",
+      "SaaS spend optimization"
+    ],
+    "slug": "the-usage-cap-audit-how-to-stress-test-your-marketing-stack-against-ai-driven-co",
+    "published_at": "2026-05-30T13:04:34+00:00",
+    "word_count": 910,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5552920365366881467",
+    "title": "The Data Center Heat-Island Audit: How AI Infrastructure Is Altering Local Microclimates and Biodiversity \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-heat-island-audit-how_01256656538.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Case Studies",
+      "data center environmental impact",
+      "AI infrastructure sustainability",
+      "microclimate disruption"
+    ],
+    "slug": "the-data-center-heat-island-audit-how-ai-infrastructure-is-altering-local-microc",
+    "published_at": "2026-05-30T13:05:09+00:00",
+    "word_count": 665,
+    "has_video": false,
+    "image_count": 2,
+    "reference_count": 3
   }
 ]
