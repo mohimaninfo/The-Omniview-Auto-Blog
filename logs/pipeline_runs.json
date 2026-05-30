@@ -8030,5 +8030,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-30T17:56:43.558898",
+    "run_end": "2026-05-30T17:58:10.108253",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1466589133125952471",
+        "title": "The 'Perfectionism-Physics' Audit: Why Stochastic Volatility Models Explain the Modern Achievement Trap",
+        "url": "https://theomniview.blogspot.com/2026/05/the-perfectionism-physics-audit-why.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Physics",
+          "Opinion & Analysis",
+          "stochastic physics",
+          "perfectionism research",
+          "volatility modeling"
+        ],
+        "slug": "the-perfectionism-physics-audit-why-stochastic-volatility-models-explain-the-mod",
+        "published_at": "2026-05-30T18:02:37+00:00",
+        "word_count": 921,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6431991519885238840",
+        "title": "The Arctic Nitrate-Collapse Audit: How Melting Sea Ice is Reshaping Global Ocean Productivity",
+        "url": "https://theomniview.blogspot.com/2026/05/the-arctic-nitrate-collapse-audit-how.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "Arctic sea ice",
+          "ocean productivity",
+          "nitrate levels"
+        ],
+        "slug": "the-arctic-nitrate-collapse-audit-how-melting-sea-ice-is-reshaping-global-ocean-",
+        "published_at": "2026-05-30T18:03:09+00:00",
+        "word_count": 814,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
