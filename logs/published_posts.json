@@ -7218,5 +7218,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3205103350533274004",
+    "title": "The 'Cognitive-Friction' Classroom Audit: How to Reintroduce Desirable Difficulty in an AI-Assisted World",
+    "url": "https://theomniview.blogspot.com/2026/05/the-cognitive-friction-classroom-audit.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "How-To Guides",
+      "learning science",
+      "desirable difficulty",
+      "cognitive atrophy"
+    ],
+    "slug": "the-cognitive-friction-classroom-audit-how-to-reintroduce-desirable-difficulty-i",
+    "published_at": "2026-05-31T13:13:46+00:00",
+    "word_count": 917,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "9195846833206331564",
+    "title": "The 'No-AI' Search Audit: How to Stress-Test Your Browser Privacy Against AI-Driven Data Scraping",
+    "url": "https://theomniview.blogspot.com/2026/05/the-no-ai-search-audit-how-to-stress.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Reviews",
+      "AI data scraping",
+      "browser privacy",
+      "search engine privacy"
+    ],
+    "slug": "the-no-ai-search-audit-how-to-stress-test-your-browser-privacy-against-ai-driven",
+    "published_at": "2026-05-31T13:14:19+00:00",
+    "word_count": 608,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
