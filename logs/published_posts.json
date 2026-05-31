@@ -7438,5 +7438,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7118361280188460246",
+    "title": "The 'Data-Center Tax' Ecommerce Audit: How to Shield Your Profit Margins from Rising Municipal Energy Surcharges",
+    "url": "https://theomniview.blogspot.com/2026/05/the-data-center-tax-ecommerce-audit-how.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Listicles",
+      "ecommerce profit margins",
+      "data center energy costs",
+      "logistics cost optimization"
+    ],
+    "slug": "the-data-center-tax-ecommerce-audit-how-to-shield-your-profit-margins-from-risin",
+    "published_at": "2026-05-31T20:14:51+00:00",
+    "word_count": 821,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1738742216205821356",
+    "title": "The 'Local-LLM' Compiler Audit: How to Shield Your Proprietary Codebase from Telemetry and Training Leaks",
+    "url": "https://theomniview.blogspot.com/2026/05/the-local-llm-compiler-audit-how-to.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "local LLM",
+      "codebase privacy",
+      "AI telemetry"
+    ],
+    "slug": "the-local-llm-compiler-audit-how-to-shield-your-proprietary-codebase-from-teleme",
+    "published_at": "2026-05-31T20:15:19+00:00",
+    "word_count": 664,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
