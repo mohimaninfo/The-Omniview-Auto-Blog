@@ -8342,5 +8342,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-05-31T02:07:24.609157",
+    "run_end": "2026-05-31T02:08:32.928202",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3393178174847686763",
+        "title": "The 'Homocysteine-Fatigue' Audit: Why Nutritional Deficiencies are Undermining Climate-Anxiety Resilience",
+        "url": "https://theomniview.blogspot.com/2026/05/the-homocysteine-fatigue-audit-why.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "case-studies",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Case Studies",
+          "homocysteine levels",
+          "nutritional psychiatry",
+          "climate anxiety"
+        ],
+        "slug": "the-homocysteine-fatigue-audit-why-nutritional-deficiencies-are-undermining-clim",
+        "published_at": "2026-05-31T02:12:49+00:00",
+        "word_count": 725,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5159201592926433002",
+        "title": "The 'Physical-Media' Preservation Audit: How to Shield Your Retro Gaming Library from Silent Digital Deletions",
+        "url": "https://theomniview.blogspot.com/2026/05/the-physical-media-preservation-audit.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Reviews",
+          "retro gaming",
+          "digital library preservation",
+          "physical media"
+        ],
+        "slug": "the-physical-media-preservation-audit-how-to-shield-your-retro-gaming-library-fr",
+        "published_at": "2026-05-31T02:13:32+00:00",
+        "word_count": 812,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
