@@ -7130,5 +7130,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6181333618455229909",
+    "title": "The 'Offline-First' Music Production Audit: How to Shield Your DAW from Cloud-Dependency and Subscription Bloat",
+    "url": "https://theomniview.blogspot.com/2026/05/the-offline-first-music-production.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "music production",
+      "DAW",
+      "offline-first"
+    ],
+    "slug": "the-offline-first-music-production-audit-how-to-shield-your-daw-from-cloud-depen",
+    "published_at": "2026-05-31T09:45:54+00:00",
+    "word_count": 584,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "136184160430445849",
+    "title": "The 'High-Interest' Debt-Equity Audit: How to Stress-Test Your Car Loan Against Total Loss Asset Depreciation",
+    "url": "https://theomniview.blogspot.com/2026/05/the-high-interest-debt-equity-audit-how.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Case Studies",
+      "car loan debt",
+      "underwater auto loan",
+      "personal finance audit"
+    ],
+    "slug": "the-high-interest-debt-equity-audit-how-to-stress-test-your-car-loan-against-tot",
+    "published_at": "2026-05-31T09:46:19+00:00",
+    "word_count": 741,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
