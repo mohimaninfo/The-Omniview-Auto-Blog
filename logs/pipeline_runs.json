@@ -8706,5 +8706,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-31T17:52:59.471506",
+    "run_end": "2026-05-31T17:53:50.430968",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7649674389698451121",
+        "title": "The 'Game-Asset' Sovereignty Audit: How to Shield Your Retro Library from Modern Licensing Revocations",
+        "url": "https://theomniview.blogspot.com/2026/05/the-game-asset-sovereignty-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "digital game ownership",
+          "retro gaming preservation",
+          "DRM-free gaming"
+        ],
+        "slug": "the-game-asset-sovereignty-audit-how-to-shield-your-retro-library-from-modern-li",
+        "published_at": "2026-05-31T17:58:24+00:00",
+        "word_count": 819,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2923804664127803314",
+        "title": "The 'Insurance-Gap' Anxiety Audit: Tactical Psychological Frameworks for Navigating Healthcare Displacement \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/05/the-insurance-gap-anxiety-audit_01738741589.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "healthcare anxiety",
+          "insurance denial",
+          "medical trauma"
+        ],
+        "slug": "the-insurance-gap-anxiety-audit-tactical-psychological-frameworks-for-navigating",
+        "published_at": "2026-05-31T17:58:49+00:00",
+        "word_count": 705,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
