@@ -8758,5 +8758,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-31T19:00:00.607448",
+    "run_end": "2026-05-31T19:01:07.362180",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2072306571969794924",
+        "title": "The 'Geopolitical-Resilience' Asset Audit: How to Stress-Test Your Liquid Portfolio Against Regional Conflict Spillover",
+        "url": "https://theomniview.blogspot.com/2026/05/the-geopolitical-resilience-asset-audit.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "geopolitical risk",
+          "portfolio stress test",
+          "asset diversification"
+        ],
+        "slug": "the-geopolitical-resilience-asset-audit-how-to-stress-test-your-liquid-portfolio",
+        "published_at": "2026-05-31T19:05:35+00:00",
+        "word_count": 902,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8061979568058692712",
+        "title": "The 'Streaming-Sovereignty' Audit: How to Shield Your Digital Library from Cloud-Dependency Shutdowns",
+        "url": "https://theomniview.blogspot.com/2026/05/the-streaming-sovereignty-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "digital library protection",
+          "physical media",
+          "streaming platform shutdowns"
+        ],
+        "slug": "the-streaming-sovereignty-audit-how-to-shield-your-digital-library-from-cloud-de",
+        "published_at": "2026-05-31T19:06:06+00:00",
+        "word_count": 947,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
