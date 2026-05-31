@@ -7482,5 +7482,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3892630753390325073",
+    "title": "The 'Grid-Dependency' Resilience Audit: How to Shield Your Home Energy Baseline from AI Data Center Power Surges",
+    "url": "https://theomniview.blogspot.com/2026/05/the-grid-dependency-resilience-audit.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Opinion & Analysis",
+      "energy resilience",
+      "home energy independence",
+      "data center energy consumption"
+    ],
+    "slug": "the-grid-dependency-resilience-audit-how-to-shield-your-home-energy-baseline-fro",
+    "published_at": "2026-05-31T21:52:45+00:00",
+    "word_count": 955,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4765454233131243207",
+    "title": "The Quantum-Neuroscience Audit: How Orch-OR Physics Explains Alzheimer\u2019s-Linked Memory Deficits",
+    "url": "https://theomniview.blogspot.com/2026/05/the-quantum-neuroscience-audit-how-orch.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Physics",
+      "Latest News",
+      "quantum biology",
+      "Orch-OR theory",
+      "Alzheimer's research"
+    ],
+    "slug": "the-quantum-neuroscience-audit-how-orch-or-physics-explains-alzheimers-linked-me",
+    "published_at": "2026-05-31T21:54:00+00:00",
+    "word_count": 814,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
