@@ -8914,5 +8914,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-31T22:45:46.118716",
+    "run_end": "2026-05-31T22:49:54.371037",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "211629526493455308",
+        "title": "The 'Sample-Sovereignty' Audit: How to Shield Your Music Catalog from AI-Driven Copyright Seizure",
+        "url": "https://theomniview.blogspot.com/2026/05/the-sample-sovereignty-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Latest News",
+          "music copyright",
+          "AI music generation",
+          "protect music from AI"
+        ],
+        "slug": "the-sample-sovereignty-audit-how-to-shield-your-music-catalog-from-ai-driven-cop",
+        "published_at": "2026-05-31T22:52:40+00:00",
+        "word_count": 747,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4626523986473018520",
+        "title": "The 'Diagnosis-Dread' Audit: Tactical Frameworks for Managing Medical Gaslighting and Health-Related Anxiety",
+        "url": "https://theomniview.blogspot.com/2026/05/the-diagnosis-dread-audit-tactical.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Explainers",
+          "medical gaslighting",
+          "health anxiety",
+          "patient advocacy"
+        ],
+        "slug": "the-diagnosis-dread-audit-tactical-frameworks-for-managing-medical-gaslighting-a",
+        "published_at": "2026-05-31T22:54:53+00:00",
+        "word_count": 951,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
