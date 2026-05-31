@@ -8654,5 +8654,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-31T16:53:54.819762",
+    "run_end": "2026-05-31T16:54:56.400496",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3413732716460485237",
+        "title": "The 'Platform-Exit' Ecommerce Audit: How to Shield Your Brand from Marketplace Algorithmic Volatility",
+        "url": "https://theomniview.blogspot.com/2026/05/the-platform-exit-ecommerce-audit-how.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Listicles",
+          "ecommerce platform exit",
+          "headless commerce strategy",
+          "marketplace algorithm volatility"
+        ],
+        "slug": "the-platform-exit-ecommerce-audit-how-to-shield-your-brand-from-marketplace-algo",
+        "published_at": "2026-05-31T16:59:17+00:00",
+        "word_count": 910,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2669225932360531779",
+        "title": "The 'Geopolitical-Flight' Property Audit: How to Shield Your Domestic Real Estate Assets from Regional Conflict Spillover",
+        "url": "https://theomniview.blogspot.com/2026/05/the-geopolitical-flight-property-audit.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Research Articles",
+          "real estate risk management",
+          "geopolitical asset security",
+          "property value protection"
+        ],
+        "slug": "the-geopolitical-flight-property-audit-how-to-shield-your-domestic-real-estate-a",
+        "published_at": "2026-05-31T16:59:55+00:00",
+        "word_count": 1070,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
