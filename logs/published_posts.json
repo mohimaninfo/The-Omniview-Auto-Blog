@@ -7262,5 +7262,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6458993149252612657",
+    "title": "The 'Token-Cost' Marketing Audit: How to Stress-Test Your ROI Against Github Copilot-Style Billing Models",
+    "url": "https://theomniview.blogspot.com/2026/05/the-token-cost-marketing-audit-how-to.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Reviews",
+      "token-based billing",
+      "marketing ROI",
+      "SaaS pricing models"
+    ],
+    "slug": "the-token-cost-marketing-audit-how-to-stress-test-your-roi-against-github-copilo",
+    "published_at": "2026-05-31T15:14:49+00:00",
+    "word_count": 609,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "547277700254833704",
+    "title": "The 'Local-First' IDE Audit: How to Shield Your Source Code from AI-Driven Telemetry and Forced Cloud Sync",
+    "url": "https://theomniview.blogspot.com/2026/05/the-local-first-ide-audit-how-to-shield.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "local-first IDE",
+      "offline code editor",
+      "telemetry-free programming"
+    ],
+    "slug": "the-local-first-ide-audit-how-to-shield-your-source-code-from-ai-driven-telemetr",
+    "published_at": "2026-05-31T15:15:35+00:00",
+    "word_count": 600,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
