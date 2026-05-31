@@ -7086,5 +7086,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "800156949918541210",
+    "title": "the 'high-fidelity' archival audit: how to shield your master recordings from ai-driven cloud-dependency shutdowns",
+    "url": "https://theomniview.blogspot.com/2026/05/the-high-fidelity-archival-audit-how-to.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "independent music storage",
+      "digital music preservation",
+      "offline music archiving"
+    ],
+    "slug": "the-high-fidelity-archival-audit-how-to-shield-your-master-recordings-from-ai-dr",
+    "published_at": "2026-05-31T06:51:09+00:00",
+    "word_count": 525,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4323281141932154014",
+    "title": "The 'No-AI' Marketing Audit: How to Shield Your Brand Equity from Bot-Driven Traffic Decay",
+    "url": "https://theomniview.blogspot.com/2026/05/the-no-ai-marketing-audit-how-to-shield.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "How-To Guides",
+      "marketing audit",
+      "bot traffic",
+      "brand equity"
+    ],
+    "slug": "the-no-ai-marketing-audit-how-to-shield-your-brand-equity-from-bot-driven-traffi",
+    "published_at": "2026-05-31T06:51:51+00:00",
+    "word_count": 823,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
