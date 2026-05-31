@@ -8498,5 +8498,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-05-31T11:24:35.717461",
+    "run_end": "2026-05-31T11:25:42.460794",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2731533827928207528",
+        "title": "The 'Offline-Grid' Homestead Audit: 7 Low-Tech Strategies to Shield Your Home from AI Data Center Power Spikes",
+        "url": "https://theomniview.blogspot.com/2026/05/the-offline-grid-homestead-audit-7-low.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "listicles",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Listicles",
+          "sustainable living",
+          "home energy audit",
+          "off-grid living"
+        ],
+        "slug": "the-offline-grid-homestead-audit-7-low-tech-strategies-to-shield-your-home-from-",
+        "published_at": "2026-05-31T11:30:08+00:00",
+        "word_count": 738,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "158349144126533211",
+        "title": "The 'Manual-Stack' Career Audit: How to Shield Your Professional Value From AI-Agent Dependency",
+        "url": "https://theomniview.blogspot.com/2026/05/the-manual-stack-career-audit-how-to.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "How-To Guides",
+          "career longevity",
+          "manual-stack proficiency",
+          "AI-agent dependency"
+        ],
+        "slug": "the-manual-stack-career-audit-how-to-shield-your-professional-value-from-ai-agen",
+        "published_at": "2026-05-31T11:30:42+00:00",
+        "word_count": 921,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
