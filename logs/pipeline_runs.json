@@ -9070,5 +9070,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-01T08:21:20.923385",
+    "run_end": "2026-06-01T08:22:13.214898",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3739074166252498733",
+        "title": "The 'Diagnostic-Gap' Audit: How to Stress-Test Your Personal Health Data Against AI-Driven Insurance Denials",
+        "url": "https://theomniview.blogspot.com/2026/06/the-diagnostic-gap-audit-how-to-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "health insurance denial",
+          "medical record privacy",
+          "algorithmic bias in healthcare"
+        ],
+        "slug": "the-diagnostic-gap-audit-how-to-stress-test-your-personal-health-data-against-ai",
+        "published_at": "2026-06-01T08:26:41+00:00",
+        "word_count": 965,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3691941920846722800",
+        "title": "The 'Data-Center-Drain' Real Estate Audit: How to Stress-Test Your Commercial Property Value Against Local Energy Gridlock",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drain-real-estate-audit.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Opinion & Analysis",
+          "data center energy consumption",
+          "commercial real estate investment",
+          "grid capacity"
+        ],
+        "slug": "the-data-center-drain-real-estate-audit-how-to-stress-test-your-commercial-prope",
+        "published_at": "2026-06-01T08:27:12+00:00",
+        "word_count": 935,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
