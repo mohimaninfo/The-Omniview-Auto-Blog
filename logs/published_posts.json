@@ -7746,5 +7746,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1632883654389856914",
+    "title": "the 'founder-liquidity' survival audit: interviewing startup CEOs on navigating personal financial distress",
+    "url": "https://theomniview.blogspot.com/2026/06/the-founder-liquidity-survival-audit.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "interviews",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Interviews",
+      "founder financial planning",
+      "startup liquidity",
+      "personal insolvency"
+    ],
+    "slug": "the-founder-liquidity-survival-audit-interviewing-startup-ceos-on-navigating-per",
+    "published_at": "2026-06-01T19:55:31+00:00",
+    "word_count": 1022,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4870665422980750097",
+    "title": "The 'debt-to-equity' migration audit: how to shield your portfolio from the 'low-rate' debt trap",
+    "url": "https://theomniview.blogspot.com/2026/06/the-debt-to-equity-migration-audit-how.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Latest News",
+      "debt repayment strategy",
+      "asset allocation",
+      "inflation hedge"
+    ],
+    "slug": "the-debt-to-equity-migration-audit-how-to-shield-your-portfolio-from-the-low-rat",
+    "published_at": "2026-06-01T19:55:49+00:00",
+    "word_count": 824,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
