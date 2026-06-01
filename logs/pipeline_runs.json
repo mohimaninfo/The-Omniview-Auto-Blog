@@ -9018,5 +9018,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-01T02:15:54.800423",
+    "run_end": "2026-06-01T02:19:52.728746",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7084397926993226123",
+        "title": "The 'Digital-Sovereignty' Border Audit: How to Stress-Test Your Personal Cloud Against Geopolitical Service Blackouts",
+        "url": "https://theomniview.blogspot.com/2026/05/the-digital-sovereignty-border-audit.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Explainers",
+          "digital sovereignty",
+          "data portability",
+          "geopolitical risk"
+        ],
+        "slug": "the-digital-sovereignty-border-audit-how-to-stress-test-your-personal-cloud-agai",
+        "published_at": "2026-06-01T02:22:51+00:00",
+        "word_count": 991,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2218233612270353724",
+        "title": "The 'Offline-Proctored' Classroom Audit: How to Shield Academic Integrity from AI-Driven Cheating Tools",
+        "url": "https://theomniview.blogspot.com/2026/05/the-offline-proctored-classroom-audit.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "How-To Guides",
+          "academic integrity",
+          "AI-proof assessments",
+          "edtech security"
+        ],
+        "slug": "the-offline-proctored-classroom-audit-how-to-shield-academic-integrity-from-ai-d",
+        "published_at": "2026-06-01T02:24:52+00:00",
+        "word_count": 893,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
