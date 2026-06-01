@@ -7790,5 +7790,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7429613050772010005",
+    "title": "the 'shipping-blockade' resilience audit: how to stress-test your supply chain against digital-age maritime disruptions",
+    "url": "https://theomniview.blogspot.com/2026/06/the-shipping-blockade-resilience-audit.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Case Studies",
+      "supply chain resilience",
+      "maritime logistics",
+      "geopolitical risk"
+    ],
+    "slug": "the-shipping-blockade-resilience-audit-how-to-stress-test-your-supply-chain-agai",
+    "published_at": "2026-06-01T22:33:50+00:00",
+    "word_count": 747,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7347712174773686562",
+    "title": "The 'Smart-Kitchen' Sovereignty Audit: How to Shield Your Cooking Workflow from AI-Driven Cloud Outages and Data-Scraping Appliances",
+    "url": "https://theomniview.blogspot.com/2026/06/the-smart-kitchen-sovereignty-audit-how.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Opinion & Analysis",
+      "smart kitchen security",
+      "offline cooking",
+      "IoT privacy risks"
+    ],
+    "slug": "the-smart-kitchen-sovereignty-audit-how-to-shield-your-cooking-workflow-from-ai-",
+    "published_at": "2026-06-01T22:34:13+00:00",
+    "word_count": 896,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
