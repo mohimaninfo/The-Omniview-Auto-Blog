@@ -9122,5 +9122,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-01T14:48:02.017931",
+    "run_end": "2026-06-01T14:49:06.955678",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6013533955186592759",
+        "title": "The 'Degree-to-Data' Audit: How to Stress-Test Your Higher Education ROI Against AI-Driven Skill Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/06/the-degree-to-data-audit-how-to-stress.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Research Articles",
+          "higher education ROI",
+          "AI skill obsolescence",
+          "degree program audit"
+        ],
+        "slug": "the-degree-to-data-audit-how-to-stress-test-your-higher-education-roi-against-ai",
+        "published_at": "2026-06-01T14:53:29+00:00",
+        "word_count": 987,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6479261886964824531",
+        "title": "The 'Data-Center-Drought' Travel Audit: How to Stress-Test Your Next Vacation Against Regional Water Scarcity",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drought-travel-audit.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Explainers",
+          "travel sustainability",
+          "water scarcity",
+          "data center impact"
+        ],
+        "slug": "the-data-center-drought-travel-audit-how-to-stress-test-your-next-vacation-again",
+        "published_at": "2026-06-01T14:54:05+00:00",
+        "word_count": 1040,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
