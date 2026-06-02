@@ -8054,5 +8054,49 @@
     "has_video": true,
     "image_count": 2,
     "reference_count": 4
+  },
+  {
+    "post_id": "8006741109331457161",
+    "title": "The 'Sonic-Sovereignty' Audit: How to Shield Independent Master Recordings from AI-Agent Data Scraping",
+    "url": "https://theomniview.blogspot.com/2026/06/the-sonic-sovereignty-audit-how-to.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Latest News",
+      "AI music scraping",
+      "master recordings copyright",
+      "data sovereignty for musicians"
+    ],
+    "slug": "the-sonic-sovereignty-audit-how-to-shield-independent-master-recordings-from-ai-",
+    "published_at": "2026-06-02T21:45:18+00:00",
+    "word_count": 783,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8928238417946111429",
+    "title": "The 'Chef-to-Cloud' Sovereignty Audit: How to Shield Your Recipes from AI-Driven Data Scraping",
+    "url": "https://theomniview.blogspot.com/2026/06/the-chef-to-cloud-sovereignty-audit-how.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Reviews",
+      "digital recipe management",
+      "offline cooking apps",
+      "data privacy for home cooks"
+    ],
+    "slug": "the-chef-to-cloud-sovereignty-audit-how-to-shield-your-recipes-from-ai-driven-da",
+    "published_at": "2026-06-02T21:46:08+00:00",
+    "word_count": 518,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
