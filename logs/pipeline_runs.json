@@ -9590,5 +9590,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-02T23:25:25.967869",
+    "run_end": "2026-06-02T23:26:30.220200",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5656329426428753329",
+        "title": "The 'AI-Agent' Classroom Audit: How to Stress-Test Your K-12 Curriculum Against Invisible Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/06/the-ai-agent-classroom-audit-how-to.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Research Articles",
+          "ai surveillance in schools",
+          "edtech data privacy",
+          "classroom ai agents"
+        ],
+        "slug": "the-ai-agent-classroom-audit-how-to-stress-test-your-k-12-curriculum-against-inv",
+        "published_at": "2026-06-02T23:30:49+00:00",
+        "word_count": 1151,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1067700448990656409",
+        "title": "The 'shadow-manager' audit: how to stress-test your leadership team against AI-agent decision bias",
+        "url": "https://theomniview.blogspot.com/2026/06/the-shadow-manager-audit-how-to-stress.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "AI agent governance",
+          "leadership decision-making",
+          "AI bias in business"
+        ],
+        "slug": "the-shadow-manager-audit-how-to-stress-test-your-leadership-team-against-ai-agen",
+        "published_at": "2026-06-02T23:31:29+00:00",
+        "word_count": 842,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
