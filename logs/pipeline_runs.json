@@ -9434,5 +9434,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-02T14:00:36.149151",
+    "run_end": "2026-06-02T14:01:24.647077",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6098292407916930066",
+        "title": "The 'Offline-Passport' Travel Audit: How to Shield Your Identity Against Border Surveillance and AI-Driven Data Scraping",
+        "url": "https://theomniview.blogspot.com/2026/06/the-offline-passport-travel-audit-how.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "How-To Guides",
+          "digital privacy for travelers",
+          "border surveillance protection",
+          "offline travel security"
+        ],
+        "slug": "the-offline-passport-travel-audit-how-to-shield-your-identity-against-border-sur",
+        "published_at": "2026-06-02T14:05:56+00:00",
+        "word_count": 848,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "462759042757580118",
+        "title": "The 'Geopolitical-Logistics' Audit: How to Stress-Test Your Household Inventory Against Maritime Supply Chain Volatility \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-geopolitical-logistics-audit-how-to.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "supply chain volatility",
+          "emergency preparedness",
+          "maritime logistics"
+        ],
+        "slug": "the-geopolitical-logistics-audit-how-to-stress-test-your-household-inventory-aga",
+        "published_at": "2026-06-02T14:06:24+00:00",
+        "word_count": 916,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
