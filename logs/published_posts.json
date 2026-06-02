@@ -7834,5 +7834,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6116689598134664093",
+    "title": "The 'Blockade-Resilience' Household Audit: How to Shield Your Supply Chain from Maritime Geopolitical Volatility",
+    "url": "https://theomniview.blogspot.com/2026/06/the-blockade-resilience-household-audit.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "reviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Reviews",
+      "supply chain resilience",
+      "geopolitical risk management",
+      "household inventory audit"
+    ],
+    "slug": "the-blockade-resilience-household-audit-how-to-shield-your-supply-chain-from-mar",
+    "published_at": "2026-06-02T00:09:41+00:00",
+    "word_count": 623,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1538147219114053053",
+    "title": "The 'Shadow-Telemetry' Audit: How to Shield Your Proprietary Codebase from AI-Driven IDE Data Leaks",
+    "url": "https://theomniview.blogspot.com/2026/06/the-shadow-telemetry-audit-how-to.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "IDE telemetry",
+      "proprietary code security",
+      "AI code assistant privacy"
+    ],
+    "slug": "the-shadow-telemetry-audit-how-to-shield-your-proprietary-codebase-from-ai-drive",
+    "published_at": "2026-06-02T00:10:04+00:00",
+    "word_count": 657,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
