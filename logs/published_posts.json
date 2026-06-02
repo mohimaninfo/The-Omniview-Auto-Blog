@@ -7878,5 +7878,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3075008306412115653",
+    "title": "The 'Inheritance-to-Asset' Audit: 7 Stress-Tests for Managing Windfall Capital Amidst Market Volatility",
+    "url": "https://theomniview.blogspot.com/2026/06/the-inheritance-to-asset-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Listicles",
+      "managing inheritance",
+      "investment asset allocation",
+      "windfall financial planning"
+    ],
+    "slug": "the-inheritance-to-asset-audit-7-stress-tests-for-managing-windfall-capital-amid",
+    "published_at": "2026-06-02T05:25:48+00:00",
+    "word_count": 940,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "94193425812014018",
+    "title": "The 'stochastic-rhythm' audit: how midbrain oscillations define human consciousness in an AI-simulated world",
+    "url": "https://theomniview.blogspot.com/2026/06/the-stochastic-rhythm-audit-how.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "midbrain rhythm",
+      "neuroscience of consciousness",
+      "AI vs human brain"
+    ],
+    "slug": "the-stochastic-rhythm-audit-how-midbrain-oscillations-define-human-consciousness",
+    "published_at": "2026-06-02T05:26:12+00:00",
+    "word_count": 1030,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
