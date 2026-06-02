@@ -9486,5 +9486,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-02T18:29:42.884769",
+    "run_end": "2026-06-02T18:30:29.049209",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3837591252703674570",
+        "title": "The 'algorithmic-royalty' audit: how to stress-test your music catalog against AI-driven copyright seizure",
+        "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-royalty-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Reviews",
+          "music copyright",
+          "AI music detection",
+          "digital music sovereignty"
+        ],
+        "slug": "the-algorithmic-royalty-audit-how-to-stress-test-your-music-catalog-against-ai-d",
+        "published_at": "2026-06-02T18:35:00+00:00",
+        "word_count": 504,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4314985120110309220",
+        "title": "The 'pollinator-pathway' audit: how to stress-test your garden against ai-driven data center heat islands",
+        "url": "https://theomniview.blogspot.com/2026/06/the-pollinator-pathway-audit-how-to.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "case-studies",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Case Studies",
+          "data center heat islands",
+          "pollinator conservation",
+          "climate resilience"
+        ],
+        "slug": "the-pollinator-pathway-audit-how-to-stress-test-your-garden-against-ai-driven-da",
+        "published_at": "2026-06-02T18:35:28+00:00",
+        "word_count": 714,
+        "has_video": true,
+        "image_count": 2,
+        "reference_count": 4
+      }
+    ]
   }
 ]
