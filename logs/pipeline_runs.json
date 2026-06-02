@@ -9382,5 +9382,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-02T09:58:52.357467",
+    "run_end": "2026-06-02T09:59:43.421872",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1668708313896064878",
+        "title": "The 'biometric-privacy' classroom audit: how to shield k-12 students from invasive school surveillance",
+        "url": "https://theomniview.blogspot.com/2026/06/the-biometric-privacy-classroom-audit.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "k-12 student privacy",
+          "school surveillance",
+          "biometric data in schools"
+        ],
+        "slug": "the-biometric-privacy-classroom-audit-how-to-shield-k-12-students-from-invasive-",
+        "published_at": "2026-06-02T10:04:10+00:00",
+        "word_count": 797,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "228484970791105752",
+        "title": "The 'Strait-of-Hormuz' Logistics Audit: How to Stress-Test Your Household Supply Chain Against Maritime Geopolitical Volatility",
+        "url": "https://theomniview.blogspot.com/2026/06/the-strait-of-hormuz-logistics-audit.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "supply chain resilience",
+          "geopolitical risk assessment",
+          "household inventory management"
+        ],
+        "slug": "the-strait-of-hormuz-logistics-audit-how-to-stress-test-your-household-supply-ch",
+        "published_at": "2026-06-02T10:04:42+00:00",
+        "word_count": 1005,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
