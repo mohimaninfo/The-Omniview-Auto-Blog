@@ -8274,5 +8274,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4030873281248795040",
+    "title": "The 'Angertainment' Leadership Audit: How to Shield Your Corporate Culture from Manufactured Outrage",
+    "url": "https://theomniview.blogspot.com/2026/06/the-angertainment-leadership-audit-how.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Case Studies",
+      "corporate culture",
+      "leadership strategy",
+      "internal communication"
+    ],
+    "slug": "the-angertainment-leadership-audit-how-to-shield-your-corporate-culture-from-man",
+    "published_at": "2026-06-03T17:59:53+00:00",
+    "word_count": 717,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "6551427022769806890",
+    "title": "The 'Angertainment' Algorithm Audit: How to Shield Your Content Consumption from AI-Driven Outrage Loops",
+    "url": "https://theomniview.blogspot.com/2026/06/the-angertainment-algorithm-audit-how.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Opinion & Analysis",
+      "angertainment",
+      "algorithmic bias",
+      "content consumption"
+    ],
+    "slug": "the-angertainment-algorithm-audit-how-to-shield-your-content-consumption-from-ai",
+    "published_at": "2026-06-03T18:00:35+00:00",
+    "word_count": 871,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
