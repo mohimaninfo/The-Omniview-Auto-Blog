@@ -9902,5 +9902,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-03T22:56:49.159884",
+    "run_end": "2026-06-03T22:57:32.308025",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6422749697572213771",
+        "title": "The 'Remote-Work' Infrastructure Audit: How to Stress-Test Your Home Office Against Municipal Gridlock",
+        "url": "https://theomniview.blogspot.com/2026/06/the-remote-work-infrastructure-audit.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Opinion & Analysis",
+          "remote work infrastructure",
+          "home office energy resilience",
+          "data center gridlock"
+        ],
+        "slug": "the-remote-work-infrastructure-audit-how-to-stress-test-your-home-office-against",
+        "published_at": "2026-06-03T23:02:08+00:00",
+        "word_count": 818,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5058753896891753626",
+        "title": "The 'Neuro-Plasticity' Cognitive Audit: How to Shield Human Attention from AI-Induced Stroop-Effect Decay",
+        "url": "https://theomniview.blogspot.com/2026/06/the-neuro-plasticity-cognitive-audit.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Research Articles",
+          "neuroscience of attention",
+          "Stroop effect",
+          "cognitive training"
+        ],
+        "slug": "the-neuro-plasticity-cognitive-audit-how-to-shield-human-attention-from-ai-induc",
+        "published_at": "2026-06-03T23:02:31+00:00",
+        "word_count": 1082,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
