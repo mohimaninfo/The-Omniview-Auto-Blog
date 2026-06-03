@@ -9746,5 +9746,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-03T12:28:22.259465",
+    "run_end": "2026-06-03T12:29:08.672050",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2231629995635610027",
+        "title": "The 'Cognitive-Legacy' Audit: How to Shield Your Professional Knowledge Base from AI-Induced Skill Decay",
+        "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-legacy-audit-how-to.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "cognitive atrophy",
+          "AI skill decay",
+          "professional knowledge management"
+        ],
+        "slug": "the-cognitive-legacy-audit-how-to-shield-your-professional-knowledge-base-from-a",
+        "published_at": "2026-06-03T12:33:42+00:00",
+        "word_count": 953,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4310980552820468270",
+        "title": "The 'Quantum-Randomness' Celestial Audit: How Perfect Entropy Could Solve Deep-Space Communication Latency",
+        "url": "https://theomniview.blogspot.com/2026/06/the-quantum-randomness-celestial-audit.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "quantum entanglement",
+          "deep space communication",
+          "perfect randomness"
+        ],
+        "slug": "the-quantum-randomness-celestial-audit-how-perfect-entropy-could-solve-deep-spac",
+        "published_at": "2026-06-03T12:34:08+00:00",
+        "word_count": 901,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
