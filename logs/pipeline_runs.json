@@ -9850,5 +9850,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-03T20:45:07.704957",
+    "run_end": "2026-06-03T20:45:47.966790",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7459516796517134487",
+        "title": "the 'windfall-volatility' audit: 7 stress-tests for deploying sudden inheritance capital",
+        "url": "https://theomniview.blogspot.com/2026/06/the-windfall-volatility-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "inheritance financial planning",
+          "managing a windfall",
+          "lump sum investing strategies"
+        ],
+        "slug": "the-windfall-volatility-audit-7-stress-tests-for-deploying-sudden-inheritance-ca",
+        "published_at": "2026-06-03T20:50:27+00:00",
+        "word_count": 788,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "296594525155538014",
+        "title": "The 'Stroop-Effect' Classroom Audit: How to Shield K-12 Critical Thinking from AI Cognitive Limitations",
+        "url": "https://theomniview.blogspot.com/2026/06/the-stroop-effect-classroom-audit-how.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "K-12 critical thinking",
+          "AI in education",
+          "cognitive atrophy"
+        ],
+        "slug": "the-stroop-effect-classroom-audit-how-to-shield-k-12-critical-thinking-from-ai-c",
+        "published_at": "2026-06-03T20:50:47+00:00",
+        "word_count": 838,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
