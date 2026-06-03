@@ -8142,5 +8142,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2393976663902793460",
+    "title": "The 'Data-Center Tax' Classroom Audit: How to Shield School IT Budgets From Rising Energy Surcharges",
+    "url": "https://theomniview.blogspot.com/2026/06/the-data-center-tax-classroom-audit-how.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "How-To Guides",
+      "edtech budget management",
+      "school energy costs",
+      "data center impact on schools"
+    ],
+    "slug": "the-data-center-tax-classroom-audit-how-to-shield-school-it-budgets-from-rising-",
+    "published_at": "2026-06-03T02:40:04+00:00",
+    "word_count": 867,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1512104781708625341",
+    "title": "The 'mycorrhizal-network' infrastructure audit: how to shield urban biodiversity from AI data center cooling requirements",
+    "url": "https://theomniview.blogspot.com/2026/06/the-mycorrhizal-network-infrastructure.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "case-studies",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Case Studies",
+      "urban biodiversity",
+      "data center sustainability",
+      "mycorrhizal networks"
+    ],
+    "slug": "the-mycorrhizal-network-infrastructure-audit-how-to-shield-urban-biodiversity-fr",
+    "published_at": "2026-06-03T02:40:27+00:00",
+    "word_count": 735,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
