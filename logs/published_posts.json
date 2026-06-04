@@ -8450,5 +8450,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6577331242354499931",
+    "title": "the 'micro-grid' autonomy audit: how to shield your home energy baseline from ai data center grid-stress",
+    "url": "https://theomniview.blogspot.com/2026/06/the-micro-grid-autonomy-audit-how-to.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Case Studies",
+      "microgrid autonomy",
+      "residential energy storage",
+      "data center power demand"
+    ],
+    "slug": "the-micro-grid-autonomy-audit-how-to-shield-your-home-energy-baseline-from-ai-da",
+    "published_at": "2026-06-04T05:53:50+00:00",
+    "word_count": 725,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "3281168239783679468",
+    "title": "The 'Grid-Priority' Audit: How to Stress-Test Your Municipal Energy Reliability Against AI Data Center Expansion",
+    "url": "https://theomniview.blogspot.com/2026/06/the-grid-priority-audit-how-to-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Latest News",
+      "energy reliability",
+      "data center energy consumption",
+      "municipal power grid"
+    ],
+    "slug": "the-grid-priority-audit-how-to-stress-test-your-municipal-energy-reliability-aga",
+    "published_at": "2026-06-04T05:54:06+00:00",
+    "word_count": 763,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
