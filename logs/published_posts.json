@@ -8494,5 +8494,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "976797452515096883",
+    "title": "The 'Grid-Priority' Audit: How to Stress-Test Your Municipal Energy Reliability Against AI Data Center Expansion \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-grid-priority-audit-how-to-stress_01056681254.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "municipal energy reliability",
+      "data center power consumption",
+      "grid capacity"
+    ],
+    "slug": "the-grid-priority-audit-how-to-stress-test-your-municipal-energy-reliability-aga",
+    "published_at": "2026-06-04T09:45:39+00:00",
+    "word_count": 978,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5256614578907950807",
+    "title": "The 'Geopolitical-Supply' Audit: How to Stress-Test Your Household Inventory Against Escalating Maritime Trade Volatility",
+    "url": "https://theomniview.blogspot.com/2026/06/the-geopolitical-supply-audit-how-to.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Opinion & Analysis",
+      "supply chain resilience",
+      "household inventory audit",
+      "geopolitical risk management"
+    ],
+    "slug": "the-geopolitical-supply-audit-how-to-stress-test-your-household-inventory-agains",
+    "published_at": "2026-06-04T09:45:59+00:00",
+    "word_count": 792,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
