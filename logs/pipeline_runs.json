@@ -10266,5 +10266,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-04T21:21:45.170550",
+    "run_end": "2026-06-04T21:22:36.199114",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5632692508253570675",
+        "title": "The 'Always-Online' Gaming Audit: How to Shield Your Library from Cloud-Dependency Shutdowns and Metered Billing \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-always-online-gaming-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Explainers",
+          "digital game ownership",
+          "cloud gaming",
+          "gaming library preservation"
+        ],
+        "slug": "the-always-online-gaming-audit-how-to-shield-your-library-from-cloud-dependency-",
+        "published_at": "2026-06-04T21:27:12+00:00",
+        "word_count": 1079,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8251266816034964833",
+        "title": "the 'metacognitive-buffer' classroom audit: how to shield student memory consolidation from ai-assisted cognitive offloading",
+        "url": "https://theomniview.blogspot.com/2026/06/the-metacognitive-buffer-classroom.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "cognitive offloading",
+          "learning science",
+          "metacognition"
+        ],
+        "slug": "the-metacognitive-buffer-classroom-audit-how-to-shield-student-memory-consolidat",
+        "published_at": "2026-06-04T21:27:35+00:00",
+        "word_count": 1050,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
