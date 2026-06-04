@@ -8714,5 +8714,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9019175410203261621",
+    "title": "The 'Masking-Burnout' Audit: How to Stress-Test Your Neurodivergent Resilience Against Social Performance Fatigue",
+    "url": "https://theomniview.blogspot.com/2026/06/the-masking-burnout-audit-how-to-stress.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "how-to-guides",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "How-To Guides",
+      "ADHD masking",
+      "neurodivergent burnout",
+      "cognitive fatigue"
+    ],
+    "slug": "the-masking-burnout-audit-how-to-stress-test-your-neurodivergent-resilience-agai",
+    "published_at": "2026-06-04T23:04:45+00:00",
+    "word_count": 881,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6912356537628153530",
+    "title": "The 'thermal-pollution' biodiversity audit: how to stress-test local aquatic ecosystems against AI data center cooling discharge",
+    "url": "https://theomniview.blogspot.com/2026/06/the-thermal-pollution-biodiversity.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Explainers",
+      "thermal pollution",
+      "data center cooling",
+      "aquatic biodiversity"
+    ],
+    "slug": "the-thermal-pollution-biodiversity-audit-how-to-stress-test-local-aquatic-ecosys",
+    "published_at": "2026-06-04T23:05:10+00:00",
+    "word_count": 975,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
