@@ -9954,5 +9954,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-04T00:25:54.267274",
+    "run_end": "2026-06-04T00:26:37.914661",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1237049165998388459",
+        "title": "The 'Geopolitical-Passport' Audit: How to Stress-Test Your Dual-Citizenship Strategy Against Global Conflict Spikes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-geopolitical-passport-audit-how-to.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Explainers",
+          "dual citizenship strategy",
+          "geopolitical volatility",
+          "global mobility"
+        ],
+        "slug": "the-geopolitical-passport-audit-how-to-stress-test-your-dual-citizenship-strateg",
+        "published_at": "2026-06-04T00:31:16+00:00",
+        "word_count": 1003,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7774529888040378947",
+        "title": "The 'Emotional Numbing' Audit: How Long-Term Antidepressant Use Alters Neuroplasticity and Affective Resonance",
+        "url": "https://theomniview.blogspot.com/2026/06/the-emotional-numbing-audit-how-long.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Opinion & Analysis",
+          "antidepressant side effects",
+          "emotional numbing",
+          "neuroplasticity"
+        ],
+        "slug": "the-emotional-numbing-audit-how-long-term-antidepressant-use-alters-neuroplastic",
+        "published_at": "2026-06-04T00:31:37+00:00",
+        "word_count": 923,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
