@@ -10110,5 +10110,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-04T12:36:38.351818",
+    "run_end": "2026-06-04T12:37:41.029850",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2899224903918857910",
+        "title": "The 'Commodity-Sovereignty' Audit: How to Stress-Test Your Household Inventory Against Global Trade Realignment",
+        "url": "https://theomniview.blogspot.com/2026/06/the-commodity-sovereignty-audit-how-to.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "household inventory management",
+          "supply chain resilience",
+          "geopolitical risk mitigation"
+        ],
+        "slug": "the-commodity-sovereignty-audit-how-to-stress-test-your-household-inventory-agai",
+        "published_at": "2026-06-04T12:42:15+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2423772765636887459",
+        "title": "the 'physical-media' sovereignty audit: how to shield your film collection from silent digital deletions",
+        "url": "https://theomniview.blogspot.com/2026/06/the-physical-media-sovereignty-audit.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "physical media",
+          "digital content deletion",
+          "streaming service library"
+        ],
+        "slug": "the-physical-media-sovereignty-audit-how-to-shield-your-film-collection-from-sil",
+        "published_at": "2026-06-04T12:42:40+00:00",
+        "word_count": 931,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
