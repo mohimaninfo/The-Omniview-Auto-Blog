@@ -10526,5 +10526,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-05T12:29:44.766683",
+    "run_end": "2026-06-05T12:30:33.606736",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7909125300670221243",
+        "title": "The 'at-will' research audit: how to stress-test your long-term health data sovereignty against federal employment volatility",
+        "url": "https://theomniview.blogspot.com/2026/06/the-at-will-research-audit-how-to.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Research Articles",
+          "federal research data",
+          "health data sovereignty",
+          "scientific integrity"
+        ],
+        "slug": "the-at-will-research-audit-how-to-stress-test-your-long-term-health-data-soverei",
+        "published_at": "2026-06-05T12:35:06+00:00",
+        "word_count": 1202,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6159852987615104766",
+        "title": "The 'masking-fatigue' neuro-audit: how to stress-test your cognitive bandwidth against ADHD social performance",
+        "url": "https://theomniview.blogspot.com/2026/06/the-masking-fatigue-neuro-audit-how-to.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "how-to-guides",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "How-To Guides",
+          "ADHD masking",
+          "neurodivergent burnout",
+          "cognitive bandwidth"
+        ],
+        "slug": "the-masking-fatigue-neuro-audit-how-to-stress-test-your-cognitive-bandwidth-agai",
+        "published_at": "2026-06-05T12:35:32+00:00",
+        "word_count": 950,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
