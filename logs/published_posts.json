@@ -8846,5 +8846,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "694989292608610811",
+    "title": "The 'IT-Impersonator' Classroom Audit: How to Stress-Test K-12 Network Security Against Social Engineering Attacks",
+    "url": "https://theomniview.blogspot.com/2026/06/the-it-impersonator-classroom-audit-how.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "latest-news",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Latest News",
+      "k12 cybersecurity",
+      "social engineering training",
+      "school network security"
+    ],
+    "slug": "the-it-impersonator-classroom-audit-how-to-stress-test-k-12-network-security-aga",
+    "published_at": "2026-06-05T09:30:45+00:00",
+    "word_count": 726,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3805715270672944791",
+    "title": "The 'IT-Impersonator' Corporate Audit: How to Stress-Test Your Office Network Against Deepfake-Enhanced Social Engineering",
+    "url": "https://theomniview.blogspot.com/2026/06/the-it-impersonator-corporate-audit-how.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "How-To Guides",
+      "AI social engineering",
+      "deepfake security",
+      "corporate network security"
+    ],
+    "slug": "the-it-impersonator-corporate-audit-how-to-stress-test-your-office-network-again",
+    "published_at": "2026-06-05T09:31:11+00:00",
+    "word_count": 882,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
