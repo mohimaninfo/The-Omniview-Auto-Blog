@@ -10682,5 +10682,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-05T19:28:32.099422",
+    "run_end": "2026-06-05T19:29:30.600900",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6212581155373737244",
+        "title": "The 'Social-Camouflage' Neuro-Audit: How to Stress-Test Your Cognitive Bandwidth Against ADHD Masking Fatigue \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-social-camouflage-neuro-audit-how.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Explainers",
+          "ADHD masking",
+          "neurodivergent burnout",
+          "cognitive bandwidth"
+        ],
+        "slug": "the-social-camouflage-neuro-audit-how-to-stress-test-your-cognitive-bandwidth-ag",
+        "published_at": "2026-06-05T19:34:04+00:00",
+        "word_count": 885,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7203901148696168417",
+        "title": "The 'AI-Proctor' Integrity Audit: How to Shield K-12 Assessment Data from Bot-Driven Academic Fraud",
+        "url": "https://theomniview.blogspot.com/2026/06/the-ai-proctor-integrity-audit-how-to.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "reviews",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Reviews",
+          "AI proctoring",
+          "academic integrity",
+          "bot detection"
+        ],
+        "slug": "the-ai-proctor-integrity-audit-how-to-shield-k-12-assessment-data-from-bot-drive",
+        "published_at": "2026-06-05T19:34:29+00:00",
+        "word_count": 710,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
