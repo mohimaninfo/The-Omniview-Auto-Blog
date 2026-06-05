@@ -8934,5 +8934,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7569306723009016994",
+    "title": "The 'Sagittarius A*' Galactic Wind Audit: How to Stress-Test Your Deep-Space Communication Models Against Black Hole Turbulence",
+    "url": "https://theomniview.blogspot.com/2026/06/the-sagittarius-galactic-wind-audit-how.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Latest News",
+      "Sagittarius A*",
+      "galactic wind",
+      "deep-space communication"
+    ],
+    "slug": "the-sagittarius-a-galactic-wind-audit-how-to-stress-test-your-deep-space-communi",
+    "published_at": "2026-06-05T15:52:39+00:00",
+    "word_count": 812,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6192118109897210262",
+    "title": "The 'Power-Purchase' Policy Audit: How to Stress-Test Your Municipal Energy Reliability Against AI Data Center Expansion \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-power-purchase-policy-audit-how-to.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Research Articles",
+      "climate policy",
+      "data center energy consumption",
+      "renewable energy grid"
+    ],
+    "slug": "the-power-purchase-policy-audit-how-to-stress-test-your-municipal-energy-reliabi",
+    "published_at": "2026-06-05T15:53:01+00:00",
+    "word_count": 1057,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
