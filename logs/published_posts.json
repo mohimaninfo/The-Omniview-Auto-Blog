@@ -9066,5 +9066,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "342055921242382320",
+    "title": "The 'At-Will' Epidemiologist Audit: How to Stress-Test Your Public Health Trust Against Federal Employment Volatility \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-at-will-epidemiologist-audit-how-to_01920866268.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Opinion & Analysis",
+      "public health anxiety",
+      "mental health literacy",
+      "institutional trust"
+    ],
+    "slug": "the-at-will-epidemiologist-audit-how-to-stress-test-your-public-health-trust-aga",
+    "published_at": "2026-06-05T21:20:39+00:00",
+    "word_count": 935,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2122940728369549261",
+    "title": "The 'bot-conversion' ecommerce audit: how to stress-test your checkout flow against non-human purchase fraud",
+    "url": "https://theomniview.blogspot.com/2026/06/the-bot-conversion-ecommerce-audit-how.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Opinion & Analysis",
+      "ecommerce bot fraud",
+      "conversion rate optimization",
+      "bot traffic detection"
+    ],
+    "slug": "the-bot-conversion-ecommerce-audit-how-to-stress-test-your-checkout-flow-against",
+    "published_at": "2026-06-05T21:20:58+00:00",
+    "word_count": 695,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
