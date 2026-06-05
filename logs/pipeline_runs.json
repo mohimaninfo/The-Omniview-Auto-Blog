@@ -10786,5 +10786,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-05T22:55:53.849200",
+    "run_end": "2026-06-05T22:56:36.796821",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7228861850009703815",
+        "title": "The 'Digital-Twin' Attachment Audit: How to Shield Your Romantic Intimacy from AI-Driven Parasocial Mimicry",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-twin-attachment-audit-how.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Explainers",
+          "AI relationship advice",
+          "parasocial relationships",
+          "digital intimacy"
+        ],
+        "slug": "the-digital-twin-attachment-audit-how-to-shield-your-romantic-intimacy-from-ai-d",
+        "published_at": "2026-06-05T23:01:16+00:00",
+        "word_count": 1097,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5717443970479127721",
+        "title": "The 'Remote-Work' Infrastructure Audit: How to Shield Your Home Office from AI Data Center Power Surges",
+        "url": "https://theomniview.blogspot.com/2026/06/the-remote-work-infrastructure-audit_0189587444.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote-work",
+          "home office power protection",
+          "grid reliability"
+        ],
+        "slug": "the-remote-work-infrastructure-audit-how-to-shield-your-home-office-from-ai-data",
+        "published_at": "2026-06-05T23:01:36+00:00",
+        "word_count": 895,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
