@@ -10838,5 +10838,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-05T23:58:39.920123",
+    "run_end": "2026-06-05T23:59:30.015166",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "746047166082637813",
+        "title": "The 'closed-loop' server audit: how to stress-test your local e-waste policy against AI hardware refresh cycles",
+        "url": "https://theomniview.blogspot.com/2026/06/the-closed-loop-server-audit-how-to.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "e-waste management",
+          "data center sustainability"
+        ],
+        "slug": "the-closed-loop-server-audit-how-to-stress-test-your-local-e-waste-policy-agains",
+        "published_at": "2026-06-06T00:04:04+00:00",
+        "word_count": 1006,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "331942743704895052",
+        "title": "The 'Deepfake-Defense' Workflow Audit: How to Stress-Test Your Corporate Communications Against Real-Time Voice Cloning",
+        "url": "https://theomniview.blogspot.com/2026/06/the-deepfake-defense-workflow-audit-how.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "How-To Guides",
+          "deepfake voice cloning",
+          "corporate cybersecurity",
+          "social engineering defense"
+        ],
+        "slug": "the-deepfake-defense-workflow-audit-how-to-stress-test-your-corporate-communicat",
+        "published_at": "2026-06-06T00:04:28+00:00",
+        "word_count": 780,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
