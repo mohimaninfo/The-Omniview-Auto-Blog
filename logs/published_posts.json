@@ -8758,5 +8758,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5252208634858587939",
+    "title": "The 'gut-brain' inflation audit: how to stress-test your mental health budget against supplement marketing bloat",
+    "url": "https://theomniview.blogspot.com/2026/06/the-gut-brain-inflation-audit-how-to.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Research Articles",
+      "gut health supplements",
+      "mental health budget",
+      "microbiome and anxiety"
+    ],
+    "slug": "the-gut-brain-inflation-audit-how-to-stress-test-your-mental-health-budget-again",
+    "published_at": "2026-06-05T00:12:28+00:00",
+    "word_count": 1069,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1912617498630944218",
+    "title": "The 'Bot-Traffic' Revenue Audit: How to Stress-Test Your Ad Spend Against Non-Human Conversion Fraud",
+    "url": "https://theomniview.blogspot.com/2026/06/the-bot-traffic-revenue-audit-how-to.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Research Articles",
+      "bot traffic",
+      "ad spend fraud",
+      "performance marketing"
+    ],
+    "slug": "the-bot-traffic-revenue-audit-how-to-stress-test-your-ad-spend-against-non-human",
+    "published_at": "2026-06-05T00:12:54+00:00",
+    "word_count": 973,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
