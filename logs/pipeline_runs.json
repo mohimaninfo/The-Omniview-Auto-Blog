@@ -10994,5 +10994,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-06T09:15:50.418474",
+    "run_end": "2026-06-06T09:17:14.883282",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6357388268562530794",
+        "title": "The 'hardware-lifecycle' robotics audit: how to stress-test your autonomous fleet against AI-driven e-waste cycles",
+        "url": "https://theomniview.blogspot.com/2026/06/the-hardware-lifecycle-robotics-audit.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "industrial robotics",
+          "hardware lifecycle management",
+          "e-waste reduction"
+        ],
+        "slug": "the-hardware-lifecycle-robotics-audit-how-to-stress-test-your-autonomous-fleet-a",
+        "published_at": "2026-06-06T09:21:35+00:00",
+        "word_count": 644,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3380962883271311120",
+        "title": "The 'equity-to-tax' liquidity audit: how to stress-test your startup compensation against unexpected tax liabilities \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-equity-to-tax-liquidity-audit-how.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Research Articles",
+          "startup equity tax",
+          "phantom income tax",
+          "employee equity compensation"
+        ],
+        "slug": "the-equity-to-tax-liquidity-audit-how-to-stress-test-your-startup-compensation-a",
+        "published_at": "2026-06-06T09:22:13+00:00",
+        "word_count": 1088,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
