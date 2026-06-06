@@ -11202,5 +11202,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-06T16:56:36.714307",
+    "run_end": "2026-06-06T16:58:09.919084",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1698628259224697111",
+        "title": "The 'Data-Center-Drain' Classroom Audit: How to Stress-Test Your K-12 District\u2019s Internet Reliability Against AI-Driven Bandwidth Spikes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drain-classroom-audit.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "case-studies",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Case Studies",
+          "K-12 internet reliability",
+          "data center expansion",
+          "school network infrastructure"
+        ],
+        "slug": "the-data-center-drain-classroom-audit-how-to-stress-test-your-k-12-districts-int",
+        "published_at": "2026-06-06T17:02:19+00:00",
+        "word_count": 718,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5643218435004587289",
+        "title": "The 'metabolic-resilience' fitness audit: how to stress-test your insulin sensitivity against ultra-processed food inflation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-metabolic-resilience-fitness-audit.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "metabolic resilience",
+          "insulin sensitivity",
+          "ultra-processed food"
+        ],
+        "slug": "the-metabolic-resilience-fitness-audit-how-to-stress-test-your-insulin-sensitivi",
+        "published_at": "2026-06-06T17:03:08+00:00",
+        "word_count": 1085,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
