@@ -9330,5 +9330,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3206023153650065842",
+    "title": "The 'transcriptomic-clock' aging audit: how to stress-test your biological mortality risk against lifestyle interventions",
+    "url": "https://theomniview.blogspot.com/2026/06/the-transcriptomic-clock-aging-audit.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Research Articles",
+      "transcriptomic clock",
+      "biological age",
+      "epigenetic aging"
+    ],
+    "slug": "the-transcriptomic-clock-aging-audit-how-to-stress-test-your-biological-mortalit",
+    "published_at": "2026-06-06T11:20:15+00:00",
+    "word_count": 1151,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "4643682925244938237",
+    "title": "The 'remote-work' surveillance audit: how to stress-test your home office against ai-driven productivity tracking",
+    "url": "https://theomniview.blogspot.com/2026/06/the-remote-work-surveillance-audit-how.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Research Articles",
+      "remote work surveillance",
+      "ai productivity tracking",
+      "employee privacy rights"
+    ],
+    "slug": "the-remote-work-surveillance-audit-how-to-stress-test-your-home-office-against-a",
+    "published_at": "2026-06-06T11:21:03+00:00",
+    "word_count": 965,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
