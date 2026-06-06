@@ -11254,5 +11254,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-06T18:01:46.926536",
+    "run_end": "2026-06-06T18:02:56.684605",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4623496136564943897",
+        "title": "The 'algorithmic-casting' audit: how to stress-test your favorite streaming series against AI-driven character replacement",
+        "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-casting-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Reviews",
+          "generative AI in film",
+          "streaming service trends",
+          "digital actor rights"
+        ],
+        "slug": "the-algorithmic-casting-audit-how-to-stress-test-your-favorite-streaming-series-",
+        "published_at": "2026-06-06T18:07:20+00:00",
+        "word_count": 584,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4048560210636593480",
+        "title": "The 'ultra-processed' nutrition audit: how to stress-test your gut microbiome against the rise of 'stealth' food additives",
+        "url": "https://theomniview.blogspot.com/2026/06/the-ultra-processed-nutrition-audit-how.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "gut microbiome health",
+          "ultra-processed foods",
+          "nutrition audit"
+        ],
+        "slug": "the-ultra-processed-nutrition-audit-how-to-stress-test-your-gut-microbiome-again",
+        "published_at": "2026-06-06T18:07:56+00:00",
+        "word_count": 827,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
