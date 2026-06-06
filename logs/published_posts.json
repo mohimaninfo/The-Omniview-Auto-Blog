@@ -9550,5 +9550,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3282633153436115928",
+    "title": "The 'AI-Boomerang' Leadership Audit: How to Stress-Test Your Retention Strategy Against Post-Automation Rehiring",
+    "url": "https://theomniview.blogspot.com/2026/06/the-ai-boomerang-leadership-audit-how.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Opinion & Analysis",
+      "AI boomerang",
+      "leadership retention",
+      "workforce automation"
+    ],
+    "slug": "the-ai-boomerang-leadership-audit-how-to-stress-test-your-retention-strategy-aga",
+    "published_at": "2026-06-06T20:08:05+00:00",
+    "word_count": 992,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2929050774542212475",
+    "title": "The 'Shadow-Investor' Governance Audit: How to Stress-Test Your AI Vendor's Geopolitical Allegiances",
+    "url": "https://theomniview.blogspot.com/2026/06/the-shadow-investor-governance-audit.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Opinion & Analysis",
+      "AI cybersecurity",
+      "vendor risk management",
+      "geopolitical risk"
+    ],
+    "slug": "the-shadow-investor-governance-audit-how-to-stress-test-your-ai-vendors-geopolit",
+    "published_at": "2026-06-06T20:09:12+00:00",
+    "word_count": 912,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
