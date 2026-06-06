@@ -9374,5 +9374,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2485488313841559092",
+    "title": "The 'Actuator-Fatigue' Robotics Audit: How to Stress-Test Your Autonomous Fleet Against AI-Driven Supply Chain Volatility",
+    "url": "https://theomniview.blogspot.com/2026/06/the-actuator-fatigue-robotics-audit-how.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "robotics maintenance",
+      "supply chain volatility",
+      "autonomous fleet management"
+    ],
+    "slug": "the-actuator-fatigue-robotics-audit-how-to-stress-test-your-autonomous-fleet-aga",
+    "published_at": "2026-06-06T13:09:25+00:00",
+    "word_count": 1001,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "8399371717974654272",
+    "title": "the 'biometric-handshake' audit: how to stress-test your enterprise identity against wearable face-recognition",
+    "url": "https://theomniview.blogspot.com/2026/06/the-biometric-handshake-audit-how-to.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Research Articles",
+      "biometric privacy",
+      "face recognition security",
+      "wearable tech vulnerabilities"
+    ],
+    "slug": "the-biometric-handshake-audit-how-to-stress-test-your-enterprise-identity-agains",
+    "published_at": "2026-06-06T13:09:50+00:00",
+    "word_count": 941,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
