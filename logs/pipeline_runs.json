@@ -10942,5 +10942,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-06T06:19:54.663030",
+    "run_end": "2026-06-06T06:20:33.272967",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3329336531697012594",
+        "title": "The 'Data-Center-Tourism' Resilience Audit: How to Stress-Test Your Vacation Destinations Against Regional Power Gridlock",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-tourism-resilience.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "case-studies",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Case Studies",
+          "data center tourism",
+          "travel infrastructure resilience",
+          "sustainable travel planning"
+        ],
+        "slug": "the-data-center-tourism-resilience-audit-how-to-stress-test-your-vacation-destin",
+        "published_at": "2026-06-06T06:25:13+00:00",
+        "word_count": 777,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5285571219009530171",
+        "title": "The 'Municipal-Bypass' Policy Audit: How to Stress-Test Your Local Energy Zoning Against AI Data Center Expansion",
+        "url": "https://theomniview.blogspot.com/2026/06/the-municipal-bypass-policy-audit-how.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Latest News",
+          "data center policy",
+          "energy zoning",
+          "municipal energy grid"
+        ],
+        "slug": "the-municipal-bypass-policy-audit-how-to-stress-test-your-local-energy-zoning-ag",
+        "published_at": "2026-06-06T06:25:32+00:00",
+        "word_count": 808,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
