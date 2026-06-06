@@ -9682,5 +9682,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4429271568027021095",
+    "title": "The 'Lossless-Vinyl' Sovereignty Audit: How to Shield Your Analog Music Library from AI-Driven Audio Restoration Erasure",
+    "url": "https://theomniview.blogspot.com/2026/06/the-lossless-vinyl-sovereignty-audit.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "analog music preservation",
+      "AI audio restoration",
+      "vinyl collecting"
+    ],
+    "slug": "the-lossless-vinyl-sovereignty-audit-how-to-shield-your-analog-music-library-fro",
+    "published_at": "2026-06-07T00:00:22+00:00",
+    "word_count": 624,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4696711275375628788",
+    "title": "The 'Cognitive-Offload' Classroom Audit: How to Shield Student Metacognition from AI-Driven Knowledge Decay",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-offload-classroom-audit.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Opinion & Analysis",
+      "cognitive offloading",
+      "metacognition",
+      "learning science"
+    ],
+    "slug": "the-cognitive-offload-classroom-audit-how-to-shield-student-metacognition-from-a",
+    "published_at": "2026-06-07T00:01:04+00:00",
+    "word_count": 965,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
