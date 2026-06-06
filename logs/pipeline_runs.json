@@ -11150,5 +11150,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-06T15:04:02.508693",
+    "run_end": "2026-06-06T15:05:06.509329",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4653720778296828677",
+        "title": "The 'Water-Energy' Nexus Audit: How to Stress-Test Your Municipal Water Security Against AI Data Center Cooling Demands",
+        "url": "https://theomniview.blogspot.com/2026/06/the-water-energy-nexus-audit-how-to.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "data center water consumption",
+          "climate policy",
+          "municipal water security"
+        ],
+        "slug": "the-water-energy-nexus-audit-how-to-stress-test-your-municipal-water-security-ag",
+        "published_at": "2026-06-06T15:09:31+00:00",
+        "word_count": 1044,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7091887108651283784",
+        "title": "The 'Deepfake-Diplomacy' Audit: How to Stress-Test Your Corporate Communications Against Real-Time Voice Cloning \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-deepfake-diplomacy-audit-how-to.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Opinion & Analysis",
+          "deepfake defense",
+          "voice cloning security",
+          "corporate communications audit"
+        ],
+        "slug": "the-deepfake-diplomacy-audit-how-to-stress-test-your-corporate-communications-ag",
+        "published_at": "2026-06-06T15:10:05+00:00",
+        "word_count": 811,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
