@@ -9594,5 +9594,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6359097645629334507",
+    "title": "The 'Chokepoint-Sovereignty' Audit: How to Stress-Test Your Household Supply Chain Against Strait of Hormuz Blockades",
+    "url": "https://theomniview.blogspot.com/2026/06/the-chokepoint-sovereignty-audit-how-to.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Explainers",
+      "Strait of Hormuz",
+      "supply chain resilience",
+      "geopolitical volatility"
+    ],
+    "slug": "the-chokepoint-sovereignty-audit-how-to-stress-test-your-household-supply-chain-",
+    "published_at": "2026-06-06T21:59:57+00:00",
+    "word_count": 1045,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 1
+  },
+  {
+    "post_id": "3327975078631640256",
+    "title": "The 'Smart-Glass' Privacy Audit: How to Stress-Test Your Public Spaces Against Unauthorized Wearable Surveillance",
+    "url": "https://theomniview.blogspot.com/2026/06/the-smart-glass-privacy-audit-how-to.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "smart glasses privacy",
+      "wearable surveillance",
+      "Meta smart glasses"
+    ],
+    "slug": "the-smart-glass-privacy-audit-how-to-stress-test-your-public-spaces-against-unau",
+    "published_at": "2026-06-06T22:00:50+00:00",
+    "word_count": 1005,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
