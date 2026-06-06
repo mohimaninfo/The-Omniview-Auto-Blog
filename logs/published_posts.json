@@ -9198,5 +9198,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6706599570121388450",
+    "title": "The 'Campus-Grid' Sovereignty Audit: How to Stress-Test Your University\u2019s Energy Resilience Against AI Data Center Expansion",
+    "url": "https://theomniview.blogspot.com/2026/06/the-campus-grid-sovereignty-audit-how.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Research Articles",
+      "university infrastructure",
+      "campus energy resilience",
+      "higher education management"
+    ],
+    "slug": "the-campus-grid-sovereignty-audit-how-to-stress-test-your-universitys-energy-res",
+    "published_at": "2026-06-06T02:57:44+00:00",
+    "word_count": 1028,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2215683310921665295",
+    "title": "The 'remote-work' energy-resilience audit: how to shield your home-office uptime from ai data center grid-stress",
+    "url": "https://theomniview.blogspot.com/2026/06/the-remote-work-energy-resilience-audit.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "explainers",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Explainers",
+      "remote work infrastructure",
+      "home office power stability",
+      "data center energy impact"
+    ],
+    "slug": "the-remote-work-energy-resilience-audit-how-to-shield-your-home-office-uptime-fr",
+    "published_at": "2026-06-06T02:58:02+00:00",
+    "word_count": 1015,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
