@@ -11410,5 +11410,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-06T22:52:48.451037",
+    "run_end": "2026-06-06T22:54:56.652780",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1354110233219918660",
+        "title": "The 'fertility-drop' demographic audit: how to stress-test your long-term economic planning against India\u2019s sub-replacement shift",
+        "url": "https://theomniview.blogspot.com/2026/06/the-fertility-drop-demographic-audit.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Explainers",
+          "India fertility rate",
+          "demographic shift",
+          "economic resilience"
+        ],
+        "slug": "the-fertility-drop-demographic-audit-how-to-stress-test-your-long-term-economic-",
+        "published_at": "2026-06-06T22:59:03+00:00",
+        "word_count": 949,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3760003119668233543",
+        "title": "The 'civilian-shield' logistics audit: how to stress-test your household supply chain against rising maritime-trade volatility \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-civilian-shield-logistics-audit-how.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Explainers",
+          "supply chain resilience",
+          "maritime trade volatility",
+          "household emergency planning"
+        ],
+        "slug": "the-civilian-shield-logistics-audit-how-to-stress-test-your-household-supply-cha",
+        "published_at": "2026-06-06T22:59:56+00:00",
+        "word_count": 1063,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
