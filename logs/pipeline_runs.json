@@ -11774,5 +11774,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T15:16:47.521197",
+    "run_end": "2026-06-07T15:17:41.844066",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1704158081083890461",
+        "title": "The 'analog-pantry' sovereignty audit: how to stress-test your kitchen\u2019s water footprint against ai data center cooling demands",
+        "url": "https://theomniview.blogspot.com/2026/06/the-analog-pantry-sovereignty-audit-how.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Opinion & Analysis",
+          "water footprint",
+          "sustainable cooking",
+          "data center water usage"
+        ],
+        "slug": "the-analog-pantry-sovereignty-audit-how-to-stress-test-your-kitchens-water-footp",
+        "published_at": "2026-06-07T15:22:11+00:00",
+        "word_count": 853,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7309410691076913305",
+        "title": "The 'GLP-1' metabolic audit: how to stress-test your long-term health against the hidden physiological costs of weight-loss drugs",
+        "url": "https://theomniview.blogspot.com/2026/06/the-glp-1-metabolic-audit-how-to-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "GLP-1 agonists",
+          "metabolic health",
+          "Mazdutide clinical trials"
+        ],
+        "slug": "the-glp-1-metabolic-audit-how-to-stress-test-your-long-term-health-against-the-h",
+        "published_at": "2026-06-07T15:22:41+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
