@@ -11514,5 +11514,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T02:12:34.650136",
+    "run_end": "2026-06-07T02:14:47.970221",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2183457542274431331",
+        "title": "The 'fertility-shift' economic audit: how to stress-test your long-term investment portfolio against India\u2019s sub-replacement demographic transition \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-fertility-shift-economic-audit-how.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "India fertility rate",
+          "demographic transition",
+          "economic planning"
+        ],
+        "slug": "the-fertility-shift-economic-audit-how-to-stress-test-your-long-term-investment-",
+        "published_at": "2026-06-07T02:18:59+00:00",
+        "word_count": 818,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2669585899875121971",
+        "title": "The 'Smart-Glass' Voyeurism Audit: How to Shield Your Public Privacy Against Meta-Powered Seduction Coaching",
+        "url": "https://theomniview.blogspot.com/2026/06/the-smart-glass-voyeurism-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "Meta smart glasses privacy",
+          "wearable surveillance",
+          "seduction coaching"
+        ],
+        "slug": "the-smart-glass-voyeurism-audit-how-to-shield-your-public-privacy-against-meta-p",
+        "published_at": "2026-06-07T02:19:47+00:00",
+        "word_count": 915,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
