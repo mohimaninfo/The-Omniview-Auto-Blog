@@ -12034,5 +12034,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T23:56:37.501317",
+    "run_end": "2026-06-07T23:58:31.338703",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5506076197272349065",
+        "title": "The 'Parasocial-Bot' Audit: How to Shield Your Influencer Trust Against AI-Generated Engagement Fraud",
+        "url": "https://theomniview.blogspot.com/2026/06/the-parasocial-bot-audit-how-to-shield.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Latest News",
+          "AI influencers",
+          "parasocial relationships",
+          "engagement fraud"
+        ],
+        "slug": "the-parasocial-bot-audit-how-to-shield-your-influencer-trust-against-ai-generate",
+        "published_at": "2026-06-08T00:02:48+00:00",
+        "word_count": 777,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1864068322365211681",
+        "title": "The 'GLP-1' rebound audit: how to stress-test your metabolic maintenance against post-treatment weight regain",
+        "url": "https://theomniview.blogspot.com/2026/06/the-glp-1-rebound-audit-how-to-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "GLP-1 weight regain",
+          "metabolic health",
+          "semaglutide maintenance"
+        ],
+        "slug": "the-glp-1-rebound-audit-how-to-stress-test-your-metabolic-maintenance-against-po",
+        "published_at": "2026-06-08T00:03:30+00:00",
+        "word_count": 979,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
