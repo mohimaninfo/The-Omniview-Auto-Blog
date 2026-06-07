@@ -9990,5 +9990,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4425943071869233454",
+    "title": "The 'nuclear-deterrence' sovereignty audit: how to stress-test your household energy security against regional conflict spikes",
+    "url": "https://theomniview.blogspot.com/2026/06/the-nuclear-deterrence-sovereignty.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Opinion & Analysis",
+      "energy security",
+      "geopolitical risk",
+      "household resilience"
+    ],
+    "slug": "the-nuclear-deterrence-sovereignty-audit-how-to-stress-test-your-household-energ",
+    "published_at": "2026-06-07T17:08:14+00:00",
+    "word_count": 870,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6425844118826474158",
+    "title": "The 'Event Horizon' Gravity Audit: How to Stress-Test General Relativity Against JWST\u2019s Dormant Black Hole Data",
+    "url": "https://theomniview.blogspot.com/2026/06/the-event-horizon-gravity-audit-how-to.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "general relativity",
+      "JWST",
+      "black hole mass"
+    ],
+    "slug": "the-event-horizon-gravity-audit-how-to-stress-test-general-relativity-against-jw",
+    "published_at": "2026-06-07T17:09:33+00:00",
+    "word_count": 965,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
