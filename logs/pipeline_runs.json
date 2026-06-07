@@ -11566,5 +11566,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T06:56:19.235996",
+    "run_end": "2026-06-07T06:57:15.761796",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "233015684893097520",
+        "title": "The 'supplement-scam' audit: how to stress-test your gut health regimen against clinical-grade marketing",
+        "url": "https://theomniview.blogspot.com/2026/06/the-supplement-scam-audit-how-to-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "gut health supplements",
+          "microbiome health",
+          "nutrition audit"
+        ],
+        "slug": "the-supplement-scam-audit-how-to-stress-test-your-gut-health-regimen-against-cli",
+        "published_at": "2026-06-07T07:01:44+00:00",
+        "word_count": 837,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7055408472040104159",
+        "title": "The 'subscription-fatigue' audit: how to stress-test your streaming budget against recurring price hikes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-subscription-fatigue-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "streaming budget",
+          "subscription fatigue",
+          "cut the cord"
+        ],
+        "slug": "the-subscription-fatigue-audit-how-to-stress-test-your-streaming-budget-against-",
+        "published_at": "2026-06-07T07:02:15+00:00",
+        "word_count": 925,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
