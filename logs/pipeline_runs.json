@@ -11618,5 +11618,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T09:56:09.985141",
+    "run_end": "2026-06-07T09:57:57.224256",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2005141166449219201",
+        "title": "The 'self-custody' tax audit: how to stress-test your crypto portfolio against 1099-NEC reporting traps",
+        "url": "https://theomniview.blogspot.com/2026/06/the-self-custody-tax-audit-how-to.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Explainers",
+          "crypto tax reporting",
+          "self-custody wallet audit",
+          "1099-NEC crypto"
+        ],
+        "slug": "the-self-custody-tax-audit-how-to-stress-test-your-crypto-portfolio-against-1099",
+        "published_at": "2026-06-07T10:01:59+00:00",
+        "word_count": 1213,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "3712398524814238306",
+        "title": "The 'Pathogen-Exposure' Travel Audit: How to Stress-Test Your Immune Resilience Against Global Disease Spikes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-pathogen-exposure-travel-audit-how.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "How-To Guides",
+          "immune resilience",
+          "travel health safety",
+          "pathogen exposure"
+        ],
+        "slug": "the-pathogen-exposure-travel-audit-how-to-stress-test-your-immune-resilience-aga",
+        "published_at": "2026-06-07T10:02:56+00:00",
+        "word_count": 1012,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
