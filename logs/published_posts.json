@@ -9902,5 +9902,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6732675313624237091",
+    "title": "The 'behind-the-meter' solar audit: how to shield your home grid from ai-driven data center voltage sag",
+    "url": "https://theomniview.blogspot.com/2026/06/the-behind-meter-solar-audit-how-to.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Case Studies",
+      "behind-the-meter solar",
+      "grid stability",
+      "data center energy consumption"
+    ],
+    "slug": "the-behind-the-meter-solar-audit-how-to-shield-your-home-grid-from-ai-driven-dat",
+    "published_at": "2026-06-07T13:21:32+00:00",
+    "word_count": 725,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5386141602197645398",
+    "title": "The '1099-Crypto' Liquidity Audit: How to Stress-Test Your Asset Allocation Against Unexpected Tax Liabilities",
+    "url": "https://theomniview.blogspot.com/2026/06/the-1099-crypto-liquidity-audit-how-to.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "reviews",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Reviews",
+      "crypto tax audit",
+      "1099-NEC crypto reporting",
+      "asset allocation strategy"
+    ],
+    "slug": "the-1099-crypto-liquidity-audit-how-to-stress-test-your-asset-allocation-against",
+    "published_at": "2026-06-07T13:22:07+00:00",
+    "word_count": 628,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
