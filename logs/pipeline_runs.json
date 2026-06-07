@@ -11670,5 +11670,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T11:42:48.385336",
+    "run_end": "2026-06-07T11:44:08.208838",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4103171115350255360",
+        "title": "The 'bot-traffic' security audit: how to shield your website from AI-driven credential stuffing and scraping",
+        "url": "https://theomniview.blogspot.com/2026/06/the-bot-traffic-security-audit-how-to.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "How-To Guides",
+          "bot traffic protection",
+          "credential stuffing",
+          "AI web scraping"
+        ],
+        "slug": "the-bot-traffic-security-audit-how-to-shield-your-website-from-ai-driven-credent",
+        "published_at": "2026-06-07T11:48:37+00:00",
+        "word_count": 875,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2433628957713214370",
+        "title": "The 'Deepfake-Dubbing' Audit: How to Shield Your Streaming Experience From AI-Driven Voice Replacement",
+        "url": "https://theomniview.blogspot.com/2026/06/the-deepfake-dubbing-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "AI voice cloning",
+          "streaming services",
+          "deepfake dubbing"
+        ],
+        "slug": "the-deepfake-dubbing-audit-how-to-shield-your-streaming-experience-from-ai-drive",
+        "published_at": "2026-06-07T11:49:07+00:00",
+        "word_count": 950,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
