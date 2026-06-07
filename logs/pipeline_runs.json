@@ -11878,5 +11878,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T19:03:15.192174",
+    "run_end": "2026-06-07T19:06:31.323054",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2791657363797374363",
+        "title": "The 'Synthetic-Customer' Audit: How to Stress-Test Your Ecommerce Conversion Funnel Against Non-Human Bot Traffic",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-customer-audit-how-to.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Listicles",
+          "ecommerce bot traffic",
+          "conversion rate optimization",
+          "ad spend fraud"
+        ],
+        "slug": "the-synthetic-customer-audit-how-to-stress-test-your-ecommerce-conversion-funnel",
+        "published_at": "2026-06-07T19:10:00+00:00",
+        "word_count": 953,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6751559405996676012",
+        "title": "The 'Nuclear-Proximity' Infrastructure Audit: How to Stress-Test Your Property Value Against Escalating Conflict Zones",
+        "url": "https://theomniview.blogspot.com/2026/06/the-nuclear-proximity-infrastructure.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Research Articles",
+          "nuclear conflict risk",
+          "property asset protection",
+          "geopolitical real estate impact"
+        ],
+        "slug": "the-nuclear-proximity-infrastructure-audit-how-to-stress-test-your-property-valu",
+        "published_at": "2026-06-07T19:11:30+00:00",
+        "word_count": 987,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
