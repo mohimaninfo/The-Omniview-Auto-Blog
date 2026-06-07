@@ -11982,5 +11982,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-07T22:01:10.303754",
+    "run_end": "2026-06-07T22:03:04.050917",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8186961708060150874",
+        "title": "The 'bandwidth-thirst' streaming audit: how to stress-test your home network against AI data center grid-stress",
+        "url": "https://theomniview.blogspot.com/2026/06/the-bandwidth-thirst-streaming-audit.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Latest News",
+          "streaming quality",
+          "data center energy consumption",
+          "home network stability"
+        ],
+        "slug": "the-bandwidth-thirst-streaming-audit-how-to-stress-test-your-home-network-agains",
+        "published_at": "2026-06-07T22:07:13+00:00",
+        "word_count": 739,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1019814234216972629",
+        "title": "The 'GLP-1' muscle-wasting audit: how to stress-test your body composition against the hidden metabolic costs of weight-loss drugs",
+        "url": "https://theomniview.blogspot.com/2026/06/the-glp-1-muscle-wasting-audit-how-to.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "GLP-1 muscle loss",
+          "body composition",
+          "metabolic health"
+        ],
+        "slug": "the-glp-1-muscle-wasting-audit-how-to-stress-test-your-body-composition-against-",
+        "published_at": "2026-06-07T22:08:03+00:00",
+        "word_count": 1074,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
