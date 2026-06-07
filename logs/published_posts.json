@@ -10078,5 +10078,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6330974470846121269",
+    "title": "The 'algorithmic-dropout' classroom audit: how to shield student academic records from ai-driven predictive risk scoring",
+    "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-dropout-classroom-audit.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "How-To Guides",
+      "student data privacy",
+      "AI in education",
+      "predictive analytics in schools"
+    ],
+    "slug": "the-algorithmic-dropout-classroom-audit-how-to-shield-student-academic-records-f",
+    "published_at": "2026-06-07T21:04:47+00:00",
+    "word_count": 875,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2754432906461404201",
+    "title": "The 'Hydraulic-Debt' Classroom Audit: How to Shield K-12 Digital Infrastructure from AI Data Center Water Scarcity",
+    "url": "https://theomniview.blogspot.com/2026/06/the-hydraulic-debt-classroom-audit-how.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Research Articles",
+      "AI water consumption",
+      "edtech infrastructure",
+      "K-12 sustainability"
+    ],
+    "slug": "the-hydraulic-debt-classroom-audit-how-to-shield-k-12-digital-infrastructure-fro",
+    "published_at": "2026-06-07T21:05:46+00:00",
+    "word_count": 981,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
