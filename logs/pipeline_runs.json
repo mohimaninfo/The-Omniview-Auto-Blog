@@ -12242,5 +12242,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-08T16:42:33.018694",
+    "run_end": "2026-06-08T16:44:01.887806",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1892147921547363491",
+        "title": "The 'tent-city' compute audit: how to stress-test your enterprise latency against makeshift ai data center infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/06/the-tent-city-compute-audit-how-to.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "AI data center reliability",
+          "compute latency",
+          "cloud infrastructure risk"
+        ],
+        "slug": "the-tent-city-compute-audit-how-to-stress-test-your-enterprise-latency-against-m",
+        "published_at": "2026-06-08T16:48:07+00:00",
+        "word_count": 932,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7116835546743862509",
+        "title": "The 'disappointment meter' neuro-audit: how to stress-test your decision-making against dopamine-depleted reward circuits",
+        "url": "https://theomniview.blogspot.com/2026/06/the-disappointment-meter-neuro-audit.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Explainers",
+          "disappointment neurons",
+          "neurobiology of expectations",
+          "dopamine reward circuits"
+        ],
+        "slug": "the-disappointment-meter-neuro-audit-how-to-stress-test-your-decision-making-aga",
+        "published_at": "2026-06-08T16:49:01+00:00",
+        "word_count": 1055,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
