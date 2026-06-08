@@ -10210,5 +10210,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "155542220364141931",
+    "title": "The 'forced-labor' supply-chain audit: how to stress-test your household consumption against new tariff-driven inflation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-forced-labor-supply-chain-audit-how.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Latest News",
+      "forced labor tariffs",
+      "supply chain inequality",
+      "inflationary pressure"
+    ],
+    "slug": "the-forced-labor-supply-chain-audit-how-to-stress-test-your-household-consumptio",
+    "published_at": "2026-06-08T02:51:44+00:00",
+    "word_count": 802,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "829506724727903339",
+    "title": "The 'cosmic-ray' deep-space audit: how to stress-test your satellite hardware against jupiter\u2019s radiation environment",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cosmic-ray-deep-space-audit-how-to.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "listicles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Listicles",
+      "cosmic rays",
+      "space radiation",
+      "Juno mission"
+    ],
+    "slug": "the-cosmic-ray-deep-space-audit-how-to-stress-test-your-satellite-hardware-again",
+    "published_at": "2026-06-08T02:52:38+00:00",
+    "word_count": 873,
+    "has_video": false,
+    "image_count": 2,
+    "reference_count": 4
   }
 ]
