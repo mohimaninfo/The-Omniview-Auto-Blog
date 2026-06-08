@@ -12294,5 +12294,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-08T19:13:19.661008",
+    "run_end": "2026-06-08T19:14:37.932901",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5884275747293209137",
+        "title": "the 'inheritance-tax' pivot audit: how to stress-test your roth ira rollover strategy against shifting federal fiscal policy",
+        "url": "https://theomniview.blogspot.com/2026/06/the-inheritance-tax-pivot-audit-how-to.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Research Articles",
+          "Roth IRA rollover",
+          "inheritance tax planning",
+          "fiscal policy risk"
+        ],
+        "slug": "the-inheritance-tax-pivot-audit-how-to-stress-test-your-roth-ira-rollover-strate",
+        "published_at": "2026-06-08T19:19:05+00:00",
+        "word_count": 1082,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3770516855592590162",
+        "title": "The 'Sleep-Stimulation' Cognitive Audit: How to Stress-Test Your Memory Consolidation Without Closing Your Eyes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-sleep-stimulation-cognitive-audit.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "how-to-guides",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "How-To Guides",
+          "memory consolidation",
+          "neuroscience of sleep",
+          "cognitive enhancement"
+        ],
+        "slug": "the-sleep-stimulation-cognitive-audit-how-to-stress-test-your-memory-consolidati",
+        "published_at": "2026-06-08T19:19:36+00:00",
+        "word_count": 856,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
