@@ -12398,5 +12398,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-08T23:06:09.220164",
+    "run_end": "2026-06-08T23:07:06.552704",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9167768016484259428",
+        "title": "the 'kill-switch' privacy audit: how to stress-test your vehicle\u2019s connectivity against federal driver-monitoring mandates \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kill-switch-privacy-audit-how-to_01590535540.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "How-To Guides",
+          "vehicle privacy",
+          "driver monitoring technology",
+          "data privacy rights"
+        ],
+        "slug": "the-kill-switch-privacy-audit-how-to-stress-test-your-vehicles-connectivity-agai",
+        "published_at": "2026-06-08T23:11:31+00:00",
+        "word_count": 861,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1688591653059640091",
+        "title": "The 'windfall-volatility' crypto audit: 7 stress-tests for deploying sudden digital asset inheritance \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-windfall-volatility-crypto-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "crypto inheritance",
+          "digital asset management",
+          "cryptocurrency tax planning"
+        ],
+        "slug": "the-windfall-volatility-crypto-audit-7-stress-tests-for-deploying-sudden-digital",
+        "published_at": "2026-06-08T23:12:06+00:00",
+        "word_count": 906,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
