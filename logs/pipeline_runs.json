@@ -12346,5 +12346,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-08T21:39:44.331657",
+    "run_end": "2026-06-08T21:40:34.524100",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "421461017114919437",
+        "title": "The 'Kill-Switch' Privacy Audit: How to Stress-Test Your Vehicle\u2019s Connectivity Against Federal Driver-Monitoring Mandates",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kill-switch-privacy-audit-how-to.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Reviews",
+          "vehicle privacy",
+          "driver monitoring technology",
+          "automotive cybersecurity"
+        ],
+        "slug": "the-kill-switch-privacy-audit-how-to-stress-test-your-vehicles-connectivity-agai",
+        "published_at": "2026-06-08T21:45:06+00:00",
+        "word_count": 625,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1674050789123558336",
+        "title": "The 'equity-split' liquidity audit: 7 stress-tests for choosing between RSUs, cash, and bonuses",
+        "url": "https://theomniview.blogspot.com/2026/06/the-equity-split-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Listicles",
+          "startup equity compensation",
+          "RSU vs cash",
+          "startup financial planning"
+        ],
+        "slug": "the-equity-split-liquidity-audit-7-stress-tests-for-choosing-between-rsus-cash-a",
+        "published_at": "2026-06-08T21:45:34+00:00",
+        "word_count": 845,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
