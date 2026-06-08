@@ -10298,5 +10298,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "7688217287405345114",
+    "title": "The 'hydro-pantry' audit: how to stress-test your home cooking against regional water scarcity from AI data center expansion",
+    "url": "https://theomniview.blogspot.com/2026/06/the-hydro-pantry-audit-how-to-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Reviews",
+      "home cooking",
+      "water conservation",
+      "AI data center impact"
+    ],
+    "slug": "the-hydro-pantry-audit-how-to-stress-test-your-home-cooking-against-regional-wat",
+    "published_at": "2026-06-08T12:25:24+00:00",
+    "word_count": 514,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1241662122528417313",
+    "title": "The 'aquatic-depletion' watershed audit: how to stress-test your local ecosystem\u2019s resilience against AI data center cooling requirements",
+    "url": "https://theomniview.blogspot.com/2026/06/the-aquatic-depletion-watershed-audit.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Research Articles",
+      "AI data center water consumption",
+      "watershed conservation",
+      "ecosystem resilience"
+    ],
+    "slug": "the-aquatic-depletion-watershed-audit-how-to-stress-test-your-local-ecosystems-r",
+    "published_at": "2026-06-08T12:26:18+00:00",
+    "word_count": 971,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
