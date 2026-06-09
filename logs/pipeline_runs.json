@@ -12606,5 +12606,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-09T12:29:39.994327",
+    "run_end": "2026-06-09T12:30:45.957355",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9152591600933020818",
+        "title": "The 'AI-Exemption' Compliance Audit: How to Shield Your Remote-Work Workflow From Mandatory AI Integration",
+        "url": "https://theomniview.blogspot.com/2026/06/the-ai-exemption-compliance-audit-how.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote work AI policy",
+          "workplace AI exemption",
+          "AI at work rights"
+        ],
+        "slug": "the-ai-exemption-compliance-audit-how-to-shield-your-remote-work-workflow-from-m",
+        "published_at": "2026-06-09T12:35:09+00:00",
+        "word_count": 1035,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3918817845471514940",
+        "title": "The 'Smart-Glass' Surveillance Audit: How to Stress-Test Your K-12 Privacy Policy Against Emerging Wearable Recording Laws",
+        "url": "https://theomniview.blogspot.com/2026/06/the-smart-glass-surveillance-audit-how.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "case-studies",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Case Studies",
+          "k12 privacy policy",
+          "smart glasses in schools",
+          "student data protection"
+        ],
+        "slug": "the-smart-glass-surveillance-audit-how-to-stress-test-your-k-12-privacy-policy-a",
+        "published_at": "2026-06-09T12:35:45+00:00",
+        "word_count": 718,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
