@@ -10518,5 +10518,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3791398781540832751",
+    "title": "The 'Visual-Indicator' Compliance Audit: How to Stress-Test Your Smart Wearable Marketing Against Emerging Privacy Legislation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-visual-indicator-compliance-audit.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Research Articles",
+      "smart glasses privacy",
+      "wearable marketing compliance",
+      "recording light legislation"
+    ],
+    "slug": "the-visual-indicator-compliance-audit-how-to-stress-test-your-smart-wearable-mar",
+    "published_at": "2026-06-09T01:59:43+00:00",
+    "word_count": 990,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "247513544901711973",
+    "title": "The 'Right-to-Repair' Hardware Audit: How to Stress-Test Your AI-Ready Devices Against Planned Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/06/the-right-to-repair-hardware-audit-how.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "right to repair",
+      "circular economy",
+      "AI hardware"
+    ],
+    "slug": "the-right-to-repair-hardware-audit-how-to-stress-test-your-ai-ready-devices-agai",
+    "published_at": "2026-06-09T02:00:23+00:00",
+    "word_count": 967,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
