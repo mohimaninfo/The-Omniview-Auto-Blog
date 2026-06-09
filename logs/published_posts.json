@@ -10782,5 +10782,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7020906893486462196",
+    "title": "The 'algorithmic-licensing' audit: how to stress-test your streaming library against sudden platform content purges",
+    "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-licensing-audit-how-to.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Reviews",
+      "streaming library",
+      "digital content ownership",
+      "platform de-platforming"
+    ],
+    "slug": "the-algorithmic-licensing-audit-how-to-stress-test-your-streaming-library-agains",
+    "published_at": "2026-06-09T19:59:14+00:00",
+    "word_count": 603,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3196773327714459933",
+    "title": "The 'PTSD-dimorphism' neuro-audit: how to stress-test your mental health resilience against sex-specific stress responses",
+    "url": "https://theomniview.blogspot.com/2026/06/the-ptsd-dimorphism-neuro-audit-how-to.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Research Articles",
+      "PTSD treatment",
+      "neurobiology of trauma",
+      "sex-specific mental health"
+    ],
+    "slug": "the-ptsd-dimorphism-neuro-audit-how-to-stress-test-your-mental-health-resilience",
+    "published_at": "2026-06-09T19:59:40+00:00",
+    "word_count": 1005,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
