@@ -12502,5 +12502,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-09T05:58:51.902633",
+    "run_end": "2026-06-09T06:01:04.313002",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7916229579816645386",
+        "title": "The 'Islanding' Resilience Audit: How to Shield Your Home Solar Array from AI Data Center Grid-Stress",
+        "url": "https://theomniview.blogspot.com/2026/06/the-islanding-resilience-audit-how-to.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "How-To Guides",
+          "home solar resilience",
+          "micro-grid islanding",
+          "data center power demand"
+        ],
+        "slug": "the-islanding-resilience-audit-how-to-shield-your-home-solar-array-from-ai-data-",
+        "published_at": "2026-06-09T06:04:40+00:00",
+        "word_count": 982,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3944965202244218500",
+        "title": "The 'caffeine-minimalist' training audit: how to stress-test your workout intensity against cortisol-caffeine spikes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-caffeine-minimalist-training-audit.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "How-To Guides",
+          "caffeine minimalist",
+          "workout intensity",
+          "pre-workout alternatives"
+        ],
+        "slug": "the-caffeine-minimalist-training-audit-how-to-stress-test-your-workout-intensity",
+        "published_at": "2026-06-09T06:06:03+00:00",
+        "word_count": 818,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
