@@ -12866,5 +12866,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-09T23:08:14.416987",
+    "run_end": "2026-06-09T23:09:36.632936",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3059203546455208902",
+        "title": "The 'Late-Night' Nutrition Audit: How to Stress-Test Your Gut Health Against Circadian Eating Disruptions",
+        "url": "https://theomniview.blogspot.com/2026/06/the-late-night-nutrition-audit-how-to.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "gut health",
+          "circadian rhythm",
+          "nutrition audit"
+        ],
+        "slug": "the-late-night-nutrition-audit-how-to-stress-test-your-gut-health-against-circad",
+        "published_at": "2026-06-09T23:14:00+00:00",
+        "word_count": 867,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3325167894444610656",
+        "title": "The 'Digital-Ghost' Residuals Audit: How to Stress-Test Your Acting Career Against AI-Driven Voice and Likeness Licensing",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-ghost-residuals-audit-how.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Explainers",
+          "AI voice cloning",
+          "actor residuals",
+          "digital replica rights"
+        ],
+        "slug": "the-digital-ghost-residuals-audit-how-to-stress-test-your-acting-career-against-",
+        "published_at": "2026-06-09T23:14:36+00:00",
+        "word_count": 1014,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
