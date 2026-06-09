@@ -10606,5 +10606,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8744381145469169478",
+    "title": "The 'Privacy-Indicator' Compliance Audit: How to Stress-Test Your Ecommerce Wearables Against New Recording Laws",
+    "url": "https://theomniview.blogspot.com/2026/06/the-privacy-indicator-compliance-audit.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Listicles",
+      "ecommerce compliance",
+      "smart glasses privacy",
+      "wearable technology law"
+    ],
+    "slug": "the-privacy-indicator-compliance-audit-how-to-stress-test-your-ecommerce-wearabl",
+    "published_at": "2026-06-09T09:45:19+00:00",
+    "word_count": 930,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1375566770349652914",
+    "title": "The 'Inheritance-Velocity' Audit: How to Stress-Test Your Financial Sanity Against Sudden Windfall Exposure",
+    "url": "https://theomniview.blogspot.com/2026/06/the-inheritance-velocity-audit-how-to.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Opinion & Analysis",
+      "sudden wealth syndrome",
+      "financial sanity check",
+      "inheritance tax planning"
+    ],
+    "slug": "the-inheritance-velocity-audit-how-to-stress-test-your-financial-sanity-against-",
+    "published_at": "2026-06-09T09:46:22+00:00",
+    "word_count": 781,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
