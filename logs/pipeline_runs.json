@@ -12658,5 +12658,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-09T15:49:26.835153",
+    "run_end": "2026-06-09T15:51:08.356986",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6017515210977513408",
+        "title": "The 'Microplastic-Clearance' Audit: How to Stress-Test Your IV Therapy Regimen Against Emerging Bioavailability Research",
+        "url": "https://theomniview.blogspot.com/2026/06/the-microplastic-clearance-audit-how-to.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "IV therapy",
+          "microplastics",
+          "bioavailability"
+        ],
+        "slug": "the-microplastic-clearance-audit-how-to-stress-test-your-iv-therapy-regimen-agai",
+        "published_at": "2026-06-09T15:55:18+00:00",
+        "word_count": 1179,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "158677365546140121",
+        "title": "The 'Drought-Zone' Data Center Audit: How to Stress-Test Your Municipal Water Security Against AI Cooling Demands \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-drought-zone-data-center-audit-how.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Latest News",
+          "data center water usage",
+          "AI climate impact",
+          "municipal water security"
+        ],
+        "slug": "the-drought-zone-data-center-audit-how-to-stress-test-your-municipal-water-secur",
+        "published_at": "2026-06-09T15:56:07+00:00",
+        "word_count": 702,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
