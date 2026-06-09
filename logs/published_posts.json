@@ -10826,5 +10826,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7843727611174004032",
+    "title": "The 'smart-light' privacy audit: how to stress-test your home security against mandatory recording indicators",
+    "url": "https://theomniview.blogspot.com/2026/06/the-smart-light-privacy-audit-how-to.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "reviews",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Reviews",
+      "smart glasses privacy",
+      "home security laws",
+      "recording indicator compliance"
+    ],
+    "slug": "the-smart-light-privacy-audit-how-to-stress-test-your-home-security-against-mand",
+    "published_at": "2026-06-09T21:33:37+00:00",
+    "word_count": 634,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5424284961627590647",
+    "title": "The 'grid-synchronization' audit: how to stress-test your home solar inverter against AI-driven frequency instability",
+    "url": "https://theomniview.blogspot.com/2026/06/the-grid-synchronization-audit-how-to.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "solar inverter",
+      "grid stability",
+      "renewable energy"
+    ],
+    "slug": "the-grid-synchronization-audit-how-to-stress-test-your-home-solar-inverter-again",
+    "published_at": "2026-06-09T21:33:58+00:00",
+    "word_count": 945,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
