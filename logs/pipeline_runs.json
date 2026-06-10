@@ -13126,5 +13126,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-10T17:49:02.134834",
+    "run_end": "2026-06-10T17:49:45.532602",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8676936007474919504",
+        "title": "The 'drone-swarm' logistics audit: how to stress-test your household supply chain against autonomous transit disruptions",
+        "url": "https://theomniview.blogspot.com/2026/06/the-drone-swarm-logistics-audit-how-to.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "autonomous drone logistics",
+          "supply chain resilience",
+          "last-mile delivery disruption"
+        ],
+        "slug": "the-drone-swarm-logistics-audit-how-to-stress-test-your-household-supply-chain-a",
+        "published_at": "2026-06-10T17:54:22+00:00",
+        "word_count": 1016,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2095110765529350895",
+        "title": "The 'Grid-Defection' Policy Audit: How to Stress-Test Your Home Solar Autonomy Against AI Data Center Power-Hoarding",
+        "url": "https://theomniview.blogspot.com/2026/06/the-grid-defection-policy-audit-how-to.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "home solar autonomy",
+          "energy independence",
+          "AI data center power"
+        ],
+        "slug": "the-grid-defection-policy-audit-how-to-stress-test-your-home-solar-autonomy-agai",
+        "published_at": "2026-06-10T17:54:44+00:00",
+        "word_count": 948,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
