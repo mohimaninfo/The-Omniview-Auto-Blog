@@ -11134,5 +11134,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1456081470646592804",
+    "title": "The 'Grid-Congestion' Audit: How to Stress-Test Your Home Solar Array Against AI Data Center Voltage Sags",
+    "url": "https://theomniview.blogspot.com/2026/06/the-grid-congestion-audit-how-to-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "solar energy resilience",
+      "grid congestion",
+      "AI data center energy"
+    ],
+    "slug": "the-grid-congestion-audit-how-to-stress-test-your-home-solar-array-against-ai-da",
+    "published_at": "2026-06-10T20:12:09+00:00",
+    "word_count": 970,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2313275978233653766",
+    "title": "The 'Analog-Resilience' Audit: 7 Stress-Tests for Your Home-Living Infrastructure Against Smart-Tech Blackouts",
+    "url": "https://theomniview.blogspot.com/2026/06/the-analog-resilience-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Listicles",
+      "smart home security",
+      "home energy resilience",
+      "analog home backup"
+    ],
+    "slug": "the-analog-resilience-audit-7-stress-tests-for-your-home-living-infrastructure-a",
+    "published_at": "2026-06-10T20:12:30+00:00",
+    "word_count": 836,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
