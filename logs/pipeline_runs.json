@@ -12970,5 +12970,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-10T06:55:48.865131",
+    "run_end": "2026-06-10T06:56:36.210507",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2959797526018358236",
+        "title": "The 'Return-to-Office' Mental Health Audit: How to Stress-Test Your Cognitive Boundaries Against Workplace Reintegration",
+        "url": "https://theomniview.blogspot.com/2026/06/the-return-to-office-mental-health.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Latest News",
+          "mental health at work",
+          "return to office anxiety",
+          "chronic illness workplace support"
+        ],
+        "slug": "the-return-to-office-mental-health-audit-how-to-stress-test-your-cognitive-bound",
+        "published_at": "2026-06-10T07:01:16+00:00",
+        "word_count": 783,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3874704889162203884",
+        "title": "The 'Satellite-Jamming' Sovereignty Audit: How to Stress-Test Your Household Navigation and Logistics Against Continental GPS Blackouts",
+        "url": "https://theomniview.blogspot.com/2026/06/the-satellite-jamming-sovereignty-audit.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Case Studies",
+          "GPS jamming",
+          "satellite interference",
+          "navigation resilience"
+        ],
+        "slug": "the-satellite-jamming-sovereignty-audit-how-to-stress-test-your-household-naviga",
+        "published_at": "2026-06-10T07:01:35+00:00",
+        "word_count": 748,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
