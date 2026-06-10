@@ -12918,5 +12918,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-10T02:05:20.429843",
+    "run_end": "2026-06-10T02:06:19.627899",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8093057503121581977",
+        "title": "The 'hallucination-liability' classroom audit: how to stress-test your district\u2019s legal exposure against AI-generated misinformation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-hallucination-liability-classroom.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "AI in education",
+          "edtech legal liability",
+          "AI hallucinations"
+        ],
+        "slug": "the-hallucination-liability-classroom-audit-how-to-stress-test-your-districts-le",
+        "published_at": "2026-06-10T02:10:37+00:00",
+        "word_count": 882,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "891945285427787962",
+        "title": "The 'Deepfake-Casting' Residuals Audit: How to Stress-Test Your Acting Career Against AI-Driven Likeness Licensing \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-deepfake-casting-residuals-audit.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Listicles",
+          "AI likeness licensing",
+          "actor residuals",
+          "generative AI in Hollywood"
+        ],
+        "slug": "the-deepfake-casting-residuals-audit-how-to-stress-test-your-acting-career-again",
+        "published_at": "2026-06-10T02:11:19+00:00",
+        "word_count": 1157,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
