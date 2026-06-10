@@ -13022,5 +13022,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-10T10:48:07.421492",
+    "run_end": "2026-06-10T10:49:09.518751",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3003895255478007719",
+        "title": "The 'synthetic-performer' compliance audit: how to stress-test your production workflow against new AI disclosure laws",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-performer-compliance.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "AI disclosure laws",
+          "synthetic performers",
+          "AI content regulation"
+        ],
+        "slug": "the-synthetic-performer-compliance-audit-how-to-stress-test-your-production-work",
+        "published_at": "2026-06-10T10:53:30+00:00",
+        "word_count": 942,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5788406685665789669",
+        "title": "The 'synthetic-partner' intimacy audit: how to stress-test your romantic relationship against AI-generated parasocial mimicry",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-partner-intimacy-audit.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "How-To Guides",
+          "AI relationship impact",
+          "digital intimacy",
+          "parasocial relationships"
+        ],
+        "slug": "the-synthetic-partner-intimacy-audit-how-to-stress-test-your-romantic-relationsh",
+        "published_at": "2026-06-10T10:54:08+00:00",
+        "word_count": 985,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
