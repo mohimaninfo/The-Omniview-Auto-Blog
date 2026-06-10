@@ -13074,5 +13074,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-10T14:15:44.253447",
+    "run_end": "2026-06-10T14:16:30.556911",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1190613344096212684",
+        "title": "The 'gps-denial' logistics audit: how to stress-test your household supply chain against continental satellite jamming",
+        "url": "https://theomniview.blogspot.com/2026/06/the-gps-denial-logistics-audit-how-to.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Latest News",
+          "GPS jamming",
+          "supply chain resilience",
+          "digital infrastructure"
+        ],
+        "slug": "the-gps-denial-logistics-audit-how-to-stress-test-your-household-supply-chain-ag",
+        "published_at": "2026-06-10T14:21:06+00:00",
+        "word_count": 860,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2255181162578869139",
+        "title": "The 'thermal-load' hardware audit: how to stress-test your home energy footprint against AI-driven smart device updates",
+        "url": "https://theomniview.blogspot.com/2026/06/the-thermal-load-hardware-audit-how-to.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "listicles",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Listicles",
+          "sustainable smart home",
+          "energy efficiency",
+          "IoT hardware lifespan"
+        ],
+        "slug": "the-thermal-load-hardware-audit-how-to-stress-test-your-home-energy-footprint-ag",
+        "published_at": "2026-06-10T14:21:29+00:00",
+        "word_count": 887,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
