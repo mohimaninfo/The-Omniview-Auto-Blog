@@ -11442,5 +11442,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8551272271485453485",
+    "title": "The 'pantry-sovereignty' audit: 7 stress-tests for your home cooking against ai-driven supply chain inflation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-pantry-sovereignty-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Listicles",
+      "food inflation",
+      "pantry staples",
+      "supply chain resilience"
+    ],
+    "slug": "the-pantry-sovereignty-audit-7-stress-tests-for-your-home-cooking-against-ai-dri",
+    "published_at": "2026-06-11T20:28:10+00:00",
+    "word_count": 747,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1057207392026620144",
+    "title": "The 'Neuro-Plasticity' Aging Audit: How to Stress-Test Your Cognitive Reserve Against Vitamin C Deficiency",
+    "url": "https://theomniview.blogspot.com/2026/06/the-neuro-plasticity-aging-audit-how-to.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Opinion & Analysis",
+      "cognitive reserve",
+      "neuroscience of aging",
+      "Vitamin C brain health"
+    ],
+    "slug": "the-neuro-plasticity-aging-audit-how-to-stress-test-your-cognitive-reserve-again",
+    "published_at": "2026-06-11T20:28:31+00:00",
+    "word_count": 844,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
