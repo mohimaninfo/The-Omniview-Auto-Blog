@@ -11354,5 +11354,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "142358057374151966",
+    "title": "The 'botsitting' productivity audit: 7 stress-tests for reclaiming your career from AI-management tasks",
+    "url": "https://theomniview.blogspot.com/2026/06/the-botsitting-productivity-audit-7.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "How-To Guides",
+      "botsitting",
+      "career burnout",
+      "AI productivity"
+    ],
+    "slug": "the-botsitting-productivity-audit-7-stress-tests-for-reclaiming-your-career-from",
+    "published_at": "2026-06-11T14:33:12+00:00",
+    "word_count": 984,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "63442014022992536",
+    "title": "The 'Liability-Shift' Leadership Audit: How to Stress-Test Your Executive Decisions Against AI Hallucination Lawsuits",
+    "url": "https://theomniview.blogspot.com/2026/06/the-liability-shift-leadership-audit.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Opinion & Analysis",
+      "AI liability",
+      "executive accountability",
+      "corporate governance"
+    ],
+    "slug": "the-liability-shift-leadership-audit-how-to-stress-test-your-executive-decisions",
+    "published_at": "2026-06-11T14:33:55+00:00",
+    "word_count": 996,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
