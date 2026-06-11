@@ -13386,5 +13386,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-11T10:01:02.946877",
+    "run_end": "2026-06-11T10:02:12.510732",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8362915130848218813",
+        "title": "The 'Asset-Allocation' Rebalancing Audit: 7 Stress-Tests for Your Portfolio Against 2026 Interest Rate Volatility",
+        "url": "https://theomniview.blogspot.com/2026/06/the-asset-allocation-rebalancing-audit.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Research Articles",
+          "asset allocation",
+          "portfolio rebalancing",
+          "investment risk management"
+        ],
+        "slug": "the-asset-allocation-rebalancing-audit-7-stress-tests-for-your-portfolio-against",
+        "published_at": "2026-06-11T10:06:42+00:00",
+        "word_count": 920,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 7
+      },
+      {
+        "post_id": "4021199293729721188",
+        "title": "The 'Deep-Reading' Recovery Audit: 7 Stress-Tests for Reclaiming Your Attention Span in an AI-Summarized World",
+        "url": "https://theomniview.blogspot.com/2026/06/the-deep-reading-recovery-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Explainers",
+          "deep reading",
+          "attention span recovery",
+          "digital minimalism"
+        ],
+        "slug": "the-deep-reading-recovery-audit-7-stress-tests-for-reclaiming-your-attention-spa",
+        "published_at": "2026-06-11T10:07:11+00:00",
+        "word_count": 1149,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
