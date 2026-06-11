@@ -13282,5 +13282,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-11T00:07:07.012074",
+    "run_end": "2026-06-11T00:07:53.141974",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1815456418090755972",
+        "title": "The 'Non-Human' Conversion Audit: 7 Stress-Tests for Your Ecommerce Checkout Against AI-Driven Bot Fraud \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-non-human-conversion-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "ecommerce bot fraud",
+          "ai conversion fraud",
+          "preventing click fraud"
+        ],
+        "slug": "the-non-human-conversion-audit-7-stress-tests-for-your-ecommerce-checkout-agains",
+        "published_at": "2026-06-11T00:12:27+00:00",
+        "word_count": 871,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "294724810934487333",
+        "title": "the 'autonomous-perimeter' logistics audit: 7 stress-tests for your household supply chain against drone-swarm transit disruptions \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-autonomous-perimeter-logistics.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "autonomous drone logistics",
+          "supply chain resilience",
+          "last-mile delivery disruption"
+        ],
+        "slug": "the-autonomous-perimeter-logistics-audit-7-stress-tests-for-your-household-suppl",
+        "published_at": "2026-06-11T00:12:52+00:00",
+        "word_count": 808,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
