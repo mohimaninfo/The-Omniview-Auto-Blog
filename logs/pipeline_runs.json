@@ -13594,5 +13594,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-11T22:45:51.444193",
+    "run_end": "2026-06-11T22:46:37.660917",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2036578147924265889",
+        "title": "The 'proof-of-reserves' transparency audit: 7 stress-tests for your crypto exchange against 2026 insolvency risks",
+        "url": "https://theomniview.blogspot.com/2026/06/the-proof-of-reserves-transparency.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Latest News",
+          "proof of reserves",
+          "crypto exchange insolvency",
+          "digital asset security"
+        ],
+        "slug": "the-proof-of-reserves-transparency-audit-7-stress-tests-for-your-crypto-exchange",
+        "published_at": "2026-06-11T22:51:10+00:00",
+        "word_count": 810,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8927347641126245274",
+        "title": "the 'maritime-chokepoint' audit: how to stress-test your household supply chain against escalating strait of hormuz blockades \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-maritime-chokepoint-audit-how-to.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "Strait of Hormuz",
+          "supply chain resilience",
+          "global trade volatility"
+        ],
+        "slug": "the-maritime-chokepoint-audit-how-to-stress-test-your-household-supply-chain-aga",
+        "published_at": "2026-06-11T22:51:37+00:00",
+        "word_count": 892,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
