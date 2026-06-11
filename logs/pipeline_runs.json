@@ -13490,5 +13490,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-11T17:59:54.750597",
+    "run_end": "2026-06-11T18:00:59.404186",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5486318213048783276",
+        "title": "The 'uBlock-Exodus' audit: How to stress-test your remote-work browser security against forced ad-tracking",
+        "url": "https://theomniview.blogspot.com/2026/06/the-ublock-exodus-audit-how-to-stress.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "explainers",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Explainers",
+          "remote work security",
+          "browser privacy",
+          "uBlock Origin"
+        ],
+        "slug": "the-ublock-exodus-audit-how-to-stress-test-your-remote-work-browser-security-aga",
+        "published_at": "2026-06-11T18:05:23+00:00",
+        "word_count": 1015,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7668272120196633612",
+        "title": "The 'botsitting' leadership audit: how to stress-test your management workflow against AI-driven talent burnout",
+        "url": "https://theomniview.blogspot.com/2026/06/the-botsitting-leadership-audit-how-to.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "botsitting",
+          "AI burnout",
+          "leadership management"
+        ],
+        "slug": "the-botsitting-leadership-audit-how-to-stress-test-your-management-workflow-agai",
+        "published_at": "2026-06-11T18:05:59+00:00",
+        "word_count": 886,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
