@@ -11750,5 +11750,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5834121044527728081",
+    "title": "The 'Bug-Bounty' Integrity Audit: How to Stress-Test Your Vendor Security Strategy Against Post-Patch Payout Denials",
+    "url": "https://theomniview.blogspot.com/2026/06/the-bug-bounty-integrity-audit-how-to.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "bug bounty programs",
+      "software security audits",
+      "vulnerability disclosure"
+    ],
+    "slug": "the-bug-bounty-integrity-audit-how-to-stress-test-your-vendor-security-strategy-",
+    "published_at": "2026-06-12T19:02:15+00:00",
+    "word_count": 709,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8609482718010647164",
+    "title": "The 'Slime-Logic' Resilience Audit: How to Stress-Test Your Decision-Making Against Non-Neural Intelligence",
+    "url": "https://theomniview.blogspot.com/2026/06/the-slime-logic-resilience-audit-how-to.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Physics",
+      "Opinion & Analysis",
+      "slime mold physics",
+      "decentralized decision making",
+      "biological computing"
+    ],
+    "slug": "the-slime-logic-resilience-audit-how-to-stress-test-your-decision-making-against",
+    "published_at": "2026-06-12T19:02:36+00:00",
+    "word_count": 924,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
