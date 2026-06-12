@@ -13750,5 +13750,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-12T09:53:35.403363",
+    "run_end": "2026-06-12T09:54:34.387723",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6319163723742931474",
+        "title": "The 'Planned Obsolescence' Audit: How to Stress-Test Your Household Tech Against Circular Economy Standards",
+        "url": "https://theomniview.blogspot.com/2026/06/the-planned-obsolescence-audit-how-to.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "right to repair",
+          "planned obsolescence"
+        ],
+        "slug": "the-planned-obsolescence-audit-how-to-stress-test-your-household-tech-against-ci",
+        "published_at": "2026-06-12T09:58:58+00:00",
+        "word_count": 931,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3230006006042037089",
+        "title": "The 'debt-velocity' household audit: 7 stress-tests for your student loan payoff strategy against 2026 interest rate shifts",
+        "url": "https://theomniview.blogspot.com/2026/06/the-debt-velocity-household-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Explainers",
+          "student loan payoff strategy",
+          "debt vs investment",
+          "interest rate volatility"
+        ],
+        "slug": "the-debt-velocity-household-audit-7-stress-tests-for-your-student-loan-payoff-st",
+        "published_at": "2026-06-12T09:59:33+00:00",
+        "word_count": 1229,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
