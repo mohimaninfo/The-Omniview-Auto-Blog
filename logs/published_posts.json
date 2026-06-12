@@ -11838,5 +11838,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1053706343520252381",
+    "title": "The 'Surveillance Pricing' Audit: 7 Stress-Tests for Your Ecommerce Checkout Against Dynamic Algorithmic Markups",
+    "url": "https://theomniview.blogspot.com/2026/06/the-surveillance-pricing-audit-7-stress.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Reviews",
+      "surveillance pricing",
+      "ecommerce dynamic pricing",
+      "algorithmic transparency"
+    ],
+    "slug": "the-surveillance-pricing-audit-7-stress-tests-for-your-ecommerce-checkout-agains",
+    "published_at": "2026-06-12T23:11:14+00:00",
+    "word_count": 539,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2484935800082774301",
+    "title": "The 'thermal-refuge' conservation audit: how to stress-test your local wildlife corridors against ai data center heat-island effects",
+    "url": "https://theomniview.blogspot.com/2026/06/the-thermal-refuge-conservation-audit.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Case Studies",
+      "data center environmental impact",
+      "wildlife corridor conservation",
+      "urban heat island effect"
+    ],
+    "slug": "the-thermal-refuge-conservation-audit-how-to-stress-test-your-local-wildlife-cor",
+    "published_at": "2026-06-12T23:11:40+00:00",
+    "word_count": 770,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
