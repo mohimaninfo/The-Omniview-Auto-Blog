@@ -13646,5 +13646,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-12T00:13:23.025501",
+    "run_end": "2026-06-12T00:14:18.422003",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1147635415684157393",
+        "title": "The 'Decision-Latency' Leadership Audit: How to Stress-Test Your Executive Judgment Against AI-Driven Information Overload",
+        "url": "https://theomniview.blogspot.com/2026/06/the-decision-latency-leadership-audit.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "executive decision making",
+          "leadership strategy",
+          "AI cognitive load"
+        ],
+        "slug": "the-decision-latency-leadership-audit-how-to-stress-test-your-executive-judgment",
+        "published_at": "2026-06-12T00:18:54+00:00",
+        "word_count": 906,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5535644515387247364",
+        "title": "The 'FAST-Channel' saturation audit: how to stress-test your viewing habits against the rise of endless algorithmic reruns",
+        "url": "https://theomniview.blogspot.com/2026/06/the-fast-channel-saturation-audit-how.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "FAST channels",
+          "streaming fatigue",
+          "algorithmic curation"
+        ],
+        "slug": "the-fast-channel-saturation-audit-how-to-stress-test-your-viewing-habits-against",
+        "published_at": "2026-06-12T00:19:17+00:00",
+        "word_count": 808,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
