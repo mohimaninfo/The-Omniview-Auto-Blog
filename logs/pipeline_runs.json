@@ -13802,5 +13802,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-12T12:47:37.673596",
+    "run_end": "2026-06-12T12:48:41.527668",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3739325366769076249",
+        "title": "The 'thermal-throttling' pantry audit: how to stress-test your kitchen appliances against smart-grid energy-shedding",
+        "url": "https://theomniview.blogspot.com/2026/06/the-thermal-throttling-pantry-audit-how.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen security",
+          "grid energy shedding",
+          "smart appliance privacy"
+        ],
+        "slug": "the-thermal-throttling-pantry-audit-how-to-stress-test-your-kitchen-appliances-a",
+        "published_at": "2026-06-12T12:52:57+00:00",
+        "word_count": 928,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2681534561771159942",
+        "title": "The 'human-in-the-loop' credentials audit: how to stress-test your professional certification against AI-driven skill devaluation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-human-in-loop-credentials-audit-how.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "interviews",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Interviews",
+          "skill devaluation",
+          "professional certification",
+          "AI career impact"
+        ],
+        "slug": "the-human-in-the-loop-credentials-audit-how-to-stress-test-your-professional-cer",
+        "published_at": "2026-06-12T12:53:40+00:00",
+        "word_count": 1010,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
