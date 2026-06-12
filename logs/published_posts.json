@@ -11794,5 +11794,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "940414668465063325",
+    "title": "The 'parasocial-privacy' audit: 7 stress-tests for your romantic relationship against AI-generated deepfake stalking",
+    "url": "https://theomniview.blogspot.com/2026/06/the-parasocial-privacy-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Listicles",
+      "AI deepfake privacy",
+      "digital relationship safety",
+      "online stalking protection"
+    ],
+    "slug": "the-parasocial-privacy-audit-7-stress-tests-for-your-romantic-relationship-again",
+    "published_at": "2026-06-12T21:05:51+00:00",
+    "word_count": 766,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "504455439561366845",
+    "title": "The 'Bio-Data' Sovereignty Audit: How to Stress-Test Your Wearable Health Metrics Against Corporate Predictive Profiling",
+    "url": "https://theomniview.blogspot.com/2026/06/the-bio-data-sovereignty-audit-how-to.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Explainers",
+      "biometric data privacy",
+      "wearable health tracking",
+      "data sovereignty"
+    ],
+    "slug": "the-bio-data-sovereignty-audit-how-to-stress-test-your-wearable-health-metrics-a",
+    "published_at": "2026-06-12T21:06:28+00:00",
+    "word_count": 902,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
