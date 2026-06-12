@@ -11706,5 +11706,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8282970856930202122",
+    "title": "The 'Cooling-Debt' Watershed Audit: How to Stress-Test Your Local Ecosystem\u2019s Resilience Against AI Data Center Water Consumption \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cooling-debt-watershed-audit-how-to.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Research Articles",
+      "data center water consumption",
+      "environmental conservation",
+      "AI energy impact"
+    ],
+    "slug": "the-cooling-debt-watershed-audit-how-to-stress-test-your-local-ecosystems-resili",
+    "published_at": "2026-06-12T16:15:51+00:00",
+    "word_count": 1182,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7222616138492285893",
+    "title": "The 'Zone 2' mitochondrial audit: how to stress-test your aerobic capacity against sedentary work-from-home decay",
+    "url": "https://theomniview.blogspot.com/2026/06/the-zone-2-mitochondrial-audit-how-to.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "How-To Guides",
+      "zone 2 training",
+      "mitochondrial health",
+      "aerobic capacity"
+    ],
+    "slug": "the-zone-2-mitochondrial-audit-how-to-stress-test-your-aerobic-capacity-against-",
+    "published_at": "2026-06-12T16:16:22+00:00",
+    "word_count": 997,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
