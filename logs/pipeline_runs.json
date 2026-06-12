@@ -13698,5 +13698,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-12T05:24:30.514068",
+    "run_end": "2026-06-12T05:25:25.680826",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7260477421041657368",
+        "title": "The 'junior-developer' survival audit: how to stress-test your coding career against ai-driven productivity displacement",
+        "url": "https://theomniview.blogspot.com/2026/06/the-junior-developer-survival-audit-how.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Explainers",
+          "junior developer career path",
+          "software developer job security",
+          "AI impact on programming jobs"
+        ],
+        "slug": "the-junior-developer-survival-audit-how-to-stress-test-your-coding-career-agains",
+        "published_at": "2026-06-12T05:29:47+00:00",
+        "word_count": 1000,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7374793177016831229",
+        "title": "The 'Side-Hustle' Residency Audit: 7 Stress-Tests for Your Tax Status Against Digital Nomad Visa Legislation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-side-hustle-residency-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "digital nomad taxes",
+          "residency tax audit",
+          "remote work tax planning"
+        ],
+        "slug": "the-side-hustle-residency-audit-7-stress-tests-for-your-tax-status-against-digit",
+        "published_at": "2026-06-12T05:30:25+00:00",
+        "word_count": 835,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
