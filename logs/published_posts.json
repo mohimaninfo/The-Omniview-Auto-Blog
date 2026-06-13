@@ -12190,5 +12190,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8861759849967041643",
+    "title": "The 'Immune-Depression' Audit: How to Stress-Test Your Systemic Inflammation Against Modern Lifestyle Stressors",
+    "url": "https://theomniview.blogspot.com/2026/06/the-immune-depression-audit-how-to.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Latest News",
+      "systemic inflammation",
+      "biological markers of depression",
+      "white blood cell gene expression"
+    ],
+    "slug": "the-immune-depression-audit-how-to-stress-test-your-systemic-inflammation-agains",
+    "published_at": "2026-06-13T19:10:05+00:00",
+    "word_count": 817,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8683364910718830648",
+    "title": "The 'algorithmic-bloat' system audit: 7 stress-tests for your PC performance against resource-heavy AI background tasks",
+    "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-bloat-system-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Explainers",
+      "PC performance optimization",
+      "AI background processes",
+      "system resource management"
+    ],
+    "slug": "the-algorithmic-bloat-system-audit-7-stress-tests-for-your-pc-performance-agains",
+    "published_at": "2026-06-13T19:10:49+00:00",
+    "word_count": 997,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
