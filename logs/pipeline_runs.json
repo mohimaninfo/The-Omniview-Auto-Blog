@@ -14270,5 +14270,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-13T13:20:10.129835",
+    "run_end": "2026-06-13T13:21:22.074121",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5392758297715044382",
+        "title": "The 'Offline-Nomad' Connectivity Audit: 7 Stress-Tests for Your Travel Itinerary Against Global GPS and Network Blackouts",
+        "url": "https://theomniview.blogspot.com/2026/06/the-offline-nomad-connectivity-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Explainers",
+          "travel safety",
+          "offline navigation",
+          "digital nomad security"
+        ],
+        "slug": "the-offline-nomad-connectivity-audit-7-stress-tests-for-your-travel-itinerary-ag",
+        "published_at": "2026-06-13T13:25:59+00:00",
+        "word_count": 976,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "705251563440048807",
+        "title": "The 'human-verification' career audit: how to stress-test your professional brand against ai-generated resume fraud",
+        "url": "https://theomniview.blogspot.com/2026/06/the-human-verification-career-audit-how.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "career development",
+          "AI in recruitment",
+          "personal branding"
+        ],
+        "slug": "the-human-verification-career-audit-how-to-stress-test-your-professional-brand-a",
+        "published_at": "2026-06-13T13:26:21+00:00",
+        "word_count": 853,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
