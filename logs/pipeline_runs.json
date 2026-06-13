@@ -14374,5 +14374,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-13T17:07:51.692430",
+    "run_end": "2026-06-13T17:08:40.497890",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8606040083992081247",
+        "title": "The 'Wisely-Exit' liquidity audit: 7 stress-tests for your startup payroll strategy against fintech custodial risks",
+        "url": "https://theomniview.blogspot.com/2026/06/the-wisely-exit-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup payroll protection",
+          "fintech custodial risk",
+          "business liquidity management"
+        ],
+        "slug": "the-wisely-exit-liquidity-audit-7-stress-tests-for-your-startup-payroll-strategy",
+        "published_at": "2026-06-13T17:13:19+00:00",
+        "word_count": 954,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4232866772480391267",
+        "title": "The 'Memory-Leak' Browser Audit: How to Stress-Test Your System Security Against Resource-Heavy AI Integration",
+        "url": "https://theomniview.blogspot.com/2026/06/the-memory-leak-browser-audit-how-to.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Opinion & Analysis",
+          "browser security",
+          "memory leak exploits",
+          "cybersecurity hygiene"
+        ],
+        "slug": "the-memory-leak-browser-audit-how-to-stress-test-your-system-security-against-re",
+        "published_at": "2026-06-13T17:13:39+00:00",
+        "word_count": 865,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
