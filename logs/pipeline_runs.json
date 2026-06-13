@@ -14582,5 +14582,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-13T23:56:09.081970",
+    "run_end": "2026-06-13T23:57:24.849847",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1875489010992438963",
+        "title": "The 'Cognitive-Reliance' Classroom Audit: How to Stress-Test Your Student\u2019s Critical Thinking Against AI-Generated Feedback Loops",
+        "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-reliance-classroom-audit.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Opinion & Analysis",
+          "learning science",
+          "AI in education",
+          "cognitive load theory"
+        ],
+        "slug": "the-cognitive-reliance-classroom-audit-how-to-stress-test-your-students-critical",
+        "published_at": "2026-06-14T00:02:04+00:00",
+        "word_count": 939,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2238013748144971454",
+        "title": "The 'background-process' productivity audit: 7 stress-tests for your remote-work PC against RAM-heavy AI bloat",
+        "url": "https://theomniview.blogspot.com/2026/06/the-background-process-productivity.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "research-articles",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Research Articles",
+          "remote work productivity",
+          "PC performance optimization",
+          "RAM management"
+        ],
+        "slug": "the-background-process-productivity-audit-7-stress-tests-for-your-remote-work-pc",
+        "published_at": "2026-06-14T00:02:24+00:00",
+        "word_count": 929,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
