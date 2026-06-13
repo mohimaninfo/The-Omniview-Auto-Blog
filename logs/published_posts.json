@@ -12014,5 +12014,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6590685653878997576",
+    "title": "The 'orbital-quarantine' audit: how to stress-test your astronaut health data against deep-space infection risks",
+    "url": "https://theomniview.blogspot.com/2026/06/the-orbital-quarantine-audit-how-to.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Explainers",
+      "NASA spaceflight missions",
+      "astronaut health",
+      "space medicine"
+    ],
+    "slug": "the-orbital-quarantine-audit-how-to-stress-test-your-astronaut-health-data-again",
+    "published_at": "2026-06-13T11:51:01+00:00",
+    "word_count": 974,
+    "has_video": true,
+    "image_count": 2,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2599172858412392351",
+    "title": "The 'Smart-Kitchen' Drought Audit: How to Stress-Test Your Cooking Habits Against AI Data Center Water Scarcity",
+    "url": "https://theomniview.blogspot.com/2026/06/the-smart-kitchen-drought-audit-how-to.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "How-To Guides",
+      "home cooking water conservation",
+      "sustainable kitchen practices",
+      "AI data center water usage"
+    ],
+    "slug": "the-smart-kitchen-drought-audit-how-to-stress-test-your-cooking-habits-against-a",
+    "published_at": "2026-06-13T11:51:30+00:00",
+    "word_count": 905,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
