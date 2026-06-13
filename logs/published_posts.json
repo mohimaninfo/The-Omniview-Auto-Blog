@@ -11970,5 +11970,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6055005156942338553",
+    "title": "The 'AI-Teacher' Compliance Audit: How to Stress-Test Your District\u2019s EdTech Stack Against New FERPA Privacy Vulnerabilities",
+    "url": "https://theomniview.blogspot.com/2026/06/the-ai-teacher-compliance-audit-how-to.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Research Articles",
+      "edtech data privacy",
+      "FERPA compliance",
+      "AI in schools"
+    ],
+    "slug": "the-ai-teacher-compliance-audit-how-to-stress-test-your-districts-edtech-stack-a",
+    "published_at": "2026-06-13T09:54:56+00:00",
+    "word_count": 1107,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 7
+  },
+  {
+    "post_id": "3967561309402494582",
+    "title": "The 'Subscription-Creep' Financial Audit: 7 Stress-Tests for Your Monthly Budget Against AI-Driven Price Hikes",
+    "url": "https://theomniview.blogspot.com/2026/06/the-subscription-creep-financial-audit.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Listicles",
+      "subscription management",
+      "personal finance audit",
+      "dynamic pricing"
+    ],
+    "slug": "the-subscription-creep-financial-audit-7-stress-tests-for-your-monthly-budget-ag",
+    "published_at": "2026-06-13T09:55:34+00:00",
+    "word_count": 843,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
