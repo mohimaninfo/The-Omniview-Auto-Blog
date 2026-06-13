@@ -11882,5 +11882,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3458179947074340851",
+    "title": "the 'lithium-loop' hardware audit: how to stress-test your e-waste recycling strategy against emerging battery-mineral circularity mandates",
+    "url": "https://theomniview.blogspot.com/2026/06/the-lithium-loop-hardware-audit-how-to.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Research Articles",
+      "circular economy",
+      "battery recycling",
+      "e-waste management"
+    ],
+    "slug": "the-lithium-loop-hardware-audit-how-to-stress-test-your-e-waste-recycling-strate",
+    "published_at": "2026-06-13T02:10:35+00:00",
+    "word_count": 940,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3806328586548094023",
+    "title": "the 'upcycled-insulation' building audit: how to stress-test your home energy efficiency against extreme weather-driven supply chain spikes",
+    "url": "https://theomniview.blogspot.com/2026/06/the-upcycled-insulation-building-audit.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "reviews",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Reviews",
+      "sustainable home insulation",
+      "upcycled building materials",
+      "energy efficiency audit"
+    ],
+    "slug": "the-upcycled-insulation-building-audit-how-to-stress-test-your-home-energy-effic",
+    "published_at": "2026-06-13T02:10:58+00:00",
+    "word_count": 560,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
