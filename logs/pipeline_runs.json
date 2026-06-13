@@ -14114,5 +14114,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-13T06:44:47.768825",
+    "run_end": "2026-06-13T06:46:31.204241",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8985933950450039140",
+        "title": "The 'Flock-Watcher' Perimeter Audit: How to Stress-Test Your Household Privacy Against Autonomous License Plate Recognition",
+        "url": "https://theomniview.blogspot.com/2026/06/the-flock-watcher-perimeter-audit-how.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Explainers",
+          "Flock AI",
+          "license plate recognition",
+          "surveillance technology"
+        ],
+        "slug": "the-flock-watcher-perimeter-audit-how-to-stress-test-your-household-privacy-agai",
+        "published_at": "2026-06-13T06:50:40+00:00",
+        "word_count": 1007,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5568751504839938896",
+        "title": "The 'orthorexia-trap' wellness audit: how to stress-test your supplement regimen against influencer-led toxicity",
+        "url": "https://theomniview.blogspot.com/2026/06/the-orthorexia-trap-wellness-audit-how.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "supplement safety",
+          "orthorexia",
+          "wellness trends"
+        ],
+        "slug": "the-orthorexia-trap-wellness-audit-how-to-stress-test-your-supplement-regimen-ag",
+        "published_at": "2026-06-13T06:51:30+00:00",
+        "word_count": 968,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
