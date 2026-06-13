@@ -12234,5 +12234,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5834443147702034084",
+    "title": "The 'Power-Hoarding' Audit: How to Stress-Test Your Home Solar Autonomy Against AI Data Center Grid-Pressure \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-power-hoarding-audit-how-to-stress.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Opinion & Analysis",
+      "solar energy independence",
+      "data center power consumption",
+      "grid reliability"
+    ],
+    "slug": "the-power-hoarding-audit-how-to-stress-test-your-home-solar-autonomy-against-ai-",
+    "published_at": "2026-06-13T21:05:35+00:00",
+    "word_count": 873,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6694126430170231186",
+    "title": "The 'Data-Center-Exodus' Travel Audit: How to Stress-Test Your Next Vacation Against Regional Power and Water Grid-Stress \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-data-center-exodus-travel-audit-how.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "case-studies",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Case Studies",
+      "sustainable travel",
+      "data center impact",
+      "infrastructure resilience"
+    ],
+    "slug": "the-data-center-exodus-travel-audit-how-to-stress-test-your-next-vacation-agains",
+    "published_at": "2026-06-13T21:06:28+00:00",
+    "word_count": 749,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
