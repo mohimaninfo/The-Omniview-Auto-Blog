@@ -14530,5 +14530,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-13T22:04:23.839213",
+    "run_end": "2026-06-13T22:06:26.296027",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2562284730679718285",
+        "title": "The 'Smart-Kitchen' Drought Audit: How to Stress-Test Your Cooking Habits Against AI Data Center Water Scarcity \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-smart-kitchen-drought-audit-how-to_01756498736.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Reviews",
+          "low-water cooking",
+          "home kitchen sustainability",
+          "data center water usage"
+        ],
+        "slug": "the-smart-kitchen-drought-audit-how-to-stress-test-your-cooking-habits-against-a",
+        "published_at": "2026-06-13T22:10:46+00:00",
+        "word_count": 687,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8667437542768964380",
+        "title": "The 'Influencer-Erasure' Audit: How to Stress-Test Your Digital Legacy Against AI-Driven Content Purges",
+        "url": "https://theomniview.blogspot.com/2026/06/the-influencer-erasure-audit-how-to.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "digital legacy",
+          "AI content scraping",
+          "content ownership"
+        ],
+        "slug": "the-influencer-erasure-audit-how-to-stress-test-your-digital-legacy-against-ai-d",
+        "published_at": "2026-06-13T22:11:25+00:00",
+        "word_count": 845,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
