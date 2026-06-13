@@ -14322,5 +14322,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-13T15:24:01.559463",
+    "run_end": "2026-06-13T15:24:55.975096",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1281878976460725027",
+        "title": "The 'cognitive-offloading' curriculum audit: how to stress-test your student's memory retention against AI-generated study aids",
+        "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-offloading-curriculum.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Opinion & Analysis",
+          "cognitive offloading",
+          "learning science",
+          "AI in education"
+        ],
+        "slug": "the-cognitive-offloading-curriculum-audit-how-to-stress-test-your-students-memor",
+        "published_at": "2026-06-13T15:29:32+00:00",
+        "word_count": 915,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1724000414700932588",
+        "title": "The 'skill-decay' velocity audit: how to stress-test your professional certification against rapid AI-driven knowledge obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/06/the-skill-decay-velocity-audit-how-to.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Explainers",
+          "skill-decay",
+          "professional certification",
+          "career obsolescence"
+        ],
+        "slug": "the-skill-decay-velocity-audit-how-to-stress-test-your-professional-certificatio",
+        "published_at": "2026-06-13T15:29:55+00:00",
+        "word_count": 989,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
