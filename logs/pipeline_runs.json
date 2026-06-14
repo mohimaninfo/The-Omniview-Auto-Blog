@@ -14686,5 +14686,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-14T07:13:49.989710",
+    "run_end": "2026-06-14T07:15:50.692489",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7134408021942963906",
+        "title": "The 'Power-Sovereignty' Audit: How to Stress-Test Your Municipal Energy Resilience Against AI Data Center Load-Growth",
+        "url": "https://theomniview.blogspot.com/2026/06/the-power-sovereignty-audit-how-to.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Explainers",
+          "climate-policy",
+          "data center energy consumption",
+          "grid resilience"
+        ],
+        "slug": "the-power-sovereignty-audit-how-to-stress-test-your-municipal-energy-resilience-",
+        "published_at": "2026-06-14T07:19:37+00:00",
+        "word_count": 937,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2084690335480969857",
+        "title": "The 'Saliva-Sync' Wellness Audit: How to Stress-Test Your Daily Productivity Against Biomarkers of Sleep Deprivation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-saliva-sync-wellness-audit-how-to.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "sleep deprivation detection",
+          "biomarker testing",
+          "circadian rhythm optimization"
+        ],
+        "slug": "the-saliva-sync-wellness-audit-how-to-stress-test-your-daily-productivity-agains",
+        "published_at": "2026-06-14T07:20:49+00:00",
+        "word_count": 1028,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
