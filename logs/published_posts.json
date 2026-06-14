@@ -12542,5 +12542,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4325552429501006568",
+    "title": "The 'Neutrality-Trap' Cultural Audit: How to Stress-Test Your Brand Identity Against Geopolitical Polarization",
+    "url": "https://theomniview.blogspot.com/2026/06/the-neutrality-trap-cultural-audit-how.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "interviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Interviews",
+      "brand neutrality",
+      "geopolitical polarization",
+      "corporate cultural strategy"
+    ],
+    "slug": "the-neutrality-trap-cultural-audit-how-to-stress-test-your-brand-identity-agains",
+    "published_at": "2026-06-14T15:09:54+00:00",
+    "word_count": 1108,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1089872813734233357",
+    "title": "The 'Ultra-Processed' Nutrient Audit: How to Stress-Test Your Gut Microbiome Against Industrial Emulsifier Exposure",
+    "url": "https://theomniview.blogspot.com/2026/06/the-ultra-processed-nutrient-audit-how.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Opinion & Analysis",
+      "gut microbiome health",
+      "ultra-processed foods",
+      "emulsifiers"
+    ],
+    "slug": "the-ultra-processed-nutrient-audit-how-to-stress-test-your-gut-microbiome-agains",
+    "published_at": "2026-06-14T15:10:35+00:00",
+    "word_count": 930,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
