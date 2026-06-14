@@ -12674,5 +12674,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6513304400547029289",
+    "title": "The 'Geopolitical-Filter' Audit: How to Stress-Test Your Algorithmic News Feed Against State-Sponsored Information Operations",
+    "url": "https://theomniview.blogspot.com/2026/06/the-geopolitical-filter-audit-how-to.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Explainers",
+      "algorithmic bias",
+      "information operations",
+      "digital literacy"
+    ],
+    "slug": "the-geopolitical-filter-audit-how-to-stress-test-your-algorithmic-news-feed-agai",
+    "published_at": "2026-06-14T21:03:16+00:00",
+    "word_count": 982,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "371080388283972715",
+    "title": "the 'shadow-compute' cost audit: 7 stress-tests for your business budget against hidden AI operational bloat",
+    "url": "https://theomniview.blogspot.com/2026/06/the-shadow-compute-cost-audit-7-stress.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Listicles",
+      "AI operational costs",
+      "startup budget management",
+      "AI subscription bloat"
+    ],
+    "slug": "the-shadow-compute-cost-audit-7-stress-tests-for-your-business-budget-against-hi",
+    "published_at": "2026-06-14T21:03:56+00:00",
+    "word_count": 761,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
