@@ -15050,5 +15050,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-14T22:04:17.237455",
+    "run_end": "2026-06-14T22:05:50.211995",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2336144327450215566",
+        "title": "The 'unemployment-gap' leadership audit: how to stress-test your talent retention against hidden AI-driven burnout",
+        "url": "https://theomniview.blogspot.com/2026/06/the-unemployment-gap-leadership-audit.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "talent retention strategy",
+          "AI job disruption",
+          "workforce burnout"
+        ],
+        "slug": "the-unemployment-gap-leadership-audit-how-to-stress-test-your-talent-retention-a",
+        "published_at": "2026-06-14T22:10:18+00:00",
+        "word_count": 990,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "7879974781748301969",
+        "title": "The 'Travel-Agent' Sovereignty Audit: 7 Stress-Tests for Your Vacation Itinerary Against AI-Driven Booking Glitches",
+        "url": "https://theomniview.blogspot.com/2026/06/the-travel-agent-sovereignty-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Listicles",
+          "travel planning",
+          "AI travel booking",
+          "itinerary management"
+        ],
+        "slug": "the-travel-agent-sovereignty-audit-7-stress-tests-for-your-vacation-itinerary-ag",
+        "published_at": "2026-06-14T22:10:49+00:00",
+        "word_count": 884,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
