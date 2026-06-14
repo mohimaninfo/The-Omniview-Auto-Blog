@@ -14790,5 +14790,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-14T12:56:07.744240",
+    "run_end": "2026-06-14T12:58:07.365339",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7514983075212829456",
+        "title": "The Phase-Contrast Revolution: How New Physics in Electron Microscopy Reveals the Invisible Machinery of Life",
+        "url": "https://theomniview.blogspot.com/2026/06/the-phase-contrast-revolution-how-new.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "electron microscopy",
+          "phase contrast physics",
+          "molecular biology"
+        ],
+        "slug": "the-phase-contrast-revolution-how-new-physics-in-electron-microscopy-reveals-the",
+        "published_at": "2026-06-14T13:02:08+00:00",
+        "word_count": 1010,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5347400012884213071",
+        "title": "The 'Shadow-Compute' Cost Audit: How to Stress-Test Your Corporate Budget Against AI Subscription Bloat",
+        "url": "https://theomniview.blogspot.com/2026/06/the-shadow-compute-cost-audit-how-to.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Latest News",
+          "AI subscription costs",
+          "shadow IT",
+          "enterprise AI budget"
+        ],
+        "slug": "the-shadow-compute-cost-audit-how-to-stress-test-your-corporate-budget-against-a",
+        "published_at": "2026-06-14T13:03:06+00:00",
+        "word_count": 758,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
