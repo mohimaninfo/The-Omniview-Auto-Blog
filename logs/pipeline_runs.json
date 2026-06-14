@@ -14738,5 +14738,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-14T10:42:29.909685",
+    "run_end": "2026-06-14T10:44:00.227797",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3159147684864209185",
+        "title": "The 'Orbital-Immunity' Audit: How to Stress-Test Astronaut Health Data Against Deep-Space Infection Risks \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-orbital-immunity-audit-how-to.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Explainers",
+          "astronaut health",
+          "space medicine",
+          "pathogen transmission"
+        ],
+        "slug": "the-orbital-immunity-audit-how-to-stress-test-astronaut-health-data-against-deep",
+        "published_at": "2026-06-14T10:48:10+00:00",
+        "word_count": 971,
+        "has_video": true,
+        "image_count": 2,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8630373073528038144",
+        "title": "The 'Custodial-Risk' Liquidity Audit: 7 Stress-Tests for Your Payroll and Benefit Cards Against Modern Fintech Insolvency",
+        "url": "https://theomniview.blogspot.com/2026/06/the-custodial-risk-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Explainers",
+          "fintech account safety",
+          "payroll card risks",
+          "custodial liquidity"
+        ],
+        "slug": "the-custodial-risk-liquidity-audit-7-stress-tests-for-your-payroll-and-benefit-c",
+        "published_at": "2026-06-14T10:48:59+00:00",
+        "word_count": 1289,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
