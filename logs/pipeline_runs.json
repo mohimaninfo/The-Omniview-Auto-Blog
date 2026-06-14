@@ -14894,5 +14894,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-14T17:06:34.753773",
+    "run_end": "2026-06-14T17:07:42.334218",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8278331635755169770",
+        "title": "The 'Embodied-AI' Pivot Audit: 7 Stress-Tests for Your Hardware Startup Against the Humanoid Robot Race",
+        "url": "https://theomniview.blogspot.com/2026/06/the-embodied-ai-pivot-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Interviews",
+          "embodied AI",
+          "hardware startup strategy",
+          "robotics entrepreneurship"
+        ],
+        "slug": "the-embodied-ai-pivot-audit-7-stress-tests-for-your-hardware-startup-against-the",
+        "published_at": "2026-06-14T17:12:09+00:00",
+        "word_count": 945,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5432474806695743228",
+        "title": "The 'malware-playlist' security audit: how to stress-test your streaming habits against AI-driven phishing scams",
+        "url": "https://theomniview.blogspot.com/2026/06/the-malware-playlist-security-audit-how.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Latest News",
+          "Spotify malware",
+          "streaming service security",
+          "phishing scams"
+        ],
+        "slug": "the-malware-playlist-security-audit-how-to-stress-test-your-streaming-habits-aga",
+        "published_at": "2026-06-14T17:12:41+00:00",
+        "word_count": 737,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
