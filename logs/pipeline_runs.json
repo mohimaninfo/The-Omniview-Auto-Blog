@@ -15362,5 +15362,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-15T22:53:40.161832",
+    "run_end": "2026-06-15T22:54:54.805196",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3299590391309528145",
+        "title": "The 'Dopamine-Shop' Conversion Audit: 7 Stress-Tests for Your Ecommerce Checkout Against Viral Window-Shopping Trends",
+        "url": "https://theomniview.blogspot.com/2026/06/the-dopamine-shop-conversion-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Reviews",
+          "ecommerce conversion rate",
+          "dopamine shopping",
+          "checkout abandonment"
+        ],
+        "slug": "the-dopamine-shop-conversion-audit-7-stress-tests-for-your-ecommerce-checkout-ag",
+        "published_at": "2026-06-15T22:59:08+00:00",
+        "word_count": 560,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5768437910727984289",
+        "title": "The 'Data-Scraping' Liability Audit: 7 Stress-Tests for Your Ecommerce Platform Against AI Copyright Litigation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-scraping-liability-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "ecommerce legal risk",
+          "AI data scraping",
+          "copyright infringement"
+        ],
+        "slug": "the-data-scraping-liability-audit-7-stress-tests-for-your-ecommerce-platform-aga",
+        "published_at": "2026-06-15T22:59:54+00:00",
+        "word_count": 782,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
