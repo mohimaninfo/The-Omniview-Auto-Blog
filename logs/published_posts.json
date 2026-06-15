@@ -12850,5 +12850,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2659920682451191615",
+    "title": "The 'RAM-Inflation' Hardware Audit: 7 Stress-Tests for Your Next Smartphone Purchase Against Escalating Memory Costs",
+    "url": "https://theomniview.blogspot.com/2026/06/the-ram-inflation-hardware-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Reviews",
+      "smartphone RAM requirements",
+      "mobile hardware costs",
+      "Nothing phone pricing analysis"
+    ],
+    "slug": "the-ram-inflation-hardware-audit-7-stress-tests-for-your-next-smartphone-purchas",
+    "published_at": "2026-06-15T10:53:42+00:00",
+    "word_count": 582,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3171589646578006231",
+    "title": "The 'Smart-Home' Vulnerability Audit: 7 Stress-Tests for Your IoT Security Against Firmware-Level Botnet Infiltration",
+    "url": "https://theomniview.blogspot.com/2026/06/the-smart-home-vulnerability-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Reviews",
+      "smart home security",
+      "IoT vulnerability audit",
+      "firmware security"
+    ],
+    "slug": "the-smart-home-vulnerability-audit-7-stress-tests-for-your-iot-security-against-",
+    "published_at": "2026-06-15T10:54:23+00:00",
+    "word_count": 591,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
