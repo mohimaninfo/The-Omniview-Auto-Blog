@@ -15310,5 +15310,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-15T20:19:41.447818",
+    "run_end": "2026-06-15T20:21:03.734105",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3060147203180715345",
+        "title": "The 'GLP-1' Performance Audit: 7 Stress-Tests for Your Fitness Routine Against Muscle Loss During Weight Loss",
+        "url": "https://theomniview.blogspot.com/2026/06/the-glp-1-performance-audit-7-stress.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Reviews",
+          "GLP-1 fitness",
+          "muscle loss prevention",
+          "semaglutide and exercise"
+        ],
+        "slug": "the-glp-1-performance-audit-7-stress-tests-for-your-fitness-routine-against-musc",
+        "published_at": "2026-06-15T20:25:17+00:00",
+        "word_count": 646,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3088494560760084646",
+        "title": "The 'Digital-Exile' Residency Audit: 7 Stress-Tests for Your Citizenship Status Against New 'Good Behavior' Laws",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-exile-residency-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Explainers",
+          "residency rights",
+          "immigration law",
+          "behavioral compliance"
+        ],
+        "slug": "the-digital-exile-residency-audit-7-stress-tests-for-your-citizenship-status-aga",
+        "published_at": "2026-06-15T20:26:03+00:00",
+        "word_count": 1018,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
