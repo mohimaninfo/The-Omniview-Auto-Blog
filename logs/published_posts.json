@@ -12762,5 +12762,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4011229977776133897",
+    "title": "the 'degree-obsolescence' classroom audit: how to stress-test your k-12 curriculum against china\u2019s mass-degree cancellation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-degree-obsolescence-classroom-audit.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Opinion & Analysis",
+      "k12 curriculum reform",
+      "AI-era education",
+      "future-proofing students"
+    ],
+    "slug": "the-degree-obsolescence-classroom-audit-how-to-stress-test-your-k-12-curriculum-",
+    "published_at": "2026-06-15T00:05:37+00:00",
+    "word_count": 928,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4132357812852878919",
+    "title": "The 'thermal-threshold' fitness audit: 7 stress-tests for your aerobic capacity against rising heat-wave intensity",
+    "url": "https://theomniview.blogspot.com/2026/06/the-thermal-threshold-fitness-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "How-To Guides",
+      "aerobic capacity",
+      "heat-wave safety",
+      "fitness training"
+    ],
+    "slug": "the-thermal-threshold-fitness-audit-7-stress-tests-for-your-aerobic-capacity-aga",
+    "published_at": "2026-06-15T00:06:10+00:00",
+    "word_count": 1128,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
