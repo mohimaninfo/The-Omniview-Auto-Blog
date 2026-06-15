@@ -12894,5 +12894,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7077958048639423220",
+    "title": "The 'founder-burnout' liquidity audit: 7 stress-tests for your startup runway against emergency medical debt",
+    "url": "https://theomniview.blogspot.com/2026/06/the-founder-burnout-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Case Studies",
+      "startup financial planning",
+      "founder emergency fund",
+      "medical debt management"
+    ],
+    "slug": "the-founder-burnout-liquidity-audit-7-stress-tests-for-your-startup-runway-again",
+    "published_at": "2026-06-15T16:17:04+00:00",
+    "word_count": 761,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6733935015773762010",
+    "title": "The 'End-of-Life' Hardware Audit: 7 Stress-Tests for Your Collaborative Robot Against Proprietary Software Sunset",
+    "url": "https://theomniview.blogspot.com/2026/06/the-end-of-life-hardware-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Latest News",
+      "collaborative robotics",
+      "robotics maintenance",
+      "hardware obsolescence"
+    ],
+    "slug": "the-end-of-life-hardware-audit-7-stress-tests-for-your-collaborative-robot-again",
+    "published_at": "2026-06-15T16:17:27+00:00",
+    "word_count": 801,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
