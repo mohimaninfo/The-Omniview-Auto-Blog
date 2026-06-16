@@ -13070,5 +13070,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5475818360404296413",
+    "title": "The 'liquid-interaction' nutrition audit: 7 stress-tests for your supplement efficacy against beverage-induced chemical degradation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-liquid-interaction-nutrition-audit.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Listicles",
+      "supplement efficacy",
+      "nutrient absorption",
+      "drug-nutrient interactions"
+    ],
+    "slug": "the-liquid-interaction-nutrition-audit-7-stress-tests-for-your-supplement-effica",
+    "published_at": "2026-06-16T06:27:18+00:00",
+    "word_count": 898,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5880206153226062381",
+    "title": "The 'OpenAI-Burn' Liquidity Audit: 7 Stress-Tests for Your Startup Runway Against Escalating Compute Costs",
+    "url": "https://theomniview.blogspot.com/2026/06/the-openai-burn-liquidity-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Case Studies",
+      "startup runway",
+      "compute costs",
+      "AI operational expenses"
+    ],
+    "slug": "the-openai-burn-liquidity-audit-7-stress-tests-for-your-startup-runway-against-e",
+    "published_at": "2026-06-16T06:27:53+00:00",
+    "word_count": 748,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
