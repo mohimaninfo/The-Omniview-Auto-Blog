@@ -13202,5 +13202,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5675556843788624333",
+    "title": "The 'Estriol-Disruption' Audit: How to Stress-Test Your Household Exposure to Glyphosate and AMPA",
+    "url": "https://theomniview.blogspot.com/2026/06/the-estriol-disruption-audit-how-to.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Explainers",
+      "glyphosate exposure",
+      "endocrine disruptors",
+      "AMPA levels"
+    ],
+    "slug": "the-estriol-disruption-audit-how-to-stress-test-your-household-exposure-to-glyph",
+    "published_at": "2026-06-16T20:42:54+00:00",
+    "word_count": 1019,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5821658078142927758",
+    "title": "The 'Virtual-Backlot' Asset Audit: How to stress-test your independent film production against vanishing digital set libraries",
+    "url": "https://theomniview.blogspot.com/2026/06/the-virtual-backlot-asset-audit-how-to.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Latest News",
+      "virtual production",
+      "film production audit",
+      "digital asset management"
+    ],
+    "slug": "the-virtual-backlot-asset-audit-how-to-stress-test-your-independent-film-product",
+    "published_at": "2026-06-16T20:43:18+00:00",
+    "word_count": 825,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
