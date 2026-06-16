@@ -15414,5 +15414,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-06-16T00:21:20.994597",
+    "run_end": "2026-06-16T00:22:42.857805",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "992369480412539003",
+        "title": "The 'Self-Custody' Emergency Audit: 7 Stress-Tests for Your Crypto Portfolio Against Sudden Financial Hardship",
+        "url": "https://theomniview.blogspot.com/2026/06/the-self-custody-emergency-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "crypto self-custody",
+          "emergency fund planning",
+          "cryptocurrency liquidity"
+        ],
+        "slug": "the-self-custody-emergency-audit-7-stress-tests-for-your-crypto-portfolio-agains",
+        "published_at": "2026-06-16T00:27:06+00:00",
+        "word_count": 1010,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2491144494725088993",
+        "title": "The 'pill-delivery' hydration audit: 7 stress-tests for your supplement routine against chemical interaction risks",
+        "url": "https://theomniview.blogspot.com/2026/06/the-pill-delivery-hydration-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Listicles",
+          "supplement absorption",
+          "medication safety",
+          "hydration habits"
+        ],
+        "slug": "the-pill-delivery-hydration-audit-7-stress-tests-for-your-supplement-routine-aga",
+        "published_at": "2026-06-16T00:27:42+00:00",
+        "word_count": 885,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
