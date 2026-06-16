@@ -15518,5 +15518,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-16T12:00:52.838921",
+    "run_end": "2026-06-16T12:02:31.394841",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6065463137095503598",
+        "title": "The 'algorithmic-rerun' audit: 7 stress-tests for your streaming subscription against Fox-Roku platform consolidation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-rerun-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "Fox Roku merger",
+          "streaming subscription audit",
+          "content discovery"
+        ],
+        "slug": "the-algorithmic-rerun-audit-7-stress-tests-for-your-streaming-subscription-again",
+        "published_at": "2026-06-16T12:06:48+00:00",
+        "word_count": 829,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5831164367603103311",
+        "title": "The 'cosmic-radiation' resilience audit: how to stress-test your bone density against long-duration spaceflight",
+        "url": "https://theomniview.blogspot.com/2026/06/the-cosmic-radiation-resilience-audit.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Research Articles",
+          "space health",
+          "bone density",
+          "space exploration"
+        ],
+        "slug": "the-cosmic-radiation-resilience-audit-how-to-stress-test-your-bone-density-again",
+        "published_at": "2026-06-16T12:07:31+00:00",
+        "word_count": 1006,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
