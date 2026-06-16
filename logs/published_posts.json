@@ -13158,5 +13158,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6822166511619352590",
+    "title": "The 'Kill-Chain' Governance Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against New Defense Legislation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-kill-chain-governance-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Listicles",
+      "AI governance",
+      "human-in-the-loop AI",
+      "AI safety compliance"
+    ],
+    "slug": "the-kill-chain-governance-audit-7-stress-tests-for-your-enterprise-ai-strategy-a",
+    "published_at": "2026-06-16T17:57:46+00:00",
+    "word_count": 746,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5804981401567163126",
+    "title": "The 'GPU-mortgage' liquidity audit: 7 stress-tests for your startup runway against volatile cloud-compute spot pricing",
+    "url": "https://theomniview.blogspot.com/2026/06/the-gpu-mortgage-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Listicles",
+      "startup runway",
+      "cloud compute costs",
+      "GPU spot pricing"
+    ],
+    "slug": "the-gpu-mortgage-liquidity-audit-7-stress-tests-for-your-startup-runway-against-",
+    "published_at": "2026-06-16T17:58:36+00:00",
+    "word_count": 697,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
