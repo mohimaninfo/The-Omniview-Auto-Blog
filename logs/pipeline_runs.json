@@ -15674,5 +15674,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-06-16T22:46:09.459530",
+    "run_end": "2026-06-16T22:47:01.708894",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3598890224972112345",
+        "title": "The 'Kernel-Lock' Performance Audit: 7 Stress-Tests for Your Legacy Codebase Against AI-Driven Background Bloat",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kernel-lock-performance-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Listicles",
+          "legacy code optimization",
+          "AI coding assistant performance",
+          "IDE resource management"
+        ],
+        "slug": "the-kernel-lock-performance-audit-7-stress-tests-for-your-legacy-codebase-agains",
+        "published_at": "2026-06-16T22:51:38+00:00",
+        "word_count": 749,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "3392517446554092610",
+        "title": "The 'digital-inheritance' relationship audit: 7 stress-tests for your romantic partnership against post-mortem account access",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-inheritance-relationship.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Listicles",
+          "digital inheritance",
+          "estate planning for couples",
+          "digital legacy management"
+        ],
+        "slug": "the-digital-inheritance-relationship-audit-7-stress-tests-for-your-romantic-part",
+        "published_at": "2026-06-16T22:52:01+00:00",
+        "word_count": 875,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
