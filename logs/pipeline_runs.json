@@ -16038,5 +16038,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-17T21:52:25.118318",
+    "run_end": "2026-06-17T21:53:36.144372",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2762441473150990065",
+        "title": "The 'Wallpaper-Malware' Audit: 7 Stress-Tests for Your Steam Workshop Security Against Hidden Executables",
+        "url": "https://theomniview.blogspot.com/2026/06/the-wallpaper-malware-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Opinion & Analysis",
+          "Steam Workshop malware",
+          "cybersecurity for gamers",
+          "Wallpaper Engine security"
+        ],
+        "slug": "the-wallpaper-malware-audit-7-stress-tests-for-your-steam-workshop-security-agai",
+        "published_at": "2026-06-17T21:57:49+00:00",
+        "word_count": 881,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "121055498853357914",
+        "title": "The 'shadow-manager' delegation audit: 7 stress-tests for your leadership style against autonomous ai-agent task-delegation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-shadow-manager-delegation-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Opinion & Analysis",
+          "ai management",
+          "delegation strategy",
+          "leadership accountability"
+        ],
+        "slug": "the-shadow-manager-delegation-audit-7-stress-tests-for-your-leadership-style-aga",
+        "published_at": "2026-06-17T21:58:34+00:00",
+        "word_count": 813,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
