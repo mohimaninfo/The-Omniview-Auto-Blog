@@ -15934,5 +15934,57 @@
         "reference_count": 7
       }
     ]
+  },
+  {
+    "run_start": "2026-06-17T17:42:34.192710",
+    "run_end": "2026-06-17T17:44:45.974562",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8500156090661504459",
+        "title": "The 'Cognitive-Friction' Classroom Audit: 7 Stress-Tests for Your Student\u2019s Deep-Learning Retention Against AI-Generated Study Aids",
+        "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-friction-classroom-audit.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "learning science",
+          "cognitive friction",
+          "deep learning"
+        ],
+        "slug": "the-cognitive-friction-classroom-audit-7-stress-tests-for-your-students-deep-lea",
+        "published_at": "2026-06-17T17:47:55+00:00",
+        "word_count": 1067,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3047552925324535315",
+        "title": "the 'dead-internet' cinema audit: 7 stress-tests for your movie-going experience against ai-generated extras and background actors",
+        "url": "https://theomniview.blogspot.com/2026/06/the-dead-internet-cinema-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Explainers",
+          "ai in film",
+          "synthetic media",
+          "cinematic immersion"
+        ],
+        "slug": "the-dead-internet-cinema-audit-7-stress-tests-for-your-movie-going-experience-ag",
+        "published_at": "2026-06-17T17:49:44+00:00",
+        "word_count": 938,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
