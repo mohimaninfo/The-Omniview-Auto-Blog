@@ -15882,5 +15882,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-17T14:22:15.254161",
+    "run_end": "2026-06-17T14:23:26.865005",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8910730398867074242",
+        "title": "The 'Compute-Cap' Pricing Audit: 7 Stress-Tests for Your Ecommerce Profit Margins Against OpenAI-Style Infrastructure Burn",
+        "url": "https://theomniview.blogspot.com/2026/06/the-compute-cap-pricing-audit-7-stress.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "ecommerce profit margins",
+          "AI compute costs",
+          "OpenAI financial crisis"
+        ],
+        "slug": "the-compute-cap-pricing-audit-7-stress-tests-for-your-ecommerce-profit-margins-a",
+        "published_at": "2026-06-17T14:27:51+00:00",
+        "word_count": 951,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8391750467651675765",
+        "title": "The 'Escrow-Bypass' Liquidity Audit: 7 Stress-Tests for Your Home Closing Against Sudden Title-Insurance Insolvency",
+        "url": "https://theomniview.blogspot.com/2026/06/the-escrow-bypass-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "how-to-guides",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "How-To Guides",
+          "home closing liquidity",
+          "title insurance insolvency",
+          "real estate financial risk"
+        ],
+        "slug": "the-escrow-bypass-liquidity-audit-7-stress-tests-for-your-home-closing-against-s",
+        "published_at": "2026-06-17T14:28:26+00:00",
+        "word_count": 1074,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 7
+      }
+    ]
   }
 ]
