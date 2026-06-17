@@ -15778,5 +15778,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-17T05:57:16.075962",
+    "run_end": "2026-06-17T05:58:07.772321",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2278667080720266748",
+        "title": "The 'Haptic-Fatigue' Gaming Audit: 7 Stress-Tests for Your Controller Longevity Against Sony\u2019s Variable-Resistance Patents",
+        "url": "https://theomniview.blogspot.com/2026/06/the-haptic-fatigue-gaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "Sony controller patent",
+          "gaming hardware durability",
+          "haptic feedback technology"
+        ],
+        "slug": "the-haptic-fatigue-gaming-audit-7-stress-tests-for-your-controller-longevity-aga",
+        "published_at": "2026-06-17T06:02:44+00:00",
+        "word_count": 701,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1687548658255522605",
+        "title": "the 'reverse-logistics' infrastructure audit: 7 stress-tests for your corporate supply chain against impending circular economy mandates",
+        "url": "https://theomniview.blogspot.com/2026/06/the-reverse-logistics-infrastructure.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Opinion & Analysis",
+          "circular economy",
+          "reverse logistics",
+          "supply chain resilience"
+        ],
+        "slug": "the-reverse-logistics-infrastructure-audit-7-stress-tests-for-your-corporate-sup",
+        "published_at": "2026-06-17T06:03:07+00:00",
+        "word_count": 822,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
