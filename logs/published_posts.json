@@ -13906,5 +13906,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1147877018203954781",
+    "title": "The 'Subscription-Squeeze' EdTech Audit: 7 Stress-Tests for Your District\u2019s Budget Against AI-Driven Price Hikes",
+    "url": "https://theomniview.blogspot.com/2026/06/the-subscription-squeeze-edtech-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Opinion & Analysis",
+      "edtech budget",
+      "AI price hikes",
+      "school district finance"
+    ],
+    "slug": "the-subscription-squeeze-edtech-audit-7-stress-tests-for-your-districts-budget-a",
+    "published_at": "2026-06-18T22:55:16+00:00",
+    "word_count": 988,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1378425084459482847",
+    "title": "The 'Peak-Load' Living Audit: 7 Stress-Tests for Your Smart Home Against Summer Grid-Shedding",
+    "url": "https://theomniview.blogspot.com/2026/06/the-peak-load-living-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "How-To Guides",
+      "smart home energy efficiency",
+      "grid-shedding",
+      "summer electricity bills"
+    ],
+    "slug": "the-peak-load-living-audit-7-stress-tests-for-your-smart-home-against-summer-gri",
+    "published_at": "2026-06-18T22:55:38+00:00",
+    "word_count": 1101,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
