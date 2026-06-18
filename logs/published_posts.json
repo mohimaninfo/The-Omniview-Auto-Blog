@@ -13774,5 +13774,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4519157774626692185",
+    "title": "The 'Shadow-Morale' Leadership Audit: 7 Stress-Tests for Your Team Culture Against AI-Driven Job Anxiety",
+    "url": "https://theomniview.blogspot.com/2026/06/the-shadow-morale-leadership-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Interviews",
+      "leadership strategy",
+      "employee retention",
+      "AI workplace anxiety"
+    ],
+    "slug": "the-shadow-morale-leadership-audit-7-stress-tests-for-your-team-culture-against-",
+    "published_at": "2026-06-18T14:46:00+00:00",
+    "word_count": 1045,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2692649979677083918",
+    "title": "The 'grid-stress' travel audit: 7 stress-tests for your summer vacation against record-high electricity bills and cooling demand",
+    "url": "https://theomniview.blogspot.com/2026/06/the-grid-stress-travel-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "How-To Guides",
+      "summer travel planning",
+      "vacation energy efficiency",
+      "travel budget tips"
+    ],
+    "slug": "the-grid-stress-travel-audit-7-stress-tests-for-your-summer-vacation-against-rec",
+    "published_at": "2026-06-18T14:46:28+00:00",
+    "word_count": 909,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
