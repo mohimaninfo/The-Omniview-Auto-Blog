@@ -13818,5 +13818,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6137958893966597131",
+    "title": "The 'Hard-Fork' Inheritance Audit: 7 Stress-Tests for Your Crypto Portfolio Against Sudden Incapacitation \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-hard-fork-inheritance-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "crypto inheritance",
+      "self-custody security",
+      "digital estate planning"
+    ],
+    "slug": "the-hard-fork-inheritance-audit-7-stress-tests-for-your-crypto-portfolio-against",
+    "published_at": "2026-06-18T17:58:14+00:00",
+    "word_count": 792,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3067118121800451238",
+    "title": "The 'Shadow-Infrastructure' Audit: 7 Stress-Tests for Your Remote-Work Budget Against AI-Driven Energy Surcharges",
+    "url": "https://theomniview.blogspot.com/2026/06/the-shadow-infrastructure-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Listicles",
+      "remote work budget",
+      "electricity bill spike",
+      "AI data center energy"
+    ],
+    "slug": "the-shadow-infrastructure-audit-7-stress-tests-for-your-remote-work-budget-again",
+    "published_at": "2026-06-18T17:58:36+00:00",
+    "word_count": 864,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
