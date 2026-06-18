@@ -16194,5 +16194,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-18T07:23:51.120913",
+    "run_end": "2026-06-18T07:24:40.603279",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2860955947595153017",
+        "title": "The 'firmware-drift' security audit: 7 stress-tests for your Ryzen-based dev environment against silent CPU feature deprecation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-firmware-drift-security-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Listicles",
+          "AMD Ryzen security",
+          "AGESA firmware vulnerabilities",
+          "memory encryption"
+        ],
+        "slug": "the-firmware-drift-security-audit-7-stress-tests-for-your-ryzen-based-dev-enviro",
+        "published_at": "2026-06-18T07:29:20+00:00",
+        "word_count": 711,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6167205433925646962",
+        "title": "The 'actuator-fatigue' maintenance audit: 7 stress-tests for your cobot fleet against precision degradation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-actuator-fatigue-maintenance-audit.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Explainers",
+          "collaborative robots",
+          "cobot maintenance",
+          "robotics reliability"
+        ],
+        "slug": "the-actuator-fatigue-maintenance-audit-7-stress-tests-for-your-cobot-fleet-again",
+        "published_at": "2026-06-18T07:29:40+00:00",
+        "word_count": 1046,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
