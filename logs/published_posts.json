@@ -13994,5 +13994,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8743074377844298231",
+    "title": "The 'Vantablack-Sky' Audit: How to Stress-Test Your Ground-Based Telescope Against the Proliferation of Ultrablack Orbital Satellites",
+    "url": "https://theomniview.blogspot.com/2026/06/the-vantablack-sky-audit-how-to-stress.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Opinion & Analysis",
+      "astronomy light pollution",
+      "orbital debris",
+      "space observation"
+    ],
+    "slug": "the-vantablack-sky-audit-how-to-stress-test-your-ground-based-telescope-against-",
+    "published_at": "2026-06-19T06:11:08+00:00",
+    "word_count": 889,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2865392620972122942",
+    "title": "The 'Player-First' Manifesto: 7 Stress-Tests for Your Game Studio Against AI-Driven Audience Backlash",
+    "url": "https://theomniview.blogspot.com/2026/06/the-player-first-manifesto-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Latest News",
+      "game development trends",
+      "AI in gaming",
+      "player retention"
+    ],
+    "slug": "the-player-first-manifesto-7-stress-tests-for-your-game-studio-against-ai-driven",
+    "published_at": "2026-06-19T06:11:27+00:00",
+    "word_count": 833,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
