@@ -14302,5 +14302,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2429938773132226414",
+    "title": "The 'Synthetic-Signal' Hiring Audit: 7 Stress-Tests for Your Recruitment Pipeline Against AI-Generated Candidate Spam \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-signal-hiring-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Opinion & Analysis",
+      "AI recruitment strategy",
+      "hiring process automation",
+      "candidate screening"
+    ],
+    "slug": "the-synthetic-signal-hiring-audit-7-stress-tests-for-your-recruitment-pipeline-a",
+    "published_at": "2026-06-20T00:02:51+00:00",
+    "word_count": 923,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1903580665065467444",
+    "title": "The 'context-window' curriculum audit: 7 stress-tests for your LMS platform against massive AI data ingestion",
+    "url": "https://theomniview.blogspot.com/2026/06/the-context-window-curriculum-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "latest-news",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Latest News",
+      "LMS platform",
+      "AI-driven education",
+      "context window"
+    ],
+    "slug": "the-context-window-curriculum-audit-7-stress-tests-for-your-lms-platform-against",
+    "published_at": "2026-06-20T00:03:29+00:00",
+    "word_count": 945,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
