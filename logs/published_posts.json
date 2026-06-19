@@ -13950,5 +13950,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3015232703175976581",
+    "title": "The 'Firmware-Ghost' Security Audit: 7 Stress-Tests for Your AMD Ryzen System Against Silent Feature Deprecation \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-firmware-ghost-security-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Reviews",
+      "AMD Ryzen security vulnerabilities",
+      "AGESA firmware audit",
+      "memory encryption deprecation"
+    ],
+    "slug": "the-firmware-ghost-security-audit-7-stress-tests-for-your-amd-ryzen-system-again",
+    "published_at": "2026-06-19T00:23:59+00:00",
+    "word_count": 549,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "8933691652981941843",
+    "title": "The 'Insurance-Gap' Climate Audit: 7 Stress-Tests for Your Property Value Against Rising Reinsurance Withdrawal",
+    "url": "https://theomniview.blogspot.com/2026/06/the-insurance-gap-climate-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Research Articles",
+      "climate risk insurance",
+      "property value depreciation",
+      "reinsurance market"
+    ],
+    "slug": "the-insurance-gap-climate-audit-7-stress-tests-for-your-property-value-against-r",
+    "published_at": "2026-06-19T00:24:34+00:00",
+    "word_count": 972,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
