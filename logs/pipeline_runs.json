@@ -16766,5 +16766,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-19T19:22:36.720173",
+    "run_end": "2026-06-19T19:23:17.109441",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5340784490498802095",
+        "title": "The 'Synthetic-Lead' Hiring Audit: 7 Stress-Tests for Your Startup Recruitment Against AI-Generated Candidate Spam",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-lead-hiring-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Opinion & Analysis",
+          "startup hiring",
+          "AI recruitment",
+          "candidate screening"
+        ],
+        "slug": "the-synthetic-lead-hiring-audit-7-stress-tests-for-your-startup-recruitment-agai",
+        "published_at": "2026-06-19T19:27:57+00:00",
+        "word_count": 903,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1935779996527734202",
+        "title": "The 'Neural-Drift' Calibration Audit: 7 Stress-Tests for Your Cognitive Focus Against High-Frequency Blue Light Exposure",
+        "url": "https://theomniview.blogspot.com/2026/06/the-neural-drift-calibration-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Latest News",
+          "neural-drift",
+          "cognitive focus",
+          "blue light neurobiology"
+        ],
+        "slug": "the-neural-drift-calibration-audit-7-stress-tests-for-your-cognitive-focus-again",
+        "published_at": "2026-06-19T19:28:16+00:00",
+        "word_count": 818,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
