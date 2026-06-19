@@ -16610,5 +16610,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-19T11:11:28.361847",
+    "run_end": "2026-06-19T11:12:14.585009",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7655526965758426033",
+        "title": "The 'Data-Center-Drain' Appliance Audit: 7 Stress-Tests for Your Smart Home Gadgets Against Summer Grid-Shedding",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drain-appliance-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Latest News",
+          "smart home energy efficiency",
+          "grid-shedding",
+          "smart gadget power consumption"
+        ],
+        "slug": "the-data-center-drain-appliance-audit-7-stress-tests-for-your-smart-home-gadgets",
+        "published_at": "2026-06-19T11:16:46+00:00",
+        "word_count": 844,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5886677777051924772",
+        "title": "The 'permafrost-thaw' infrastructure audit: 7 stress-tests for your northern real estate investment against rapid ground subsidence",
+        "url": "https://theomniview.blogspot.com/2026/06/the-permafrost-thaw-infrastructure.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Research Articles",
+          "permafrost thaw",
+          "ground subsidence",
+          "climate resilience"
+        ],
+        "slug": "the-permafrost-thaw-infrastructure-audit-7-stress-tests-for-your-northern-real-e",
+        "published_at": "2026-06-19T11:17:14+00:00",
+        "word_count": 1024,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
