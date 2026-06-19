@@ -14258,5 +14258,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2832820109219939749",
+    "title": "The 'Degree-Verification' Credential Audit: 7 Stress-Tests for Your University Diploma Against AI-Generated Resume Fraud",
+    "url": "https://theomniview.blogspot.com/2026/06/the-degree-verification-credential.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Explainers",
+      "degree verification",
+      "academic integrity",
+      "AI resume fraud"
+    ],
+    "slug": "the-degree-verification-credential-audit-7-stress-tests-for-your-university-dipl",
+    "published_at": "2026-06-19T22:08:19+00:00",
+    "word_count": 988,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7881656921766572242",
+    "title": "The 'git-ghost' commit audit: 7 stress-tests for your codebase integrity against AI-generated logic injection",
+    "url": "https://theomniview.blogspot.com/2026/06/the-git-ghost-commit-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Opinion & Analysis",
+      "codebase security",
+      "AI-assisted coding",
+      "git integrity"
+    ],
+    "slug": "the-git-ghost-commit-audit-7-stress-tests-for-your-codebase-integrity-against-ai",
+    "published_at": "2026-06-19T22:08:41+00:00",
+    "word_count": 862,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
