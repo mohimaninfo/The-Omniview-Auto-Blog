@@ -17442,5 +17442,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-20T22:56:27.835027",
+    "run_end": "2026-06-20T22:58:14.758413",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4958355139519701108",
+        "title": "The 'Grid-Dependency' Appliance Audit: 7 Stress-Tests for Your Smart Home Against Summer Peak-Load Shedding \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-grid-dependency-appliance-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "smart home energy management",
+          "peak load shedding",
+          "home energy efficiency"
+        ],
+        "slug": "the-grid-dependency-appliance-audit-7-stress-tests-for-your-smart-home-against-s",
+        "published_at": "2026-06-20T23:02:07+00:00",
+        "word_count": 738,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5550633966449364616",
+        "title": "The 'analog-resilience' classroom audit: 7 stress-tests for your K-12 district against AI-driven curriculum erosion",
+        "url": "https://theomniview.blogspot.com/2026/06/the-analog-resilience-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "K-12 curriculum",
+          "AI in education",
+          "classroom assessment"
+        ],
+        "slug": "the-analog-resilience-classroom-audit-7-stress-tests-for-your-k-12-district-agai",
+        "published_at": "2026-06-20T23:03:14+00:00",
+        "word_count": 983,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
