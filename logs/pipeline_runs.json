@@ -16974,5 +16974,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-20T02:45:08.928049",
+    "run_end": "2026-06-20T02:46:34.734392",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6909245119744074020",
+        "title": "The 'synthetic-candidate' hiring audit: 7 stress-tests for your recruitment pipeline against ai-generated application spam \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-candidate-hiring-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "hiring strategy",
+          "recruitment automation",
+          "AI resume screening"
+        ],
+        "slug": "the-synthetic-candidate-hiring-audit-7-stress-tests-for-your-recruitment-pipelin",
+        "published_at": "2026-06-20T02:51:02+00:00",
+        "word_count": 736,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5245173771743446619",
+        "title": "The 'Loneliness-Dementia' Metabolic Audit: 7 Stress-Tests for Your Cognitive Health Against Social Isolation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-loneliness-dementia-metabolic-audit.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Latest News",
+          "cognitive impairment",
+          "loneliness and dementia",
+          "brain health"
+        ],
+        "slug": "the-loneliness-dementia-metabolic-audit-7-stress-tests-for-your-cognitive-health",
+        "published_at": "2026-06-20T02:51:34+00:00",
+        "word_count": 724,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
