@@ -14698,5 +14698,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3985701519426280694",
+    "title": "The 'Planetary-Boundary' Audit: 7 Stress-Tests for Your Consumption Habits Against Global Wealth Inequality",
+    "url": "https://theomniview.blogspot.com/2026/06/the-planetary-boundary-audit-7-stress.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Latest News",
+      "planetary boundaries",
+      "climate consumption",
+      "carbon footprint"
+    ],
+    "slug": "the-planetary-boundary-audit-7-stress-tests-for-your-consumption-habits-against-",
+    "published_at": "2026-06-20T21:07:36+00:00",
+    "word_count": 745,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8552486510243029752",
+    "title": "The 'Energy-Debt' Infrastructure Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against Grid-Capacity Constraints",
+    "url": "https://theomniview.blogspot.com/2026/06/the-energy-debt-infrastructure-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "enterprise AI strategy",
+      "AI infrastructure costs",
+      "grid-capacity constraints"
+    ],
+    "slug": "the-energy-debt-infrastructure-audit-7-stress-tests-for-your-enterprise-ai-strat",
+    "published_at": "2026-06-20T21:08:07+00:00",
+    "word_count": 954,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
