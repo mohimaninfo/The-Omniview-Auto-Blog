@@ -17286,5 +17286,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-20T17:13:41.378648",
+    "run_end": "2026-06-20T17:15:49.882387",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4515105025314249767",
+        "title": "The 'Codec-Inflation' Streaming Audit: 7 Stress-Tests for Your Monthly Subscription Against Rising Hardware Royalty Fees",
+        "url": "https://theomniview.blogspot.com/2026/06/the-codec-inflation-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "streaming subscription costs",
+          "video codec licensing",
+          "media player hardware fees"
+        ],
+        "slug": "the-codec-inflation-streaming-audit-7-stress-tests-for-your-monthly-subscription",
+        "published_at": "2026-06-20T17:19:26+00:00",
+        "word_count": 851,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2128710623847020826",
+        "title": "The 'kinetic-sovereignty' audit: 7 stress-tests for your logistics planning against Hormuz chokepoint instability",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kinetic-sovereignty-audit-7-stress.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Opinion & Analysis",
+          "Strait of Hormuz",
+          "supply chain resilience",
+          "logistics risk management"
+        ],
+        "slug": "the-kinetic-sovereignty-audit-7-stress-tests-for-your-logistics-planning-against",
+        "published_at": "2026-06-20T17:20:49+00:00",
+        "word_count": 687,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
