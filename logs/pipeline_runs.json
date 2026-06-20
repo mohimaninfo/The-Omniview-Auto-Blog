@@ -17338,5 +17338,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-20T19:06:23.008740",
+    "run_end": "2026-06-20T19:07:42.742591",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5047807275995983339",
+        "title": "the 'autonomous-patrol' governance audit: 7 stress-tests for your local municipality against ground-robot weaponization",
+        "url": "https://theomniview.blogspot.com/2026/06/the-autonomous-patrol-governance-audit.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Latest News",
+          "autonomous ground robots",
+          "municipal governance",
+          "weaponized robotics"
+        ],
+        "slug": "the-autonomous-patrol-governance-audit-7-stress-tests-for-your-local-municipalit",
+        "published_at": "2026-06-20T19:11:55+00:00",
+        "word_count": 924,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1317540954934939653",
+        "title": "The 'Privacy-Debt' Inheritance Audit: 7 Stress-Tests for Your Digital Legacy Against Post-Mortem Data Scraping",
+        "url": "https://theomniview.blogspot.com/2026/06/the-privacy-debt-inheritance-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "digital legacy",
+          "post-mortem privacy",
+          "data sovereignty"
+        ],
+        "slug": "the-privacy-debt-inheritance-audit-7-stress-tests-for-your-digital-legacy-agains",
+        "published_at": "2026-06-20T19:12:41+00:00",
+        "word_count": 1085,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
