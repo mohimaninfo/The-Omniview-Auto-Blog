@@ -14566,5 +14566,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "1023656644947769293",
+    "title": "The 'Deepfake-Defense' Casting Audit: 7 Stress-Tests for Your Talent Agency Against AI-Generated Audition Spam",
+    "url": "https://theomniview.blogspot.com/2026/06/the-deepfake-defense-casting-audit-7.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Latest News",
+      "AI casting fraud",
+      "talent agency security",
+      "Anne Hathaway AI spam"
+    ],
+    "slug": "the-deepfake-defense-casting-audit-7-stress-tests-for-your-talent-agency-against",
+    "published_at": "2026-06-20T15:32:50+00:00",
+    "word_count": 814,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5429936852685607961",
+    "title": "The 'Save-State' Preservation Audit: 7 Stress-Tests for Your Digital Game Library Against Cloud-Only Sunset Policies",
+    "url": "https://theomniview.blogspot.com/2026/06/the-save-state-preservation-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "digital game preservation",
+      "game ownership",
+      "cloud gaming risks"
+    ],
+    "slug": "the-save-state-preservation-audit-7-stress-tests-for-your-digital-game-library-a",
+    "published_at": "2026-06-20T15:33:18+00:00",
+    "word_count": 896,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
