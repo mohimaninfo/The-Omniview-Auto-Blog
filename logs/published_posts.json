@@ -14478,5 +14478,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7390839550497016780",
+    "title": "The 'Launcher-Bloat' Audit: 7 Stress-Tests for Your Gaming PC Against Epic Games Launcher V2 and Steam Resource Competition",
+    "url": "https://theomniview.blogspot.com/2026/06/the-launcher-bloat-audit-7-stress-tests.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Explainers",
+      "Epic Games Launcher V2",
+      "gaming PC performance",
+      "PC game launcher bloat"
+    ],
+    "slug": "the-launcher-bloat-audit-7-stress-tests-for-your-gaming-pc-against-epic-games-la",
+    "published_at": "2026-06-20T11:56:50+00:00",
+    "word_count": 905,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6895520205336219176",
+    "title": "The 'Token-Burn' Treasury Audit: 7 Stress-Tests for Your Startup Runway Against API Rate-Limit Inflation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-token-burn-treasury-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "interviews",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Interviews",
+      "startup runway",
+      "LLM infrastructure costs",
+      "financial risk management"
+    ],
+    "slug": "the-token-burn-treasury-audit-7-stress-tests-for-your-startup-runway-against-api",
+    "published_at": "2026-06-20T11:57:21+00:00",
+    "word_count": 863,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
