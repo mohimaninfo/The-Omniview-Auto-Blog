@@ -17754,5 +17754,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-21T15:43:58.468965",
+    "run_end": "2026-06-21T15:45:19.551744",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5538917122717275689",
+        "title": "The 'thermal-threshold' resilience audit: 7 stress-tests for your home\u2019s energy efficiency against record-breaking heat domes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-thermal-threshold-resilience-audit.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Latest News",
+          "energy efficiency",
+          "heat domes",
+          "home cooling"
+        ],
+        "slug": "the-thermal-threshold-resilience-audit-7-stress-tests-for-your-homes-energy-effi",
+        "published_at": "2026-06-21T15:49:39+00:00",
+        "word_count": 812,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "706128436817246802",
+        "title": "The 'hardware-reclamation' audit: 7 stress-tests for your enterprise AI strategy against circular-economy mandates",
+        "url": "https://theomniview.blogspot.com/2026/06/the-hardware-reclamation-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Case Studies",
+          "circular economy",
+          "hardware reclamation",
+          "sustainable AI"
+        ],
+        "slug": "the-hardware-reclamation-audit-7-stress-tests-for-your-enterprise-ai-strategy-ag",
+        "published_at": "2026-06-21T15:50:19+00:00",
+        "word_count": 729,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
