@@ -15138,5 +15138,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1022127208478687756",
+    "title": "The 'island-mode' resilience audit: 7 stress-tests for your home solar battery against grid-frequency instability",
+    "url": "https://theomniview.blogspot.com/2026/06/the-island-mode-resilience-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "How-To Guides",
+      "home solar battery",
+      "grid instability",
+      "energy resilience"
+    ],
+    "slug": "the-island-mode-resilience-audit-7-stress-tests-for-your-home-solar-battery-agai",
+    "published_at": "2026-06-21T21:07:58+00:00",
+    "word_count": 986,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "303679990633166702",
+    "title": "The 'haptic-deficit' classroom audit: 7 stress-tests for your student\u2019s sensory development against screen-first k-12 pedagogy",
+    "url": "https://theomniview.blogspot.com/2026/06/the-haptic-deficit-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Opinion & Analysis",
+      "k-12 pedagogy",
+      "sensory development",
+      "digital learning risks"
+    ],
+    "slug": "the-haptic-deficit-classroom-audit-7-stress-tests-for-your-students-sensory-deve",
+    "published_at": "2026-06-21T21:08:36+00:00",
+    "word_count": 1054,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
