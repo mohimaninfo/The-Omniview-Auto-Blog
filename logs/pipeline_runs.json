@@ -17494,5 +17494,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-20T23:59:52.679205",
+    "run_end": "2026-06-21T00:01:08.604229",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4256083920044527290",
+        "title": "The 'synthetic-intimacy' audit: 7 stress-tests for your romantic relationship against AI-generated partner personas \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-intimacy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Listicles",
+          "AI relationships",
+          "digital infidelity",
+          "relationship health"
+        ],
+        "slug": "the-synthetic-intimacy-audit-7-stress-tests-for-your-romantic-relationship-again",
+        "published_at": "2026-06-21T00:05:15+00:00",
+        "word_count": 821,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5004925249080627779",
+        "title": "The 'cognitive-atrophy' classroom audit: 7 stress-tests for your student\u2019s critical thinking against generative AI dependency",
+        "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-atrophy-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Explainers",
+          "cognitive atrophy",
+          "generative AI in education",
+          "critical thinking skills"
+        ],
+        "slug": "the-cognitive-atrophy-classroom-audit-7-stress-tests-for-your-students-critical-",
+        "published_at": "2026-06-21T00:06:08+00:00",
+        "word_count": 988,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
