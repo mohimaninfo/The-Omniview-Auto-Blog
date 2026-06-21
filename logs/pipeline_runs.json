@@ -17650,5 +17650,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-21T11:37:45.564959",
+    "run_end": "2026-06-21T11:39:31.658850",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1860760906638308161",
+        "title": "The 'Influencer-Diagnosis' Audit: 7 Stress-Tests for Your Mental Health Against Viral TikTok Medical Advice",
+        "url": "https://theomniview.blogspot.com/2026/06/the-influencer-diagnosis-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Latest News",
+          "mental health misinformation",
+          "social media health advice",
+          "TikTok medical myths"
+        ],
+        "slug": "the-influencer-diagnosis-audit-7-stress-tests-for-your-mental-health-against-vir",
+        "published_at": "2026-06-21T11:43:42+00:00",
+        "word_count": 775,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2935214263363256763",
+        "title": "The 'planetary-footprint' consumption audit: 7 stress-tests for your household budget against climate-related carbon taxes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-planetary-footprint-consumption.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Explainers",
+          "carbon tax impact",
+          "sustainable household budget",
+          "planetary boundaries"
+        ],
+        "slug": "the-planetary-footprint-consumption-audit-7-stress-tests-for-your-household-budg",
+        "published_at": "2026-06-21T11:44:31+00:00",
+        "word_count": 1047,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
