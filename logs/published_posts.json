@@ -15182,5 +15182,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5222901315917741925",
+    "title": "The 'Cognitive-Offload' Classroom Audit: 7 Stress-Tests for Your Student\u2019s Long-Term Memory Against AI-Assisted Note-Taking",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-offload-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Opinion & Analysis",
+      "cognitive offloading",
+      "learning science",
+      "generative AI in education"
+    ],
+    "slug": "the-cognitive-offload-classroom-audit-7-stress-tests-for-your-students-long-term",
+    "published_at": "2026-06-21T23:03:32+00:00",
+    "word_count": 905,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "764106243792085411",
+    "title": "The 'Human-Centric' Career Audit: 7 Stress-Tests for Your Professional Value Against AI-Driven Workforce Displacement",
+    "url": "https://theomniview.blogspot.com/2026/06/the-human-centric-career-audit-7-stress.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "interviews",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Interviews",
+      "career displacement",
+      "AI-proof skills",
+      "future of work"
+    ],
+    "slug": "the-human-centric-career-audit-7-stress-tests-for-your-professional-value-agains",
+    "published_at": "2026-06-21T23:04:06+00:00",
+    "word_count": 921,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
