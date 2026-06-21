@@ -17702,5 +17702,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-06-21T13:43:47.849747",
+    "run_end": "2026-06-21T13:45:03.984382",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5161305062163025922",
+        "title": "The 'TrophyLab' Integration Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against Battlefield-Driven Sensor Fusion",
+        "url": "https://theomniview.blogspot.com/2026/06/the-trophylab-integration-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "enterprise AI security",
+          "sensor fusion",
+          "battlefield AI"
+        ],
+        "slug": "the-trophylab-integration-audit-7-stress-tests-for-your-enterprise-ai-strategy-a",
+        "published_at": "2026-06-21T13:49:26+00:00",
+        "word_count": 978,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "1183020264381232494",
+        "title": "The 'Cash-Heavy' Crypto Audit: 7 Stress-Tests for Your Idle Fiat Reserves Against Inflationary Devaluation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-cash-heavy-crypto-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "cryptocurrency portfolio strategy",
+          "fiat inflation",
+          "idle cash investment"
+        ],
+        "slug": "the-cash-heavy-crypto-audit-7-stress-tests-for-your-idle-fiat-reserves-against-i",
+        "published_at": "2026-06-21T13:50:03+00:00",
+        "word_count": 870,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
