@@ -14874,5 +14874,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "2603879962403275592",
+    "title": "The 'battlefield-to-factory' audit: 7 stress-tests for your cobot deployment against reverse-engineered sensor drift",
+    "url": "https://theomniview.blogspot.com/2026/06/the-battlefield-to-factory-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Latest News",
+      "industrial robotics",
+      "cobot security",
+      "hardware vulnerability"
+    ],
+    "slug": "the-battlefield-to-factory-audit-7-stress-tests-for-your-cobot-deployment-agains",
+    "published_at": "2026-06-21T08:58:30+00:00",
+    "word_count": 730,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3526461955225496569",
+    "title": "The 'Subscription-Creep' Household Audit: 7 Stress-Tests for Your Monthly Budget Against Stealth Price Hikes \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-subscription-creep-household-audit.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Explainers",
+      "subscription management",
+      "personal finance audit",
+      "monthly budget planning"
+    ],
+    "slug": "the-subscription-creep-household-audit-7-stress-tests-for-your-monthly-budget-ag",
+    "published_at": "2026-06-21T08:58:54+00:00",
+    "word_count": 1114,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
