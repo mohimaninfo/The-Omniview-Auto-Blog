@@ -15050,5 +15050,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6947685696534169499",
+    "title": "The 'stablecoin-yield' liquidity audit: 7 stress-tests for your idle cash reserves against DeFi platform insolvency",
+    "url": "https://theomniview.blogspot.com/2026/06/the-stablecoin-yield-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Research Articles",
+      "stablecoin yield",
+      "DeFi risk management",
+      "crypto portfolio strategy"
+    ],
+    "slug": "the-stablecoin-yield-liquidity-audit-7-stress-tests-for-your-idle-cash-reserves-",
+    "published_at": "2026-06-21T17:21:52+00:00",
+    "word_count": 932,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5572653243615951478",
+    "title": "The 'data-center-drain' circularity audit: 7 stress-tests for your enterprise infrastructure against AI-driven energy and hardware waste",
+    "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drain-circularity-audit.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Case Studies",
+      "circular economy",
+      "data center sustainability",
+      "hardware reclamation"
+    ],
+    "slug": "the-data-center-drain-circularity-audit-7-stress-tests-for-your-enterprise-infra",
+    "published_at": "2026-06-21T17:22:39+00:00",
+    "word_count": 703,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
