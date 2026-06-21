@@ -17546,5 +17546,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-21T04:17:08.087382",
+    "run_end": "2026-06-21T04:17:50.514000",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4425422043664938233",
+        "title": "The 'influencer-physique' diagnostic audit: 7 stress-tests for your fitness tracker against viral health misinformation \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-influencer-physique-diagnostic_01025218856.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Explainers",
+          "fitness tracker accuracy",
+          "health misinformation",
+          "wearable health data"
+        ],
+        "slug": "the-influencer-physique-diagnostic-audit-7-stress-tests-for-your-fitness-tracker",
+        "published_at": "2026-06-21T04:22:30+00:00",
+        "word_count": 1070,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7555755974520018395",
+        "title": "the 'dependency-hell' dependency audit: 7 stress-tests for your microservices architecture against transient package registry outages",
+        "url": "https://theomniview.blogspot.com/2026/06/the-dependency-hell-dependency-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Listicles",
+          "dependency hell",
+          "microservices architecture",
+          "supply chain security"
+        ],
+        "slug": "the-dependency-hell-dependency-audit-7-stress-tests-for-your-microservices-archi",
+        "published_at": "2026-06-21T04:22:49+00:00",
+        "word_count": 742,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
