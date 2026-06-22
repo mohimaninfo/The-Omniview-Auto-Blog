@@ -18066,5 +18066,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-22T06:18:04.649881",
+    "run_end": "2026-06-22T06:20:33.188586",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2309180613654077040",
+        "title": "The 'rate-pivot' portfolio audit: 7 stress-tests for your 401k against impending interest rate volatility",
+        "url": "https://theomniview.blogspot.com/2026/06/the-rate-pivot-portfolio-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Latest News",
+          "401k investment strategy",
+          "interest rate volatility",
+          "portfolio diversification"
+        ],
+        "slug": "the-rate-pivot-portfolio-audit-7-stress-tests-for-your-401k-against-impending-in",
+        "published_at": "2026-06-22T06:24:21+00:00",
+        "word_count": 854,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2841914256536512721",
+        "title": "The 'digital-alibi' verification audit: 7 stress-tests for your romantic relationship against AI-generated deepfake deception",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-alibi-verification-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Explainers",
+          "relationship trust",
+          "AI deepfake detection",
+          "digital infidelity"
+        ],
+        "slug": "the-digital-alibi-verification-audit-7-stress-tests-for-your-romantic-relationsh",
+        "published_at": "2026-06-22T06:25:32+00:00",
+        "word_count": 944,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
