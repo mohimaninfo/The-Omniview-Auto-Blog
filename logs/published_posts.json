@@ -15446,5 +15446,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8597917883847285483",
+    "title": "The 'entropic-decay' harvest audit: 7 stress-tests for your global food security against climate-driven nutritional volatility",
+    "url": "https://theomniview.blogspot.com/2026/06/the-entropic-decay-harvest-audit-7.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Physics",
+      "Opinion & Analysis",
+      "food security",
+      "climate physics",
+      "nutritional quality"
+    ],
+    "slug": "the-entropic-decay-harvest-audit-7-stress-tests-for-your-global-food-security-ag",
+    "published_at": "2026-06-22T22:35:07+00:00",
+    "word_count": 899,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2820724744504610174",
+    "title": "The 'sensor-fusion' liability audit: 7 stress-tests for your autonomous vehicle fleet against edge-case sensor hallucinations",
+    "url": "https://theomniview.blogspot.com/2026/06/the-sensor-fusion-liability-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "sensor fusion",
+      "autonomous vehicle safety",
+      "robotics perception"
+    ],
+    "slug": "the-sensor-fusion-liability-audit-7-stress-tests-for-your-autonomous-vehicle-fle",
+    "published_at": "2026-06-22T22:35:32+00:00",
+    "word_count": 1062,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
