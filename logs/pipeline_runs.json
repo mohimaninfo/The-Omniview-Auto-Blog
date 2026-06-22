@@ -18326,5 +18326,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-22T23:58:31.566314",
+    "run_end": "2026-06-22T23:59:15.929685",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1297827307028905927",
+        "title": "the 'founder-burnout' treasury audit: 7 stress-tests for your startup runway against personal financial instability",
+        "url": "https://theomniview.blogspot.com/2026/06/the-founder-burnout-treasury-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup runway",
+          "founder personal finance",
+          "startup liquidity management"
+        ],
+        "slug": "the-founder-burnout-treasury-audit-7-stress-tests-for-your-startup-runway-agains",
+        "published_at": "2026-06-23T00:03:51+00:00",
+        "word_count": 927,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5537888240736424104",
+        "title": "The 'algorithmic-palate' audit: 7 stress-tests for your home cooking against ai-generated recipe feedback loops",
+        "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-palate-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Opinion & Analysis",
+          "home cooking",
+          "culinary techniques",
+          "ai recipe generators"
+        ],
+        "slug": "the-algorithmic-palate-audit-7-stress-tests-for-your-home-cooking-against-ai-gen",
+        "published_at": "2026-06-23T00:04:14+00:00",
+        "word_count": 987,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
