@@ -18170,5 +18170,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-22T17:23:30.635438",
+    "run_end": "2026-06-22T17:26:45.484264",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "939434813399900976",
+        "title": "The 'algorithmic-homogenization' film audit: 7 stress-tests for your movie-watching experience against AI-driven recommendation feedback loops \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-homogenization-film.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Reviews",
+          "streaming algorithms",
+          "movie recommendation engines",
+          "AI in entertainment"
+        ],
+        "slug": "the-algorithmic-homogenization-film-audit-7-stress-tests-for-your-movie-watching",
+        "published_at": "2026-06-22T17:31:07+00:00",
+        "word_count": 574,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2426467544554834791",
+        "title": "The 'planned-obsolescence' repair audit: 7 stress-tests for your smart-home ecosystem against manufacturer software-lockouts",
+        "url": "https://theomniview.blogspot.com/2026/06/the-planned-obsolescence-repair-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Opinion & Analysis",
+          "circular economy",
+          "planned obsolescence",
+          "right to repair"
+        ],
+        "slug": "the-planned-obsolescence-repair-audit-7-stress-tests-for-your-smart-home-ecosyst",
+        "published_at": "2026-06-22T17:31:44+00:00",
+        "word_count": 811,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
