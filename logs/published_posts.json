@@ -15314,5 +15314,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "788400926968443182",
+    "title": "The 'algorithmic-homogenization' audit: 7 stress-tests for your music taste against AI-driven recommendation feedback loops",
+    "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-homogenization-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Listicles",
+      "music streaming algorithms",
+      "AI in music",
+      "music discovery"
+    ],
+    "slug": "the-algorithmic-homogenization-audit-7-stress-tests-for-your-music-taste-against",
+    "published_at": "2026-06-22T12:46:19+00:00",
+    "word_count": 809,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5892127350293397532",
+    "title": "The 'Orchestration-Gap' Leadership Audit: 7 Stress-Tests for Your Management Style Against Autonomous AI-Agent Teams",
+    "url": "https://theomniview.blogspot.com/2026/06/the-orchestration-gap-leadership-audit.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Opinion & Analysis",
+      "AI agent management",
+      "autonomous workforce",
+      "leadership strategy"
+    ],
+    "slug": "the-orchestration-gap-leadership-audit-7-stress-tests-for-your-management-style-",
+    "published_at": "2026-06-22T12:47:07+00:00",
+    "word_count": 827,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
