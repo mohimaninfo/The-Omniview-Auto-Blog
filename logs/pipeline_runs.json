@@ -18222,5 +18222,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-22T20:30:06.265634",
+    "run_end": "2026-06-22T20:30:58.806311",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4331454083843931018",
+        "title": "The 'Autopilot-Anxiety' Travel Audit: 7 Stress-Tests for Your Next Road Trip Against Tesla Driver-Assistance Failures",
+        "url": "https://theomniview.blogspot.com/2026/06/the-autopilot-anxiety-travel-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "How-To Guides",
+          "road trip safety",
+          "Tesla Autopilot safety",
+          "autonomous vehicle travel risks"
+        ],
+        "slug": "the-autopilot-anxiety-travel-audit-7-stress-tests-for-your-next-road-trip-agains",
+        "published_at": "2026-06-22T20:35:35+00:00",
+        "word_count": 1012,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4092589969427006359",
+        "title": "The 'Circadian-Sync' Audit: 7 Stress-Tests for Your Sleep Health Against Blue-Light-Blocking Tech",
+        "url": "https://theomniview.blogspot.com/2026/06/the-circadian-sync-audit-7-stress-tests.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Explainers",
+          "sleep health",
+          "circadian rhythm",
+          "blue light blocking glasses"
+        ],
+        "slug": "the-circadian-sync-audit-7-stress-tests-for-your-sleep-health-against-blue-light",
+        "published_at": "2026-06-22T20:35:58+00:00",
+        "word_count": 1018,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
