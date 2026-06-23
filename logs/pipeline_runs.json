@@ -18482,5 +18482,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-23T10:26:44.188712",
+    "run_end": "2026-06-23T10:27:51.499535",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4548208222382426563",
+        "title": "The 'drone-swarm' security audit: 7 stress-tests for your home perimeter against low-cost sensor surveillance",
+        "url": "https://theomniview.blogspot.com/2026/06/the-drone-swarm-security-audit-7-stress.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Case Studies",
+          "drone surveillance",
+          "home security audit",
+          "sensor-based privacy"
+        ],
+        "slug": "the-drone-swarm-security-audit-7-stress-tests-for-your-home-perimeter-against-lo",
+        "published_at": "2026-06-23T10:32:24+00:00",
+        "word_count": 699,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4524260076748114226",
+        "title": "The 'E-Waste-to-Cloud' Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against Circular-Economy Hardware Mandates \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-e-waste-to-cloud-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Research Articles",
+          "circular economy",
+          "enterprise AI hardware",
+          "e-waste management"
+        ],
+        "slug": "the-e-waste-to-cloud-audit-7-stress-tests-for-your-enterprise-ai-strategy-agains",
+        "published_at": "2026-06-23T10:32:51+00:00",
+        "word_count": 968,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
