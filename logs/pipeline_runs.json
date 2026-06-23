@@ -18690,5 +18690,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-23T21:21:33.122566",
+    "run_end": "2026-06-23T21:22:36.681302",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2657922945343394302",
+        "title": "the 'silicon-scarcity' conservation audit: 7 stress-tests for your local biodiversity strategy against ai-driven water consumption",
+        "url": "https://theomniview.blogspot.com/2026/06/the-silicon-scarcity-conservation-audit.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Opinion & Analysis",
+          "ai water consumption",
+          "biodiversity conservation",
+          "data center sustainability"
+        ],
+        "slug": "the-silicon-scarcity-conservation-audit-7-stress-tests-for-your-local-biodiversi",
+        "published_at": "2026-06-23T21:27:06+00:00",
+        "word_count": 954,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6688734990720270258",
+        "title": "The 'kinetic-sovereignty' audit: 7 stress-tests for your energy independence against global drone-swarm warfare",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kinetic-sovereignty-audit-7-stress_0149558443.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Opinion & Analysis",
+          "energy independence",
+          "drone swarm warfare",
+          "grid resilience"
+        ],
+        "slug": "the-kinetic-sovereignty-audit-7-stress-tests-for-your-energy-independence-agains",
+        "published_at": "2026-06-23T21:27:36+00:00",
+        "word_count": 914,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
