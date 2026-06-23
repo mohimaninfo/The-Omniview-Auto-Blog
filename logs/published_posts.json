@@ -15534,5 +15534,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2200662859711956024",
+    "title": "The 'grid-drain' load audit: 7 stress-tests for your corporate climate strategy against AI-driven data center energy spikes",
+    "url": "https://theomniview.blogspot.com/2026/06/the-grid-drain-load-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Research Articles",
+      "corporate climate strategy",
+      "data center energy consumption",
+      "AI energy demand"
+    ],
+    "slug": "the-grid-drain-load-audit-7-stress-tests-for-your-corporate-climate-strategy-aga",
+    "published_at": "2026-06-23T02:58:44+00:00",
+    "word_count": 919,
+    "has_video": false,
+    "image_count": 2,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8127566159907330195",
+    "title": "The 'sovereign-cloud' migration audit: 7 stress-tests for your enterprise data strategy against cross-border digital protectionism",
+    "url": "https://theomniview.blogspot.com/2026/06/the-sovereign-cloud-migration-audit-7.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Opinion & Analysis",
+      "data sovereignty",
+      "enterprise cloud strategy",
+      "digital protectionism"
+    ],
+    "slug": "the-sovereign-cloud-migration-audit-7-stress-tests-for-your-enterprise-data-stra",
+    "published_at": "2026-06-23T02:59:00+00:00",
+    "word_count": 733,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
