@@ -18430,5 +18430,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-23T06:37:41.254962",
+    "run_end": "2026-06-23T06:38:25.504758",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7414796231800365272",
+        "title": "The 'viral-symptom' diagnostic audit: 7 stress-tests for your health literacy against social media medical misinformation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-viral-symptom-diagnostic-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "medical misinformation",
+          "health literacy",
+          "viral health trends"
+        ],
+        "slug": "the-viral-symptom-diagnostic-audit-7-stress-tests-for-your-health-literacy-again",
+        "published_at": "2026-06-23T06:43:00+00:00",
+        "word_count": 1120,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2891508627734322459",
+        "title": "The 'Interstellar-Drift' audit: 7 stress-tests for your orbital debris strategy against ancient deep-space arrivals",
+        "url": "https://theomniview.blogspot.com/2026/06/the-interstellar-drift-audit-7-stress.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "orbital debris",
+          "interstellar objects",
+          "space situational awareness"
+        ],
+        "slug": "the-interstellar-drift-audit-7-stress-tests-for-your-orbital-debris-strategy-aga",
+        "published_at": "2026-06-23T06:43:25+00:00",
+        "word_count": 850,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
