@@ -15754,5 +15754,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "8624547111657375195",
+    "title": "The 'starlink-sovereignty' audit: 7 stress-tests for your home network against state-level satellite internet interception",
+    "url": "https://theomniview.blogspot.com/2026/06/the-starlink-sovereignty-audit-7-stress.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Research Articles",
+      "Starlink security",
+      "satellite internet privacy",
+      "digital sovereignty"
+    ],
+    "slug": "the-starlink-sovereignty-audit-7-stress-tests-for-your-home-network-against-stat",
+    "published_at": "2026-06-23T19:05:53+00:00",
+    "word_count": 950,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "9130343060283277178",
+    "title": "The 'Doom-Scroll' Dopamine Audit: 7 Stress-Tests for Your Mental Health Against Algorithmic Feedback Loops",
+    "url": "https://theomniview.blogspot.com/2026/06/the-doom-scroll-dopamine-audit-7-stress.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Explainers",
+      "dopamine detox",
+      "mental health",
+      "algorithmic feedback loops"
+    ],
+    "slug": "the-doom-scroll-dopamine-audit-7-stress-tests-for-your-mental-health-against-alg",
+    "published_at": "2026-06-23T19:06:35+00:00",
+    "word_count": 1175,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
