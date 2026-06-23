@@ -18742,5 +18742,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-23T22:57:21.532302",
+    "run_end": "2026-06-23T22:58:31.148911",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2675772008777022919",
+        "title": "The 'Event-Horizon' Thermodynamics Audit: 7 Stress-Tests for Your Physics Intuition Against Black Hole Energy Laws",
+        "url": "https://theomniview.blogspot.com/2026/06/the-event-horizon-thermodynamics-audit.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "black hole thermodynamics",
+          "First Law of Thermodynamics",
+          "astrophysics news"
+        ],
+        "slug": "the-event-horizon-thermodynamics-audit-7-stress-tests-for-your-physics-intuition",
+        "published_at": "2026-06-23T23:02:48+00:00",
+        "word_count": 743,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3628563586749858802",
+        "title": "The 'Right-to-Repair' Climate Audit: 7 Stress-Tests for Your Smart-Home Ecosystem Against Manufacturer Software-Lockouts \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-right-to-repair-climate-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "right to repair",
+          "sustainable smart home",
+          "planned obsolescence"
+        ],
+        "slug": "the-right-to-repair-climate-audit-7-stress-tests-for-your-smart-home-ecosystem-a",
+        "published_at": "2026-06-23T23:03:30+00:00",
+        "word_count": 942,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
