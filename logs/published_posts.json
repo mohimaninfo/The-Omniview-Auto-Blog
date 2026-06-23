@@ -15710,5 +15710,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7882735183094701511",
+    "title": "The 'synthetic-witness' security audit: 7 stress-tests for your corporate event security against AI-generated identity fraud",
+    "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-witness-security-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Research Articles",
+      "identity fraud",
+      "biometric security",
+      "corporate event security"
+    ],
+    "slug": "the-synthetic-witness-security-audit-7-stress-tests-for-your-corporate-event-sec",
+    "published_at": "2026-06-23T16:24:06+00:00",
+    "word_count": 905,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1543403768981260915",
+    "title": "The 'Cooling-Gap' Inequality Audit: 7 Stress-Tests for Your Urban Resilience Against Heat-Related Wealth Disparities",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cooling-gap-inequality-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Research Articles",
+      "urban heat island effect",
+      "climate inequality",
+      "energy poverty"
+    ],
+    "slug": "the-cooling-gap-inequality-audit-7-stress-tests-for-your-urban-resilience-agains",
+    "published_at": "2026-06-23T16:24:39+00:00",
+    "word_count": 1038,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
