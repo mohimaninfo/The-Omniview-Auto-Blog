@@ -18534,5 +18534,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-23T13:33:55.531983",
+    "run_end": "2026-06-23T13:34:42.284034",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4360517521015003159",
+        "title": "The 'biological-clock' audit: 7 stress-tests for your longevity plan against accelerated aging markers",
+        "url": "https://theomniview.blogspot.com/2026/06/the-biological-clock-audit-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Latest News",
+          "biological aging",
+          "longevity science",
+          "early-onset cancer prevention"
+        ],
+        "slug": "the-biological-clock-audit-7-stress-tests-for-your-longevity-plan-against-accele",
+        "published_at": "2026-06-23T13:39:16+00:00",
+        "word_count": 737,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3811912327800867006",
+        "title": "The 'GLP-1-Nutrient' Gap Audit: 7 Stress-Tests for Your Diet Against Rapid Muscle Wasting",
+        "url": "https://theomniview.blogspot.com/2026/06/the-glp-1-nutrient-gap-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "GLP-1 nutrition",
+          "prevent muscle loss on ozempic",
+          "weight loss nutrition"
+        ],
+        "slug": "the-glp-1-nutrient-gap-audit-7-stress-tests-for-your-diet-against-rapid-muscle-w",
+        "published_at": "2026-06-23T13:39:41+00:00",
+        "word_count": 966,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
