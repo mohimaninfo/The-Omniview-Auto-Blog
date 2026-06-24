@@ -19002,5 +19002,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-24T13:09:31.847469",
+    "run_end": "2026-06-24T13:10:30.269762",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6802169516637559503",
+        "title": "The 'Digital-Exile' Travel Audit: 7 Stress-Tests for Your Global Mobility Against Rising State-Level Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-exile-travel-audit-7-stress.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "digital nomad security",
+          "geopolitical travel risks",
+          "state surveillance"
+        ],
+        "slug": "the-digital-exile-travel-audit-7-stress-tests-for-your-global-mobility-against-r",
+        "published_at": "2026-06-24T13:14:55+00:00",
+        "word_count": 683,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7025225485915630880",
+        "title": "The 'shadow-dependency' audit: 7 stress-tests for your production codebase against transient open-source supply chain poisoning",
+        "url": "https://theomniview.blogspot.com/2026/06/the-shadow-dependency-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Programming",
+          "How-To Guides",
+          "software supply chain security",
+          "dependency auditing",
+          "npm security best practices"
+        ],
+        "slug": "the-shadow-dependency-audit-7-stress-tests-for-your-production-codebase-against-",
+        "published_at": "2026-06-24T13:15:29+00:00",
+        "word_count": 893,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
