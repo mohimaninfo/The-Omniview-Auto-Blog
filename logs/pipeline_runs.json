@@ -19054,5 +19054,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-24T16:06:17.881818",
+    "run_end": "2026-06-24T16:07:10.510567",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5345712183416490408",
+        "title": "The 'Data-Center-Drought' Audit: 7 Stress-Tests for Your Local Water Security Against AI-Driven Cooling Demands",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drought-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "How-To Guides",
+          "water security",
+          "data center water usage",
+          "sustainable living"
+        ],
+        "slug": "the-data-center-drought-audit-7-stress-tests-for-your-local-water-security-again",
+        "published_at": "2026-06-24T16:11:47+00:00",
+        "word_count": 1007,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6791422102613665138",
+        "title": "The 'Neuro-Diversion' Audit: 7 Stress-Tests for Your Creative Workflow Against Generative AI Style-Drift",
+        "url": "https://theomniview.blogspot.com/2026/06/the-neuro-diversion-audit-7-stress.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "generative ai",
+          "creative workflow",
+          "style-drift"
+        ],
+        "slug": "the-neuro-diversion-audit-7-stress-tests-for-your-creative-workflow-against-gene",
+        "published_at": "2026-06-24T16:12:10+00:00",
+        "word_count": 1044,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
