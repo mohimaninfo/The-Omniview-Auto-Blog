@@ -19158,5 +19158,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-24T20:25:53.713213",
+    "run_end": "2026-06-24T20:26:58.219954",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2279551245689012002",
+        "title": "The 'kinetic-resilience' audit: 7 stress-tests for your household emergency plan against localized drone-swarm surveillance",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kinetic-resilience-audit-7-stress.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "drone surveillance",
+          "household security",
+          "privacy protection"
+        ],
+        "slug": "the-kinetic-resilience-audit-7-stress-tests-for-your-household-emergency-plan-ag",
+        "published_at": "2026-06-24T20:31:21+00:00",
+        "word_count": 852,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5774096866942477784",
+        "title": "The 'Signal-Sovereignty' Audit: 7 Stress-Tests for Your Personal Privacy Against State-Level Infrastructure Sabotage",
+        "url": "https://theomniview.blogspot.com/2026/06/the-signal-sovereignty-audit-7-stress.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Opinion & Analysis",
+          "personal privacy",
+          "infrastructure sabotage",
+          "digital sovereignty"
+        ],
+        "slug": "the-signal-sovereignty-audit-7-stress-tests-for-your-personal-privacy-against-st",
+        "published_at": "2026-06-24T20:31:57+00:00",
+        "word_count": 961,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
