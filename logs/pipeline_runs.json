@@ -19106,5 +19106,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-24T18:25:44.702491",
+    "run_end": "2026-06-24T18:26:32.087559",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "677444901246928015",
+        "title": "The 'Coolant-Crisis' Kitchen Audit: 7 Stress-Tests for Your Home Cooking Against AI-Driven Water Scarcity",
+        "url": "https://theomniview.blogspot.com/2026/06/the-coolant-crisis-kitchen-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "home cooking water conservation",
+          "sustainable kitchen practices",
+          "AI water consumption impact"
+        ],
+        "slug": "the-coolant-crisis-kitchen-audit-7-stress-tests-for-your-home-cooking-against-ai",
+        "published_at": "2026-06-24T18:31:12+00:00",
+        "word_count": 1006,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2588007693912828875",
+        "title": "The 'kinetic-sovereignty' audit: 7 stress-tests for your local municipality against drone-swarm surveillance and warfare",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kinetic-sovereignty-audit-7-stress_02032482173.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Opinion & Analysis",
+          "drone swarm security",
+          "municipal digital infrastructure",
+          "kinetic sovereignty"
+        ],
+        "slug": "the-kinetic-sovereignty-audit-7-stress-tests-for-your-local-municipality-against",
+        "published_at": "2026-06-24T18:31:31+00:00",
+        "word_count": 736,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
