@@ -18846,5 +18846,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-06-24T01:59:58.194728",
+    "run_end": "2026-06-24T02:01:24.299872",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8812516321668442439",
+        "title": "the 'sovereign-signal' connectivity audit: 7 stress-tests for your communications privacy against state-level satellite interception",
+        "url": "https://theomniview.blogspot.com/2026/06/the-sovereign-signal-connectivity-audit.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Explainers",
+          "satellite internet privacy",
+          "Starlink security risks",
+          "digital surveillance"
+        ],
+        "slug": "the-sovereign-signal-connectivity-audit-7-stress-tests-for-your-communications-p",
+        "published_at": "2026-06-24T02:05:52+00:00",
+        "word_count": 903,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1225926521627675784",
+        "title": "The 'Repair-Deficit' Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against Circular-Economy Mandates \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-repair-deficit-audit-7-stress-tests.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "enterprise AI sustainability",
+          "e-waste management"
+        ],
+        "slug": "the-repair-deficit-audit-7-stress-tests-for-your-enterprise-ai-strategy-against-",
+        "published_at": "2026-06-24T02:06:23+00:00",
+        "word_count": 949,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
