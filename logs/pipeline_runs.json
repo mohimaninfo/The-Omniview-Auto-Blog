@@ -18950,5 +18950,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-24T10:12:00.424218",
+    "run_end": "2026-06-24T10:13:09.526809",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2632315678941187688",
+        "title": "The 'closed-garden' classroom audit: 7 stress-tests for your K-12 district against vendor-locked AI ecosystems",
+        "url": "https://theomniview.blogspot.com/2026/06/the-closed-garden-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "K-12 AI implementation",
+          "edtech vendor lock-in",
+          "AI in classrooms"
+        ],
+        "slug": "the-closed-garden-classroom-audit-7-stress-tests-for-your-k-12-district-against-",
+        "published_at": "2026-06-24T10:17:39+00:00",
+        "word_count": 897,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "735310061980551995",
+        "title": "The 'aquifer-depletion' audit: 7 stress-tests for your local water security against industrial data center expansion",
+        "url": "https://theomniview.blogspot.com/2026/06/the-aquifer-depletion-audit-7-stress.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Research Articles",
+          "water security",
+          "data center water consumption",
+          "groundwater depletion"
+        ],
+        "slug": "the-aquifer-depletion-audit-7-stress-tests-for-your-local-water-security-against",
+        "published_at": "2026-06-24T10:18:09+00:00",
+        "word_count": 1104,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
