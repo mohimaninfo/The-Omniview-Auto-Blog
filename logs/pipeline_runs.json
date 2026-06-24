@@ -18898,5 +18898,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-06-24T06:07:51.863498",
+    "run_end": "2026-06-24T06:08:36.807037",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3163758743117757568",
+        "title": "The 'nest-egg-recovery' audit: 7 stress-tests for your emergency fund against sudden market volatility and job loss",
+        "url": "https://theomniview.blogspot.com/2026/06/the-nest-egg-recovery-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Explainers",
+          "emergency fund strategy",
+          "rebuilding savings",
+          "financial recovery plan"
+        ],
+        "slug": "the-nest-egg-recovery-audit-7-stress-tests-for-your-emergency-fund-against-sudde",
+        "published_at": "2026-06-24T06:13:13+00:00",
+        "word_count": 1072,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1296171149311608340",
+        "title": "The 'algorithmic-credibility' audit: 7 stress-tests for your personal brand against AI-generated slop",
+        "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-credibility-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "personal branding",
+          "AI content",
+          "digital authority"
+        ],
+        "slug": "the-algorithmic-credibility-audit-7-stress-tests-for-your-personal-brand-against",
+        "published_at": "2026-06-24T06:13:36+00:00",
+        "word_count": 865,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
