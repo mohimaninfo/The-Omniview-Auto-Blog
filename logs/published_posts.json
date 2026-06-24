@@ -16238,5 +16238,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6624904807422769345",
+    "title": "The 'Identity-Drift' Career Audit: 7 Stress-Tests for Your Professional Purpose Against AI-Induced Burnout",
+    "url": "https://theomniview.blogspot.com/2026/06/the-identity-drift-career-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Explainers",
+      "AI career burnout",
+      "professional identity crisis",
+      "knowledge worker wellbeing"
+    ],
+    "slug": "the-identity-drift-career-audit-7-stress-tests-for-your-professional-purpose-aga",
+    "published_at": "2026-06-24T22:11:47+00:00",
+    "word_count": 1061,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5733441396864313337",
+    "title": "The 'offline-sovereignty' gaming audit: 7 stress-tests for your steam library against future cloud-only sunset policies",
+    "url": "https://theomniview.blogspot.com/2026/06/the-offline-sovereignty-gaming-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "How-To Guides",
+      "Steam library preservation",
+      "offline gaming strategy",
+      "DRM-free gaming"
+    ],
+    "slug": "the-offline-sovereignty-gaming-audit-7-stress-tests-for-your-steam-library-again",
+    "published_at": "2026-06-24T22:12:18+00:00",
+    "word_count": 966,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
