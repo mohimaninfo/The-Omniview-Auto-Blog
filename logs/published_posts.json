@@ -16326,5 +16326,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1424441581042846258",
+    "title": "The 'Data-Center-Drain' Kitchen Audit: 7 Stress-Tests for Your Meal Prep Against AI-Driven Energy Spikes",
+    "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drain-kitchen-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Listicles",
+      "energy efficient cooking",
+      "meal prep tips",
+      "rising utility costs"
+    ],
+    "slug": "the-data-center-drain-kitchen-audit-7-stress-tests-for-your-meal-prep-against-ai",
+    "published_at": "2026-06-25T02:34:26+00:00",
+    "word_count": 821,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6770575371529762042",
+    "title": "The 'latency-tax' competitive audit: 7 stress-tests for your gaming performance against ISP traffic shaping",
+    "url": "https://theomniview.blogspot.com/2026/06/the-latency-tax-competitive-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Reviews",
+      "gaming performance",
+      "ISP traffic shaping",
+      "network latency"
+    ],
+    "slug": "the-latency-tax-competitive-audit-7-stress-tests-for-your-gaming-performance-aga",
+    "published_at": "2026-06-25T02:35:14+00:00",
+    "word_count": 536,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
