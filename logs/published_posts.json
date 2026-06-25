@@ -16546,5 +16546,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8185954785969422958",
+    "title": "The 'load-shed' liability audit: 7 stress-tests for your local utility grid against data center energy mandates",
+    "url": "https://theomniview.blogspot.com/2026/06/the-load-shed-liability-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Latest News",
+      "data center energy consumption",
+      "grid reliability",
+      "climate policy"
+    ],
+    "slug": "the-load-shed-liability-audit-7-stress-tests-for-your-local-utility-grid-against",
+    "published_at": "2026-06-25T19:08:15+00:00",
+    "word_count": 661,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "8803845590866666662",
+    "title": "The 'thermal-backlash' policy audit: 7 stress-tests for your local municipality against data center energy and water disputes",
+    "url": "https://theomniview.blogspot.com/2026/06/the-thermal-backlash-policy-audit-7.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Opinion & Analysis",
+      "data center energy costs",
+      "climate policy",
+      "municipal water security"
+    ],
+    "slug": "the-thermal-backlash-policy-audit-7-stress-tests-for-your-local-municipality-aga",
+    "published_at": "2026-06-25T19:09:03+00:00",
+    "word_count": 822,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
