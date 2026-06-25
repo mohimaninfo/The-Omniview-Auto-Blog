@@ -19522,5 +19522,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-25T16:13:01.463084",
+    "run_end": "2026-06-25T16:14:35.313022",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2341449358916929118",
+        "title": "The 'Grid-Backlash' Mitigation Audit: 7 Stress-Tests for Your Community Solar Project Against Data Center Energy Protests",
+        "url": "https://theomniview.blogspot.com/2026/06/the-grid-backlash-mitigation-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "How-To Guides",
+          "community solar project",
+          "data center energy costs",
+          "renewable energy backlash"
+        ],
+        "slug": "the-grid-backlash-mitigation-audit-7-stress-tests-for-your-community-solar-proje",
+        "published_at": "2026-06-25T16:18:48+00:00",
+        "word_count": 1070,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "778728033455939126",
+        "title": "the 'pumped-storage' paradox audit: 7 stress-tests for your microgrid resilience against long-duration energy storage gaps",
+        "url": "https://theomniview.blogspot.com/2026/06/the-pumped-storage-paradox-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "microgrid resilience",
+          "long-duration energy storage",
+          "renewable energy reliability"
+        ],
+        "slug": "the-pumped-storage-paradox-audit-7-stress-tests-for-your-microgrid-resilience-ag",
+        "published_at": "2026-06-25T16:19:34+00:00",
+        "word_count": 910,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
