@@ -16634,5 +16634,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5169246489513032568",
+    "title": "The 'sonic-sovereignty' audit: 7 stress-tests for your music collection against AI-voice licensing mandates",
+    "url": "https://theomniview.blogspot.com/2026/06/the-sonic-sovereignty-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "AI voice licensing",
+      "music copyright protection",
+      "artist rights"
+    ],
+    "slug": "the-sonic-sovereignty-audit-7-stress-tests-for-your-music-collection-against-ai-",
+    "published_at": "2026-06-25T23:11:14+00:00",
+    "word_count": 597,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5464837693003915027",
+    "title": "The 'Vendor-Lock' Exit Audit: 7 Stress-Tests for Your Startup Strategy Against Sudden Platform De-Platforming",
+    "url": "https://theomniview.blogspot.com/2026/06/the-vendor-lock-exit-audit-7-stress.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Opinion & Analysis",
+      "startup risk management",
+      "vendor lock-in",
+      "enterprise cloud strategy"
+    ],
+    "slug": "the-vendor-lock-exit-audit-7-stress-tests-for-your-startup-strategy-against-sudd",
+    "published_at": "2026-06-25T23:11:38+00:00",
+    "word_count": 928,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
