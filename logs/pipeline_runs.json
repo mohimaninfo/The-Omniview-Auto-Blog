@@ -19366,5 +19366,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-25T06:37:53.235942",
+    "run_end": "2026-06-25T06:38:47.332082",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2740368917146649795",
+        "title": "The 'Memory-Lock' Budget Audit: 7 Stress-Tests for Your 8GB RAM Laptop Against Windows 11 Bloat",
+        "url": "https://theomniview.blogspot.com/2026/06/the-memory-lock-budget-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "How-To Guides",
+          "8GB RAM Windows 11",
+          "laptop performance optimization",
+          "RAM upgrade guide"
+        ],
+        "slug": "the-memory-lock-budget-audit-7-stress-tests-for-your-8gb-ram-laptop-against-wind",
+        "published_at": "2026-06-25T06:43:24+00:00",
+        "word_count": 1148,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1629712462854356794",
+        "title": "The 'Digital-Sunset' Catalog Audit: 7 Stress-Tests for Your Favorite Streaming Shows Against Platform-Wide De-listing",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-sunset-catalog-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "streaming platforms",
+          "content removal",
+          "digital media preservation"
+        ],
+        "slug": "the-digital-sunset-catalog-audit-7-stress-tests-for-your-favorite-streaming-show",
+        "published_at": "2026-06-25T06:43:46+00:00",
+        "word_count": 923,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
