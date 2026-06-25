@@ -19470,5 +19470,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-06-25T13:08:51.162810",
+    "run_end": "2026-06-25T13:09:38.114367",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1554965277368941184",
+        "title": "The 'Data-Center-Drain' Cybersecurity Audit: 7 Stress-Tests for Your Enterprise Infrastructure Against AI-Driven Energy Sabotage \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-drain-cybersecurity.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Case Studies",
+          "cybersecurity infrastructure",
+          "data center security",
+          "grid resilience"
+        ],
+        "slug": "the-data-center-drain-cybersecurity-audit-7-stress-tests-for-your-enterprise-inf",
+        "published_at": "2026-06-25T13:14:16+00:00",
+        "word_count": 672,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1756789719921154313",
+        "title": "the 'emergency-liquidity' audit: 7 stress-tests for your high-yield savings account against sudden interest rate pivots \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-emergency-liquidity-audit-7-stress_01901310225.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Opinion & Analysis",
+          "emergency fund strategy",
+          "high-yield savings account",
+          "interest rate risk"
+        ],
+        "slug": "the-emergency-liquidity-audit-7-stress-tests-for-your-high-yield-savings-account",
+        "published_at": "2026-06-25T13:14:37+00:00",
+        "word_count": 960,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
