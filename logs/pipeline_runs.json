@@ -19782,5 +19782,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-26T06:41:14.286418",
+    "run_end": "2026-06-26T06:42:04.306601",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4086924196869598459",
+        "title": "The 'Narcissist-Founder' Audit: 7 Stress-Tests for Your Startup Culture Against Mandatory Return-to-Office Mandates",
+        "url": "https://theomniview.blogspot.com/2026/06/the-narcissist-founder-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Opinion & Analysis",
+          "startup culture",
+          "return to office",
+          "founder leadership"
+        ],
+        "slug": "the-narcissist-founder-audit-7-stress-tests-for-your-startup-culture-against-man",
+        "published_at": "2026-06-26T06:46:40+00:00",
+        "word_count": 1061,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "272148085525692186",
+        "title": "The 'dead-internet' gaming audit: 7 stress-tests for your favorite multiplayer servers against bot-driven player erosion",
+        "url": "https://theomniview.blogspot.com/2026/06/the-dead-internet-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "multiplayer gaming",
+          "dead internet theory",
+          "bot detection"
+        ],
+        "slug": "the-dead-internet-gaming-audit-7-stress-tests-for-your-favorite-multiplayer-serv",
+        "published_at": "2026-06-26T06:47:03+00:00",
+        "word_count": 803,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
