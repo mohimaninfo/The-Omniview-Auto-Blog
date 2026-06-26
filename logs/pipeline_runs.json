@@ -19886,5 +19886,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-26T13:01:52.298595",
+    "run_end": "2026-06-26T13:02:46.314628",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5383997496486714775",
+        "title": "The 'Liquidity-Trap' Retirement Audit: 7 Stress-Tests for Your 401k Against Impending Interest Rate Volatility \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-liquidity-trap-retirement-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Opinion & Analysis",
+          "retirement planning",
+          "401k strategy",
+          "interest rate volatility"
+        ],
+        "slug": "the-liquidity-trap-retirement-audit-7-stress-tests-for-your-401k-against-impendi",
+        "published_at": "2026-06-26T13:07:17+00:00",
+        "word_count": 896,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7127158994031504314",
+        "title": "The 'parasite-personality' audit: 7 stress-tests for your mental health against the invisible influence of Toxoplasma gondii",
+        "url": "https://theomniview.blogspot.com/2026/06/the-parasite-personality-audit-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "Toxoplasma gondii",
+          "parasite personality link",
+          "neglected tropical disease"
+        ],
+        "slug": "the-parasite-personality-audit-7-stress-tests-for-your-mental-health-against-the",
+        "published_at": "2026-06-26T13:07:45+00:00",
+        "word_count": 984,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
