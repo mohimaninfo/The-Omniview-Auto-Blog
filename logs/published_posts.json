@@ -16766,5 +16766,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4344848364200860681",
+    "title": "The 'campus-sovereignty' audit: 7 stress-tests for your university's digital infrastructure against FCC funding cuts",
+    "url": "https://theomniview.blogspot.com/2026/06/the-campus-sovereignty-audit-7-stress.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Research Articles",
+      "higher education digital infrastructure",
+      "E-Rate funding cuts",
+      "campus network resilience"
+    ],
+    "slug": "the-campus-sovereignty-audit-7-stress-tests-for-your-universitys-digital-infrast",
+    "published_at": "2026-06-26T10:18:04+00:00",
+    "word_count": 910,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6159111393555165785",
+    "title": "The 'Right-to-Repair' Hardware Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against Circular-Economy Mandates \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-right-to-repair-hardware-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Case Studies",
+      "circular economy",
+      "enterprise AI strategy",
+      "right-to-repair"
+    ],
+    "slug": "the-right-to-repair-hardware-audit-7-stress-tests-for-your-enterprise-ai-strateg",
+    "published_at": "2026-06-26T10:18:35+00:00",
+    "word_count": 699,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
