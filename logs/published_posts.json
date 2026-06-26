@@ -16854,5 +16854,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5423914743997520083",
+    "title": "The 'Data-Poisoning' Defense Audit: 7 Stress-Tests for Your Enterprise AI Models Against Adversarial Training Data",
+    "url": "https://theomniview.blogspot.com/2026/06/the-data-poisoning-defense-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "How-To Guides",
+      "data poisoning",
+      "adversarial machine learning",
+      "AI security"
+    ],
+    "slug": "the-data-poisoning-defense-audit-7-stress-tests-for-your-enterprise-ai-models-ag",
+    "published_at": "2026-06-26T16:11:16+00:00",
+    "word_count": 961,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4217182911939514496",
+    "title": "The 'knowledge-debt' curriculum audit: 7 stress-tests for your student\u2019s foundational literacy against AI-generated hallucinations",
+    "url": "https://theomniview.blogspot.com/2026/06/the-knowledge-debt-curriculum-audit-7.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Opinion & Analysis",
+      "knowledge debt",
+      "AI hallucinations",
+      "learning science"
+    ],
+    "slug": "the-knowledge-debt-curriculum-audit-7-stress-tests-for-your-students-foundationa",
+    "published_at": "2026-06-26T16:11:47+00:00",
+    "word_count": 978,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
