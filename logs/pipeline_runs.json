@@ -19730,5 +19730,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-26T02:03:59.987821",
+    "run_end": "2026-06-26T02:05:07.398934",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7578592408431572817",
+        "title": "The 'Synthetic-Actor' Contract Audit: 7 Stress-Tests for Your Favorite Streaming Shows Against AI Voice-Licensing Mandates",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-actor-contract-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "AI voice cloning",
+          "streaming entertainment",
+          "voice actor rights"
+        ],
+        "slug": "the-synthetic-actor-contract-audit-7-stress-tests-for-your-favorite-streaming-sh",
+        "published_at": "2026-06-26T02:09:26+00:00",
+        "word_count": 739,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "3932993132337715128",
+        "title": "The 'carbon-arbitrage' policy audit: 7 stress-tests for your corporate sustainability strategy against cross-border adjustment mechanisms",
+        "url": "https://theomniview.blogspot.com/2026/06/the-carbon-arbitrage-policy-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Opinion & Analysis",
+          "carbon border adjustment mechanism",
+          "CBAM compliance",
+          "corporate climate policy"
+        ],
+        "slug": "the-carbon-arbitrage-policy-audit-7-stress-tests-for-your-corporate-sustainabili",
+        "published_at": "2026-06-26T02:10:07+00:00",
+        "word_count": 805,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
