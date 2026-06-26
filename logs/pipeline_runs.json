@@ -20094,5 +20094,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-26T22:00:11.772162",
+    "run_end": "2026-06-26T22:01:47.234401",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8708550196714075878",
+        "title": "The 'Digital-Serfdom' Classroom Audit: 7 Stress-Tests for Your School\u2019s LMS Against Platform De-Platforming",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-serfdom-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "LMS platform dependency",
+          "edtech digital sovereignty",
+          "school data ownership"
+        ],
+        "slug": "the-digital-serfdom-classroom-audit-7-stress-tests-for-your-schools-lms-against-",
+        "published_at": "2026-06-26T22:06:04+00:00",
+        "word_count": 792,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5347254038125257278",
+        "title": "The 'Data Center Dissent' Audit: 7 Stress-Tests for Your Local Municipality Against AI-Driven Energy Protests",
+        "url": "https://theomniview.blogspot.com/2026/06/the-data-center-dissent-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Latest News",
+          "AI data center protests",
+          "municipal energy infrastructure",
+          "data center sustainability"
+        ],
+        "slug": "the-data-center-dissent-audit-7-stress-tests-for-your-local-municipality-against",
+        "published_at": "2026-06-26T22:06:46+00:00",
+        "word_count": 828,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
