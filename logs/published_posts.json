@@ -17030,5 +17030,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1820065332997668871",
+    "title": "The 'Influencer-Proxy' Audit: 7 Stress-Tests for Your Brand Partnerships Against AI-Generated Bot Hijacking",
+    "url": "https://theomniview.blogspot.com/2026/06/the-influencer-proxy-audit-7-stress.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Listicles",
+      "influencer marketing",
+      "bot detection",
+      "brand safety"
+    ],
+    "slug": "the-influencer-proxy-audit-7-stress-tests-for-your-brand-partnerships-against-ai",
+    "published_at": "2026-06-26T23:13:16+00:00",
+    "word_count": 814,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "729066567314621773",
+    "title": "The 'Toxin-Flush' Detox Audit: 7 Stress-Tests for Your Fitness Recovery Against Viral Wellness Misinformation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-toxin-flush-detox-audit-7-stress.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "reviews",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Reviews",
+      "fitness detox",
+      "wellness misinformation",
+      "recovery supplements"
+    ],
+    "slug": "the-toxin-flush-detox-audit-7-stress-tests-for-your-fitness-recovery-against-vir",
+    "published_at": "2026-06-26T23:13:48+00:00",
+    "word_count": 616,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
