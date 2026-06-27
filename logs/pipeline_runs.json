@@ -20770,5 +20770,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-27T22:51:43.628383",
+    "run_end": "2026-06-27T22:52:46.510788",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8210089672745272906",
+        "title": "The 'AI-Slop' Literacy Audit: 7 Stress-Tests for Your Classroom Curriculum Against Synthetic Content Pollution",
+        "url": "https://theomniview.blogspot.com/2026/06/the-ai-slop-literacy-audit-7-stress.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "reviews",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Reviews",
+          "AI slop",
+          "classroom curriculum",
+          "AI literacy"
+        ],
+        "slug": "the-ai-slop-literacy-audit-7-stress-tests-for-your-classroom-curriculum-against-",
+        "published_at": "2026-06-27T22:57:18+00:00",
+        "word_count": 590,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7971355650521446419",
+        "title": "The 'synthetic-scholar' assessment audit: 7 stress-tests for your k-12 district against ai-generated student work",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synthetic-scholar-assessment-audit.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "k-12 AI policies",
+          "academic integrity in schools",
+          "detecting AI-generated student work"
+        ],
+        "slug": "the-synthetic-scholar-assessment-audit-7-stress-tests-for-your-k-12-district-aga",
+        "published_at": "2026-06-27T22:57:45+00:00",
+        "word_count": 971,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
