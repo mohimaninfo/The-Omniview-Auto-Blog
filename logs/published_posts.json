@@ -17074,5 +17074,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1088898429020999417",
+    "title": "The 'sonic-sovereignty' audit: 7 stress-tests for your physical music collection against cloud-only platform de-listing",
+    "url": "https://theomniview.blogspot.com/2026/06/the-sonic-sovereignty-audit-7-stress_0437806723.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "physical music collection",
+      "digital music ownership",
+      "streaming platform de-listing"
+    ],
+    "slug": "the-sonic-sovereignty-audit-7-stress-tests-for-your-physical-music-collection-ag",
+    "published_at": "2026-06-27T02:03:24+00:00",
+    "word_count": 573,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "543542329621913540",
+    "title": "The 'haptic-nostalgia' audit: 7 stress-tests for your tactile memory against the shift to haptic-less digital interfaces",
+    "url": "https://theomniview.blogspot.com/2026/06/the-haptic-nostalgia-audit-7-stress.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "reviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Reviews",
+      "haptic feedback",
+      "tactile memory",
+      "digital minimalism"
+    ],
+    "slug": "the-haptic-nostalgia-audit-7-stress-tests-for-your-tactile-memory-against-the-sh",
+    "published_at": "2026-06-27T02:03:47+00:00",
+    "word_count": 575,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
