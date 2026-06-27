@@ -17162,5 +17162,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 7
+  },
+  {
+    "post_id": "6805009977032127033",
+    "title": "The 'Identity-Lock' Classroom Audit: 7 Stress-Tests for Your School\u2019s LMS Against Mandatory Age-Verification Mandates",
+    "url": "https://theomniview.blogspot.com/2026/06/the-identity-lock-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "reviews",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Reviews",
+      "LMS privacy",
+      "student data protection",
+      "age verification laws"
+    ],
+    "slug": "the-identity-lock-classroom-audit-7-stress-tests-for-your-schools-lms-against-ma",
+    "published_at": "2026-06-27T08:29:12+00:00",
+    "word_count": 521,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7920340291672637237",
+    "title": "The 'Data-Center-Exile' Survival Audit: 7 Stress-Tests for Your Local Community Against AI-Driven Energy Rationing",
+    "url": "https://theomniview.blogspot.com/2026/06/the-data-center-exile-survival-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "How-To Guides",
+      "AI data center impact",
+      "energy grid resilience",
+      "community energy planning"
+    ],
+    "slug": "the-data-center-exile-survival-audit-7-stress-tests-for-your-local-community-aga",
+    "published_at": "2026-06-27T08:29:49+00:00",
+    "word_count": 1094,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
