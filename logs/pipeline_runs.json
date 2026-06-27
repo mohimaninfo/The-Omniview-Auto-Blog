@@ -20614,5 +20614,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-27T19:00:27.161554",
+    "run_end": "2026-06-27T19:01:10.971932",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8205224362260144570",
+        "title": "The 'Entry-Level-Gap' Audit: 7 Stress-Tests for Your Higher Ed Curriculum Against the AI Hiring Crisis",
+        "url": "https://theomniview.blogspot.com/2026/06/the-entry-level-gap-audit-7-stress.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "AI hiring crisis",
+          "higher education curriculum",
+          "entry-level jobs"
+        ],
+        "slug": "the-entry-level-gap-audit-7-stress-tests-for-your-higher-ed-curriculum-against-t",
+        "published_at": "2026-06-27T19:05:51+00:00",
+        "word_count": 920,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2066363637869468423",
+        "title": "The 'Micro-Grid' Autonomy Audit: 7 Stress-Tests for Your Home Energy Security Against Utility-Scale AI Load Shedding",
+        "url": "https://theomniview.blogspot.com/2026/06/the-micro-grid-autonomy-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "home energy security",
+          "microgrid autonomy",
+          "grid independence"
+        ],
+        "slug": "the-micro-grid-autonomy-audit-7-stress-tests-for-your-home-energy-security-again",
+        "published_at": "2026-06-27T19:06:10+00:00",
+        "word_count": 895,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
