@@ -20666,5 +20666,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-27T20:46:46.534281",
+    "run_end": "2026-06-27T20:48:49.157131",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3624398983006973512",
+        "title": "The 'Gaslight-Proof' Diagnostic Audit: 7 Stress-Tests for Your Health Advocacy Against Medical Dismissal",
+        "url": "https://theomniview.blogspot.com/2026/06/the-gaslight-proof-diagnostic-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "How-To Guides",
+          "medical gaslighting",
+          "patient advocacy",
+          "diagnostic delay"
+        ],
+        "slug": "the-gaslight-proof-diagnostic-audit-7-stress-tests-for-your-health-advocacy-agai",
+        "published_at": "2026-06-27T20:52:32+00:00",
+        "word_count": 1173,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7588754076810589279",
+        "title": "The 'Human-in-the-Loop' Resume Audit: 7 Stress-Tests for Your Entry-Level Career Strategy Against AI-Automated Hiring",
+        "url": "https://theomniview.blogspot.com/2026/06/the-human-in-loop-resume-audit-7-stress.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "entry-level career strategy",
+          "AI hiring crisis",
+          "resume optimization"
+        ],
+        "slug": "the-human-in-the-loop-resume-audit-7-stress-tests-for-your-entry-level-career-st",
+        "published_at": "2026-06-27T20:53:48+00:00",
+        "word_count": 901,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
