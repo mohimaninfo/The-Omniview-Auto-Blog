@@ -17250,5 +17250,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1350994154504645364",
+    "title": "The 'Analog-Anchor' Resilience Audit: 7 Stress-Tests for Your Personal Identity Against Mandatory Digital Age Verification",
+    "url": "https://theomniview.blogspot.com/2026/06/the-analog-anchor-resilience-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Listicles",
+      "digital age verification",
+      "online privacy",
+      "internet identity"
+    ],
+    "slug": "the-analog-anchor-resilience-audit-7-stress-tests-for-your-personal-identity-aga",
+    "published_at": "2026-06-27T12:09:52+00:00",
+    "word_count": 839,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "901159515141961709",
+    "title": "The 'E-Ink-Resilience' Audit: 7 Stress-Tests for Your Reading Habit Against Eye-Strain-Inducing OLED Saturation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-e-ink-resilience-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Reviews",
+      "e-ink tablets",
+      "digital eye strain",
+      "focus-friendly gadgets"
+    ],
+    "slug": "the-e-ink-resilience-audit-7-stress-tests-for-your-reading-habit-against-eye-str",
+    "published_at": "2026-06-27T12:10:11+00:00",
+    "word_count": 634,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
