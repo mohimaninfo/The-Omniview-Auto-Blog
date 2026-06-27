@@ -17514,5 +17514,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7409563426563893090",
+    "title": "The 'equity-evasion' audit: 7 stress-tests for your retirement portfolio against the 'never-buy-a-house' economic pivot",
+    "url": "https://theomniview.blogspot.com/2026/06/the-equity-evasion-audit-7-stress-tests.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Opinion & Analysis",
+      "retirement planning",
+      "rent vs buy",
+      "financial benchmarks"
+    ],
+    "slug": "the-equity-evasion-audit-7-stress-tests-for-your-retirement-portfolio-against-th",
+    "published_at": "2026-06-27T21:57:06+00:00",
+    "word_count": 835,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "9034974707602453356",
+    "title": "the 'drone-warrior' transition audit: 7 stress-tests for your local municipality\u2019s emergency response against military-grade swarm integration",
+    "url": "https://theomniview.blogspot.com/2026/06/the-drone-warrior-transition-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Latest News",
+      "drone swarm security",
+      "emergency response robotics",
+      "urban airspace management"
+    ],
+    "slug": "the-drone-warrior-transition-audit-7-stress-tests-for-your-local-municipalitys-e",
+    "published_at": "2026-06-27T21:57:32+00:00",
+    "word_count": 725,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
