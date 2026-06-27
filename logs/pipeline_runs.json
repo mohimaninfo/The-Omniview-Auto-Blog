@@ -20510,5 +20510,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-27T15:57:47.347625",
+    "run_end": "2026-06-27T15:58:48.003313",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4497204859841268129",
+        "title": "The 'age-gated' classroom audit: 7 stress-tests for your k-12 district against mandatory online identity verification",
+        "url": "https://theomniview.blogspot.com/2026/06/the-age-gated-classroom-audit-7-stress.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "How-To Guides",
+          "k12 digital privacy",
+          "age verification in schools",
+          "student data protection"
+        ],
+        "slug": "the-age-gated-classroom-audit-7-stress-tests-for-your-k-12-district-against-mand",
+        "published_at": "2026-06-27T16:03:10+00:00",
+        "word_count": 963,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "4846233927943057559",
+        "title": "The 'Geopolitical-Grid' inequality audit: 7 stress-tests for your local utility resilience against energy-intensive AI data center expansion",
+        "url": "https://theomniview.blogspot.com/2026/06/the-geopolitical-grid-inequality-audit.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Opinion & Analysis",
+          "energy inequality",
+          "AI data center expansion",
+          "grid resilience"
+        ],
+        "slug": "the-geopolitical-grid-inequality-audit-7-stress-tests-for-your-local-utility-res",
+        "published_at": "2026-06-27T16:03:47+00:00",
+        "word_count": 997,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
