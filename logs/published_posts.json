@@ -17294,5 +17294,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6112102722601324913",
+    "title": "The 'kinetic-chokepoint' logistics audit: 7 stress-tests for your global supply chain against drone-swarm maritime sabotage",
+    "url": "https://theomniview.blogspot.com/2026/06/the-kinetic-chokepoint-logistics-audit.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Explainers",
+      "global supply chain security",
+      "drone warfare",
+      "maritime logistics"
+    ],
+    "slug": "the-kinetic-chokepoint-logistics-audit-7-stress-tests-for-your-global-supply-cha",
+    "published_at": "2026-06-27T14:27:07+00:00",
+    "word_count": 906,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1090225758310862790",
+    "title": "The 'Digital-Heirloom' Audit: 7 Stress-Tests for Your Personal Media Library Against Cloud-Only Sunset Policies",
+    "url": "https://theomniview.blogspot.com/2026/06/the-digital-heirloom-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "digital ownership",
+      "media preservation",
+      "cloud-only services"
+    ],
+    "slug": "the-digital-heirloom-audit-7-stress-tests-for-your-personal-media-library-agains",
+    "published_at": "2026-06-27T14:27:32+00:00",
+    "word_count": 968,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
