@@ -17206,5 +17206,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8722253838215024186",
+    "title": "The 'plankton-collapse' resilience audit: 7 stress-tests for your coastal ecosystem against global food web instability",
+    "url": "https://theomniview.blogspot.com/2026/06/the-plankton-collapse-resilience-audit.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Opinion & Analysis",
+      "plankton decline",
+      "marine food web",
+      "ocean climate change"
+    ],
+    "slug": "the-plankton-collapse-resilience-audit-7-stress-tests-for-your-coastal-ecosystem",
+    "published_at": "2026-06-27T10:57:10+00:00",
+    "word_count": 795,
+    "has_video": false,
+    "image_count": 2,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6940557403726892744",
+    "title": "The 'cognitive-lipid' nutrition audit: 7 stress-tests for your brain health against dementia-linked snacking habits",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-lipid-nutrition-audit-7.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Listicles",
+      "dementia prevention diet",
+      "brain health nutrition",
+      "cognitive decline foods"
+    ],
+    "slug": "the-cognitive-lipid-nutrition-audit-7-stress-tests-for-your-brain-health-against",
+    "published_at": "2026-06-27T10:57:40+00:00",
+    "word_count": 824,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
