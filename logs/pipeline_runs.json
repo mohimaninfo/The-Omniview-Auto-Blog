@@ -20562,5 +20562,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-27T17:04:36.646184",
+    "run_end": "2026-06-27T17:05:25.925780",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1858021893577600197",
+        "title": "The 'Digital-Tenant' Library Audit: 7 Stress-Tests for Your Movie Collection Against Streaming Platform De-listings",
+        "url": "https://theomniview.blogspot.com/2026/06/the-digital-tenant-library-audit-7.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Explainers",
+          "digital media ownership",
+          "streaming platform de-listing",
+          "PlayStation movie deletion"
+        ],
+        "slug": "the-digital-tenant-library-audit-7-stress-tests-for-your-movie-collection-agains",
+        "published_at": "2026-06-27T17:10:03+00:00",
+        "word_count": 982,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1135612223969038602",
+        "title": "The 'Plankton-Pulse' Resilience Audit: 7 Stress-Tests for Your Coastal Ecosystem Against Global Food Web Instability \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-plankton-pulse-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Latest News",
+          "plankton decline",
+          "ocean ecosystem resilience",
+          "climate change marine biology"
+        ],
+        "slug": "the-plankton-pulse-resilience-audit-7-stress-tests-for-your-coastal-ecosystem-ag",
+        "published_at": "2026-06-27T17:10:25+00:00",
+        "word_count": 811,
+        "has_video": false,
+        "image_count": 2,
+        "reference_count": 4
+      }
+    ]
   }
 ]
