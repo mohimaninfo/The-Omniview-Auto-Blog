@@ -20874,5 +20874,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-28T02:08:54.028050",
+    "run_end": "2026-06-28T02:10:01.506452",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7264952914919343045",
+        "title": "The 'Shadow-Productivity' Audit: 7 Stress-Tests for Your Remote-Work Workflow Against Corporate AI Monitoring",
+        "url": "https://theomniview.blogspot.com/2026/06/the-shadow-productivity-audit-7-stress.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote work productivity",
+          "employee privacy",
+          "AI surveillance"
+        ],
+        "slug": "the-shadow-productivity-audit-7-stress-tests-for-your-remote-work-workflow-again",
+        "published_at": "2026-06-28T02:14:21+00:00",
+        "word_count": 985,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2696466309414376169",
+        "title": "The 'credential-inflation' audit: 7 stress-tests for your degree\u2019s ROI against AI-driven entry-level displacement",
+        "url": "https://theomniview.blogspot.com/2026/06/the-credential-inflation-audit-7-stress.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "AI entry-level jobs crisis",
+          "future of higher education",
+          "degree ROI"
+        ],
+        "slug": "the-credential-inflation-audit-7-stress-tests-for-your-degrees-roi-against-ai-dr",
+        "published_at": "2026-06-28T02:15:00+00:00",
+        "word_count": 797,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
