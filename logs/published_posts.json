@@ -17778,5 +17778,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6447226494197017148",
+    "title": "The AMOC-Collapse Resilience Audit: 7 Stress-Tests for Your Coastal Infrastructure Against North Atlantic Cooling",
+    "url": "https://theomniview.blogspot.com/2026/06/the-amoc-collapse-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Opinion & Analysis",
+      "AMOC collapse",
+      "North Atlantic cold blob",
+      "climate tipping points"
+    ],
+    "slug": "the-amoc-collapse-resilience-audit-7-stress-tests-for-your-coastal-infrastructur",
+    "published_at": "2026-06-28T11:35:28+00:00",
+    "word_count": 823,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "5759565890381617082",
+    "title": "The 'Exit-Liquidity' Valuation Audit: 7 Stress-Tests for Your Startup\u2019s Cap Table Against AI-Driven M&A Consolidation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-exit-liquidity-valuation-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Case Studies",
+      "startup valuation",
+      "cap table management",
+      "AI M&A trends"
+    ],
+    "slug": "the-exit-liquidity-valuation-audit-7-stress-tests-for-your-startups-cap-table-ag",
+    "published_at": "2026-06-28T11:35:47+00:00",
+    "word_count": 735,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
