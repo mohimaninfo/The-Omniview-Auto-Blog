@@ -17910,5 +17910,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4054358099841961029",
+    "title": "The 'Supply-Chain-Squeeze' Kitchen Audit: 7 Stress-Tests for Your Grocery Budget Against AI-Driven Inflation",
+    "url": "https://theomniview.blogspot.com/2026/06/the-supply-chain-squeeze-kitchen-audit.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Explainers",
+      "grocery budget tips",
+      "food inflation",
+      "AI economic impact"
+    ],
+    "slug": "the-supply-chain-squeeze-kitchen-audit-7-stress-tests-for-your-grocery-budget-ag",
+    "published_at": "2026-06-28T17:01:31+00:00",
+    "word_count": 1243,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7710423526633887885",
+    "title": "The 'Orbital-Debris' Resilience Audit: 7 Stress-Tests for Your Starlink Connectivity Against Growing Space Junk",
+    "url": "https://theomniview.blogspot.com/2026/06/the-orbital-debris-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "listicles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Listicles",
+      "space junk",
+      "orbital debris",
+      "Starlink connectivity"
+    ],
+    "slug": "the-orbital-debris-resilience-audit-7-stress-tests-for-your-starlink-connectivit",
+    "published_at": "2026-06-28T17:02:29+00:00",
+    "word_count": 940,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
