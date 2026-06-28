@@ -21134,5 +21134,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-28T15:09:42.871010",
+    "run_end": "2026-06-28T15:10:27.760371",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8514305409490883680",
+        "title": "The 'Slop-Filter' Workflow Audit: 7 Stress-Tests for Your YouTube Content Strategy Against AI-Generated Pollution",
+        "url": "https://theomniview.blogspot.com/2026/06/the-slop-filter-workflow-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "How-To Guides",
+          "AI slop",
+          "YouTube content strategy",
+          "content authenticity"
+        ],
+        "slug": "the-slop-filter-workflow-audit-7-stress-tests-for-your-youtube-content-strategy-",
+        "published_at": "2026-06-28T15:15:05+00:00",
+        "word_count": 1091,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8888681172715348023",
+        "title": "The 'Heat-Trigger' Psychological Audit: 7 Stress-Tests for Your Mental Health Against Extreme Heatwave Irritability",
+        "url": "https://theomniview.blogspot.com/2026/06/the-heat-trigger-psychological-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Research Articles",
+          "mental health and heatwaves",
+          "heat-related irritability",
+          "emotional regulation"
+        ],
+        "slug": "the-heat-trigger-psychological-audit-7-stress-tests-for-your-mental-health-again",
+        "published_at": "2026-06-28T15:15:26+00:00",
+        "word_count": 1032,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
