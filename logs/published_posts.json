@@ -17822,5 +17822,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5227336141060215611",
+    "title": "The 'Gaslight-Proof' Diagnostic Audit: 7 Stress-Tests for Your Health Advocacy Against Medical Dismissal \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-gaslight-proof-diagnostic-audit-7_0332380721.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "latest-news",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Latest News",
+      "medical gaslighting",
+      "patient advocacy",
+      "diagnostic errors"
+    ],
+    "slug": "the-gaslight-proof-diagnostic-audit-7-stress-tests-for-your-health-advocacy-agai",
+    "published_at": "2026-06-28T13:14:51+00:00",
+    "word_count": 798,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1962469854512877789",
+    "title": "the 'dependency-hell' audit: 7 stress-tests for your production codebase against transient open-source supply chain poisoning \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-dependency-hell-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Explainers",
+      "dependency hell",
+      "supply chain security",
+      "open source vulnerabilities"
+    ],
+    "slug": "the-dependency-hell-audit-7-stress-tests-for-your-production-codebase-against-tr",
+    "published_at": "2026-06-28T13:15:12+00:00",
+    "word_count": 1054,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
