@@ -17734,5 +17734,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1361078981210564863",
+    "title": "The 'Gait-Brain' Longevity Audit: 7 Stress-Tests for Your Cognitive Health Against Age-Related Decline",
+    "url": "https://theomniview.blogspot.com/2026/06/the-gait-brain-longevity-audit-7-stress.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Explainers",
+      "brain health",
+      "cognitive decline",
+      "walking speed and dementia"
+    ],
+    "slug": "the-gait-brain-longevity-audit-7-stress-tests-for-your-cognitive-health-against-",
+    "published_at": "2026-06-28T09:56:25+00:00",
+    "word_count": 1016,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4852227734390689943",
+    "title": "The 'thermal-envelope' audit: 7 stress-tests for your home\u2019s energy efficiency against extreme weather volatility",
+    "url": "https://theomniview.blogspot.com/2026/06/the-thermal-envelope-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Explainers",
+      "home energy efficiency",
+      "thermal envelope",
+      "passive cooling"
+    ],
+    "slug": "the-thermal-envelope-audit-7-stress-tests-for-your-homes-energy-efficiency-again",
+    "published_at": "2026-06-28T09:56:44+00:00",
+    "word_count": 1146,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
