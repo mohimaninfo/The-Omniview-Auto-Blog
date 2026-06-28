@@ -18130,5 +18130,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4458101017024484084",
+    "title": "The 'orbital-clutter' survival audit: 7 stress-tests for your satellite-dependent lifestyle against the Kessler Syndrome",
+    "url": "https://theomniview.blogspot.com/2026/06/the-orbital-clutter-survival-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "listicles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Listicles",
+      "Kessler Syndrome",
+      "orbital debris",
+      "space junk"
+    ],
+    "slug": "the-orbital-clutter-survival-audit-7-stress-tests-for-your-satellite-dependent-l",
+    "published_at": "2026-06-28T22:57:27+00:00",
+    "word_count": 766,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4324466250939696462",
+    "title": "the 'cold-storage' reality audit: 7 stress-tests for your cryptocurrency portfolio against exchange insolvency and bank-run contagion",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cold-storage-reality-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "reviews",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Reviews",
+      "cryptocurrency self-custody",
+      "cold storage wallet",
+      "crypto exchange insolvency"
+    ],
+    "slug": "the-cold-storage-reality-audit-7-stress-tests-for-your-cryptocurrency-portfolio-",
+    "published_at": "2026-06-28T22:58:21+00:00",
+    "word_count": 614,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
