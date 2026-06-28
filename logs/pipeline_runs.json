@@ -21290,5 +21290,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-28T19:12:21.931104",
+    "run_end": "2026-06-28T19:13:17.756777",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3513522260699519280",
+        "title": "The 'Volume-Normalization' Audit: 7 Stress-Tests for Your Streaming Experience Against California's New Ad-Volume Laws",
+        "url": "https://theomniview.blogspot.com/2026/06/the-volume-normalization-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "streaming ads",
+          "California ad volume law",
+          "streaming service ads"
+        ],
+        "slug": "the-volume-normalization-audit-7-stress-tests-for-your-streaming-experience-agai",
+        "published_at": "2026-06-28T19:17:55+00:00",
+        "word_count": 981,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4666999487132026309",
+        "title": "The 'synaptic-pruning' audit: 7 stress-tests for your attention span against short-form video dopamine loops",
+        "url": "https://theomniview.blogspot.com/2026/06/the-synaptic-pruning-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Latest News",
+          "synaptic pruning",
+          "attention span",
+          "neuroplasticity"
+        ],
+        "slug": "the-synaptic-pruning-audit-7-stress-tests-for-your-attention-span-against-short-",
+        "published_at": "2026-06-28T19:18:17+00:00",
+        "word_count": 849,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
