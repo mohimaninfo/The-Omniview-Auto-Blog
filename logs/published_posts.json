@@ -18174,5 +18174,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1758723627648086190",
+    "title": "The 'drone-swarm' logistics audit: 7 stress-tests for your local supply chain against maritime chokepoint sabotage \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/06/the-drone-swarm-logistics-audit-7.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Case Studies",
+      "supply chain resilience",
+      "maritime drone warfare",
+      "logistics risk management"
+    ],
+    "slug": "the-drone-swarm-logistics-audit-7-stress-tests-for-your-local-supply-chain-again",
+    "published_at": "2026-06-29T00:03:39+00:00",
+    "word_count": 715,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4005980060700422864",
+    "title": "The 'zero-party' data audit: 7 stress-tests for your CRM strategy against the death of third-party tracking",
+    "url": "https://theomniview.blogspot.com/2026/06/the-zero-party-data-audit-7-stress.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "How-To Guides",
+      "zero-party data strategy",
+      "CRM marketing",
+      "first-party data collection"
+    ],
+    "slug": "the-zero-party-data-audit-7-stress-tests-for-your-crm-strategy-against-the-death",
+    "published_at": "2026-06-29T00:03:58+00:00",
+    "word_count": 894,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
