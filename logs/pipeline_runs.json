@@ -21862,5 +21862,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-29T22:02:32.750798",
+    "run_end": "2026-06-29T22:03:13.724984",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4110803349522789659",
+        "title": "The 'mitochondrial-drift' fitness audit: 7 stress-tests for your metabolic health against sedentary lifestyle decay",
+        "url": "https://theomniview.blogspot.com/2026/06/the-mitochondrial-drift-fitness-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "mitochondrial function",
+          "metabolic health",
+          "sedentary lifestyle risks"
+        ],
+        "slug": "the-mitochondrial-drift-fitness-audit-7-stress-tests-for-your-metabolic-health-a",
+        "published_at": "2026-06-29T22:07:53+00:00",
+        "word_count": 1037,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7632386008750080024",
+        "title": "the 'rewilding-gap' conservation audit: 7 stress-tests for your local biodiversity corridor against invasive species encroachment",
+        "url": "https://theomniview.blogspot.com/2026/06/the-rewilding-gap-conservation-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Case Studies",
+          "rewilding",
+          "biodiversity corridors",
+          "invasive species management"
+        ],
+        "slug": "the-rewilding-gap-conservation-audit-7-stress-tests-for-your-local-biodiversity-",
+        "published_at": "2026-06-29T22:08:13+00:00",
+        "word_count": 671,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
