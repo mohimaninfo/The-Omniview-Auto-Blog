@@ -21810,5 +21810,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-06-29T20:46:43.815678",
+    "run_end": "2026-06-29T20:47:38.161307",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8237868521472911481",
+        "title": "The 'Fat-Truth' Nutrition Audit: 7 Stress-Tests for Your Heart Health Against Viral Dietary Misinformation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-fat-truth-nutrition-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "heart health",
+          "healthy fats",
+          "nutrition myths"
+        ],
+        "slug": "the-fat-truth-nutrition-audit-7-stress-tests-for-your-heart-health-against-viral",
+        "published_at": "2026-06-29T20:52:12+00:00",
+        "word_count": 612,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4354823554623689951",
+        "title": "The 'Surveillance-Creep' Home Audit: 7 Stress-Tests for Your Property Privacy Against Unregulated IoT Infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/06/the-surveillance-creep-home-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "home security privacy",
+          "IoT surveillance risks",
+          "property surveillance protection"
+        ],
+        "slug": "the-surveillance-creep-home-audit-7-stress-tests-for-your-property-privacy-again",
+        "published_at": "2026-06-29T20:52:37+00:00",
+        "word_count": 823,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
