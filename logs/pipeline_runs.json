@@ -21654,5 +21654,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-29T12:54:36.126291",
+    "run_end": "2026-06-29T12:55:30.926517",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9013313966430291784",
+        "title": "The 'Ownerless' Asset Audit: 7 Stress-Tests for Your Property Rights Against State-Level Seizure Tactics",
+        "url": "https://theomniview.blogspot.com/2026/06/the-ownerless-asset-audit-7-stress.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "property rights",
+          "asset seizure",
+          "geopolitical risk"
+        ],
+        "slug": "the-ownerless-asset-audit-7-stress-tests-for-your-property-rights-against-state-",
+        "published_at": "2026-06-29T13:00:06+00:00",
+        "word_count": 845,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4414159343271953798",
+        "title": "The 'Smart-Home' Vulnerability Audit: 7 Stress-Tests for Your Privacy Against AI-Driven Data Aggregation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-smart-home-vulnerability-audit-7_0779144360.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Explainers",
+          "smart home privacy",
+          "data aggregation",
+          "AI surveillance"
+        ],
+        "slug": "the-smart-home-vulnerability-audit-7-stress-tests-for-your-privacy-against-ai-dr",
+        "published_at": "2026-06-29T13:00:30+00:00",
+        "word_count": 889,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
