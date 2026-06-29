@@ -21914,5 +21914,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-29T23:51:09.784095",
+    "run_end": "2026-06-29T23:51:53.853459",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7291254313132840771",
+        "title": "The 'Grid-Dependency' Audit: 7 Stress-Tests for Your Home Solar Setup Against AI Data Center Energy Spikes",
+        "url": "https://theomniview.blogspot.com/2026/06/the-grid-dependency-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "How-To Guides",
+          "home solar battery backup",
+          "grid independence",
+          "data center energy consumption"
+        ],
+        "slug": "the-grid-dependency-audit-7-stress-tests-for-your-home-solar-setup-against-ai-da",
+        "published_at": "2026-06-29T23:56:31+00:00",
+        "word_count": 1109,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2908682100479810342",
+        "title": "the 'model-collapse' audit: 7 stress-tests for your enterprise knowledge base against recursive ai training loops",
+        "url": "https://theomniview.blogspot.com/2026/06/the-model-collapse-audit-7-stress-tests.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Opinion & Analysis",
+          "model collapse",
+          "ai training data",
+          "synthetic data degradation"
+        ],
+        "slug": "the-model-collapse-audit-7-stress-tests-for-your-enterprise-knowledge-base-again",
+        "published_at": "2026-06-29T23:56:53+00:00",
+        "word_count": 930,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
