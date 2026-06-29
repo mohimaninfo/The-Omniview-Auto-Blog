@@ -18262,5 +18262,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2182700570742458412",
+    "title": "The 'Streaming-Inflation' Audit: 7 Stress-Tests for Your Monthly Entertainment Budget Against Ad-Supported Tiers",
+    "url": "https://theomniview.blogspot.com/2026/06/the-streaming-inflation-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Explainers",
+      "streaming services",
+      "cord cutting",
+      "streaming cost calculator"
+    ],
+    "slug": "the-streaming-inflation-audit-7-stress-tests-for-your-monthly-entertainment-budg",
+    "published_at": "2026-06-29T08:52:28+00:00",
+    "word_count": 1139,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "978227542321079744",
+    "title": "The 'fan-fiction' copyright audit: 7 stress-tests for your favorite fandoms against generative AI fan-art training",
+    "url": "https://theomniview.blogspot.com/2026/06/the-fan-fiction-copyright-audit-7.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Latest News",
+      "fan fiction copyright",
+      "generative AI ethics",
+      "fandom culture"
+    ],
+    "slug": "the-fan-fiction-copyright-audit-7-stress-tests-for-your-favorite-fandoms-against",
+    "published_at": "2026-06-29T08:52:46+00:00",
+    "word_count": 834,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
