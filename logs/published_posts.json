@@ -18614,5 +18614,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "5924969484855709870",
+    "title": "The 'Offline-First' Hardware Audit: 7 Stress-Tests for Your Gadgets Against Cloud-Only Sunset Policies",
+    "url": "https://theomniview.blogspot.com/2026/06/the-offline-first-hardware-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "How-To Guides",
+      "smart home privacy",
+      "offline-first gadgets",
+      "digital ownership"
+    ],
+    "slug": "the-offline-first-hardware-audit-7-stress-tests-for-your-gadgets-against-cloud-o",
+    "published_at": "2026-06-30T06:48:39+00:00",
+    "word_count": 1053,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4987380942590850173",
+    "title": "The 'Cognitive-Friction' Audit: 7 Stress-Tests for Your Deep Work Routine Against Notification-Driven Distraction",
+    "url": "https://theomniview.blogspot.com/2026/06/the-cognitive-friction-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Opinion & Analysis",
+      "deep work",
+      "cognitive friction",
+      "productivity tools"
+    ],
+    "slug": "the-cognitive-friction-audit-7-stress-tests-for-your-deep-work-routine-against-n",
+    "published_at": "2026-06-30T06:49:00+00:00",
+    "word_count": 885,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
