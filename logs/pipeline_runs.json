@@ -22174,5 +22174,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-30T16:13:48.352741",
+    "run_end": "2026-06-30T16:15:04.534981",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6815784782808036230",
+        "title": "The 'Memory-Hoard' Audit: 7 Stress-Tests for Your Sustainable Tech Setup Against DRAM Price-Fixing and Planned Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/06/the-memory-hoard-audit-7-stress-tests.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Explainers",
+          "sustainable tech",
+          "DRAM price fixing",
+          "hardware longevity"
+        ],
+        "slug": "the-memory-hoard-audit-7-stress-tests-for-your-sustainable-tech-setup-against-dr",
+        "published_at": "2026-06-30T16:19:34+00:00",
+        "word_count": 1288,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8593202448907592348",
+        "title": "The 'Human-Centric' Career Audit: 7 Stress-Tests for Your Skill-Set Against AI-Engineering Failure Cycles",
+        "url": "https://theomniview.blogspot.com/2026/06/the-human-centric-career-audit-7-stress_01538553348.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "career strategy",
+          "AI job displacement",
+          "future of work"
+        ],
+        "slug": "the-human-centric-career-audit-7-stress-tests-for-your-skill-set-against-ai-engi",
+        "published_at": "2026-06-30T16:20:04+00:00",
+        "word_count": 757,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
