@@ -18570,5 +18570,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "3526298746403217694",
+    "title": "The 'Digital-Leasehold' Audit: 7 Stress-Tests for Your Ecommerce Brand Against Platform-Enforced Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/06/the-digital-leasehold-audit-7-stress.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Reviews",
+      "ecommerce platform risk",
+      "digital ownership for business",
+      "ecommerce contingency planning"
+    ],
+    "slug": "the-digital-leasehold-audit-7-stress-tests-for-your-ecommerce-brand-against-plat",
+    "published_at": "2026-06-30T02:09:20+00:00",
+    "word_count": 592,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1858440429001028100",
+    "title": "The 'End-Effector' Erosion Audit: 7 Stress-Tests for Your Industrial Robotics Deployment Against Micro-Material Fatigue",
+    "url": "https://theomniview.blogspot.com/2026/06/the-end-effector-erosion-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Research Articles",
+      "industrial robotics",
+      "end-effector maintenance",
+      "robotic material fatigue"
+    ],
+    "slug": "the-end-effector-erosion-audit-7-stress-tests-for-your-industrial-robotics-deplo",
+    "published_at": "2026-06-30T02:10:26+00:00",
+    "word_count": 979,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
