@@ -22122,5 +22122,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-30T13:01:34.041619",
+    "run_end": "2026-06-30T13:02:38.813273",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1247387885473012491",
+        "title": "The 'Combat-Bonus' Inequality Audit: 7 stress-tests for your household budget against the rising cost of defense-driven inflation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-combat-bonus-inequality-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "defense-driven inflation",
+          "economic inequality",
+          "military spending"
+        ],
+        "slug": "the-combat-bonus-inequality-audit-7-stress-tests-for-your-household-budget-again",
+        "published_at": "2026-06-30T13:07:13+00:00",
+        "word_count": 695,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "7280556619268565144",
+        "title": "The 'algorithmic-interference' relationship audit: 7 stress-tests for your romantic partnership against AI-driven predictive compatibility",
+        "url": "https://theomniview.blogspot.com/2026/06/the-algorithmic-interference.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "research-articles",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Research Articles",
+          "AI in relationships",
+          "relationship compatibility",
+          "dating app algorithms"
+        ],
+        "slug": "the-algorithmic-interference-relationship-audit-7-stress-tests-for-your-romantic",
+        "published_at": "2026-06-30T13:07:38+00:00",
+        "word_count": 1047,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
