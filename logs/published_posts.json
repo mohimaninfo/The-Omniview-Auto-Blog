@@ -18834,5 +18834,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3106719179959728073",
+    "title": "The 'Decision-Paralysis' Audit: 7 Stress-Tests for Your Management Workflow Against AI-Driven Executive Overreach",
+    "url": "https://theomniview.blogspot.com/2026/06/the-decision-paralysis-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Opinion & Analysis",
+      "AI management",
+      "AI decision making",
+      "workplace AI ethics"
+    ],
+    "slug": "the-decision-paralysis-audit-7-stress-tests-for-your-management-workflow-against",
+    "published_at": "2026-06-30T20:54:55+00:00",
+    "word_count": 984,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4750738000057366964",
+    "title": "The 'Choice-Architecture' Audit: 7 Stress-Tests for Your Daily Decision-Making Against Algorithmic Nudging",
+    "url": "https://theomniview.blogspot.com/2026/06/the-choice-architecture-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Explainers",
+      "choice architecture",
+      "decision fatigue",
+      "digital wellbeing"
+    ],
+    "slug": "the-choice-architecture-audit-7-stress-tests-for-your-daily-decision-making-agai",
+    "published_at": "2026-06-30T20:55:15+00:00",
+    "word_count": 943,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
