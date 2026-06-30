@@ -22226,5 +22226,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-06-30T18:26:59.706860",
+    "run_end": "2026-06-30T18:27:44.305644",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2238512176552527737",
+        "title": "The 'Memory-Cartel' Resilience Audit: 7 Stress-Tests for Your Circular Economy Strategy Against DRAM Price-Fixing",
+        "url": "https://theomniview.blogspot.com/2026/06/the-memory-cartel-resilience-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "DRAM price-fixing",
+          "hardware longevity"
+        ],
+        "slug": "the-memory-cartel-resilience-audit-7-stress-tests-for-your-circular-economy-stra",
+        "published_at": "2026-06-30T18:32:22+00:00",
+        "word_count": 1138,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6037527929918065535",
+        "title": "The 'deep-fake' wedding audit: 7 stress-tests for your matrimonial memory against ai-generated audio-visual manipulation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-deep-fake-wedding-audit-7-stress.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "ai wedding media",
+          "synthetic memories",
+          "digital photo preservation"
+        ],
+        "slug": "the-deep-fake-wedding-audit-7-stress-tests-for-your-matrimonial-memory-against-a",
+        "published_at": "2026-06-30T18:32:43+00:00",
+        "word_count": 602,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
