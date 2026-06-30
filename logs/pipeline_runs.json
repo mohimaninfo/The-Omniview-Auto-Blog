@@ -22330,5 +22330,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-06-30T22:06:44.784778",
+    "run_end": "2026-06-30T22:07:54.033243",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7075021369658864269",
+        "title": "The 'kinetic-recruitment' inequality audit: 7 stress-tests for your local municipality\u2019s labor market against military-industrial drone-bonus inflation",
+        "url": "https://theomniview.blogspot.com/2026/06/the-kinetic-recruitment-inequality.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Case Studies",
+          "economic inequality",
+          "labor market trends",
+          "military-industrial complex"
+        ],
+        "slug": "the-kinetic-recruitment-inequality-audit-7-stress-tests-for-your-local-municipal",
+        "published_at": "2026-06-30T22:12:31+00:00",
+        "word_count": 658,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6843528039785963748",
+        "title": "The 'Dopamine-Deficit' Audit: 7 Stress-Tests for Your Mental Health Against Sports-Betting-Induced Impulse Control Disorder \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/06/the-dopamine-deficit-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Explainers",
+          "sports betting mental health",
+          "impulse control disorder",
+          "gambling addiction signs"
+        ],
+        "slug": "the-dopamine-deficit-audit-7-stress-tests-for-your-mental-health-against-sports-",
+        "published_at": "2026-06-30T22:12:53+00:00",
+        "word_count": 1005,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
