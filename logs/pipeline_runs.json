@@ -22746,5 +22746,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-01T20:44:32.571522",
+    "run_end": "2026-07-01T20:45:23.708312",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8817372736375050363",
+        "title": "The 'Desalination-Drought' Audit: 7 Stress-Tests for Your Local Water Security Against AI-Driven Energy Spikes",
+        "url": "https://theomniview.blogspot.com/2026/07/the-desalination-drought-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Latest News",
+          "climate policy",
+          "seawater desalination",
+          "data center energy consumption"
+        ],
+        "slug": "the-desalination-drought-audit-7-stress-tests-for-your-local-water-security-agai",
+        "published_at": "2026-07-01T20:49:57+00:00",
+        "word_count": 706,
+        "has_video": false,
+        "image_count": 2,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5776554922178429121",
+        "title": "The 'Permafrost-Thaw' Infrastructure Audit: 7 Stress-Tests for Your Northern Latitude Property Against Accelerating Ground Subsidence \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-permafrost-thaw-infrastructure.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "permafrost thaw",
+          "infrastructure resilience",
+          "ground subsidence"
+        ],
+        "slug": "the-permafrost-thaw-infrastructure-audit-7-stress-tests-for-your-northern-latitu",
+        "published_at": "2026-07-01T20:50:23+00:00",
+        "word_count": 762,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
