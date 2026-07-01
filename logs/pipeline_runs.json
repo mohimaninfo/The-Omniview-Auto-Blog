@@ -22590,5 +22590,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-01T13:34:28.093469",
+    "run_end": "2026-07-01T13:35:13.068565",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8514416178890672761",
+        "title": "The 'Physical-Sunset' Preservation Audit: 7 Stress-Tests for Your Console Game Collection Against the 2028 Disc-Less Mandate",
+        "url": "https://theomniview.blogspot.com/2026/07/the-physical-sunset-preservation-audit.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Explainers",
+          "physical game collection",
+          "PlayStation physical discs",
+          "game preservation"
+        ],
+        "slug": "the-physical-sunset-preservation-audit-7-stress-tests-for-your-console-game-coll",
+        "published_at": "2026-07-01T13:39:49+00:00",
+        "word_count": 946,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2488014718335999264",
+        "title": "the 'algorithmic-redlining' housing audit: 7 stress-tests for your mortgage application against ai-driven predictive underwriting",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-redlining-housing-audit.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Research Articles",
+          "algorithmic redlining",
+          "ai mortgage underwriting",
+          "housing inequality"
+        ],
+        "slug": "the-algorithmic-redlining-housing-audit-7-stress-tests-for-your-mortgage-applica",
+        "published_at": "2026-07-01T13:40:12+00:00",
+        "word_count": 1138,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
