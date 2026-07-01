@@ -19054,5 +19054,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7366893300448620531",
+    "title": "The 'stellar-corrosion' audit: 7 stress-tests for your satellite-based navigation against emerging solar flare volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-stellar-corrosion-audit-7-stress.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Research Articles",
+      "solar flare impact",
+      "satellite navigation",
+      "space weather"
+    ],
+    "slug": "the-stellar-corrosion-audit-7-stress-tests-for-your-satellite-based-navigation-a",
+    "published_at": "2026-07-01T11:05:52+00:00",
+    "word_count": 968,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 7
+  },
+  {
+    "post_id": "3859706278978745410",
+    "title": "the 'lithium-leach' conservation audit: 7 stress-tests for your local groundwater safety against EV-battery mineral extraction",
+    "url": "https://theomniview.blogspot.com/2026/07/the-lithium-leach-conservation-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Opinion & Analysis",
+      "groundwater contamination",
+      "EV battery mining",
+      "environmental impact of green energy"
+    ],
+    "slug": "the-lithium-leach-conservation-audit-7-stress-tests-for-your-local-groundwater-s",
+    "published_at": "2026-07-01T11:06:34+00:00",
+    "word_count": 983,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
