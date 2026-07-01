@@ -22798,5 +22798,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-01T22:11:20.885860",
+    "run_end": "2026-07-01T22:13:36.001597",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6273688235769334383",
+        "title": "The 'Offline-Native' Hardware Audit: 7 Stress-Tests for Your Gadgets Against the 2028 Digital-Only Mandate",
+        "url": "https://theomniview.blogspot.com/2026/07/the-offline-native-hardware-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Reviews",
+          "offline-native hardware",
+          "digital-only future",
+          "gaming preservation"
+        ],
+        "slug": "the-offline-native-hardware-audit-7-stress-tests-for-your-gadgets-against-the-20",
+        "published_at": "2026-07-01T22:17:47+00:00",
+        "word_count": 748,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4364650123622167119",
+        "title": "The 'Darwinian-Pivot' Career Audit: 7 Stress-Tests for Your Professional Stability Against AI-Driven Layoffs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-darwinian-pivot-career-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Listicles",
+          "AI-driven layoffs",
+          "future of work",
+          "career stability"
+        ],
+        "slug": "the-darwinian-pivot-career-audit-7-stress-tests-for-your-professional-stability-",
+        "published_at": "2026-07-01T22:18:35+00:00",
+        "word_count": 818,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
