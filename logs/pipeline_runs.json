@@ -22486,5 +22486,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-01T07:01:25.099413",
+    "run_end": "2026-07-01T07:03:09.206244",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7477783061869646600",
+        "title": "The 'Prompt-Dictation' Audit: 7 Stress-Tests for Your Management Workflow Against AI-Driven Executive Overreach \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-prompt-dictation-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "AI management",
+          "AI-driven decision making",
+          "workplace AI ethics"
+        ],
+        "slug": "the-prompt-dictation-audit-7-stress-tests-for-your-management-workflow-against-a",
+        "published_at": "2026-07-01T07:07:33+00:00",
+        "word_count": 1012,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5786932408609599326",
+        "title": "The 'kinetic-legacy' audit: 7 stress-tests for your family\u2019s physical heirloom collection against modern conflict-driven asset volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-legacy-audit-7-stress-tests.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "asset protection",
+          "geopolitical risk",
+          "cultural heritage"
+        ],
+        "slug": "the-kinetic-legacy-audit-7-stress-tests-for-your-familys-physical-heirloom-colle",
+        "published_at": "2026-07-01T07:08:08+00:00",
+        "word_count": 602,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
