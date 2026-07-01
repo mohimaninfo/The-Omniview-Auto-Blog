@@ -19186,5 +19186,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "6631847995160841827",
+    "title": "The 'Fraud-Proof' Financial Audit: 7 Stress-Tests for Your Bank Account Against Modern Identity Theft",
+    "url": "https://theomniview.blogspot.com/2026/07/the-fraud-proof-financial-audit-7.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Listicles",
+      "identity theft protection",
+      "bank account security",
+      "preventing financial fraud"
+    ],
+    "slug": "the-fraud-proof-financial-audit-7-stress-tests-for-your-bank-account-against-mod",
+    "published_at": "2026-07-01T18:59:26+00:00",
+    "word_count": 804,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5540680349666285863",
+    "title": "The 'bit-rot' streaming audit: 7 stress-tests for your favorite classic shows against low-bitrate compression",
+    "url": "https://theomniview.blogspot.com/2026/07/the-bit-rot-streaming-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Reviews",
+      "streaming quality",
+      "bitrate compression",
+      "video streaming"
+    ],
+    "slug": "the-bit-rot-streaming-audit-7-stress-tests-for-your-favorite-classic-shows-again",
+    "published_at": "2026-07-01T18:59:51+00:00",
+    "word_count": 652,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
