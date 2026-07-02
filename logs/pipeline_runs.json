@@ -23058,5 +23058,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-02T12:52:11.275977",
+    "run_end": "2026-07-02T12:53:20.387776",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5338627216213641085",
+        "title": "The 'E-Waste' Inheritance Audit: 7 Stress-Tests for Your Legacy Codebase Against 2028 Infrastructure Decay",
+        "url": "https://theomniview.blogspot.com/2026/07/the-e-waste-inheritance-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Listicles",
+          "legacy codebase maintenance",
+          "software infrastructure decay",
+          "2028 tech trends"
+        ],
+        "slug": "the-e-waste-inheritance-audit-7-stress-tests-for-your-legacy-codebase-against-20",
+        "published_at": "2026-07-02T12:57:44+00:00",
+        "word_count": 763,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8777944770164106604",
+        "title": "The 'social-battery' depletion audit: 7 stress-tests for your mental health against mandatory return-to-office (RTO) mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-social-battery-depletion-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "mental health burnout",
+          "return to office anxiety",
+          "workplace mental health"
+        ],
+        "slug": "the-social-battery-depletion-audit-7-stress-tests-for-your-mental-health-against",
+        "published_at": "2026-07-02T12:58:19+00:00",
+        "word_count": 783,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
