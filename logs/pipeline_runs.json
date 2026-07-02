@@ -23006,5 +23006,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-02T10:36:20.672469",
+    "run_end": "2026-07-02T10:37:18.297323",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7065031442774431098",
+        "title": "The 'Darwinian-Leadership' Audit: 7 Stress-Tests for Your Management Style Against AI-Driven Workforce Displacement",
+        "url": "https://theomniview.blogspot.com/2026/07/the-darwinian-leadership-audit-7-stress.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "leadership strategy",
+          "AI workforce displacement",
+          "employee retention"
+        ],
+        "slug": "the-darwinian-leadership-audit-7-stress-tests-for-your-management-style-against-",
+        "published_at": "2026-07-02T10:41:51+00:00",
+        "word_count": 1058,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1835641826013805264",
+        "title": "The 'Quantum-Decoherence' Audit: 7 Stress-Tests for Your Encrypted Data Security Against Emerging Quantum Supremacy",
+        "url": "https://theomniview.blogspot.com/2026/07/the-quantum-decoherence-audit-7-stress.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Physics",
+          "Latest News",
+          "quantum computing security",
+          "post-quantum cryptography",
+          "data encryption vulnerability"
+        ],
+        "slug": "the-quantum-decoherence-audit-7-stress-tests-for-your-encrypted-data-security-ag",
+        "published_at": "2026-07-02T10:42:17+00:00",
+        "word_count": 824,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
