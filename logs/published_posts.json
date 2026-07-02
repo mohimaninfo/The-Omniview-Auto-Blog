@@ -19758,5 +19758,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5107540613849630778",
+    "title": "The 'platform-sovereignty' audit: 7 stress-tests for your ecommerce business against the 2028 digital-only mandate",
+    "url": "https://theomniview.blogspot.com/2026/07/the-platform-sovereignty-audit-7-stress.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Listicles",
+      "ecommerce platform risk",
+      "digital ownership",
+      "offline-first ecommerce"
+    ],
+    "slug": "the-platform-sovereignty-audit-7-stress-tests-for-your-ecommerce-business-agains",
+    "published_at": "2026-07-02T23:04:07+00:00",
+    "word_count": 728,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "123248115129801528",
+    "title": "The 'GLP-1' muscle-loss audit: 7 stress-tests for your strength training routine against rapid weight-loss medication",
+    "url": "https://theomniview.blogspot.com/2026/07/the-glp-1-muscle-loss-audit-7-stress.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Explainers",
+      "GLP-1 muscle loss",
+      "strength training on semaglutide",
+      "preserving muscle mass"
+    ],
+    "slug": "the-glp-1-muscle-loss-audit-7-stress-tests-for-your-strength-training-routine-ag",
+    "published_at": "2026-07-02T23:04:56+00:00",
+    "word_count": 1022,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
