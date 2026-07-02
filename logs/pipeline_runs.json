@@ -23110,5 +23110,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-07-02T15:03:17.975803",
+    "run_end": "2026-07-02T15:04:48.777401",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3227153355970532046",
+        "title": "The 'kinetic-sovereignty' audit: 7 stress-tests for your travel security against global drone-swarm maritime instability \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-sovereignty-audit-7-stress.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "travel security",
+          "drone warfare",
+          "geopolitical risk"
+        ],
+        "slug": "the-kinetic-sovereignty-audit-7-stress-tests-for-your-travel-security-against-gl",
+        "published_at": "2026-07-02T15:08:50+00:00",
+        "word_count": 865,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8993908405637884254",
+        "title": "The 'skill-stack' rot audit: 7 stress-tests for your professional certifications against the 2025 AI-agent automation wave",
+        "url": "https://theomniview.blogspot.com/2026/07/the-skill-stack-rot-audit-7-stress.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "AI-agent automation",
+          "professional certifications",
+          "future of work"
+        ],
+        "slug": "the-skill-stack-rot-audit-7-stress-tests-for-your-professional-certifications-ag",
+        "published_at": "2026-07-02T15:09:48+00:00",
+        "word_count": 778,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
