@@ -23162,5 +23162,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-02T17:23:56.131342",
+    "run_end": "2026-07-02T17:25:20.966845",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3270032668553126837",
+        "title": "The 'Grid-Load' Liability Audit: 7 Stress-Tests for Your Municipal Climate Targets Against AI Data Center Expansion \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-load-liability-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "climate policy",
+          "data center energy consumption",
+          "municipal carbon targets"
+        ],
+        "slug": "the-grid-load-liability-audit-7-stress-tests-for-your-municipal-climate-targets-",
+        "published_at": "2026-07-02T17:29:43+00:00",
+        "word_count": 1045,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4490380661869504729",
+        "title": "The 'debt-contagion' audit: 7 stress-tests for your personal balance sheet against unauthorized collection claims",
+        "url": "https://theomniview.blogspot.com/2026/07/the-debt-contagion-audit-7-stress-tests.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Explainers",
+          "medical debt collection",
+          "credit report errors",
+          "identity theft protection"
+        ],
+        "slug": "the-debt-contagion-audit-7-stress-tests-for-your-personal-balance-sheet-against-",
+        "published_at": "2026-07-02T17:30:19+00:00",
+        "word_count": 1011,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 7
+      }
+    ]
   }
 ]
