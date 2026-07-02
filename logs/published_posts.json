@@ -19670,5 +19670,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "600817667580880036",
+    "title": "The 'Offline-Native' Travel Audit: 7 Stress-Tests for Your Vacation Security Against Cloud-Only Sunset Policies",
+    "url": "https://theomniview.blogspot.com/2026/07/the-offline-native-travel-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "How-To Guides",
+      "offline travel planning",
+      "digital-only travel risks",
+      "travel security"
+    ],
+    "slug": "the-offline-native-travel-audit-7-stress-tests-for-your-vacation-security-agains",
+    "published_at": "2026-07-02T20:55:38+00:00",
+    "word_count": 1072,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5724633939714976420",
+    "title": "The 'NPC-ification' Audit: 7 Stress-Tests for Your Favorite Open-World Games Against Emerging Generative-AI NPC Behavior",
+    "url": "https://theomniview.blogspot.com/2026/07/the-npc-ification-audit-7-stress-tests.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Listicles",
+      "generative AI gaming",
+      "NPC behavior",
+      "interactive storytelling"
+    ],
+    "slug": "the-npc-ification-audit-7-stress-tests-for-your-favorite-open-world-games-agains",
+    "published_at": "2026-07-02T20:56:04+00:00",
+    "word_count": 696,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
