@@ -22850,5 +22850,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-02T00:00:36.885621",
+    "run_end": "2026-07-02T00:01:18.891710",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3386076250069374108",
+        "title": "The 'local-node' hardware audit: 7 stress-tests for your home media server against the 2028 disc-less mandate",
+        "url": "https://theomniview.blogspot.com/2026/07/the-local-node-hardware-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Reviews",
+          "home media server",
+          "physical media preservation",
+          "PlayStation disc-less"
+        ],
+        "slug": "the-local-node-hardware-audit-7-stress-tests-for-your-home-media-server-against-",
+        "published_at": "2026-07-02T00:05:56+00:00",
+        "word_count": 562,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5671266396540104893",
+        "title": "the 'thermal-buffer' insulation audit: 7 stress-tests for your home\u2019s energy efficiency against extreme heat-dome volatility \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-thermal-buffer-insulation-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Explainers",
+          "home energy efficiency",
+          "sustainable living",
+          "extreme heat preparedness"
+        ],
+        "slug": "the-thermal-buffer-insulation-audit-7-stress-tests-for-your-homes-energy-efficie",
+        "published_at": "2026-07-02T00:06:18+00:00",
+        "word_count": 1019,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
