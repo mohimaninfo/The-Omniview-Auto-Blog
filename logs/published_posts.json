@@ -19406,5 +19406,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4530250506257321922",
+    "title": "The 'Right-to-Repair' Home Audit: 7 Stress-Tests for Your Smart Appliances Against Planned Obsolescence \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-right-to-repair-home-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Explainers",
+      "right-to-repair",
+      "smart home maintenance",
+      "planned obsolescence"
+    ],
+    "slug": "the-right-to-repair-home-audit-7-stress-tests-for-your-smart-appliances-against-",
+    "published_at": "2026-07-02T08:04:31+00:00",
+    "word_count": 1008,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8002563108192934311",
+    "title": "The 'Bit-Rot' Archive Audit: 7 Stress-Tests for Your Digital Movie Library Against 2028 Platform Sunsetting",
+    "url": "https://theomniview.blogspot.com/2026/07/the-bit-rot-archive-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Reviews",
+      "digital movie library",
+      "streaming platform sunset",
+      "physical media"
+    ],
+    "slug": "the-bit-rot-archive-audit-7-stress-tests-for-your-digital-movie-library-against-",
+    "published_at": "2026-07-02T08:04:53+00:00",
+    "word_count": 573,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
