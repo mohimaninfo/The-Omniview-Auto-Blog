@@ -20198,5 +20198,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2302479894293244313",
+    "title": "The 'Root-Chain' Security Audit: 7 Stress-Tests for Your Android and iOS Devices Against Post-Rooting Authenticator Lockouts",
+    "url": "https://theomniview.blogspot.com/2026/07/the-root-chain-security-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Latest News",
+      "Microsoft Authenticator",
+      "rooted Android security",
+      "jailbroken iOS"
+    ],
+    "slug": "the-root-chain-security-audit-7-stress-tests-for-your-android-and-ios-devices-ag",
+    "published_at": "2026-07-03T21:59:21+00:00",
+    "word_count": 738,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "5950637737298043491",
+    "title": "The 'Save-State' Sovereignty Audit: 7 Stress-Tests for Your Indie Game Library Against Cloud-Only Sunset Policies \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-save-state-sovereignty-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "game preservation",
+      "digital game ownership",
+      "indie games"
+    ],
+    "slug": "the-save-state-sovereignty-audit-7-stress-tests-for-your-indie-game-library-agai",
+    "published_at": "2026-07-03T21:59:43+00:00",
+    "word_count": 908,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
