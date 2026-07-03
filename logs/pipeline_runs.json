@@ -23734,5 +23734,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-03T16:24:56.656469",
+    "run_end": "2026-07-03T16:25:43.185358",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8097559740256147384",
+        "title": "The 'GLP-1' Muscle-Preservation Audit: 7 Stress-Tests for Your Strength Training Routine Against Rapid Weight-Loss Medication \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-glp-1-muscle-preservation-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Reviews",
+          "GLP-1 muscle loss",
+          "strength training for weight loss",
+          "sarcopenia prevention"
+        ],
+        "slug": "the-glp-1-muscle-preservation-audit-7-stress-tests-for-your-strength-training-ro",
+        "published_at": "2026-07-03T16:30:19+00:00",
+        "word_count": 659,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "599456284164020866",
+        "title": "The 'Shadow-Fleet' Connectivity Audit: 7 Stress-Tests for Your Global Travel Security Against Maritime Drone Warfare",
+        "url": "https://theomniview.blogspot.com/2026/07/the-shadow-fleet-connectivity-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Case Studies",
+          "maritime drone warfare",
+          "travel security",
+          "satellite connectivity"
+        ],
+        "slug": "the-shadow-fleet-connectivity-audit-7-stress-tests-for-your-global-travel-securi",
+        "published_at": "2026-07-03T16:30:42+00:00",
+        "word_count": 703,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
