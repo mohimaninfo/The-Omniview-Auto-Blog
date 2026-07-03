@@ -23942,5 +23942,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-07-03T22:52:13.124211",
+    "run_end": "2026-07-03T22:52:59.842847",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3104764910689080756",
+        "title": "The 'Shadow-Fleet' Connectivity Audit: 7 Stress-Tests for Your Global Travel Security Against Maritime Drone Warfare \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-shadow-fleet-connectivity-audit-7_0703509560.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Latest News",
+          "maritime drone warfare",
+          "travel security",
+          "shadow fleet"
+        ],
+        "slug": "the-shadow-fleet-connectivity-audit-7-stress-tests-for-your-global-travel-securi",
+        "published_at": "2026-07-03T22:57:37+00:00",
+        "word_count": 883,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5665273093970735677",
+        "title": "The 'bio-feedback' fatigue audit: 7 stress-tests for your mental health against wearable-driven data anxiety",
+        "url": "https://theomniview.blogspot.com/2026/07/the-bio-feedback-fatigue-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "biometric data anxiety",
+          "wearable tech mental health",
+          "orthosomnia"
+        ],
+        "slug": "the-bio-feedback-fatigue-audit-7-stress-tests-for-your-mental-health-against-wea",
+        "published_at": "2026-07-03T22:57:58+00:00",
+        "word_count": 995,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
