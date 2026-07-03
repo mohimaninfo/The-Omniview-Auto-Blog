@@ -23578,5 +23578,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-03T10:23:59.657517",
+    "run_end": "2026-07-03T10:24:46.631416",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "745751335999065685",
+        "title": "The 'shadow-compute' audit: 7 stress-tests for your enterprise codebase against AI-driven energy rationing \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-shadow-compute-audit-7-stress-tests_01271690129.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Research Articles",
+          "AI energy consumption",
+          "sustainable software engineering",
+          "enterprise AI infrastructure"
+        ],
+        "slug": "the-shadow-compute-audit-7-stress-tests-for-your-enterprise-codebase-against-ai-",
+        "published_at": "2026-07-03T10:29:24+00:00",
+        "word_count": 911,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4081354130598150137",
+        "title": "the 'firmware-rot' audit: 7 stress-tests for your legacy smart home gadgets against forced cloud-server shutdowns",
+        "url": "https://theomniview.blogspot.com/2026/07/the-firmware-rot-audit-7-stress-tests.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Listicles",
+          "smart home obsolescence",
+          "planned obsolescence",
+          "IoT device security"
+        ],
+        "slug": "the-firmware-rot-audit-7-stress-tests-for-your-legacy-smart-home-gadgets-against",
+        "published_at": "2026-07-03T10:29:46+00:00",
+        "word_count": 869,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
