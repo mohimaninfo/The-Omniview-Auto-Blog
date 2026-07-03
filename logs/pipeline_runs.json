@@ -23422,5 +23422,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-03T00:01:40.236745",
+    "run_end": "2026-07-03T00:02:49.719138",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4499542120226622014",
+        "title": "The 'Masking-Burnout' Audit: 7 Stress-Tests for Your Neurodivergent Health Against Social Camouflaging Demands",
+        "url": "https://theomniview.blogspot.com/2026/07/the-masking-burnout-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Latest News",
+          "neurodivergent masking",
+          "autistic burnout",
+          "cognitive fatigue"
+        ],
+        "slug": "the-masking-burnout-audit-7-stress-tests-for-your-neurodivergent-health-against-",
+        "published_at": "2026-07-03T00:07:21+00:00",
+        "word_count": 814,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5819139202136937502",
+        "title": "The 'ghost-debt' recovery audit: 7 stress-tests for your credit report against unauthorized medical collection claims",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ghost-debt-recovery-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Latest News",
+          "medical debt recovery",
+          "credit report audit",
+          "unauthorized collection claims"
+        ],
+        "slug": "the-ghost-debt-recovery-audit-7-stress-tests-for-your-credit-report-against-unau",
+        "published_at": "2026-07-03T00:07:49+00:00",
+        "word_count": 774,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
