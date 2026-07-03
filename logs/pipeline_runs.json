@@ -23630,5 +23630,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-03T12:50:30.010238",
+    "run_end": "2026-07-03T12:51:13.932523",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6646431611394082410",
+        "title": "The 'Maternal Offloading' Audit: 7 Stress-Tests for Your Family\u2019s Environmental Health Against Chronic Toxin Exposure",
+        "url": "https://theomniview.blogspot.com/2026/07/the-maternal-offloading-audit-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "maternal offloading",
+          "environmental toxins",
+          "epigenetics"
+        ],
+        "slug": "the-maternal-offloading-audit-7-stress-tests-for-your-familys-environmental-heal",
+        "published_at": "2026-07-03T12:55:52+00:00",
+        "word_count": 949,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8592652352367749119",
+        "title": "The 'circadian-disruption' audit: 7 stress-tests for your metabolic health against blue-light-emitting smart lighting",
+        "url": "https://theomniview.blogspot.com/2026/07/the-circadian-disruption-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Research Articles",
+          "circadian rhythm health",
+          "metabolic health",
+          "smart home lighting"
+        ],
+        "slug": "the-circadian-disruption-audit-7-stress-tests-for-your-metabolic-health-against-",
+        "published_at": "2026-07-03T12:56:12+00:00",
+        "word_count": 877,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
