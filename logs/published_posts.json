@@ -19890,5 +19890,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5966267352422965122",
+    "title": "The 'Shadow-Compute' Audit: 7 Stress-Tests for Your Enterprise Codebase Against AI-Driven Energy Rationing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-compute-audit-7-stress-tests.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Research Articles",
+      "energy-efficient programming",
+      "sustainable software engineering",
+      "data center energy constraints"
+    ],
+    "slug": "the-shadow-compute-audit-7-stress-tests-for-your-enterprise-codebase-against-ai-",
+    "published_at": "2026-07-03T07:58:52+00:00",
+    "word_count": 1103,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "4609966408049197977",
+    "title": "the 'modular-decay' audit: 7 stress-tests for your modular electronics collection against proprietary ecosystem lock-in",
+    "url": "https://theomniview.blogspot.com/2026/07/the-modular-decay-audit-7-stress-tests.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Opinion & Analysis",
+      "circular economy",
+      "modular electronics",
+      "right to repair"
+    ],
+    "slug": "the-modular-decay-audit-7-stress-tests-for-your-modular-electronics-collection-a",
+    "published_at": "2026-07-03T07:59:17+00:00",
+    "word_count": 959,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
