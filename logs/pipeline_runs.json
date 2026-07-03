@@ -23838,5 +23838,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-03T20:07:45.212821",
+    "run_end": "2026-07-03T20:08:26.351092",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1682295513401529539",
+        "title": "The 'license-revocation' streaming audit: 7 stress-tests for your digital movie library against platform sunsetting \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-license-revocation-streaming-audit.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "digital movie library",
+          "streaming content removal",
+          "digital ownership"
+        ],
+        "slug": "the-license-revocation-streaming-audit-7-stress-tests-for-your-digital-movie-lib",
+        "published_at": "2026-07-03T20:13:07+00:00",
+        "word_count": 1137,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1311816033937626098",
+        "title": "The 'degree-rot' audit: 7 stress-tests for your university credentials against the 2028 digital-only mandate",
+        "url": "https://theomniview.blogspot.com/2026/07/the-degree-rot-audit-7-stress-tests-for.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Research Articles",
+          "degree verification",
+          "digital credentials",
+          "higher education technology"
+        ],
+        "slug": "the-degree-rot-audit-7-stress-tests-for-your-university-credentials-against-the-",
+        "published_at": "2026-07-03T20:13:25+00:00",
+        "word_count": 965,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
