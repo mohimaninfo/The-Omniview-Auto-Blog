@@ -20110,5 +20110,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4495785165923824164",
+    "title": "The 'self-custody' inheritance audit: 7 stress-tests for your crypto assets against sudden incapacitation \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-self-custody-inheritance-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "reviews",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Reviews",
+      "crypto inheritance planning",
+      "self-custody security",
+      "bitcoin estate planning"
+    ],
+    "slug": "the-self-custody-inheritance-audit-7-stress-tests-for-your-crypto-assets-against",
+    "published_at": "2026-07-03T18:12:02+00:00",
+    "word_count": 556,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1803382058003799169",
+    "title": "The 'Game-Preservation' Code Audit: 7 Stress-Tests for Your Proprietary Game Engine Against Digital Storefront Sunset",
+    "url": "https://theomniview.blogspot.com/2026/07/the-game-preservation-code-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Opinion & Analysis",
+      "game preservation",
+      "software rot",
+      "proprietary game engines"
+    ],
+    "slug": "the-game-preservation-code-audit-7-stress-tests-for-your-proprietary-game-engine",
+    "published_at": "2026-07-03T18:12:21+00:00",
+    "word_count": 908,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
