@@ -20022,5 +20022,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5048112599400172003",
+    "title": "The 'Digital-Exile' Audit: 7 Stress-Tests for Your Personal Media Library Against the 2028 Disc-Less Mandate",
+    "url": "https://theomniview.blogspot.com/2026/07/the-digital-exile-audit-7-stress-tests.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "digital media ownership",
+      "disc-less consoles",
+      "media preservation"
+    ],
+    "slug": "the-digital-exile-audit-7-stress-tests-for-your-personal-media-library-against-t",
+    "published_at": "2026-07-03T15:05:34+00:00",
+    "word_count": 1027,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5211087997144586573",
+    "title": "The 'cognitive-offloading' audit: 7 stress-tests for your student\u2019s critical thinking against LLM-driven homework assistance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-offloading-audit-7-stress.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Opinion & Analysis",
+      "learning science",
+      "generative AI in education",
+      "cognitive offloading"
+    ],
+    "slug": "the-cognitive-offloading-audit-7-stress-tests-for-your-students-critical-thinkin",
+    "published_at": "2026-07-03T15:06:01+00:00",
+    "word_count": 1033,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
