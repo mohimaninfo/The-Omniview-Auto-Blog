@@ -24150,5 +24150,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-04T08:18:58.622151",
+    "run_end": "2026-07-04T08:19:47.112447",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "456794114311739880",
+        "title": "the 'fuel-sovereignty' audit: 7 stress-tests for your travel security against maritime blockade volatility \u2014 an opinion analysis perspective \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-fuel-sovereignty-audit-7-stress.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Opinion & Analysis",
+          "maritime security",
+          "energy crisis",
+          "global travel risk"
+        ],
+        "slug": "the-fuel-sovereignty-audit-7-stress-tests-for-your-travel-security-against-marit",
+        "published_at": "2026-07-04T08:24:23+00:00",
+        "word_count": 884,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7568001111256065767",
+        "title": "The 'liquidity-trap' divorce audit: 7 stress-tests for your 401(k) against settlement-driven tax penalties",
+        "url": "https://theomniview.blogspot.com/2026/07/the-liquidity-trap-divorce-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Opinion & Analysis",
+          "divorce settlement tax implications",
+          "401k vs heloc divorce",
+          "retirement account asset division"
+        ],
+        "slug": "the-liquidity-trap-divorce-audit-7-stress-tests-for-your-401k-against-settlement",
+        "published_at": "2026-07-04T08:24:46+00:00",
+        "word_count": 937,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
