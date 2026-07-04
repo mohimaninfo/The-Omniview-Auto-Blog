@@ -24358,5 +24358,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-04T14:56:39.382200",
+    "run_end": "2026-07-04T14:57:23.005265",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1424368792980735206",
+        "title": "The 'Neural-Offload' Learning Audit: 7 Stress-Tests for Your Child\u2019s Cognitive Development Against AI-Driven Homework Assistance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-neural-offload-learning-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Explainers",
+          "cognitive development",
+          "learning science",
+          "AI in education"
+        ],
+        "slug": "the-neural-offload-learning-audit-7-stress-tests-for-your-childs-cognitive-devel",
+        "published_at": "2026-07-04T15:02:02+00:00",
+        "word_count": 1146,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4755982362846108791",
+        "title": "The 'caregiver-liquidity' audit: 7 stress-tests for your retirement portfolio against multi-generational eldercare costs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-caregiver-liquidity-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Opinion & Analysis",
+          "eldercare financial planning",
+          "retirement portfolio risks",
+          "sandwich generation economics"
+        ],
+        "slug": "the-caregiver-liquidity-audit-7-stress-tests-for-your-retirement-portfolio-again",
+        "published_at": "2026-07-04T15:02:22+00:00",
+        "word_count": 899,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
