@@ -24722,5 +24722,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-04T22:44:34.388520",
+    "run_end": "2026-07-04T22:45:13.257250",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6630306820005313314",
+        "title": "The 'Sick-Note' Bureaucracy Audit: 7 Stress-Tests for Your Employment Rights Against Digital-First Doctor Mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-sick-note-bureaucracy-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "sick leave policy",
+          "workplace rights",
+          "digital health"
+        ],
+        "slug": "the-sick-note-bureaucracy-audit-7-stress-tests-for-your-employment-rights-agains",
+        "published_at": "2026-07-04T22:49:54+00:00",
+        "word_count": 651,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1827404602116482085",
+        "title": "The 'Orbital-Debris' Collision Audit: 7 Stress-Tests for Your Satellite-Based Communications Against Kessler Syndrome",
+        "url": "https://theomniview.blogspot.com/2026/07/the-orbital-debris-collision-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "Kessler Syndrome",
+          "orbital debris",
+          "satellite communications"
+        ],
+        "slug": "the-orbital-debris-collision-audit-7-stress-tests-for-your-satellite-based-commu",
+        "published_at": "2026-07-04T22:50:12+00:00",
+        "word_count": 717,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
