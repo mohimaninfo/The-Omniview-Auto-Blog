@@ -24410,5 +24410,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-04T15:55:38.395922",
+    "run_end": "2026-07-04T15:56:18.388888",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1551753793924577167",
+        "title": "The 'remote-work' power-drain audit: 7 stress-tests for your home-office energy security against AI data center grid instability",
+        "url": "https://theomniview.blogspot.com/2026/07/the-remote-work-power-drain-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Opinion & Analysis",
+          "remote work",
+          "home office energy",
+          "data center power consumption"
+        ],
+        "slug": "the-remote-work-power-drain-audit-7-stress-tests-for-your-home-office-energy-sec",
+        "published_at": "2026-07-04T16:00:56+00:00",
+        "word_count": 902,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6899076958479244500",
+        "title": "The 'fractional-equity' divorce audit: 7 stress-tests for your startup stock options against asset-division liquidity traps",
+        "url": "https://theomniview.blogspot.com/2026/07/the-fractional-equity-divorce-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "how-to-guides",
+        "labels": [
+          "Finance",
+          "Investing",
+          "How-To Guides",
+          "startup equity divorce",
+          "stock option valuation",
+          "divorce asset protection"
+        ],
+        "slug": "the-fractional-equity-divorce-audit-7-stress-tests-for-your-startup-stock-option",
+        "published_at": "2026-07-04T16:01:17+00:00",
+        "word_count": 1162,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
