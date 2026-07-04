@@ -20858,5 +20858,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6137609884432152494",
+    "title": "The 'Bacterial-Bloom' Infrastructure Audit: 7 Stress-Tests for Your Municipal Water Security Against AI Data Center Cooling Demands \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-bacterial-bloom-infrastructure.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "AI data center water usage",
+      "municipal water security",
+      "AI infrastructure impact"
+    ],
+    "slug": "the-bacterial-bloom-infrastructure-audit-7-stress-tests-for-your-municipal-water",
+    "published_at": "2026-07-04T21:50:31+00:00",
+    "word_count": 1025,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4233301177375639246",
+    "title": "The 'Shadow-Sync' Privacy Audit: 7 Stress-Tests for Your Encrypted Messaging Apps Against Metadata Harvesting",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-sync-privacy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Reviews",
+      "encrypted messaging privacy",
+      "metadata harvesting",
+      "cybersecurity audit"
+    ],
+    "slug": "the-shadow-sync-privacy-audit-7-stress-tests-for-your-encrypted-messaging-apps-a",
+    "published_at": "2026-07-04T21:50:53+00:00",
+    "word_count": 579,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
