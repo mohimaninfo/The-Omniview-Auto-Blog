@@ -20682,5 +20682,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "389341727792351877",
+    "title": "The 'Campus-Grid' Vulnerability Audit: 7 Stress-Tests for Your University\u2019s Energy Resilience Against AI Data Center Expansion \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-campus-grid-vulnerability-audit-7.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Opinion & Analysis",
+      "higher education infrastructure",
+      "campus energy resilience",
+      "AI data center energy consumption"
+    ],
+    "slug": "the-campus-grid-vulnerability-audit-7-stress-tests-for-your-universitys-energy-r",
+    "published_at": "2026-07-04T16:56:30+00:00",
+    "word_count": 974,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "842257475602418186",
+    "title": "The 'thermal-stability' kitchen audit: 7 stress-tests for your induction cooktop against unstable smart-grid voltage",
+    "url": "https://theomniview.blogspot.com/2026/07/the-thermal-stability-kitchen-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Reviews",
+      "induction cooktop reviews",
+      "smart grid energy",
+      "kitchen appliance reliability"
+    ],
+    "slug": "the-thermal-stability-kitchen-audit-7-stress-tests-for-your-induction-cooktop-ag",
+    "published_at": "2026-07-04T16:56:49+00:00",
+    "word_count": 570,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
