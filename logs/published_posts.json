@@ -20330,5 +20330,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4221170791505832697",
+    "title": "The 'thermal-runoff' conservation audit: 7 stress-tests for your local watershed against AI data center cooling demands",
+    "url": "https://theomniview.blogspot.com/2026/07/the-thermal-runoff-conservation-audit-7.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Research Articles",
+      "data center water usage",
+      "watershed conservation",
+      "AI environmental impact"
+    ],
+    "slug": "the-thermal-runoff-conservation-audit-7-stress-tests-for-your-local-watershed-ag",
+    "published_at": "2026-07-04T01:49:59+00:00",
+    "word_count": 1087,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4399044325005859002",
+    "title": "The 'Data-Center-Drain' Audit: 7 Stress-Tests for Your School District\u2019s Power Budget Against AI-Driven Energy Spikes \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-drain-audit-7-stress_012551385.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "case-studies",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Case Studies",
+      "school district energy budget",
+      "AI data center impact",
+      "K12 infrastructure planning"
+    ],
+    "slug": "the-data-center-drain-audit-7-stress-tests-for-your-school-districts-power-budge",
+    "published_at": "2026-07-04T01:50:19+00:00",
+    "word_count": 669,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
