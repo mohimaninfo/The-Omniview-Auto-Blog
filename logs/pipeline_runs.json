@@ -24514,5 +24514,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-04T17:54:01.879359",
+    "run_end": "2026-07-04T17:54:48.658455",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3555592063183223562",
+        "title": "The 'founder-exit' divorce audit: 7 stress-tests for your startup equity against marital settlement liquidity traps",
+        "url": "https://theomniview.blogspot.com/2026/07/the-founder-exit-divorce-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Latest News",
+          "startup equity divorce",
+          "founder asset protection",
+          "divorce settlement liquidity"
+        ],
+        "slug": "the-founder-exit-divorce-audit-7-stress-tests-for-your-startup-equity-against-ma",
+        "published_at": "2026-07-04T17:59:23+00:00",
+        "word_count": 902,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4327041064223385289",
+        "title": "The 'Side-Channel' API audit: 7 stress-tests for your SaaS integration against LLM-driven credential harvesting",
+        "url": "https://theomniview.blogspot.com/2026/07/the-side-channel-api-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Latest News",
+          "SaaS security",
+          "API vulnerability",
+          "side-channel attack"
+        ],
+        "slug": "the-side-channel-api-audit-7-stress-tests-for-your-saas-integration-against-llm-",
+        "published_at": "2026-07-04T17:59:47+00:00",
+        "word_count": 698,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
