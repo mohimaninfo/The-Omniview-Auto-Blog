@@ -20550,5 +20550,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7895497118569990054",
+    "title": "The 'Analog-Resurgence' Entertainment Audit: 7 Stress-Tests for Your Pop-Culture Collection Against AI-Driven Digital Erasure",
+    "url": "https://theomniview.blogspot.com/2026/07/the-analog-resurgence-entertainment.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Opinion & Analysis",
+      "physical media",
+      "digital erasure",
+      "pop-culture preservation"
+    ],
+    "slug": "the-analog-resurgence-entertainment-audit-7-stress-tests-for-your-pop-culture-co",
+    "published_at": "2026-07-04T13:32:49+00:00",
+    "word_count": 861,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "3590525259506655409",
+    "title": "The 'haptic-ghosting' audit: 7 stress-tests for your VR immersion against low-latency sensory desynchronization",
+    "url": "https://theomniview.blogspot.com/2026/07/the-haptic-ghosting-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "VR immersion",
+      "haptic feedback",
+      "sensory desynchronization"
+    ],
+    "slug": "the-haptic-ghosting-audit-7-stress-tests-for-your-vr-immersion-against-low-laten",
+    "published_at": "2026-07-04T13:33:11+00:00",
+    "word_count": 886,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
