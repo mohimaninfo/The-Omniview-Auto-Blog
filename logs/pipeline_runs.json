@@ -24566,5 +24566,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-04T18:52:06.964574",
+    "run_end": "2026-07-04T18:52:54.281797",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2721813301914884654",
+        "title": "The 'Eco-Diet' Inflation Audit: 7 Stress-Tests for Your Grocery Budget Against Climate-Driven Food Volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-eco-diet-inflation-audit-7-stress.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "climate-friendly diet",
+          "food price inflation",
+          "sustainable grocery budget"
+        ],
+        "slug": "the-eco-diet-inflation-audit-7-stress-tests-for-your-grocery-budget-against-clim",
+        "published_at": "2026-07-04T18:57:30+00:00",
+        "word_count": 993,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2710517285173675641",
+        "title": "The 'ultra-processed' resilience audit: 7 stress-tests for your gut microbiome against emulsifier-heavy food manufacturing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ultra-processed-resilience-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Reviews",
+          "gut microbiome health",
+          "ultra-processed foods",
+          "emulsifiers and health"
+        ],
+        "slug": "the-ultra-processed-resilience-audit-7-stress-tests-for-your-gut-microbiome-agai",
+        "published_at": "2026-07-04T18:57:53+00:00",
+        "word_count": 608,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
