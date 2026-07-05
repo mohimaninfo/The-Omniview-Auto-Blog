@@ -24878,5 +24878,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T05:52:53.287184",
+    "run_end": "2026-07-05T05:53:31.429096",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4810926906330894698",
+        "title": "the 'grid-sovereignty' audit: 7 stress-tests for your municipal climate policy against ai-driven peak-load volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-sovereignty-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Latest News",
+          "climate policy",
+          "ai energy consumption",
+          "municipal energy resilience"
+        ],
+        "slug": "the-grid-sovereignty-audit-7-stress-tests-for-your-municipal-climate-policy-agai",
+        "published_at": "2026-07-05T05:58:10+00:00",
+        "word_count": 752,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4551383558438035370",
+        "title": "The 'synthetic-intimacy' audit: 7 stress-tests for your romantic relationship against AI-generated partner personas \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-intimacy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Explainers",
+          "AI relationships",
+          "synthetic intimacy",
+          "emotional authenticity"
+        ],
+        "slug": "the-synthetic-intimacy-audit-7-stress-tests-for-your-romantic-relationship-again",
+        "published_at": "2026-07-05T05:58:30+00:00",
+        "word_count": 1128,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
