@@ -25398,5 +25398,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T22:47:23.200565",
+    "run_end": "2026-07-05T22:48:06.524459",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5564044821858401082",
+        "title": "The 'Microbiome-Diversity' Audit: 7 Stress-Tests for Your Grocery Staples Against the 30-Plants-a-Week Challenge",
+        "url": "https://theomniview.blogspot.com/2026/07/the-microbiome-diversity-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Reviews",
+          "30 plants a week",
+          "gut microbiome health",
+          "plant-based nutrition"
+        ],
+        "slug": "the-microbiome-diversity-audit-7-stress-tests-for-your-grocery-staples-against-t",
+        "published_at": "2026-07-05T22:52:44+00:00",
+        "word_count": 690,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5900487956844238290",
+        "title": "The 'V2G' bidirectional-charging audit: 7 stress-tests for your electric vehicle battery against grid-emergency discharge mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-v2g-bidirectional-charging-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Explainers",
+          "vehicle-to-grid",
+          "bidirectional charging",
+          "EV battery health"
+        ],
+        "slug": "the-v2g-bidirectional-charging-audit-7-stress-tests-for-your-electric-vehicle-ba",
+        "published_at": "2026-07-05T22:53:06+00:00",
+        "word_count": 966,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
