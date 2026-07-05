@@ -25138,5 +25138,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T15:58:58.694268",
+    "run_end": "2026-07-05T15:59:40.970835",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1527799769101262120",
+        "title": "The 'hypnotic-browser' security audit: 7 stress-tests for your enterprise data against AI-agent prompt injection",
+        "url": "https://theomniview.blogspot.com/2026/07/the-hypnotic-browser-security-audit-7.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Case Studies",
+          "AI browser security",
+          "prompt injection",
+          "enterprise cybersecurity"
+        ],
+        "slug": "the-hypnotic-browser-security-audit-7-stress-tests-for-your-enterprise-data-agai",
+        "published_at": "2026-07-05T16:04:17+00:00",
+        "word_count": 689,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8873400375765374598",
+        "title": "The 'Neuro-Developmental' Audit: 7 Stress-Tests for Your Child\u2019s Education Plan Against the New Spectrum-First Paradigm",
+        "url": "https://theomniview.blogspot.com/2026/07/the-neuro-developmental-audit-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "neurodevelopmental spectrum",
+          "childhood neurodiversity",
+          "educational support plans"
+        ],
+        "slug": "the-neuro-developmental-audit-7-stress-tests-for-your-childs-education-plan-agai",
+        "published_at": "2026-07-05T16:04:40+00:00",
+        "word_count": 976,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
