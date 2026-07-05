@@ -25346,5 +25346,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T21:48:05.515367",
+    "run_end": "2026-07-05T21:48:56.707006",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7937537708669871149",
+        "title": "The 'Synthetic-Skeptic' Audit: 7 Stress-Tests for Your Personal Intuition Against AI-Generated Media Manipulation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-skeptic-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Listicles",
+          "AI deepfake detection",
+          "media literacy",
+          "cognitive bias in AI"
+        ],
+        "slug": "the-synthetic-skeptic-audit-7-stress-tests-for-your-personal-intuition-against-a",
+        "published_at": "2026-07-05T21:53:26+00:00",
+        "word_count": 776,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2164888317839480799",
+        "title": "The 'algorithmic-tax' audit: 7 stress-tests for your small business margins against dynamic AI-pricing volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-tax-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Latest News",
+          "algorithmic pricing",
+          "small business margins",
+          "dynamic pricing strategy"
+        ],
+        "slug": "the-algorithmic-tax-audit-7-stress-tests-for-your-small-business-margins-against",
+        "published_at": "2026-07-05T21:53:55+00:00",
+        "word_count": 718,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
