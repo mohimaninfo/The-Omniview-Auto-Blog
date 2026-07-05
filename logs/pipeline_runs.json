@@ -24982,5 +24982,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T10:56:45.756527",
+    "run_end": "2026-07-05T10:57:35.143297",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "234007815155680305",
+        "title": "The 'algorithmic-bias' classroom audit: 7 stress-tests for your student\u2019s assessment results against AI-driven grading software",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-bias-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "AI in education",
+          "algorithmic bias",
+          "K-12 assessment"
+        ],
+        "slug": "the-algorithmic-bias-classroom-audit-7-stress-tests-for-your-students-assessment",
+        "published_at": "2026-07-05T11:02:07+00:00",
+        "word_count": 895,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9022862101893055784",
+        "title": "The 'Sick-Leave' Sovereignty Audit: 7 Stress-Tests for Your Employment Rights Against Digital-First Doctor Mandates \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-sick-leave-sovereignty-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Case Studies",
+          "employment rights",
+          "digital-first health policy",
+          "sick leave inequality"
+        ],
+        "slug": "the-sick-leave-sovereignty-audit-7-stress-tests-for-your-employment-rights-again",
+        "published_at": "2026-07-05T11:02:34+00:00",
+        "word_count": 637,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
