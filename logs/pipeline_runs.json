@@ -25034,5 +25034,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T12:10:08.575131",
+    "run_end": "2026-07-05T12:10:58.415721",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5196959809739621031",
+        "title": "The 'Zombie-Loan' Recovery Audit: 7 Stress-Tests for Your Credit Report Against Lingering Auto-Debt Claims",
+        "url": "https://theomniview.blogspot.com/2026/07/the-zombie-loan-recovery-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Explainers",
+          "credit report repair",
+          "zombie debt",
+          "auto loan collection"
+        ],
+        "slug": "the-zombie-loan-recovery-audit-7-stress-tests-for-your-credit-report-against-lin",
+        "published_at": "2026-07-05T12:15:36+00:00",
+        "word_count": 1134,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7889756196054516699",
+        "title": "The 'founder-governance' audit: 7 stress-tests for your startup\u2019s decision-making against AI-driven board bias",
+        "url": "https://theomniview.blogspot.com/2026/07/the-founder-governance-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "How-To Guides",
+          "startup governance",
+          "founder decision-making",
+          "AI in venture capital"
+        ],
+        "slug": "the-founder-governance-audit-7-stress-tests-for-your-startups-decision-making-ag",
+        "published_at": "2026-07-05T12:15:58+00:00",
+        "word_count": 973,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
