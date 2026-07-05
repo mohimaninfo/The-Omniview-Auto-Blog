@@ -21386,5 +21386,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7676777355642657313",
+    "title": "The 'circular-hardware' recovery audit: 7 stress-tests for your smart-glasses against forced subscription-brick obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/07/the-circular-hardware-recovery-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "circular economy",
+      "right to repair",
+      "e-waste reduction"
+    ],
+    "slug": "the-circular-hardware-recovery-audit-7-stress-tests-for-your-smart-glasses-again",
+    "published_at": "2026-07-05T20:14:23+00:00",
+    "word_count": 1006,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7862796215813212329",
+    "title": "The 'Eco-Anxiety' Resilience Audit: 7 Stress-Tests for Your Mental Health Against Climate-Driven Displacement",
+    "url": "https://theomniview.blogspot.com/2026/07/the-eco-anxiety-resilience-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "case-studies",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Case Studies",
+      "eco-anxiety",
+      "climate mental health",
+      "environmental dread"
+    ],
+    "slug": "the-eco-anxiety-resilience-audit-7-stress-tests-for-your-mental-health-against-c",
+    "published_at": "2026-07-05T20:14:42+00:00",
+    "word_count": 711,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
