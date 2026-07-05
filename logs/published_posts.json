@@ -21078,5 +21078,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9100479458250701402",
+    "title": "The 'Subscription-Lock' Hardware Audit: 7 Stress-Tests for Your Smart Glasses Against Forced Feature Paywalls",
+    "url": "https://theomniview.blogspot.com/2026/07/the-subscription-lock-hardware-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Reviews",
+      "smart glasses subscription",
+      "wearable hardware review",
+      "smart glasses privacy"
+    ],
+    "slug": "the-subscription-lock-hardware-audit-7-stress-tests-for-your-smart-glasses-again",
+    "published_at": "2026-07-05T08:42:36+00:00",
+    "word_count": 569,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7581807756685852436",
+    "title": "The 'input-latency' competitive audit: 7 stress-tests for your gaming peripherals against professional-grade frame-time jitter",
+    "url": "https://theomniview.blogspot.com/2026/07/the-input-latency-competitive-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Listicles",
+      "gaming peripherals",
+      "input latency",
+      "polling rate"
+    ],
+    "slug": "the-input-latency-competitive-audit-7-stress-tests-for-your-gaming-peripherals-a",
+    "published_at": "2026-07-05T08:42:54+00:00",
+    "word_count": 706,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
