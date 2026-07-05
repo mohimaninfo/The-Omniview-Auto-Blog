@@ -21298,5 +21298,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "563630567079087545",
+    "title": "The 'sonic-sovereignty' audit: 7 stress-tests for your vinyl collection against data-center-induced neighborhood noise",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sonic-sovereignty-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Listicles",
+      "vinyl record collection",
+      "noise pollution",
+      "data center infrastructure"
+    ],
+    "slug": "the-sonic-sovereignty-audit-7-stress-tests-for-your-vinyl-collection-against-dat",
+    "published_at": "2026-07-05T17:12:34+00:00",
+    "word_count": 888,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7849686427754957789",
+    "title": "The 'Quantum-Proof' Wallet Audit: 7 Stress-Tests for Your Bitcoin Holdings Against Emerging Post-Quantum Cryptography",
+    "url": "https://theomniview.blogspot.com/2026/07/the-quantum-proof-wallet-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "bitcoin security",
+      "post-quantum cryptography",
+      "cold storage audit"
+    ],
+    "slug": "the-quantum-proof-wallet-audit-7-stress-tests-for-your-bitcoin-holdings-against-",
+    "published_at": "2026-07-05T17:13:03+00:00",
+    "word_count": 867,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
