@@ -25086,5 +25086,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T14:23:45.336278",
+    "run_end": "2026-07-05T14:24:31.513091",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "554132994269920622",
+        "title": "The 'Cosmic-Heritage' Audit: 7 Stress-Tests for Your Backyard Stargazing Against Rapidly Accelerating Satellite Megaconstellations",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cosmic-heritage-audit-7-stress.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "satellite megaconstellations",
+          "astronomy light pollution",
+          "backyard stargazing"
+        ],
+        "slug": "the-cosmic-heritage-audit-7-stress-tests-for-your-backyard-stargazing-against-ra",
+        "published_at": "2026-07-05T14:29:09+00:00",
+        "word_count": 933,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "833015024798755231",
+        "title": "The 'subscription-brick' hardware audit: 7 stress-tests for your smart glasses against forced feature paywalls \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-subscription-brick-hardware-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "smart glasses",
+          "subscription hardware",
+          "tech obsolescence"
+        ],
+        "slug": "the-subscription-brick-hardware-audit-7-stress-tests-for-your-smart-glasses-agai",
+        "published_at": "2026-07-05T14:29:31+00:00",
+        "word_count": 998,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
