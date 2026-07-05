@@ -25242,5 +25242,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-05T18:57:15.024758",
+    "run_end": "2026-07-05T18:58:05.355040",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2706868514621371874",
+        "title": "The 'actuator-fatigue' audit: 7 stress-tests for your humanoid robotics investment against long-term joint wear \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-actuator-fatigue-audit-7-stress_0667751713.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Latest News",
+          "humanoid robotics",
+          "actuator fatigue",
+          "robot maintenance"
+        ],
+        "slug": "the-actuator-fatigue-audit-7-stress-tests-for-your-humanoid-robotics-investment-",
+        "published_at": "2026-07-05T19:02:34+00:00",
+        "word_count": 820,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9139206811942968100",
+        "title": "The 'inventory-bloat' audit: 7 stress-tests for your ecommerce warehouse against AI-driven demand volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-inventory-bloat-audit-7-stress.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "ecommerce inventory management",
+          "AI demand forecasting",
+          "inventory turnover ratio"
+        ],
+        "slug": "the-inventory-bloat-audit-7-stress-tests-for-your-ecommerce-warehouse-against-ai",
+        "published_at": "2026-07-05T19:03:04+00:00",
+        "word_count": 880,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
