@@ -21870,5 +21870,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6145052249092139741",
+    "title": "The 'license-plate' surveillance audit: 7 stress-tests for your film set security against invasive tracking tech",
+    "url": "https://theomniview.blogspot.com/2026/07/the-license-plate-surveillance-audit-7.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Explainers",
+      "film set security",
+      "license plate reader privacy",
+      "location filming safety"
+    ],
+    "slug": "the-license-plate-surveillance-audit-7-stress-tests-for-your-film-set-security-a",
+    "published_at": "2026-07-06T23:00:12+00:00",
+    "word_count": 1132,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7528429772191827412",
+    "title": "The 'usage-based' classroom audit: 7 stress-tests for your school\u2019s edtech budget against volatile AI API pricing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-usage-based-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Opinion & Analysis",
+      "edtech budget",
+      "AI in education",
+      "usage-based pricing"
+    ],
+    "slug": "the-usage-based-classroom-audit-7-stress-tests-for-your-schools-edtech-budget-ag",
+    "published_at": "2026-07-06T23:00:37+00:00",
+    "word_count": 930,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
