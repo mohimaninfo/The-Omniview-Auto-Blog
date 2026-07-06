@@ -25658,5 +25658,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-06T14:52:27.248237",
+    "run_end": "2026-07-06T14:53:21.145061",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6978861179331635289",
+        "title": "The 'Usage-Based' Trap: 7 Stress-Tests for Your Enterprise AI Budget Against Unpredictable LLM Token Spikes",
+        "url": "https://theomniview.blogspot.com/2026/07/the-usage-based-trap-7-stress-tests-for.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Reviews",
+          "AI usage-based pricing",
+          "enterprise AI budget",
+          "LLM token costs"
+        ],
+        "slug": "the-usage-based-trap-7-stress-tests-for-your-enterprise-ai-budget-against-unpred",
+        "published_at": "2026-07-06T14:58:01+00:00",
+        "word_count": 624,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8856834270032896139",
+        "title": "The 'equity-drain' audit: 7 stress-tests for your startup stock options against unexpected tax-bill insolvency",
+        "url": "https://theomniview.blogspot.com/2026/07/the-equity-drain-audit-7-stress-tests.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Opinion & Analysis",
+          "startup equity tax",
+          "stock option liquidity trap",
+          "vesting cliff tax liability"
+        ],
+        "slug": "the-equity-drain-audit-7-stress-tests-for-your-startup-stock-options-against-une",
+        "published_at": "2026-07-06T14:58:20+00:00",
+        "word_count": 836,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
