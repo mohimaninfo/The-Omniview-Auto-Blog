@@ -25918,5 +25918,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-06T23:56:19.055730",
+    "run_end": "2026-07-06T23:57:03.310048",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6431652568301036505",
+        "title": "The 'mammogram-gap' audit: 7 stress-tests for your diagnostic screening against false-negative medical results",
+        "url": "https://theomniview.blogspot.com/2026/07/the-mammogram-gap-audit-7-stress-tests.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "mammogram accuracy",
+          "medical diagnostic audit",
+          "false negative breast cancer"
+        ],
+        "slug": "the-mammogram-gap-audit-7-stress-tests-for-your-diagnostic-screening-against-fal",
+        "published_at": "2026-07-07T00:01:36+00:00",
+        "word_count": 648,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6331366817560380181",
+        "title": "the 'repair-score' compliance audit: 7 stress-tests for your consumer electronics brand against emerging right-to-repair mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-repair-score-compliance-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "How-To Guides",
+          "right to repair",
+          "circular economy",
+          "electronics sustainability"
+        ],
+        "slug": "the-repair-score-compliance-audit-7-stress-tests-for-your-consumer-electronics-b",
+        "published_at": "2026-07-07T00:02:02+00:00",
+        "word_count": 930,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
