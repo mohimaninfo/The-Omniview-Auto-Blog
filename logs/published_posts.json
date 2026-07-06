@@ -21606,5 +21606,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "391624464550153683",
+    "title": "The 'Offline-Native' Preservation Audit: 7 Stress-Tests for Your Physical Game Collection Against the 2028 Digital-Only Mandate",
+    "url": "https://theomniview.blogspot.com/2026/07/the-offline-native-preservation-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "How-To Guides",
+      "game preservation",
+      "physical media",
+      "video game collection"
+    ],
+    "slug": "the-offline-native-preservation-audit-7-stress-tests-for-your-physical-game-coll",
+    "published_at": "2026-07-06T06:24:37+00:00",
+    "word_count": 1076,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1802001140864263957",
+    "title": "The 'deep-sea' sovereignty audit: 7 stress-tests for your national data security against subsea cable sabotage",
+    "url": "https://theomniview.blogspot.com/2026/07/the-deep-sea-sovereignty-audit-7-stress.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Latest News",
+      "subsea cable security",
+      "digital sovereignty",
+      "global internet infrastructure"
+    ],
+    "slug": "the-deep-sea-sovereignty-audit-7-stress-tests-for-your-national-data-security-ag",
+    "published_at": "2026-07-06T06:25:05+00:00",
+    "word_count": 697,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
