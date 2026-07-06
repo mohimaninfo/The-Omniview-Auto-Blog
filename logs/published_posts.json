@@ -21782,5 +21782,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8835072269212650194",
+    "title": "The 'Refund-Bomb' Audit: 7 Stress-Tests for Your Game\u2019s Steam API Integration Against Exploitative Refund Patterns",
+    "url": "https://theomniview.blogspot.com/2026/07/the-refund-bomb-audit-7-stress-tests.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "Steam refund policy",
+      "game developer security",
+      "Steam API integration"
+    ],
+    "slug": "the-refund-bomb-audit-7-stress-tests-for-your-games-steam-api-integration-agains",
+    "published_at": "2026-07-06T19:40:50+00:00",
+    "word_count": 1009,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8885348035406689056",
+    "title": "the 'sovereign-node' leadership audit: 7 stress-tests for your executive decision-making against decentralized autonomous organization (DAO) governance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sovereign-node-leadership-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Interviews",
+      "decentralized governance",
+      "executive leadership",
+      "DAO management"
+    ],
+    "slug": "the-sovereign-node-leadership-audit-7-stress-tests-for-your-executive-decision-m",
+    "published_at": "2026-07-06T19:41:11+00:00",
+    "word_count": 884,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
