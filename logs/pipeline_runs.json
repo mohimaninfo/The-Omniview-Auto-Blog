@@ -25502,5 +25502,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-07-06T01:56:15.193538",
+    "run_end": "2026-07-06T01:56:54.592523",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2114118572620103082",
+        "title": "The 'prompt-injection' defense audit: 7 stress-tests for your production LLM pipelines against browser-based agent hijacking",
+        "url": "https://theomniview.blogspot.com/2026/07/the-prompt-injection-defense-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Opinion & Analysis",
+          "prompt injection",
+          "LLM security",
+          "AI browser vulnerabilities"
+        ],
+        "slug": "the-prompt-injection-defense-audit-7-stress-tests-for-your-production-llm-pipeli",
+        "published_at": "2026-07-06T02:01:33+00:00",
+        "word_count": 901,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2448235653822441952",
+        "title": "The 'attention-economy' detox audit: 7 stress-tests for your cognitive focus against continuous-scrolling UI patterns",
+        "url": "https://theomniview.blogspot.com/2026/07/the-attention-economy-detox-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "attention economy",
+          "cognitive focus",
+          "digital minimalism"
+        ],
+        "slug": "the-attention-economy-detox-audit-7-stress-tests-for-your-cognitive-focus-agains",
+        "published_at": "2026-07-06T02:01:54+00:00",
+        "word_count": 863,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
