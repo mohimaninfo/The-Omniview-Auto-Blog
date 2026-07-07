@@ -26230,5 +26230,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-07T18:53:01.620554",
+    "run_end": "2026-07-07T18:54:01.398062",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6234273855113568011",
+        "title": "the 'api-volatility' classroom audit: 7 stress-tests for your school\u2019s edtech sustainability against unpredictable LLM token costs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-api-volatility-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "edtech budget",
+          "AI in education",
+          "LLM token costs"
+        ],
+        "slug": "the-api-volatility-classroom-audit-7-stress-tests-for-your-schools-edtech-sustai",
+        "published_at": "2026-07-07T18:58:25+00:00",
+        "word_count": 975,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2576268796723601306",
+        "title": "The 'ultra-processed' nutrient-density audit: 7 stress-tests for your pantry staples against hidden food-matrix degradation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ultra-processed-nutrient-density.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "nutrient density",
+          "ultra-processed foods",
+          "food matrix"
+        ],
+        "slug": "the-ultra-processed-nutrient-density-audit-7-stress-tests-for-your-pantry-staple",
+        "published_at": "2026-07-07T18:59:00+00:00",
+        "word_count": 1187,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
