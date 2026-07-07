@@ -26074,5 +26074,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-07T10:16:45.611468",
+    "run_end": "2026-07-07T10:17:46.386216",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7921799790770589139",
+        "title": "The 'usage-based' margin audit: 7 stress-tests for your SaaS pricing model against AI token-cost volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-usage-based-margin-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "How-To Guides",
+          "SaaS pricing strategy",
+          "AI token costs",
+          "usage-based billing"
+        ],
+        "slug": "the-usage-based-margin-audit-7-stress-tests-for-your-saas-pricing-model-against-",
+        "published_at": "2026-07-07T10:22:18+00:00",
+        "word_count": 900,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9005456524618053801",
+        "title": "The 'Water-Safety' Kitchen Audit: 7 Stress-Tests for Your Home Cooking Routine Against Municipal Contamination",
+        "url": "https://theomniview.blogspot.com/2026/07/the-water-safety-kitchen-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "home water filtration",
+          "cooking water safety",
+          "water contamination testing"
+        ],
+        "slug": "the-water-safety-kitchen-audit-7-stress-tests-for-your-home-cooking-routine-agai",
+        "published_at": "2026-07-07T10:22:45+00:00",
+        "word_count": 1213,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
