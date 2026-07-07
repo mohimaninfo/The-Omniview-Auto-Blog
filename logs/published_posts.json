@@ -22222,5 +22222,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "5348699781781019021",
+    "title": "The 'GPS-Blackout' Travel Audit: 7 Stress-Tests for Your Global Navigation Resilience Against Infrastructure Spoofing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-gps-blackout-travel-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "case-studies",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Case Studies",
+      "travel safety",
+      "GPS spoofing",
+      "navigation resilience"
+    ],
+    "slug": "the-gps-blackout-travel-audit-7-stress-tests-for-your-global-navigation-resilien",
+    "published_at": "2026-07-07T20:48:49+00:00",
+    "word_count": 715,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8022130668955665772",
+    "title": "The 'Shadow-Board' Leadership Audit: 7 Stress-Tests for Your Executive Decision-Making Against AI-Agent Autonomy",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-board-leadership-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Interviews",
+      "AI leadership",
+      "executive decision-making",
+      "autonomous AI agents"
+    ],
+    "slug": "the-shadow-board-leadership-audit-7-stress-tests-for-your-executive-decision-mak",
+    "published_at": "2026-07-07T20:49:22+00:00",
+    "word_count": 867,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
