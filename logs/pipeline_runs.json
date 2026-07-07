@@ -25970,5 +25970,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-07-07T02:08:09.812310",
+    "run_end": "2026-07-07T02:09:01.475869",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7977822097952364709",
+        "title": "The 'Identity-Debt' Recovery Audit: 7 Stress-Tests for Your Crypto Wallet Against AI-Driven Identity Theft",
+        "url": "https://theomniview.blogspot.com/2026/07/the-identity-debt-recovery-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "crypto wallet security",
+          "identity fraud protection",
+          "self-custody best practices"
+        ],
+        "slug": "the-identity-debt-recovery-audit-7-stress-tests-for-your-crypto-wallet-against-a",
+        "published_at": "2026-07-07T02:13:39+00:00",
+        "word_count": 866,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7574341367032663622",
+        "title": "the 'offline-navigation' survival audit: 7 stress-tests for your travel itinerary against global gps-spoofing volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-offline-navigation-survival-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "How-To Guides",
+          "travel safety",
+          "offline navigation",
+          "GPS spoofing"
+        ],
+        "slug": "the-offline-navigation-survival-audit-7-stress-tests-for-your-travel-itinerary-a",
+        "published_at": "2026-07-07T02:14:01+00:00",
+        "word_count": 1060,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
