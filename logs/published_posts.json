@@ -22266,5 +22266,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3165128308991778351",
+    "title": "The 'license-plate' surveillance audit: 7 stress-tests for your corporate campus security against flock-camera data sharing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-license-plate-surveillance-audit-7_01593410256.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Listicles",
+      "corporate security",
+      "license plate recognition",
+      "data privacy"
+    ],
+    "slug": "the-license-plate-surveillance-audit-7-stress-tests-for-your-corporate-campus-se",
+    "published_at": "2026-07-07T22:08:40+00:00",
+    "word_count": 747,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1332488790422633010",
+    "title": "The 'kinetic-drift' calibration audit: 7 stress-tests for your warehouse robotics fleet against floor-surface degradation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-drift-calibration-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Latest News",
+      "warehouse robotics",
+      "autonomous mobile robots",
+      "AMR maintenance"
+    ],
+    "slug": "the-kinetic-drift-calibration-audit-7-stress-tests-for-your-warehouse-robotics-f",
+    "published_at": "2026-07-07T22:09:14+00:00",
+    "word_count": 739,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
