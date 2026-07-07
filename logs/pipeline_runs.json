@@ -26386,5 +26386,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-07T23:43:51.423120",
+    "run_end": "2026-07-07T23:44:39.124724",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7783133670904887156",
+        "title": "The '529-to-Roth' Rollover Audit: 7 Stress-Tests for Your Child\u2019s Education Fund Against Future Tax Policy Shifts",
+        "url": "https://theomniview.blogspot.com/2026/07/the-529-to-roth-rollover-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Explainers",
+          "529 to Roth IRA rollover",
+          "SECURE 2.0 Act",
+          "college savings plan"
+        ],
+        "slug": "the-529-to-roth-rollover-audit-7-stress-tests-for-your-childs-education-fund-aga",
+        "published_at": "2026-07-07T23:49:14+00:00",
+        "word_count": 1067,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7676338219829673420",
+        "title": "The 'Face-Capture' Compliance Audit: 7 Stress-Tests for Your Retail Marketing Strategy Against Mandatory Face-Camera Regulations",
+        "url": "https://theomniview.blogspot.com/2026/07/the-face-capture-compliance-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Listicles",
+          "retail marketing strategy",
+          "face-capture technology",
+          "consumer privacy regulations"
+        ],
+        "slug": "the-face-capture-compliance-audit-7-stress-tests-for-your-retail-marketing-strat",
+        "published_at": "2026-07-07T23:49:38+00:00",
+        "word_count": 805,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 8
+      }
+    ]
   }
 ]
