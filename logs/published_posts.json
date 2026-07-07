@@ -22090,5 +22090,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "2718356157206494134",
+    "title": "The 'Subscription-Wall' Gaming Audit: 7 Stress-Tests for Your Xbox Library Against Platform-Scale Strategy Shifts",
+    "url": "https://theomniview.blogspot.com/2026/07/the-subscription-wall-gaming-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Latest News",
+      "Xbox Game Pass",
+      "game preservation",
+      "digital game ownership"
+    ],
+    "slug": "the-subscription-wall-gaming-audit-7-stress-tests-for-your-xbox-library-against-",
+    "published_at": "2026-07-07T13:15:07+00:00",
+    "word_count": 731,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7071973706953264371",
+    "title": "The 'drone-swarm' logistics audit: 7 stress-tests for your personal supply chain against global maritime and aerial blockade volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-drone-swarm-logistics-audit-7.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "supply chain resilience",
+      "maritime drone warfare",
+      "logistics strategy"
+    ],
+    "slug": "the-drone-swarm-logistics-audit-7-stress-tests-for-your-personal-supply-chain-ag",
+    "published_at": "2026-07-07T13:15:41+00:00",
+    "word_count": 887,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
