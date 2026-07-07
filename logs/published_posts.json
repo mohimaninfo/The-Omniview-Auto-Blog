@@ -22134,5 +22134,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7747769166077916558",
+    "title": "The 'Debt-Inheritance' Audit: 7 Stress-Tests for Your Personal Balance Sheet Against Hidden Spousal Liabilities",
+    "url": "https://theomniview.blogspot.com/2026/07/the-debt-inheritance-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Listicles",
+      "personal balance sheet",
+      "spousal debt liability",
+      "debt management strategies"
+    ],
+    "slug": "the-debt-inheritance-audit-7-stress-tests-for-your-personal-balance-sheet-agains",
+    "published_at": "2026-07-07T16:21:10+00:00",
+    "word_count": 725,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "5214183677309284366",
+    "title": "The 'Game Pass' value audit: 7 stress-tests for your gaming budget against the shift toward cloud-only subscription models",
+    "url": "https://theomniview.blogspot.com/2026/07/the-game-pass-value-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Reviews",
+      "Xbox Game Pass",
+      "gaming budget",
+      "digital game ownership"
+    ],
+    "slug": "the-game-pass-value-audit-7-stress-tests-for-your-gaming-budget-against-the-shif",
+    "published_at": "2026-07-07T16:22:33+00:00",
+    "word_count": 656,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
