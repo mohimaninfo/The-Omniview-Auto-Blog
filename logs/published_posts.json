@@ -22002,5 +22002,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5247088060147868490",
+    "title": "The 'refund-bomb' mitigation audit: 7 stress-tests for your Steam API integration against exploitative player behavior \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-refund-bomb-mitigation-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "Steamworks API",
+      "game development",
+      "refund exploitation"
+    ],
+    "slug": "the-refund-bomb-mitigation-audit-7-stress-tests-for-your-steam-api-integration-a",
+    "published_at": "2026-07-07T06:39:13+00:00",
+    "word_count": 571,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5367039754713678985",
+    "title": "The 'smart-meter' privacy audit: 7 stress-tests for your home gadget security against utility-grade surveillance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-smart-meter-privacy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "smart home privacy",
+      "utility surveillance",
+      "IoT security"
+    ],
+    "slug": "the-smart-meter-privacy-audit-7-stress-tests-for-your-home-gadget-security-again",
+    "published_at": "2026-07-07T06:39:34+00:00",
+    "word_count": 771,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
