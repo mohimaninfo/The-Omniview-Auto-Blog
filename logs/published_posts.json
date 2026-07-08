@@ -22574,5 +22574,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4686449822712372306",
+    "title": "The 'Data-Center' Drought Audit: 7 Stress-Tests for Your Local Watershed Against AI Cooling Demands \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-drought-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Latest News",
+      "AI data center water consumption",
+      "climate policy",
+      "watershed management"
+    ],
+    "slug": "the-data-center-drought-audit-7-stress-tests-for-your-local-watershed-against-ai",
+    "published_at": "2026-07-08T15:12:02+00:00",
+    "word_count": 769,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "9209655444596676754",
+    "title": "The 'sanction-evasion' audit: 7 stress-tests for your personal supply chain against global trade volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sanction-evasion-audit-7-stress.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Case Studies",
+      "global trade volatility",
+      "supply chain resilience",
+      "geopolitical risk management"
+    ],
+    "slug": "the-sanction-evasion-audit-7-stress-tests-for-your-personal-supply-chain-against",
+    "published_at": "2026-07-08T15:12:42+00:00",
+    "word_count": 788,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
