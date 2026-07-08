@@ -26438,5 +26438,57 @@
         "reference_count": 8
       }
     ]
+  },
+  {
+    "run_start": "2026-07-08T01:23:10.953953",
+    "run_end": "2026-07-08T01:24:05.428328",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5815243507193829223",
+        "title": "The 'botnet-brick' security audit: 7 stress-tests for your smart-TV gaming setup against hijacked firmware vulnerabilities",
+        "url": "https://theomniview.blogspot.com/2026/07/the-botnet-brick-security-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "smart TV security",
+          "botnet gaming risk",
+          "gaming hardware safety"
+        ],
+        "slug": "the-botnet-brick-security-audit-7-stress-tests-for-your-smart-tv-gaming-setup-ag",
+        "published_at": "2026-07-08T01:28:39+00:00",
+        "word_count": 734,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3390340480822356560",
+        "title": "The 'algorithmic-casting' audit: 7 stress-tests for your favorite streaming series against data-driven character optimization \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-casting-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Opinion & Analysis",
+          "algorithmic casting",
+          "streaming analytics",
+          "data-driven storytelling"
+        ],
+        "slug": "the-algorithmic-casting-audit-7-stress-tests-for-your-favorite-streaming-series-",
+        "published_at": "2026-07-08T01:29:04+00:00",
+        "word_count": 882,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
