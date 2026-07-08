@@ -26958,5 +26958,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-07-08T22:56:45.903051",
+    "run_end": "2026-07-08T22:57:31.029946",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1685637602484175859",
+        "title": "The 'Digital-Grave' Gaming Audit: 7 Stress-Tests for Your PlayStation Library Against 3-Year Inactivity Deletion Policies",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-grave-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Explainers",
+          "PlayStation digital games",
+          "Sony account policy",
+          "digital game ownership"
+        ],
+        "slug": "the-digital-grave-gaming-audit-7-stress-tests-for-your-playstation-library-again",
+        "published_at": "2026-07-08T23:02:06+00:00",
+        "word_count": 975,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6480262267245634601",
+        "title": "The 'Digital-Grave' Gaming Audit: 7 Stress-Tests for Your PlayStation Library Against 3-Year Inactivity Deletion Policies \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-grave-gaming-audit-7-stress_02024516491.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "How-To Guides",
+          "digital ownership",
+          "circular economy",
+          "gaming preservation"
+        ],
+        "slug": "the-digital-grave-gaming-audit-7-stress-tests-for-your-playstation-library-again",
+        "published_at": "2026-07-08T23:02:30+00:00",
+        "word_count": 1095,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
