@@ -22530,5 +22530,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3532768629024333081",
+    "title": "The 'lidar-gap' compliance audit: 7 stress-tests for your autonomous fleet against evolving state-level safety mandates",
+    "url": "https://theomniview.blogspot.com/2026/07/the-lidar-gap-compliance-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Research Articles",
+      "autonomous vehicle regulations",
+      "lidar vs camera",
+      "robotaxi safety laws"
+    ],
+    "slug": "the-lidar-gap-compliance-audit-7-stress-tests-for-your-autonomous-fleet-against-",
+    "published_at": "2026-07-08T12:17:13+00:00",
+    "word_count": 946,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2072379864811312365",
+    "title": "The 'ad-ware' firmware audit: 7 stress-tests for your smart monitor against forced-install background processes",
+    "url": "https://theomniview.blogspot.com/2026/07/the-ad-ware-firmware-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Latest News",
+      "smart monitor adware",
+      "firmware privacy",
+      "monitor firmware updates"
+    ],
+    "slug": "the-ad-ware-firmware-audit-7-stress-tests-for-your-smart-monitor-against-forced-",
+    "published_at": "2026-07-08T12:17:37+00:00",
+    "word_count": 697,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
