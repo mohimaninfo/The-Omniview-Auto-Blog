@@ -22618,5 +22618,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3539543087269394053",
+    "title": "The 'campus-compute' insolvency audit: 7 stress-tests for your university\u2019s research budget against runaway AI token costs",
+    "url": "https://theomniview.blogspot.com/2026/07/the-campus-compute-insolvency-audit-7.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Research Articles",
+      "university research budget",
+      "AI token costs",
+      "higher education edtech"
+    ],
+    "slug": "the-campus-compute-insolvency-audit-7-stress-tests-for-your-universitys-research",
+    "published_at": "2026-07-08T17:21:45+00:00",
+    "word_count": 969,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "7554165740511638100",
+    "title": "The 'circadian-sync' audit: 7 stress-tests for your wellness routine against artificial blue-light pollution",
+    "url": "https://theomniview.blogspot.com/2026/07/the-circadian-sync-audit-7-stress-tests.html",
+    "genre": "health",
+    "topic": "wellness",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Wellness & Lifestyle",
+      "Explainers",
+      "circadian rhythm",
+      "blue light exposure",
+      "sleep hygiene"
+    ],
+    "slug": "the-circadian-sync-audit-7-stress-tests-for-your-wellness-routine-against-artifi",
+    "published_at": "2026-07-08T17:22:10+00:00",
+    "word_count": 1222,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
