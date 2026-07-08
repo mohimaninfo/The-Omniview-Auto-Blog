@@ -22398,5 +22398,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7655711411842439036",
+    "title": "The 'copper-theft' vulnerability audit: 7 stress-tests for your robotics deployment against infrastructure-scale material scavenging",
+    "url": "https://theomniview.blogspot.com/2026/07/the-copper-theft-vulnerability-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "robotics infrastructure security",
+      "copper theft robotics",
+      "autonomous fleet physical security"
+    ],
+    "slug": "the-copper-theft-vulnerability-audit-7-stress-tests-for-your-robotics-deployment",
+    "published_at": "2026-07-08T05:01:42+00:00",
+    "word_count": 755,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7394486441684003513",
+    "title": "the 'ad-tier' churn audit: 7 stress-tests for your streaming household against forced commercial-break fatigue",
+    "url": "https://theomniview.blogspot.com/2026/07/the-ad-tier-churn-audit-7-stress-tests.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Latest News",
+      "streaming ad tiers",
+      "subscription churn",
+      "viewer retention"
+    ],
+    "slug": "the-ad-tier-churn-audit-7-stress-tests-for-your-streaming-household-against-forc",
+    "published_at": "2026-07-08T05:02:03+00:00",
+    "word_count": 826,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
