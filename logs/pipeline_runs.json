@@ -26854,5 +26854,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-08T20:53:35.615521",
+    "run_end": "2026-07-08T20:54:24.853097",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4184684278634432051",
+        "title": "The 'Token-Burn' Classroom Audit: 7 Stress-Tests for Your School\u2019s EdTech Budget Against Unpredictable AI API Pricing \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-token-burn-classroom-audit-7-stress.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Latest News",
+          "edtech budget",
+          "AI in education",
+          "LLM token costs"
+        ],
+        "slug": "the-token-burn-classroom-audit-7-stress-tests-for-your-schools-edtech-budget-aga",
+        "published_at": "2026-07-08T20:59:00+00:00",
+        "word_count": 862,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1910069075716680522",
+        "title": "The 'parasitic-bias' research audit: 7 stress-tests for your diagnostic accuracy against emerging neuro-parasitic threats",
+        "url": "https://theomniview.blogspot.com/2026/07/the-parasitic-bias-research-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Opinion & Analysis",
+          "medical diagnostic accuracy",
+          "neuro-parasitic infection",
+          "parasitic research"
+        ],
+        "slug": "the-parasitic-bias-research-audit-7-stress-tests-for-your-diagnostic-accuracy-ag",
+        "published_at": "2026-07-08T20:59:23+00:00",
+        "word_count": 950,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
