@@ -22442,5 +22442,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "928597367096832820",
+    "title": "the 'sovereign-territory' audit: 7 stress-tests for your geopolitical literacy against the modern 'land-grab' rhetoric",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sovereign-territory-audit-7-stress.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Opinion & Analysis",
+      "geopolitical literacy",
+      "national sovereignty",
+      "Greenland geopolitics"
+    ],
+    "slug": "the-sovereign-territory-audit-7-stress-tests-for-your-geopolitical-literacy-agai",
+    "published_at": "2026-07-08T07:28:41+00:00",
+    "word_count": 902,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4767128986084273618",
+    "title": "The 'vector-drift' maintenance audit: 7 stress-tests for your RAG pipeline against long-term embedding degradation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-vector-drift-maintenance-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Listicles",
+      "RAG pipeline",
+      "vector database",
+      "embedding drift"
+    ],
+    "slug": "the-vector-drift-maintenance-audit-7-stress-tests-for-your-rag-pipeline-against-",
+    "published_at": "2026-07-08T07:29:03+00:00",
+    "word_count": 874,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
