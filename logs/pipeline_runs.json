@@ -27166,5 +27166,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-09T14:25:22.040605",
+    "run_end": "2026-07-09T14:26:12.879568",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "404677107425144234",
+        "title": "The 'screenshot-sovereignty' audit: 7 stress-tests for your customer support records against T-Mobile-style chat restrictions",
+        "url": "https://theomniview.blogspot.com/2026/07/the-screenshot-sovereignty-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Explainers",
+          "customer support records",
+          "digital documentation",
+          "consumer rights"
+        ],
+        "slug": "the-screenshot-sovereignty-audit-7-stress-tests-for-your-customer-support-record",
+        "published_at": "2026-07-09T14:30:50+00:00",
+        "word_count": 1083,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5557931367347830958",
+        "title": "The 'local-LLM' classroom audit: 7 stress-tests for your school\u2019s data privacy against cloud-based AI reliance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-local-llm-classroom-audit-7-stress.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "How-To Guides",
+          "local LLM",
+          "edtech data privacy",
+          "classroom AI security"
+        ],
+        "slug": "the-local-llm-classroom-audit-7-stress-tests-for-your-schools-data-privacy-again",
+        "published_at": "2026-07-09T14:31:12+00:00",
+        "word_count": 959,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
