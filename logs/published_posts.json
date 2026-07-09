@@ -23102,5 +23102,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4416268137325391458",
+    "title": "The 'founder-exit' liquidity audit: 7 stress-tests for your startup equity against unexpected clawback triggers",
+    "url": "https://theomniview.blogspot.com/2026/07/the-founder-exit-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Listicles",
+      "startup equity",
+      "founder liquidity",
+      "acquisition clawback"
+    ],
+    "slug": "the-founder-exit-liquidity-audit-7-stress-tests-for-your-startup-equity-against-",
+    "published_at": "2026-07-09T21:14:25+00:00",
+    "word_count": 1000,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1088644578990790782",
+    "title": "the 'model-collapse' integrity audit: 7 stress-tests for your synthetic dataset against generative feedback loops",
+    "url": "https://theomniview.blogspot.com/2026/07/the-model-collapse-integrity-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "model collapse",
+      "synthetic data",
+      "generative AI training"
+    ],
+    "slug": "the-model-collapse-integrity-audit-7-stress-tests-for-your-synthetic-dataset-aga",
+    "published_at": "2026-07-09T21:14:50+00:00",
+    "word_count": 1033,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
