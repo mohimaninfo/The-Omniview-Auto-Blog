@@ -27010,5 +27010,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-09T00:01:29.575725",
+    "run_end": "2026-07-09T00:02:15.342116",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8250800231490372776",
+        "title": "The 'Metabolic-Defense' Audit: 7 Stress-Tests for Your Nutrition Plan Against Sleep-Deprivation-Induced Weight Gain",
+        "url": "https://theomniview.blogspot.com/2026/07/the-metabolic-defense-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "nutrition for sleep deprivation",
+          "metabolic health",
+          "prevent weight gain"
+        ],
+        "slug": "the-metabolic-defense-audit-7-stress-tests-for-your-nutrition-plan-against-sleep",
+        "published_at": "2026-07-09T00:06:53+00:00",
+        "word_count": 999,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3884245177371184269",
+        "title": "The 'degree-decay' credential audit: 7 stress-tests for your university diploma against the rise of skill-verified micro-credentials",
+        "url": "https://theomniview.blogspot.com/2026/07/the-degree-decay-credential-audit-7.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Latest News",
+          "higher education",
+          "micro-credentials",
+          "degree value"
+        ],
+        "slug": "the-degree-decay-credential-audit-7-stress-tests-for-your-university-diploma-aga",
+        "published_at": "2026-07-09T00:07:14+00:00",
+        "word_count": 698,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
