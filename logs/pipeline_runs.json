@@ -27114,5 +27114,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-09T11:52:54.825540",
+    "run_end": "2026-07-09T11:53:49.471396",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4503694279379614351",
+        "title": "The 'Compute-Burn' Leadership Audit: 7 Stress-Tests for Your Executive AI Strategy Against Runaway Infrastructure Costs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-compute-burn-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Case Studies",
+          "AI infrastructure costs",
+          "executive leadership strategy",
+          "AI ROI"
+        ],
+        "slug": "the-compute-burn-leadership-audit-7-stress-tests-for-your-executive-ai-strategy-",
+        "published_at": "2026-07-09T11:58:22+00:00",
+        "word_count": 744,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7872276904534084188",
+        "title": "The 'Compute-Cap' Ecommerce Audit: 7 Stress-Tests for Your Online Storefront Against Unpredictable AI Infrastructure Bills",
+        "url": "https://theomniview.blogspot.com/2026/07/the-compute-cap-ecommerce-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Reviews",
+          "ecommerce profitability",
+          "AI infrastructure costs",
+          "online store margin optimization"
+        ],
+        "slug": "the-compute-cap-ecommerce-audit-7-stress-tests-for-your-online-storefront-agains",
+        "published_at": "2026-07-09T11:58:49+00:00",
+        "word_count": 624,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
