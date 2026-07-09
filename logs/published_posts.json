@@ -23014,5 +23014,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8661934064428735526",
+    "title": "The 'smart-home' blackout audit: 7 stress-tests for your connected appliances against localized grid-load volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-smart-home-blackout-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Listicles",
+      "smart home reliability",
+      "grid load volatility",
+      "data center power consumption"
+    ],
+    "slug": "the-smart-home-blackout-audit-7-stress-tests-for-your-connected-appliances-again",
+    "published_at": "2026-07-09T17:15:08+00:00",
+    "word_count": 890,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3016639446961225430",
+    "title": "The 'shadow-fleet' logistics audit: 7 stress-tests for your personal supply chain against global maritime and aerial blockade volatility \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-fleet-logistics-audit-7.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Research Articles",
+      "shadow fleet",
+      "supply chain volatility",
+      "maritime blockade"
+    ],
+    "slug": "the-shadow-fleet-logistics-audit-7-stress-tests-for-your-personal-supply-chain-a",
+    "published_at": "2026-07-09T17:15:29+00:00",
+    "word_count": 1023,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
