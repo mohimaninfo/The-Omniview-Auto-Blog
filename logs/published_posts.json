@@ -23058,5 +23058,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8060947524551400881",
+    "title": "The 'usage-spike' bankruptcy audit: 7 stress-tests for your startup\u2019s financial runway against runaway LLM API costs",
+    "url": "https://theomniview.blogspot.com/2026/07/the-usage-spike-bankruptcy-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Opinion & Analysis",
+      "AI startup costs",
+      "LLM API pricing",
+      "startup financial runway"
+    ],
+    "slug": "the-usage-spike-bankruptcy-audit-7-stress-tests-for-your-startups-financial-runw",
+    "published_at": "2026-07-09T19:23:23+00:00",
+    "word_count": 969,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8011780253105987912",
+    "title": "The 'Neutron-Detection' Audit: 7 Stress-Tests for Your Orbital Security Against Hidden Nuclear Payloads",
+    "url": "https://theomniview.blogspot.com/2026/07/the-neutron-detection-audit-7-stress.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "neutron detection",
+      "orbital security",
+      "nuclear arms control"
+    ],
+    "slug": "the-neutron-detection-audit-7-stress-tests-for-your-orbital-security-against-hid",
+    "published_at": "2026-07-09T19:23:46+00:00",
+    "word_count": 904,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
