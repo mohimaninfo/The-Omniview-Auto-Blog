@@ -23146,5 +23146,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5324639735736935160",
+    "title": "The 'label-lock' royalty audit: 7 stress-tests for your artist contract against AI-driven song-streaming manipulation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-label-lock-royalty-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "interviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Interviews",
+      "music royalties",
+      "AI music copyright",
+      "artist contract audit"
+    ],
+    "slug": "the-label-lock-royalty-audit-7-stress-tests-for-your-artist-contract-against-ai-",
+    "published_at": "2026-07-09T23:05:40+00:00",
+    "word_count": 919,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3006086216530763978",
+    "title": "the 'thermal-throttle' maintenance audit: 7 stress-tests for your warehouse robotics fleet against summer peak-load overheating",
+    "url": "https://theomniview.blogspot.com/2026/07/the-thermal-throttle-maintenance-audit.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Research Articles",
+      "warehouse robotics",
+      "robotics maintenance",
+      "AMR cooling systems"
+    ],
+    "slug": "the-thermal-throttle-maintenance-audit-7-stress-tests-for-your-warehouse-robotic",
+    "published_at": "2026-07-09T23:06:13+00:00",
+    "word_count": 957,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
