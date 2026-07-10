@@ -23586,5 +23586,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1929566105105876927",
+    "title": "The 'Fan-Value' Royalty Audit: 7 Stress-Tests for Your Music Catalog Against StubHub-Style Scalping Algorithms",
+    "url": "https://theomniview.blogspot.com/2026/07/the-fan-value-royalty-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Opinion & Analysis",
+      "music industry royalties",
+      "streaming platform junk fees",
+      "StubHub secondary market"
+    ],
+    "slug": "the-fan-value-royalty-audit-7-stress-tests-for-your-music-catalog-against-stubhu",
+    "published_at": "2026-07-10T22:53:17+00:00",
+    "word_count": 917,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7697075558837618047",
+    "title": "The 'click-to-cancel' security audit: 7 stress-tests for your banking apps against deceptive subscription traps",
+    "url": "https://theomniview.blogspot.com/2026/07/the-click-to-cancel-security-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Latest News",
+      "click-to-cancel",
+      "cybersecurity",
+      "subscription traps"
+    ],
+    "slug": "the-click-to-cancel-security-audit-7-stress-tests-for-your-banking-apps-against-",
+    "published_at": "2026-07-10T22:53:33+00:00",
+    "word_count": 915,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
