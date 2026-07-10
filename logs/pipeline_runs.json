@@ -27478,5 +27478,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-10T04:42:16.450718",
+    "run_end": "2026-07-10T04:43:02.813035",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4504076757208946321",
+        "title": "The 'Inheritance-Trap' Audit: 7 Stress-Tests for Your Family Trust Against Modern Financial Volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-inheritance-trap-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Research Articles",
+          "family trust management",
+          "intergenerational wealth transfer",
+          "trust dissolution"
+        ],
+        "slug": "the-inheritance-trap-audit-7-stress-tests-for-your-family-trust-against-modern-f",
+        "published_at": "2026-07-10T04:47:40+00:00",
+        "word_count": 1033,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1455733359565611763",
+        "title": "The 'Final-Cut' Preservation Audit: 7 Stress-Tests for Your Digital Film Library Against Studio-Led Remote Deletion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-final-cut-preservation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Latest News",
+          "digital movie ownership",
+          "streaming platform content removal",
+          "film preservation"
+        ],
+        "slug": "the-final-cut-preservation-audit-7-stress-tests-for-your-digital-film-library-ag",
+        "published_at": "2026-07-10T04:48:01+00:00",
+        "word_count": 793,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
