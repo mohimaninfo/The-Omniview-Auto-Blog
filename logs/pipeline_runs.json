@@ -27842,5 +27842,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-10T21:49:07.856208",
+    "run_end": "2026-07-10T21:49:52.977551",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5392186401067813819",
+        "title": "The 'Data-Harvest' Compliance Audit: 7 Stress-Tests for Your Enterprise AI Pipeline Against Instagram Photo-Scraping Liability",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-harvest-compliance-audit-7.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Research Articles",
+          "enterprise AI compliance",
+          "data privacy regulations",
+          "AI training data"
+        ],
+        "slug": "the-data-harvest-compliance-audit-7-stress-tests-for-your-enterprise-ai-pipeline",
+        "published_at": "2026-07-10T21:54:29+00:00",
+        "word_count": 1001,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8966301312024109238",
+        "title": "The 'Quantum-Decoherence' Audit: 7 Stress-Tests for Your Cryogenic Computing Setup Against Environmental Noise",
+        "url": "https://theomniview.blogspot.com/2026/07/the-quantum-decoherence-audit-7-stress_01522583002.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "quantum decoherence",
+          "cryogenic computing",
+          "qubit stability"
+        ],
+        "slug": "the-quantum-decoherence-audit-7-stress-tests-for-your-cryogenic-computing-setup-",
+        "published_at": "2026-07-10T21:54:52+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
