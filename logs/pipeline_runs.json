@@ -27634,5 +27634,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-10T13:52:01.945935",
+    "run_end": "2026-07-10T13:52:48.712814",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8142646148460024021",
+        "title": "The 'smart-grid' resilience audit: 7 stress-tests for your home energy setup against AI-driven surge demand",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-grid-resilience-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "reviews",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Reviews",
+          "smart-grid resilience",
+          "home energy management",
+          "AI data center energy consumption"
+        ],
+        "slug": "the-smart-grid-resilience-audit-7-stress-tests-for-your-home-energy-setup-agains",
+        "published_at": "2026-07-10T13:57:19+00:00",
+        "word_count": 623,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4113826362024150551",
+        "title": "the 'liquid-staking' insolvency audit: 7 stress-tests for your eth-derivative portfolio against de-pegging volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-liquid-staking-insolvency-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Research Articles",
+          "liquid staking risks",
+          "ethereum staking",
+          "DeFi insolvency"
+        ],
+        "slug": "the-liquid-staking-insolvency-audit-7-stress-tests-for-your-eth-derivative-portf",
+        "published_at": "2026-07-10T13:57:48+00:00",
+        "word_count": 861,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
