@@ -27582,5 +27582,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-10T11:40:46.721337",
+    "run_end": "2026-07-10T11:41:27.565179",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7789509341678415794",
+        "title": "The 'border-crossing' privacy audit: 7 stress-tests for your travel documents against AI-powered facial recognition surveillance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-border-crossing-privacy-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Explainers",
+          "travel privacy",
+          "biometric surveillance",
+          "airport security"
+        ],
+        "slug": "the-border-crossing-privacy-audit-7-stress-tests-for-your-travel-documents-again",
+        "published_at": "2026-07-10T11:46:05+00:00",
+        "word_count": 966,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7643055057925668900",
+        "title": "The 'Remote-Work' Surveillance Audit: 7 Stress-Tests for Your Home Office Privacy Against AI-Powered Managerial Monitoring",
+        "url": "https://theomniview.blogspot.com/2026/07/the-remote-work-surveillance-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "explainers",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Explainers",
+          "remote work privacy",
+          "employee monitoring software",
+          "AI workplace surveillance"
+        ],
+        "slug": "the-remote-work-surveillance-audit-7-stress-tests-for-your-home-office-privacy-a",
+        "published_at": "2026-07-10T11:46:27+00:00",
+        "word_count": 882,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
