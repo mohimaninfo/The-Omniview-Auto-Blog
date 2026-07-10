@@ -23454,5 +23454,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6456722158637846398",
+    "title": "The 'kinetic-integrity' audit: 7 stress-tests for your warehouse robotics fleet against AI-driven surge demand",
+    "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-integrity-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "warehouse robotics",
+      "autonomous mobile robots",
+      "robotics maintenance"
+    ],
+    "slug": "the-kinetic-integrity-audit-7-stress-tests-for-your-warehouse-robotics-fleet-aga",
+    "published_at": "2026-07-10T18:20:27+00:00",
+    "word_count": 719,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2326166084020874568",
+    "title": "The 'Longevity-Escape' Audit: 7 Stress-Tests for Your Biological Age Against Modern Cellular Senescence",
+    "url": "https://theomniview.blogspot.com/2026/07/the-longevity-escape-audit-7-stress.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "latest-news",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Latest News",
+      "cellular senescence",
+      "longevity research",
+      "biological age"
+    ],
+    "slug": "the-longevity-escape-audit-7-stress-tests-for-your-biological-age-against-modern",
+    "published_at": "2026-07-10T18:20:45+00:00",
+    "word_count": 752,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
