@@ -27790,5 +27790,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-10T20:11:32.545555",
+    "run_end": "2026-07-10T20:12:28.410171",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5818935214465872848",
+        "title": "The 'Subscription-Trap' Gaming Audit: 7 Stress-Tests for Your Digital Library Against 'Click-To-Cancel' Legislation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-subscription-trap-gaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Listicles",
+          "gaming subscription traps",
+          "digital game ownership",
+          "click-to-cancel gaming"
+        ],
+        "slug": "the-subscription-trap-gaming-audit-7-stress-tests-for-your-digital-library-again",
+        "published_at": "2026-07-10T20:16:58+00:00",
+        "word_count": 771,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "821949375994621831",
+        "title": "the 'permafrost-thaw' infrastructure audit: 7 stress-tests for your northern property investment against climate-driven soil instability",
+        "url": "https://theomniview.blogspot.com/2026/07/the-permafrost-thaw-infrastructure_0724664704.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Latest News",
+          "permafrost thaw",
+          "climate-driven infrastructure risk",
+          "arctic real estate"
+        ],
+        "slug": "the-permafrost-thaw-infrastructure-audit-7-stress-tests-for-your-northern-proper",
+        "published_at": "2026-07-10T20:17:27+00:00",
+        "word_count": 754,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
