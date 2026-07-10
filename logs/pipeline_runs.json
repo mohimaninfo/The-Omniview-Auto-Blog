@@ -27946,5 +27946,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-07-10T23:45:27.017453",
+    "run_end": "2026-07-10T23:46:29.070221",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4753379347847331867",
+        "title": "The 'Geopolitical-Blackout' Audit: 7 Stress-Tests for Your Personal Supply Chain Against Global Trade Volatility \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-geopolitical-blackout-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "personal supply chain",
+          "geopolitical risk management",
+          "supply chain resilience"
+        ],
+        "slug": "the-geopolitical-blackout-audit-7-stress-tests-for-your-personal-supply-chain-ag",
+        "published_at": "2026-07-10T23:51:04+00:00",
+        "word_count": 1026,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1760954699042685679",
+        "title": "The 'gut-brain' anxiety audit: 7 stress-tests for your mental health against the rise of gastrointestinal parasites",
+        "url": "https://theomniview.blogspot.com/2026/07/the-gut-brain-anxiety-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Research Articles",
+          "gut-brain axis",
+          "mental health and digestion",
+          "anxiety symptoms"
+        ],
+        "slug": "the-gut-brain-anxiety-audit-7-stress-tests-for-your-mental-health-against-the-ri",
+        "published_at": "2026-07-10T23:51:28+00:00",
+        "word_count": 1094,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
