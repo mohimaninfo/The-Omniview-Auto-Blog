@@ -23850,5 +23850,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4084173095920545429",
+    "title": "The 'Click-To-Cancel' Compliance Audit: 7 Stress-Tests for Your Ecommerce Checkout Flow Against New Subscription Laws",
+    "url": "https://theomniview.blogspot.com/2026/07/the-click-to-cancel-compliance-audit-7.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "How-To Guides",
+      "click-to-cancel compliance",
+      "ecommerce subscription laws",
+      "recurring billing regulations"
+    ],
+    "slug": "the-click-to-cancel-compliance-audit-7-stress-tests-for-your-ecommerce-checkout-",
+    "published_at": "2026-07-11T10:57:15+00:00",
+    "word_count": 1106,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "2303317693840750867",
+    "title": "The 'Orbital-Debris' Resilience Audit: 7 Stress-Tests for Your Starlink Connectivity Against Growing Kessler Syndrome Risks \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-orbital-debris-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Explainers",
+      "Kessler Syndrome",
+      "orbital debris",
+      "satellite internet"
+    ],
+    "slug": "the-orbital-debris-resilience-audit-7-stress-tests-for-your-starlink-connectivit",
+    "published_at": "2026-07-11T10:57:36+00:00",
+    "word_count": 939,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
