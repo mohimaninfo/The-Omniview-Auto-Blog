@@ -24114,5 +24114,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "139699458836103690",
+    "title": "The 'shadow-supply' audit: 7 stress-tests for your corporate data resilience against sanctioned-tech bypasses",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-supply-audit-7-stress-tests.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Case Studies",
+      "digital supply chain security",
+      "sanction compliance",
+      "shadow IT"
+    ],
+    "slug": "the-shadow-supply-audit-7-stress-tests-for-your-corporate-data-resilience-agains",
+    "published_at": "2026-07-11T17:49:48+00:00",
+    "word_count": 730,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 8
+  },
+  {
+    "post_id": "6677518200930613225",
+    "title": "the 'grid-edge' stability audit: 7 stress-tests for your residential solar inverter against vpp-driven voltage fluctuations",
+    "url": "https://theomniview.blogspot.com/2026/07/the-grid-edge-stability-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Latest News",
+      "residential solar inverter",
+      "virtual power plants",
+      "grid stability"
+    ],
+    "slug": "the-grid-edge-stability-audit-7-stress-tests-for-your-residential-solar-inverter",
+    "published_at": "2026-07-11T17:50:08+00:00",
+    "word_count": 700,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
