@@ -24026,5 +24026,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9201759525721743807",
+    "title": "The 'Subscription-Trap' Compliance Audit: 7 Stress-Tests for Your Ecommerce Checkout Flow Against New 'Click-to-Cancel' Legislation \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-subscription-trap-compliance-audit.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Reviews",
+      "ecommerce subscription compliance",
+      "click-to-cancel legislation",
+      "subscription trap prevention"
+    ],
+    "slug": "the-subscription-trap-compliance-audit-7-stress-tests-for-your-ecommerce-checkou",
+    "published_at": "2026-07-11T15:47:43+00:00",
+    "word_count": 575,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "1304761789905369777",
+    "title": "The 'Shadow-Update' Security Audit: 7 Stress-Tests for Your IoT Device Fleet Against Stealth Firmware Injection",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-update-security-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Case Studies",
+      "IoT security",
+      "firmware vulnerability",
+      "supply chain attack"
+    ],
+    "slug": "the-shadow-update-security-audit-7-stress-tests-for-your-iot-device-fleet-agains",
+    "published_at": "2026-07-11T15:48:01+00:00",
+    "word_count": 668,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
