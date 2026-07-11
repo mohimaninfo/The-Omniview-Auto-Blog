@@ -24378,5 +24378,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2986189981578717416",
+    "title": "The 'digital-heir' classroom audit: 7 stress-tests for your school\u2019s edtech assets against evolving student ownership laws",
+    "url": "https://theomniview.blogspot.com/2026/07/the-digital-heir-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "latest-news",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Latest News",
+      "digital ownership in education",
+      "student data privacy",
+      "edtech asset management"
+    ],
+    "slug": "the-digital-heir-classroom-audit-7-stress-tests-for-your-schools-edtech-assets-a",
+    "published_at": "2026-07-11T23:47:18+00:00",
+    "word_count": 817,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1663058385066833736",
+    "title": "The 'digital-heir' music audit: 7 stress-tests for your legacy playlist ownership against platform-sunset policies",
+    "url": "https://theomniview.blogspot.com/2026/07/the-digital-heir-music-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "interviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Interviews",
+      "digital inheritance",
+      "music streaming rights",
+      "digital asset ownership"
+    ],
+    "slug": "the-digital-heir-music-audit-7-stress-tests-for-your-legacy-playlist-ownership-a",
+    "published_at": "2026-07-11T23:47:42+00:00",
+    "word_count": 906,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
