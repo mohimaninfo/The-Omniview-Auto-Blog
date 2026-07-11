@@ -28778,5 +28778,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-11T22:35:23.227134",
+    "run_end": "2026-07-11T22:36:17.991303",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2605750327855841525",
+        "title": "The 'lifestyle-creep' inflation audit: 7 stress-tests for your personal savings rate against sudden income spikes",
+        "url": "https://theomniview.blogspot.com/2026/07/the-lifestyle-creep-inflation-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Explainers",
+          "lifestyle creep",
+          "personal savings rate",
+          "wealth building"
+        ],
+        "slug": "the-lifestyle-creep-inflation-audit-7-stress-tests-for-your-personal-savings-rat",
+        "published_at": "2026-07-11T22:40:43+00:00",
+        "word_count": 1080,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8924066853887816763",
+        "title": "The 'human-in-the-loop' labor audit: 7 stress-tests for your remote-work career against emerging AI-agent task delegation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-human-in-loop-labor-audit-7-stress.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "ai agent workflows",
+          "job security",
+          "knowledge worker automation"
+        ],
+        "slug": "the-human-in-the-loop-labor-audit-7-stress-tests-for-your-remote-work-career-aga",
+        "published_at": "2026-07-11T22:41:16+00:00",
+        "word_count": 875,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
