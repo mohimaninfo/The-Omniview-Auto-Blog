@@ -23938,5 +23938,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6429246232863120941",
+    "title": "the 'offline-itinerary' resilience audit: 7 stress-tests for your travel plans against digital-only booking failures",
+    "url": "https://theomniview.blogspot.com/2026/07/the-offline-itinerary-resilience-audit.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "case-studies",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Case Studies",
+      "travel itinerary resilience",
+      "offline travel planning",
+      "digital booking failure"
+    ],
+    "slug": "the-offline-itinerary-resilience-audit-7-stress-tests-for-your-travel-plans-agai",
+    "published_at": "2026-07-11T12:53:11+00:00",
+    "word_count": 690,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1253038160535911227",
+    "title": "The 'Photosynthetic-Limit' Audit: 7 Stress-Tests for Your Local Canopy Resilience Against Rising Tropical Heatwaves \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-photosynthetic-limit-audit-7-stress_01011241030.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Physics",
+      "Research Articles",
+      "photosynthetic limit",
+      "climate change physics",
+      "carbon sequestration"
+    ],
+    "slug": "the-photosynthetic-limit-audit-7-stress-tests-for-your-local-canopy-resilience-a",
+    "published_at": "2026-07-11T12:53:32+00:00",
+    "word_count": 907,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
