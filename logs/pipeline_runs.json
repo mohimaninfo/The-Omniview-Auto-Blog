@@ -28102,5 +28102,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-11T07:03:59.144367",
+    "run_end": "2026-07-11T07:04:43.144679",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4653309400119302087",
+        "title": "The 'Data-Center' Heat-Island Audit: 7 Stress-Tests for Your Municipal Climate Strategy Against AI Cooling Demands",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-heat-island-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Opinion & Analysis",
+          "data center climate impact",
+          "ai energy consumption",
+          "municipal climate policy"
+        ],
+        "slug": "the-data-center-heat-island-audit-7-stress-tests-for-your-municipal-climate-stra",
+        "published_at": "2026-07-11T07:09:19+00:00",
+        "word_count": 931,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5132107737981064591",
+        "title": "The 'Pathogen-Exposure' Audit: 7 Stress-Tests for Your Kitchen Sanitation Against Emerging Foodborne Parasites",
+        "url": "https://theomniview.blogspot.com/2026/07/the-pathogen-exposure-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Explainers",
+          "foodborne illness prevention",
+          "kitchen sanitation guide",
+          "Cyclospora symptoms"
+        ],
+        "slug": "the-pathogen-exposure-audit-7-stress-tests-for-your-kitchen-sanitation-against-e",
+        "published_at": "2026-07-11T07:09:42+00:00",
+        "word_count": 1109,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
