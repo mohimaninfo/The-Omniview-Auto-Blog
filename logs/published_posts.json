@@ -23674,5 +23674,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6349909715077174626",
+    "title": "the 'high-yield' trap audit: 7 stress-tests for your hysa balance against sudden bank liquidity volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-high-yield-trap-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "how-to-guides",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "How-To Guides",
+      "best hysa",
+      "high yield savings account",
+      "bank liquidity risk"
+    ],
+    "slug": "the-high-yield-trap-audit-7-stress-tests-for-your-hysa-balance-against-sudden-ba",
+    "published_at": "2026-07-11T01:27:40+00:00",
+    "word_count": 996,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "10688852145919042",
+    "title": "The 'Placebo-Effect' Data Audit: 7 Stress-Tests for Your Clinical Trial Results Against Modern Participant Expectations",
+    "url": "https://theomniview.blogspot.com/2026/07/the-placebo-effect-data-audit-7-stress.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Opinion & Analysis",
+      "clinical trial validity",
+      "placebo effect research",
+      "medical research bias"
+    ],
+    "slug": "the-placebo-effect-data-audit-7-stress-tests-for-your-clinical-trial-results-aga",
+    "published_at": "2026-07-11T01:28:02+00:00",
+    "word_count": 1027,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
