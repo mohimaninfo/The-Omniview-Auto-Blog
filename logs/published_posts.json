@@ -24158,5 +24158,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8302353686563367704",
+    "title": "The 'Subscription-Trap' Kitchen Audit: 7 Stress-Tests for Your Smart Appliance Ecosystem Against 'Click-to-Cancel' Legislation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-subscription-trap-kitchen-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Explainers",
+      "smart kitchen appliances",
+      "subscription traps",
+      "click-to-cancel"
+    ],
+    "slug": "the-subscription-trap-kitchen-audit-7-stress-tests-for-your-smart-appliance-ecos",
+    "published_at": "2026-07-11T18:46:56+00:00",
+    "word_count": 1034,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5938188471495099878",
+    "title": "The 'oracle-drift' audit: 7 stress-tests for your decentralized finance protocol against real-world data feed manipulation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-oracle-drift-audit-7-stress-tests.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "decentralized finance",
+      "defi security",
+      "price oracle manipulation"
+    ],
+    "slug": "the-oracle-drift-audit-7-stress-tests-for-your-decentralized-finance-protocol-ag",
+    "published_at": "2026-07-11T18:47:18+00:00",
+    "word_count": 938,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
