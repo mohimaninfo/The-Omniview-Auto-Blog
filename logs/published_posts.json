@@ -24070,5 +24070,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3571936254954660875",
+    "title": "The 'LLM-Concentration' Audit: 7 Stress-Tests for Your Creative Workflow Against AI's Long-Form Failure",
+    "url": "https://theomniview.blogspot.com/2026/07/the-llm-concentration-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Explainers",
+      "LLM limitations",
+      "generative AI creative writing",
+      "long-form content strategy"
+    ],
+    "slug": "the-llm-concentration-audit-7-stress-tests-for-your-creative-workflow-against-ai",
+    "published_at": "2026-07-11T16:45:34+00:00",
+    "word_count": 994,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1268974271775047257",
+    "title": "the 'deep-fake' credential audit: 7 stress-tests for your remote hiring process against synthetic video-interview fraud",
+    "url": "https://theomniview.blogspot.com/2026/07/the-deep-fake-credential-audit-7-stress.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Latest News",
+      "remote hiring fraud",
+      "deepfake interview detection",
+      "identity verification"
+    ],
+    "slug": "the-deep-fake-credential-audit-7-stress-tests-for-your-remote-hiring-process-aga",
+    "published_at": "2026-07-11T16:45:55+00:00",
+    "word_count": 808,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
