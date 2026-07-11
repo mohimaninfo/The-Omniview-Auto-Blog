@@ -28258,5 +28258,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-11T11:41:48.268941",
+    "run_end": "2026-07-11T11:42:34.536301",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1175769925673479649",
+        "title": "The 'flock-surveillance' audit: 7 stress-tests for your neighborhood\u2019s privacy against automated license plate readers",
+        "url": "https://theomniview.blogspot.com/2026/07/the-flock-surveillance-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "How-To Guides",
+          "license plate reader privacy",
+          "ALPR data security",
+          "flock camera surveillance"
+        ],
+        "slug": "the-flock-surveillance-audit-7-stress-tests-for-your-neighborhoods-privacy-again",
+        "published_at": "2026-07-11T11:47:11+00:00",
+        "word_count": 1161,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3363390478837264199",
+        "title": "The 'photosynthetic-limit' audit: 7 stress-tests for your local canopy resilience against rising tropical heatwaves",
+        "url": "https://theomniview.blogspot.com/2026/07/the-photosynthetic-limit-audit-7-stress.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "photosynthetic safety limit",
+          "tropical forest carbon sequestration",
+          "climate change forest resilience"
+        ],
+        "slug": "the-photosynthetic-limit-audit-7-stress-tests-for-your-local-canopy-resilience-a",
+        "published_at": "2026-07-11T11:47:34+00:00",
+        "word_count": 809,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
