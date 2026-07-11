@@ -23718,5 +23718,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3715727486751018013",
+    "title": "The 'Robot-Scavenger' Security Audit: 7 Stress-Tests for Your Warehouse Robotics Fleet Against Infrastructure-Scale Material Theft",
+    "url": "https://theomniview.blogspot.com/2026/07/the-robot-scavenger-security-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "warehouse robotics security",
+      "AMR fleet protection",
+      "robotics infrastructure theft"
+    ],
+    "slug": "the-robot-scavenger-security-audit-7-stress-tests-for-your-warehouse-robotics-fl",
+    "published_at": "2026-07-11T04:56:41+00:00",
+    "word_count": 676,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1495062343050315893",
+    "title": "The 'Zone 2' cardiovascular audit: 7 stress-tests for your aerobic base against modern sedentary-work fatigue",
+    "url": "https://theomniview.blogspot.com/2026/07/the-zone-2-cardiovascular-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Listicles",
+      "Zone 2 training",
+      "aerobic base building",
+      "metabolic efficiency"
+    ],
+    "slug": "the-zone-2-cardiovascular-audit-7-stress-tests-for-your-aerobic-base-against-mod",
+    "published_at": "2026-07-11T04:57:00+00:00",
+    "word_count": 997,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
