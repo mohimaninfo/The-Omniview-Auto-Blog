@@ -23982,5 +23982,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "2676617886274448408",
+    "title": "The 'streaming-fatigue' audit: 7 stress-tests for your independent music library against platform-scale subscription traps",
+    "url": "https://theomniview.blogspot.com/2026/07/the-streaming-fatigue-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "music streaming",
+      "subscription traps",
+      "independent artists"
+    ],
+    "slug": "the-streaming-fatigue-audit-7-stress-tests-for-your-independent-music-library-ag",
+    "published_at": "2026-07-11T14:21:37+00:00",
+    "word_count": 504,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "6427701013780198342",
+    "title": "The 'skill-obsolescence' audit: 7 stress-tests for your career trajectory against the rise of agentic AI workflows",
+    "url": "https://theomniview.blogspot.com/2026/07/the-skill-obsolescence-audit-7-stress.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "interviews",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Interviews",
+      "career obsolescence",
+      "agentic AI",
+      "future of work"
+    ],
+    "slug": "the-skill-obsolescence-audit-7-stress-tests-for-your-career-trajectory-against-t",
+    "published_at": "2026-07-11T14:22:27+00:00",
+    "word_count": 939,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
