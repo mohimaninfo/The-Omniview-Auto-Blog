@@ -28674,5 +28674,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-11T20:40:50.285043",
+    "run_end": "2026-07-11T20:41:30.520854",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6032073322945243210",
+        "title": "The 'Kessler-Syndrome' Logistics Audit: 7 Stress-Tests for Your Satellite Data Resilience Against Orbital Debris Escalation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kessler-syndrome-logistics-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "orbital debris",
+          "Kessler syndrome",
+          "satellite resilience"
+        ],
+        "slug": "the-kessler-syndrome-logistics-audit-7-stress-tests-for-your-satellite-data-resi",
+        "published_at": "2026-07-11T20:46:10+00:00",
+        "word_count": 825,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "8391114161872721295",
+        "title": "The 'Degree-Burn' Insolvency Audit: 7 Stress-Tests for Your University\u2019s Financial Future Against AI-Driven Enrollment Declines",
+        "url": "https://theomniview.blogspot.com/2026/07/the-degree-burn-insolvency-audit-7.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Opinion & Analysis",
+          "higher education trends",
+          "university financial sustainability",
+          "AI in higher education"
+        ],
+        "slug": "the-degree-burn-insolvency-audit-7-stress-tests-for-your-universitys-financial-f",
+        "published_at": "2026-07-11T20:46:30+00:00",
+        "word_count": 1006,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
