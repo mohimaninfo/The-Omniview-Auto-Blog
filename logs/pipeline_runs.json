@@ -29488,5 +29488,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T20:45:43.890122",
+    "run_end": "2026-07-12T20:46:22.711671",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3456474901876843173",
+        "title": "The 'Sodium-Shift' Maintenance Audit: 7 Stress-Tests for Your Warehouse Robotics Fleet Against Next-Gen Battery Transitions",
+        "url": "https://theomniview.blogspot.com/2026/07/the-sodium-shift-maintenance-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "warehouse robotics",
+          "sodium metal batteries",
+          "robotics maintenance"
+        ],
+        "slug": "the-sodium-shift-maintenance-audit-7-stress-tests-for-your-warehouse-robotics-fl",
+        "published_at": "2026-07-12T20:51:02+00:00",
+        "word_count": 658,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3619968606417705967",
+        "title": "The 'Asynchronous-Burnout' Audit: 7 Stress-Tests for Your Remote-Work Communication Against AI-Driven Response Expectations",
+        "url": "https://theomniview.blogspot.com/2026/07/the-asynchronous-burnout-audit-7-stress.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Opinion & Analysis",
+          "remote work burnout",
+          "asynchronous communication",
+          "AI in the workplace"
+        ],
+        "slug": "the-asynchronous-burnout-audit-7-stress-tests-for-your-remote-work-communication",
+        "published_at": "2026-07-12T20:51:22+00:00",
+        "word_count": 992,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
