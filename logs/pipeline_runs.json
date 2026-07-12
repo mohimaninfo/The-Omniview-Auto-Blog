@@ -29142,5 +29142,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T12:50:05.280835",
+    "run_end": "2026-07-12T12:50:55.545049",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6013015792516138992",
+        "title": "The 'marine-stunting' resilience audit: 7 stress-tests for your seafood supply chain against climate-driven body size reduction",
+        "url": "https://theomniview.blogspot.com/2026/07/the-marine-stunting-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "case-studies",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Case Studies",
+          "marine body size reduction",
+          "climate change and food security",
+          "seafood supply chain"
+        ],
+        "slug": "the-marine-stunting-resilience-audit-7-stress-tests-for-your-seafood-supply-chai",
+        "published_at": "2026-07-12T12:55:31+00:00",
+        "word_count": 782,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1865156091732097582",
+        "title": "The 'biomarker-drift' clinical audit: 7 stress-tests for your diagnostic accuracy against long-term environmental toxicant exposure",
+        "url": "https://theomniview.blogspot.com/2026/07/the-biomarker-drift-clinical-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "biomarker drift",
+          "diagnostic accuracy",
+          "environmental toxicology"
+        ],
+        "slug": "the-biomarker-drift-clinical-audit-7-stress-tests-for-your-diagnostic-accuracy-a",
+        "published_at": "2026-07-12T12:55:54+00:00",
+        "word_count": 1196,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
