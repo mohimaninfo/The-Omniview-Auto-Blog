@@ -29090,5 +29090,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T11:02:47.786722",
+    "run_end": "2026-07-12T11:04:02.559482",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7081367289293817297",
+        "title": "The 'sanction-leakage' audit: 7 stress-tests for your luxury investment portfolio against global trade volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-sanction-leakage-audit-7-stress.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Research Articles",
+          "sanction evasion",
+          "wealth inequality",
+          "global trade volatility"
+        ],
+        "slug": "the-sanction-leakage-audit-7-stress-tests-for-your-luxury-investment-portfolio-a",
+        "published_at": "2026-07-12T11:08:41+00:00",
+        "word_count": 976,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4635360598534076875",
+        "title": "The 'Ghost-Job' Hiring Audit: 7 Stress-Tests for Your Startup\u2019s Recruitment Funnel Against LinkedIn\u2019s Algorithmic Decay",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ghost-job-hiring-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Interviews",
+          "ghost jobs",
+          "startup recruitment",
+          "hiring strategy"
+        ],
+        "slug": "the-ghost-job-hiring-audit-7-stress-tests-for-your-startups-recruitment-funnel-a",
+        "published_at": "2026-07-12T11:09:02+00:00",
+        "word_count": 1001,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
