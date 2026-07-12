@@ -28934,5 +28934,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T05:13:37.453604",
+    "run_end": "2026-07-12T05:14:17.164116",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3788665125061118483",
+        "title": "The 'digital-heir' console audit: 7 stress-tests for your physical game collection against the end of disc-based support",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-heir-console-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Reviews",
+          "digital game ownership",
+          "physical game collection",
+          "gaming inheritance"
+        ],
+        "slug": "the-digital-heir-console-audit-7-stress-tests-for-your-physical-game-collection-",
+        "published_at": "2026-07-12T05:18:56+00:00",
+        "word_count": 673,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2984282785306581057",
+        "title": "the 'material-passport' provenance audit: 7 stress-tests for your manufacturing supply chain against emerging eu circular-economy mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-material-passport-provenance-audit.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Research Articles",
+          "circular economy",
+          "digital product passport",
+          "supply chain transparency"
+        ],
+        "slug": "the-material-passport-provenance-audit-7-stress-tests-for-your-manufacturing-sup",
+        "published_at": "2026-07-12T05:19:16+00:00",
+        "word_count": 952,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
