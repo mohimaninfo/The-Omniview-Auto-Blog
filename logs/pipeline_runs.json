@@ -29592,5 +29592,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T22:35:39.254249",
+    "run_end": "2026-07-12T22:36:19.998866",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2341423512256452638",
+        "title": "The 'synthetic-executive' leadership audit: 7 stress-tests for your management communication against AI-generated deepfake fraud",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-executive-leadership.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Listicles",
+          "leadership communication",
+          "deepfake fraud",
+          "executive security"
+        ],
+        "slug": "the-synthetic-executive-leadership-audit-7-stress-tests-for-your-management-comm",
+        "published_at": "2026-07-12T22:40:59+00:00",
+        "word_count": 888,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "618790152004392958",
+        "title": "The 'bonus-trap' windfall audit: 7 stress-tests for your incoming bonus against long-term retirement volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-bonus-trap-windfall-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "windfall management",
+          "financial planning for bonuses",
+          "retirement savings strategy"
+        ],
+        "slug": "the-bonus-trap-windfall-audit-7-stress-tests-for-your-incoming-bonus-against-lon",
+        "published_at": "2026-07-12T22:41:19+00:00",
+        "word_count": 689,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
