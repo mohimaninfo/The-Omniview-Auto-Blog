@@ -24884,5 +24884,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8107569933781110212",
+    "title": "The 'Battery-Life' Longevity Audit: 7 Stress-Tests for Your Next Smartphone Against Rapid-Charge Degradation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-battery-life-longevity-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Latest News",
+      "sodium metal battery",
+      "smartphone battery health",
+      "fast charging degradation"
+    ],
+    "slug": "the-battery-life-longevity-audit-7-stress-tests-for-your-next-smartphone-against",
+    "published_at": "2026-07-12T20:04:43+00:00",
+    "word_count": 773,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "1384726013953441667",
+    "title": "The 'human-fidelity' classroom audit: 7 stress-tests for your k12 assessment strategy against ai-generated student output",
+    "url": "https://theomniview.blogspot.com/2026/07/the-human-fidelity-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Opinion & Analysis",
+      "k12 assessment",
+      "ai in education",
+      "academic integrity"
+    ],
+    "slug": "the-human-fidelity-classroom-audit-7-stress-tests-for-your-k12-assessment-strate",
+    "published_at": "2026-07-12T20:05:04+00:00",
+    "word_count": 1037,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
