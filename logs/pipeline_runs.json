@@ -28882,5 +28882,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T01:24:25.996452",
+    "run_end": "2026-07-12T01:25:14.982352",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7138717933909531166",
+        "title": "The 'digital-heir' gaming audit: 7 stress-tests for your steam library against estate-transfer laws",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-heir-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "digital gaming assets",
+          "steam account inheritance",
+          "digital estate planning"
+        ],
+        "slug": "the-digital-heir-gaming-audit-7-stress-tests-for-your-steam-library-against-esta",
+        "published_at": "2026-07-12T01:29:46+00:00",
+        "word_count": 945,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7284930253762693465",
+        "title": "The 'ultra-processed' resilience audit: 7 stress-tests for your daily nutrition plan against hidden additive inflammation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ultra-processed-resilience-audit-7_01809626014.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "ultra-processed foods",
+          "gut health",
+          "systemic inflammation"
+        ],
+        "slug": "the-ultra-processed-resilience-audit-7-stress-tests-for-your-daily-nutrition-pla",
+        "published_at": "2026-07-12T01:30:14+00:00",
+        "word_count": 1204,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
