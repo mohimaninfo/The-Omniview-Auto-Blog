@@ -29280,5 +29280,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T16:42:21.524030",
+    "run_end": "2026-07-12T16:43:00.578296",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5653146149066484695",
+        "title": "The 'Inheritance-Clawback' Audit: 7 Stress-Tests for Your Family Trust Against Modern Financial Volatility \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-inheritance-clawback-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "inherited 401k",
+          "family trust management",
+          "financial volatility"
+        ],
+        "slug": "the-inheritance-clawback-audit-7-stress-tests-for-your-family-trust-against-mode",
+        "published_at": "2026-07-12T16:47:40+00:00",
+        "word_count": 774,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6139234825864946219",
+        "title": "The 'mycobiome-balance' audit: 7 stress-tests for your gut health against modern antifungal chemical exposure",
+        "url": "https://theomniview.blogspot.com/2026/07/the-mycobiome-balance-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Explainers",
+          "gut microbiome health",
+          "mycobiome balance",
+          "antifungal exposure"
+        ],
+        "slug": "the-mycobiome-balance-audit-7-stress-tests-for-your-gut-health-against-modern-an",
+        "published_at": "2026-07-12T16:48:00+00:00",
+        "word_count": 982,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
