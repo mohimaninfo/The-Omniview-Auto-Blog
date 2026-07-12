@@ -29332,5 +29332,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T17:48:12.574684",
+    "run_end": "2026-07-12T17:48:48.803050",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8258509807159766329",
+        "title": "The 'Ghost-Lead' Pipeline Audit: 7 Stress-Tests for Your CRM Against LinkedIn's Engagement Decay",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ghost-lead-pipeline-audit-7-stress.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Reviews",
+          "lead generation strategies",
+          "CRM lead scoring",
+          "LinkedIn marketing ROI"
+        ],
+        "slug": "the-ghost-lead-pipeline-audit-7-stress-tests-for-your-crm-against-linkedins-enga",
+        "published_at": "2026-07-12T17:53:30+00:00",
+        "word_count": 546,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1901571832197948723",
+        "title": "The 'synthetic-senate' influence audit: 7 stress-tests for your local ballot integrity against generative deepfake misinformation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-senate-influence-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Opinion & Analysis",
+          "generative AI misinformation",
+          "ballot integrity",
+          "deepfake political influence"
+        ],
+        "slug": "the-synthetic-senate-influence-audit-7-stress-tests-for-your-local-ballot-integr",
+        "published_at": "2026-07-12T17:53:48+00:00",
+        "word_count": 945,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
