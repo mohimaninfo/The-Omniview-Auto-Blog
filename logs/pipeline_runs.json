@@ -29194,5 +29194,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-12T14:21:23.747632",
+    "run_end": "2026-07-12T14:21:47.585873",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "post_id": "626621418732283589",
+        "title": "The 'Parasite-Proof' Pantry Audit: 7 Stress-Tests for Your Kitchen Sanitation Against Emerging Foodborne Pathogens \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-parasite-proof-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Reviews",
+          "foodborne parasite prevention",
+          "kitchen sanitation audit",
+          "food safety tips"
+        ],
+        "slug": "the-parasite-proof-pantry-audit-7-stress-tests-for-your-kitchen-sanitation-again",
+        "published_at": "2026-07-12T14:26:41+00:00",
+        "word_count": 601,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "error": "Expecting ',' delimiter: line 28 column 46 (char 1528)",
+        "post_index": 2
+      }
+    ]
   }
 ]
