@@ -29696,5 +29696,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-13T01:25:38.448106",
+    "run_end": "2026-07-13T01:26:25.253495",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4264122893362759731",
+        "title": "The 'Event-Horizon' Resilience Audit: 7 Stress-Tests for Your Orbital Infrastructure Against Rotating Black Hole Analogues",
+        "url": "https://theomniview.blogspot.com/2026/07/the-event-horizon-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "rotating black hole",
+          "space infrastructure",
+          "energy extraction"
+        ],
+        "slug": "the-event-horizon-resilience-audit-7-stress-tests-for-your-orbital-infrastructur",
+        "published_at": "2026-07-13T01:31:02+00:00",
+        "word_count": 770,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3559063007031356553",
+        "title": "The 'Human-In-The-Loop' Leadership Audit: 7 Stress-Tests for Your Executive Decision-Making Against AI-Generated Consensus Bias",
+        "url": "https://theomniview.blogspot.com/2026/07/the-human-in-loop-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Case Studies",
+          "executive decision making",
+          "AI leadership strategy",
+          "cognitive bias in AI"
+        ],
+        "slug": "the-human-in-the-loop-leadership-audit-7-stress-tests-for-your-executive-decisio",
+        "published_at": "2026-07-13T01:31:24+00:00",
+        "word_count": 825,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
