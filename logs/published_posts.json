@@ -25456,5 +25456,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3132074427404496780",
+    "title": "The 'AI-Ghosting' Hiring Audit: 7 Stress-Tests for Your Remote-Work Application Against Synthetic Recruiter Bots",
+    "url": "https://theomniview.blogspot.com/2026/07/the-ai-ghosting-hiring-audit-7-stress.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Opinion & Analysis",
+      "remote work hiring",
+      "AI job search",
+      "ghost jobs"
+    ],
+    "slug": "the-ai-ghosting-hiring-audit-7-stress-tests-for-your-remote-work-application-aga",
+    "published_at": "2026-07-13T21:48:09+00:00",
+    "word_count": 929,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3773317976604602607",
+    "title": "The 'Synthetic-Credential' Audit: 7 Stress-Tests for Your Professional Portfolio Against AI-Generated Candidate Fraud",
+    "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-credential-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Reviews",
+      "AI resume fraud",
+      "professional digital identity",
+      "career portfolio security"
+    ],
+    "slug": "the-synthetic-credential-audit-7-stress-tests-for-your-professional-portfolio-ag",
+    "published_at": "2026-07-13T21:48:28+00:00",
+    "word_count": 537,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
