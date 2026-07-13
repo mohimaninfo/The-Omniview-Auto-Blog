@@ -29904,5 +29904,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-07-13T13:57:38.793642",
+    "run_end": "2026-07-13T13:58:13.641903",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5562492916421082793",
+        "title": "The 'Ergosphere-Extraction' Audit: 7 Stress-Tests for Your Energy Future Against Rotating Black Hole Analogues",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ergosphere-extraction-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Physics",
+          "Latest News",
+          "Penrose-Zel'dovich mechanism",
+          "black hole energy extraction",
+          "rotating black hole analogue"
+        ],
+        "slug": "the-ergosphere-extraction-audit-7-stress-tests-for-your-energy-future-against-ro",
+        "published_at": "2026-07-13T14:02:56+00:00",
+        "word_count": 798,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5756819563436855701",
+        "title": "The 'Server-Sunset' Resilience Audit: 7 Stress-Tests for Your Live-Service Gaming Library Against Sudden Studio Shutdowns",
+        "url": "https://theomniview.blogspot.com/2026/07/the-server-sunset-resilience-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "live-service games",
+          "gaming preservation",
+          "digital game ownership"
+        ],
+        "slug": "the-server-sunset-resilience-audit-7-stress-tests-for-your-live-service-gaming-l",
+        "published_at": "2026-07-13T14:03:13+00:00",
+        "word_count": 771,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
