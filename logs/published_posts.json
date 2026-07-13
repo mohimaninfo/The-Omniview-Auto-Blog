@@ -25148,5 +25148,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8890515073433117770",
+    "title": "The 'Privacy-First' Refactoring Audit: 7 Stress-Tests for Your Legacy Codebase Against AI Data-Scraping Vulnerabilities",
+    "url": "https://theomniview.blogspot.com/2026/07/the-privacy-first-refactoring-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "codebase security",
+      "AI data scraping",
+      "privacy-first development"
+    ],
+    "slug": "the-privacy-first-refactoring-audit-7-stress-tests-for-your-legacy-codebase-agai",
+    "published_at": "2026-07-13T05:28:02+00:00",
+    "word_count": 995,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2945342648271598801",
+    "title": "The 'chokepoint-latency' audit: 7 stress-tests for your digital supply chain against Strait of Hormuz volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-chokepoint-latency-audit-7-stress.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Research Articles",
+      "digital supply chain resilience",
+      "Strait of Hormuz volatility",
+      "geopolitical risk assessment"
+    ],
+    "slug": "the-chokepoint-latency-audit-7-stress-tests-for-your-digital-supply-chain-agains",
+    "published_at": "2026-07-13T05:28:26+00:00",
+    "word_count": 911,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
