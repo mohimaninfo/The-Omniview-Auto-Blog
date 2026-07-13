@@ -30216,5 +30216,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-13T23:40:35.810210",
+    "run_end": "2026-07-13T23:41:20.689290",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5917617959837989031",
+        "title": "The 'Synthetic-Empathy' Audit: 7 Stress-Tests for Your Romantic Relationship Against AI-Driven Communication",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-empathy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "synthetic intimacy",
+          "AI relationship advice",
+          "emotional intelligence"
+        ],
+        "slug": "the-synthetic-empathy-audit-7-stress-tests-for-your-romantic-relationship-agains",
+        "published_at": "2026-07-13T23:45:55+00:00",
+        "word_count": 972,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4983007284144700099",
+        "title": "the 'endocrine-disruption' audit: 7 stress-tests for your metabolic health against pervasive micro-pollutant exposure",
+        "url": "https://theomniview.blogspot.com/2026/07/the-endocrine-disruption-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Listicles",
+          "endocrine disruptors",
+          "metabolic health",
+          "environmental wellness"
+        ],
+        "slug": "the-endocrine-disruption-audit-7-stress-tests-for-your-metabolic-health-against-",
+        "published_at": "2026-07-13T23:46:20+00:00",
+        "word_count": 727,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
