@@ -25368,5 +25368,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6584145853424272697",
+    "title": "The 'heloc-pivot' risk audit: 7 stress-tests for your home equity investment against rising interest rate volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-heloc-pivot-risk-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Explainers",
+      "HELOC for investment property",
+      "home equity risks",
+      "real estate investing strategy"
+    ],
+    "slug": "the-heloc-pivot-risk-audit-7-stress-tests-for-your-home-equity-investment-agains",
+    "published_at": "2026-07-13T18:30:41+00:00",
+    "word_count": 1024,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "46795680508071671",
+    "title": "The 'circadian-alignment' audit: 7 stress-tests for your fitness routine against modern artificial blue light exposure",
+    "url": "https://theomniview.blogspot.com/2026/07/the-circadian-alignment-audit-7-stress.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "How-To Guides",
+      "circadian rhythm fitness",
+      "blue light sleep recovery",
+      "athletic performance optimization"
+    ],
+    "slug": "the-circadian-alignment-audit-7-stress-tests-for-your-fitness-routine-against-mo",
+    "published_at": "2026-07-13T18:31:04+00:00",
+    "word_count": 1129,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
