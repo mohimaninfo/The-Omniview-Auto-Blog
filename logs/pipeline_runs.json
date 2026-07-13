@@ -29852,5 +29852,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-13T11:48:26.630665",
+    "run_end": "2026-07-13T11:49:06.344349",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7939331071240800981",
+        "title": "The 'subscription-exodus' retention audit: 7 stress-tests for your SaaS pricing model against new 'click-to-cancel' legislation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-subscription-exodus-retention-audit.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Case Studies",
+          "subscription retention strategies",
+          "click-to-cancel compliance",
+          "SaaS churn reduction"
+        ],
+        "slug": "the-subscription-exodus-retention-audit-7-stress-tests-for-your-saas-pricing-mod",
+        "published_at": "2026-07-13T11:53:44+00:00",
+        "word_count": 729,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6515156790587231165",
+        "title": "The 'urban-heat' resilience audit: 7 stress-tests for your home cooling strategy against expanding asphalt heat-islands",
+        "url": "https://theomniview.blogspot.com/2026/07/the-urban-heat-resilience-audit-7_02053501876.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Explainers",
+          "urban heat island",
+          "sustainable home cooling",
+          "passive cooling techniques"
+        ],
+        "slug": "the-urban-heat-resilience-audit-7-stress-tests-for-your-home-cooling-strategy-ag",
+        "published_at": "2026-07-13T11:54:06+00:00",
+        "word_count": 1080,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
