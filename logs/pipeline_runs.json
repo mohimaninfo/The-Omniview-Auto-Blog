@@ -29800,5 +29800,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-13T08:42:24.727038",
+    "run_end": "2026-07-13T08:43:07.313602",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2873748800880731548",
+        "title": "The 'Anthropocene-Shrink' Audit: 7 Stress-Tests for Your Seafood Supply Chain Against Climate-Driven Body Size Reduction \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-anthropocene-shrink-audit-7-stress_01790466599.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Latest News",
+          "seafood supply chain",
+          "climate change impacts",
+          "marine life body size"
+        ],
+        "slug": "the-anthropocene-shrink-audit-7-stress-tests-for-your-seafood-supply-chain-again",
+        "published_at": "2026-07-13T08:47:44+00:00",
+        "word_count": 766,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7847000897015909505",
+        "title": "the 'algorithmic-gating' audit: 7 stress-tests for your film library against streaming-platform content-scrubbing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-gating-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "streaming content removal",
+          "digital library preservation",
+          "film licensing expiration"
+        ],
+        "slug": "the-algorithmic-gating-audit-7-stress-tests-for-your-film-library-against-stream",
+        "published_at": "2026-07-13T08:48:06+00:00",
+        "word_count": 947,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
