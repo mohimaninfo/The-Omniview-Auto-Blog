@@ -25324,5 +25324,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8737412081695732402",
+    "title": "The 'Data-Sovereignty' Classroom Audit: 7 Stress-Tests for Your EdTech Stack Against New Deceptive Subscription Laws",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-sovereignty-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Research Articles",
+      "edtech procurement",
+      "data sovereignty",
+      "subscription management"
+    ],
+    "slug": "the-data-sovereignty-classroom-audit-7-stress-tests-for-your-edtech-stack-agains",
+    "published_at": "2026-07-13T16:31:26+00:00",
+    "word_count": 1054,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6850134613266245381",
+    "title": "The 'Neuro-Inflammation' Resilience Audit: 7 Stress-Tests for Your Cognitive Health Against Microplastic Exposure",
+    "url": "https://theomniview.blogspot.com/2026/07/the-neuro-inflammation-resilience-audit.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "latest-news",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Latest News",
+      "neuro-inflammation",
+      "microplastics and brain health",
+      "cognitive decline prevention"
+    ],
+    "slug": "the-neuro-inflammation-resilience-audit-7-stress-tests-for-your-cognitive-health",
+    "published_at": "2026-07-13T16:31:45+00:00",
+    "word_count": 692,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
