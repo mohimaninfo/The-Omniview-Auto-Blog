@@ -30684,5 +30684,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-14T18:02:43.370671",
+    "run_end": "2026-07-14T18:03:47.244068",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8991488539393486272",
+        "title": "the 'nutrient-density' audit: 7 stress-tests for your home-cooked meals against glp-1-induced muscle atrophy",
+        "url": "https://theomniview.blogspot.com/2026/07/the-nutrient-density-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Reviews",
+          "nutrient-dense cooking",
+          "GLP-1 muscle loss",
+          "protein-rich recipes"
+        ],
+        "slug": "the-nutrient-density-audit-7-stress-tests-for-your-home-cooked-meals-against-glp",
+        "published_at": "2026-07-14T18:08:06+00:00",
+        "word_count": 595,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6643949403903142391",
+        "title": "The 'grid-load' moratorium audit: 7 stress-tests for your renewable energy investment against municipal data center freezes",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-load-moratorium-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Research Articles",
+          "renewable energy investment",
+          "data center moratorium",
+          "grid capacity"
+        ],
+        "slug": "the-grid-load-moratorium-audit-7-stress-tests-for-your-renewable-energy-investme",
+        "published_at": "2026-07-14T18:08:46+00:00",
+        "word_count": 1033,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
