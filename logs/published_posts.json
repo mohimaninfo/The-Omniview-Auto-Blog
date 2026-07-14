@@ -26072,5 +26072,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5601511997708740462",
+    "title": "The 'energy-sovereignty' remote-work audit: 7 stress-tests for your home office resilience against rising data center power costs",
+    "url": "https://theomniview.blogspot.com/2026/07/the-energy-sovereignty-remote-work.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "How-To Guides",
+      "remote work energy costs",
+      "home office power efficiency",
+      "data center electricity surcharges"
+    ],
+    "slug": "the-energy-sovereignty-remote-work-audit-7-stress-tests-for-your-home-office-res",
+    "published_at": "2026-07-14T22:49:12+00:00",
+    "word_count": 1154,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1163072028645175693",
+    "title": "the 'shadow-refinery' infrastructure audit: 7 stress-tests for your local energy resilience against sanctioned oil flow volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-refinery-infrastructure.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Case Studies",
+      "energy resilience",
+      "shadow fleet",
+      "sanctioned oil"
+    ],
+    "slug": "the-shadow-refinery-infrastructure-audit-7-stress-tests-for-your-local-energy-re",
+    "published_at": "2026-07-14T22:49:30+00:00",
+    "word_count": 736,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
