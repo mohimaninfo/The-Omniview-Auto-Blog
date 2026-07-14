@@ -25720,5 +25720,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8504335428155899841",
+    "title": "The 'Cognitive-Recession' Audit: 7 Stress-Tests for Your Classroom EdTech Stack Against Declining Student Literacy",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-recession-audit-7-stress.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "How-To Guides",
+      "edtech audit",
+      "student cognitive decline",
+      "digital learning tools"
+    ],
+    "slug": "the-cognitive-recession-audit-7-stress-tests-for-your-classroom-edtech-stack-aga",
+    "published_at": "2026-07-14T09:49:10+00:00",
+    "word_count": 946,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4382913139829503305",
+    "title": "The 'AI-Code-Rot' Audit: 7 Stress-Tests for Your Legacy Codebase Against LLM-Generated Technical Debt",
+    "url": "https://theomniview.blogspot.com/2026/07/the-ai-code-rot-audit-7-stress-tests.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "AI code generation",
+      "technical debt management",
+      "codebase maintenance"
+    ],
+    "slug": "the-ai-code-rot-audit-7-stress-tests-for-your-legacy-codebase-against-llm-genera",
+    "published_at": "2026-07-14T09:49:31+00:00",
+    "word_count": 578,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
