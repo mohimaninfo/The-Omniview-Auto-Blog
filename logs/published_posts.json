@@ -25984,5 +25984,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2805062100632011694",
+    "title": "The 'orbital-clutter' physics audit: 7 stress-tests for your satellite data resilience against rising Kessler Syndrome risks",
+    "url": "https://theomniview.blogspot.com/2026/07/the-orbital-clutter-physics-audit-7.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Physics",
+      "Opinion & Analysis",
+      "Kessler Syndrome",
+      "orbital debris",
+      "satellite communication"
+    ],
+    "slug": "the-orbital-clutter-physics-audit-7-stress-tests-for-your-satellite-data-resilie",
+    "published_at": "2026-07-14T20:08:23+00:00",
+    "word_count": 916,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1226231650379255387",
+    "title": "The 'Inactivity-Fee' Liquidity Audit: 7 Stress-Tests for Your Checking Account Against Rising Banking Penalties",
+    "url": "https://theomniview.blogspot.com/2026/07/the-inactivity-fee-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Explainers",
+      "checking account fees",
+      "bank inactivity fee",
+      "personal finance liquidity"
+    ],
+    "slug": "the-inactivity-fee-liquidity-audit-7-stress-tests-for-your-checking-account-agai",
+    "published_at": "2026-07-14T20:08:56+00:00",
+    "word_count": 1038,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
