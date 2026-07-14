@@ -25632,5 +25632,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7336963829729563613",
+    "title": "The 'human-verification' content audit: 7 stress-tests for your brand\u2019s authority against the rise of AI-written LinkedIn posts",
+    "url": "https://theomniview.blogspot.com/2026/07/the-human-verification-content-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Research Articles",
+      "AI content marketing",
+      "LinkedIn engagement strategy",
+      "brand authority"
+    ],
+    "slug": "the-human-verification-content-audit-7-stress-tests-for-your-brands-authority-ag",
+    "published_at": "2026-07-14T04:43:25+00:00",
+    "word_count": 1096,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6335504996308098453",
+    "title": "The 'skill-drift' literacy audit: 7 stress-tests for your K-12 writing curriculum against generative AI's predictive fluency",
+    "url": "https://theomniview.blogspot.com/2026/07/the-skill-drift-literacy-audit-7-stress.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "case-studies",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Case Studies",
+      "K-12 writing curriculum",
+      "generative AI in education",
+      "literacy assessment"
+    ],
+    "slug": "the-skill-drift-literacy-audit-7-stress-tests-for-your-k-12-writing-curriculum-a",
+    "published_at": "2026-07-14T04:43:49+00:00",
+    "word_count": 725,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
