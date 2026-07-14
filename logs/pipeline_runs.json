@@ -30632,5 +30632,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-14T16:59:43.509349",
+    "run_end": "2026-07-14T17:00:24.691402",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "282529234399051",
+        "title": "The 'GLP-1 depletion' audit: 7 stress-tests for your nutrient intake against rapid weight-loss muscle atrophy",
+        "url": "https://theomniview.blogspot.com/2026/07/the-glp-1-depletion-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "GLP-1 nutrition",
+          "muscle atrophy",
+          "weight loss side effects"
+        ],
+        "slug": "the-glp-1-depletion-audit-7-stress-tests-for-your-nutrient-intake-against-rapid-",
+        "published_at": "2026-07-14T17:05:03+00:00",
+        "word_count": 1070,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "821048847643700915",
+        "title": "The 'Data-Center' Moratorium Audit: 7 Stress-Tests for Your Career Resilience Against Regional AI Infrastructure Freezes",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-moratorium-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Explainers",
+          "data center career",
+          "AI infrastructure jobs",
+          "regulatory risk management"
+        ],
+        "slug": "the-data-center-moratorium-audit-7-stress-tests-for-your-career-resilience-again",
+        "published_at": "2026-07-14T17:05:24+00:00",
+        "word_count": 943,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
