@@ -26116,5 +26116,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7784269215864966073",
+    "title": "The 'thermal-load' kitchen audit: 7 stress-tests for your home cooking routine against rising electricity prices",
+    "url": "https://theomniview.blogspot.com/2026/07/the-thermal-load-kitchen-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Explainers",
+      "energy-efficient cooking",
+      "home electricity costs",
+      "energy saving tips"
+    ],
+    "slug": "the-thermal-load-kitchen-audit-7-stress-tests-for-your-home-cooking-routine-agai",
+    "published_at": "2026-07-14T23:45:45+00:00",
+    "word_count": 1075,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1548087853755503470",
+    "title": "The 'procedural-fatigue' audit: 7 stress-tests for your open-world gaming experience against infinite AI-generated quest loops",
+    "url": "https://theomniview.blogspot.com/2026/07/the-procedural-fatigue-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "procedural generation",
+      "AI in gaming",
+      "open-world design"
+    ],
+    "slug": "the-procedural-fatigue-audit-7-stress-tests-for-your-open-world-gaming-experienc",
+    "published_at": "2026-07-14T23:46:08+00:00",
+    "word_count": 901,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
