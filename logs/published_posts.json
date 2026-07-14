@@ -25808,5 +25808,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8235764966177909881",
+    "title": "The 'Power-Grid' Pivot Audit: 7 Stress-Tests for Your Data Center Startup Against Municipal Moratoriums",
+    "url": "https://theomniview.blogspot.com/2026/07/the-power-grid-pivot-audit-7-stress.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Case Studies",
+      "data center moratorium",
+      "edge computing startup",
+      "municipal power grid capacity"
+    ],
+    "slug": "the-power-grid-pivot-audit-7-stress-tests-for-your-data-center-startup-against-m",
+    "published_at": "2026-07-14T13:07:13+00:00",
+    "word_count": 753,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2385879548524301661",
+    "title": "The 'Disk-Fill' Vulnerability Audit: 7 Stress-Tests for Your Windows 11 Security Posture Against Malicious Defender Updates",
+    "url": "https://theomniview.blogspot.com/2026/07/the-disk-fill-vulnerability-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Latest News",
+      "Windows 11 security",
+      "Microsoft Defender vulnerability",
+      "system disk space exploit"
+    ],
+    "slug": "the-disk-fill-vulnerability-audit-7-stress-tests-for-your-windows-11-security-po",
+    "published_at": "2026-07-14T13:07:55+00:00",
+    "word_count": 816,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
