@@ -26160,5 +26160,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1004140249861663827",
+    "title": "the 'platform-fragility' audit: 7 stress-tests for your movie collection against sudden streaming service mergers",
+    "url": "https://theomniview.blogspot.com/2026/07/the-platform-fragility-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Listicles",
+      "streaming service mergers",
+      "digital media ownership",
+      "subscription fatigue"
+    ],
+    "slug": "the-platform-fragility-audit-7-stress-tests-for-your-movie-collection-against-su",
+    "published_at": "2026-07-15T01:17:27+00:00",
+    "word_count": 981,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8955726997871267473",
+    "title": "The 'Fast-Forward' Fatigue Audit: 7 Stress-Tests for Your Binge-Watching Habits Against Modern Narrative Pacing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-fast-forward-fatigue-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Reviews",
+      "binge-watching habits",
+      "streaming television trends",
+      "narrative pacing"
+    ],
+    "slug": "the-fast-forward-fatigue-audit-7-stress-tests-for-your-binge-watching-habits-aga",
+    "published_at": "2026-07-15T01:17:45+00:00",
+    "word_count": 590,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
