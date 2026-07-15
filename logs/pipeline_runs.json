@@ -31360,5 +31360,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T18:51:31.890789",
+    "run_end": "2026-07-15T18:52:31.690147",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6852200454283833635",
+        "title": "The 'acoustic-sensing' physics audit: 7 stress-tests for your home security against seismic elephant-mimicry surveillance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-acoustic-sensing-physics-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Physics",
+          "Research Articles",
+          "seismic sensing",
+          "ground vibration physics",
+          "biomimetic security"
+        ],
+        "slug": "the-acoustic-sensing-physics-audit-7-stress-tests-for-your-home-security-against",
+        "published_at": "2026-07-15T18:56:56+00:00",
+        "word_count": 1016,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "2278211996155807051",
+        "title": "The 'algorithmic-poverty' audit: 7 stress-tests for your credit score against automated underwriting bias",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-poverty-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Explainers",
+          "algorithmic credit scoring",
+          "automated underwriting bias",
+          "credit score optimization"
+        ],
+        "slug": "the-algorithmic-poverty-audit-7-stress-tests-for-your-credit-score-against-autom",
+        "published_at": "2026-07-15T18:57:30+00:00",
+        "word_count": 1192,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
