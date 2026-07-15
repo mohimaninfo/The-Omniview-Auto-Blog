@@ -30996,5 +30996,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T04:37:55.890198",
+    "run_end": "2026-07-15T04:39:08.886574",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7825397700705846036",
+        "title": "The 'GLP-1 Nutrient Gap' Audit: 7 Stress-Tests for Your Dietary Protocol Against Rapid Weight-Loss Muscle Atrophy \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-glp-1-nutrient-gap-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "GLP-1 nutrition",
+          "muscle atrophy prevention",
+          "semaglutide diet plan"
+        ],
+        "slug": "the-glp-1-nutrient-gap-audit-7-stress-tests-for-your-dietary-protocol-against-ra",
+        "published_at": "2026-07-15T04:43:15+00:00",
+        "word_count": 1122,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8153050794110267986",
+        "title": "The 'Digital-Nomad' Power Audit: 7 Stress-Tests for Your Travel Itinerary Against AI-Driven Energy Price Hikes",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-nomad-power-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "case-studies",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Case Studies",
+          "digital nomad travel",
+          "data center electricity costs",
+          "travel planning tips"
+        ],
+        "slug": "the-digital-nomad-power-audit-7-stress-tests-for-your-travel-itinerary-against-a",
+        "published_at": "2026-07-15T04:44:07+00:00",
+        "word_count": 759,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
