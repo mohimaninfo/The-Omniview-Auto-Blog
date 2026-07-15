@@ -26292,5 +26292,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5449210418894438632",
+    "title": "The 'human-deficit' remote-work audit: 7 stress-tests for your team\u2019s culture against AI-agent communication saturation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-human-deficit-remote-work-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Listicles",
+      "remote-work culture",
+      "AI in the workplace",
+      "employee retention"
+    ],
+    "slug": "the-human-deficit-remote-work-audit-7-stress-tests-for-your-teams-culture-agains",
+    "published_at": "2026-07-15T09:52:17+00:00",
+    "word_count": 865,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1666028560745323060",
+    "title": "The 'Analog-Kitchen' Resilience Audit: 7 Stress-Tests for Your Meal Prep Against AI-Driven Energy Price Hikes",
+    "url": "https://theomniview.blogspot.com/2026/07/the-analog-kitchen-resilience-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "How-To Guides",
+      "energy efficient cooking",
+      "off-grid meal prep",
+      "rising electricity costs"
+    ],
+    "slug": "the-analog-kitchen-resilience-audit-7-stress-tests-for-your-meal-prep-against-ai",
+    "published_at": "2026-07-15T09:52:36+00:00",
+    "word_count": 978,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
