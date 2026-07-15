@@ -31308,5 +31308,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T17:02:09.393772",
+    "run_end": "2026-07-15T17:02:55.645071",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9206518464037583152",
+        "title": "The 'kinetic-backlash' maintenance audit: 7 stress-tests for your warehouse robotics fleet against public and labor-driven sabotage",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-backlash-maintenance-audit.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "warehouse robotics",
+          "robotics maintenance",
+          "industrial automation"
+        ],
+        "slug": "the-kinetic-backlash-maintenance-audit-7-stress-tests-for-your-warehouse-robotic",
+        "published_at": "2026-07-15T17:07:32+00:00",
+        "word_count": 762,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4372949214410247616",
+        "title": "The 'Sedentary-Recovery' Audit: 7 Stress-Tests for Your Fitness Routine Against Modern Desk-Bound Atrophy",
+        "url": "https://theomniview.blogspot.com/2026/07/the-sedentary-recovery-audit-7-stress.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Explainers",
+          "sedentary lifestyle recovery",
+          "desk job fitness",
+          "muscle atrophy prevention"
+        ],
+        "slug": "the-sedentary-recovery-audit-7-stress-tests-for-your-fitness-routine-against-mod",
+        "published_at": "2026-07-15T17:07:54+00:00",
+        "word_count": 1107,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
