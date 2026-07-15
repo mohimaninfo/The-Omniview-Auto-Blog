@@ -31204,5 +31204,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T13:04:54.644864",
+    "run_end": "2026-07-15T13:05:42.238236",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2716564047317870403",
+        "title": "The 'Climate-Apartheid' Housing Audit: 7 Stress-Tests for Your Property Value Against Extreme Heat Inequality",
+        "url": "https://theomniview.blogspot.com/2026/07/the-climate-apartheid-housing-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Opinion & Analysis",
+          "climate inequality",
+          "urban heat islands",
+          "thermal redlining"
+        ],
+        "slug": "the-climate-apartheid-housing-audit-7-stress-tests-for-your-property-value-again",
+        "published_at": "2026-07-15T13:10:18+00:00",
+        "word_count": 1034,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5790274153704910697",
+        "title": "The 'AI-Companion' Vulnerability Audit: 7 Stress-Tests for Your Child\u2019s Cybersecurity Against Generative Chatbot Manipulation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ai-companion-vulnerability-audit-7.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Case Studies",
+          "AI safety for kids",
+          "chatbot cybersecurity",
+          "generative AI risks"
+        ],
+        "slug": "the-ai-companion-vulnerability-audit-7-stress-tests-for-your-childs-cybersecurit",
+        "published_at": "2026-07-15T13:10:41+00:00",
+        "word_count": 681,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
