@@ -31464,5 +31464,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T21:00:30.604334",
+    "run_end": "2026-07-15T21:01:14.652757",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4974794919600518209",
+        "title": "The 'Micro-Nutrient' Resilience Audit: 7 Stress-Tests for Your Produce Selection Against Emerging Foodborne Pathogens",
+        "url": "https://theomniview.blogspot.com/2026/07/the-micro-nutrient-resilience-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "foodborne illness prevention",
+          "cyclospora outbreak safety",
+          "safe produce handling"
+        ],
+        "slug": "the-micro-nutrient-resilience-audit-7-stress-tests-for-your-produce-selection-ag",
+        "published_at": "2026-07-15T21:05:51+00:00",
+        "word_count": 1215,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "7577628562165574600",
+        "title": "The 'context-window' retention audit: 7 stress-tests for your student\u2019s long-term recall against LLM-prompted learning \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-context-window-retention-audit-7_097142573.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "edtech",
+          "generative ai in education",
+          "cognitive retention"
+        ],
+        "slug": "the-context-window-retention-audit-7-stress-tests-for-your-students-long-term-re",
+        "published_at": "2026-07-15T21:06:14+00:00",
+        "word_count": 986,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
