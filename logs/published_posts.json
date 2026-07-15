@@ -26556,5 +26556,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3815790796428802997",
+    "title": "The 'Physical-Trust' Robotics Audit: 7 Stress-Tests for Your Warehouse Automation Against Rising Public Sabotage",
+    "url": "https://theomniview.blogspot.com/2026/07/the-physical-trust-robotics-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "warehouse robotics",
+      "robotics security",
+      "automation backlash"
+    ],
+    "slug": "the-physical-trust-robotics-audit-7-stress-tests-for-your-warehouse-automation-a",
+    "published_at": "2026-07-15T20:05:17+00:00",
+    "word_count": 766,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2219114291283250941",
+    "title": "The 'surveillance-tourism' audit: 7 stress-tests for your travel itinerary against the rise of dystopian smart-camera infrastructure",
+    "url": "https://theomniview.blogspot.com/2026/07/the-surveillance-tourism-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Opinion & Analysis",
+      "surveillance tourism",
+      "travel privacy",
+      "facial recognition travel"
+    ],
+    "slug": "the-surveillance-tourism-audit-7-stress-tests-for-your-travel-itinerary-against-",
+    "published_at": "2026-07-15T20:05:38+00:00",
+    "word_count": 849,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
