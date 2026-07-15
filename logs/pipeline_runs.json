@@ -31152,5 +31152,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T11:18:58.062851",
+    "run_end": "2026-07-15T11:19:44.890480",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "819508296366085551",
+        "title": "The 'npc-mimicry' social audit: 7 stress-tests for your gaming relationships against ai-companion influence",
+        "url": "https://theomniview.blogspot.com/2026/07/the-npc-mimicry-social-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Reviews",
+          "ai girlfriends",
+          "gaming culture",
+          "ai companions"
+        ],
+        "slug": "the-npc-mimicry-social-audit-7-stress-tests-for-your-gaming-relationships-agains",
+        "published_at": "2026-07-15T11:24:16+00:00",
+        "word_count": 582,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3751835635904687005",
+        "title": "The 'Reality-Anchoring' Audit: 7 Stress-Tests for Your Social Skills Against AI-Driven Chatbot Saturation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-reality-anchoring-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "How-To Guides",
+          "social skills development",
+          "AI and human connection",
+          "digital wellness"
+        ],
+        "slug": "the-reality-anchoring-audit-7-stress-tests-for-your-social-skills-against-ai-dri",
+        "published_at": "2026-07-15T11:24:44+00:00",
+        "word_count": 1172,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
