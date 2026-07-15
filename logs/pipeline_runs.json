@@ -31256,5 +31256,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T15:15:55.203950",
+    "run_end": "2026-07-15T15:16:34.049736",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9184352444144021807",
+        "title": "The 'Butlerian-Jihad' Maintenance Audit: 7 Stress-Tests for Your Autonomous Fleet Against Public Backlash",
+        "url": "https://theomniview.blogspot.com/2026/07/the-butlerian-jihad-maintenance-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Explainers",
+          "autonomous vehicle security",
+          "robotics public relations",
+          "fleet management safety"
+        ],
+        "slug": "the-butlerian-jihad-maintenance-audit-7-stress-tests-for-your-autonomous-fleet-a",
+        "published_at": "2026-07-15T15:21:15+00:00",
+        "word_count": 1005,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3749932448732148377",
+        "title": "The 'Platform-Rot' Resilience Audit: 7 Stress-Tests for Your Digital Streaming Library Against Licensing Volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-platform-rot-resilience-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "digital streaming library",
+          "streaming content scrubbing",
+          "SVOD licensing"
+        ],
+        "slug": "the-platform-rot-resilience-audit-7-stress-tests-for-your-digital-streaming-libr",
+        "published_at": "2026-07-15T15:21:33+00:00",
+        "word_count": 728,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
