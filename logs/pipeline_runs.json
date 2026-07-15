@@ -31048,5 +31048,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-15T07:04:30.167523",
+    "run_end": "2026-07-15T07:05:09.568973",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5159262518218966635",
+        "title": "The 'Off-Grid' Kitchen Audit: 7 Stress-Tests for Your Home Cooking Against Rising Data Center Energy Costs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-off-grid-kitchen-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "How-To Guides",
+          "home cooking energy efficiency",
+          "kitchen energy saving tips",
+          "data center electricity prices"
+        ],
+        "slug": "the-off-grid-kitchen-audit-7-stress-tests-for-your-home-cooking-against-rising-d",
+        "published_at": "2026-07-15T07:09:49+00:00",
+        "word_count": 958,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5718814515728468899",
+        "title": "The 'attachment-style' reset audit: 7 stress-tests for your romantic relationship against digital-first communication burnout",
+        "url": "https://theomniview.blogspot.com/2026/07/the-attachment-style-reset-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Listicles",
+          "attachment styles",
+          "relationship burnout",
+          "digital communication"
+        ],
+        "slug": "the-attachment-style-reset-audit-7-stress-tests-for-your-romantic-relationship-a",
+        "published_at": "2026-07-15T07:10:09+00:00",
+        "word_count": 874,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
