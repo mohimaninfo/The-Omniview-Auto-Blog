@@ -26644,5 +26644,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7519206515202798923",
+    "title": "The 'Inflation-Tax' Retirement Audit: 7 Stress-Tests for Your 401(k) Strategy Against Declining Purchasing Power",
+    "url": "https://theomniview.blogspot.com/2026/07/the-inflation-tax-retirement-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Explainers",
+      "401(k) retirement strategy",
+      "inflation impact on savings",
+      "retirement planning tips"
+    ],
+    "slug": "the-inflation-tax-retirement-audit-7-stress-tests-for-your-401k-strategy-against",
+    "published_at": "2026-07-15T22:50:44+00:00",
+    "word_count": 1023,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2426239388155555617",
+    "title": "The 'Cognitive-Offload' Career Audit: 7 Stress-Tests for Your Professional Problem-Solving Skills Against LLM-Dependency",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-offload-career-audit-7.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "interviews",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Interviews",
+      "cognitive offloading",
+      "skill atrophy",
+      "AI dependency"
+    ],
+    "slug": "the-cognitive-offload-career-audit-7-stress-tests-for-your-professional-problem-",
+    "published_at": "2026-07-15T22:51:07+00:00",
+    "word_count": 950,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
