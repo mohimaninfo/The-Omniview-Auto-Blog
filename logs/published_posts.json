@@ -27128,5 +27128,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "907249118736398122",
+    "title": "The 'Smart-Home' Surveillance Audit: 7 Stress-Tests for Your Privacy Against Hidden AI-Camera Integration",
+    "url": "https://theomniview.blogspot.com/2026/07/the-smart-home-surveillance-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Explainers",
+      "smart home privacy",
+      "hidden AI cameras",
+      "home surveillance security"
+    ],
+    "slug": "the-smart-home-surveillance-audit-7-stress-tests-for-your-privacy-against-hidden",
+    "published_at": "2026-07-16T19:59:23+00:00",
+    "word_count": 972,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6427051515196803774",
+    "title": "The 'Lossless-Vinyl' Resilience Audit: 7 Stress-Tests for Your Physical Music Collection Against Modern Magnetic-Field Interference",
+    "url": "https://theomniview.blogspot.com/2026/07/the-lossless-vinyl-resilience-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "vinyl record storage",
+      "audiophile maintenance",
+      "electromagnetic interference"
+    ],
+    "slug": "the-lossless-vinyl-resilience-audit-7-stress-tests-for-your-physical-music-colle",
+    "published_at": "2026-07-16T19:59:45+00:00",
+    "word_count": 631,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
