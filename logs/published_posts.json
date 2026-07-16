@@ -26996,5 +26996,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "751393331440985730",
+    "title": "The 'grid-lock' moratorium audit: 7 stress-tests for your data center investment against rising climate-policy energy restrictions",
+    "url": "https://theomniview.blogspot.com/2026/07/the-grid-lock-moratorium-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Research Articles",
+      "data center energy consumption",
+      "climate policy impact",
+      "grid capacity constraints"
+    ],
+    "slug": "the-grid-lock-moratorium-audit-7-stress-tests-for-your-data-center-investment-ag",
+    "published_at": "2026-07-16T15:29:15+00:00",
+    "word_count": 966,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5279742474687155697",
+    "title": "The 'sanction-spillover' inequality audit: 7 stress-tests for your household budget against global energy volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sanction-spillover-inequality-audit.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Explainers",
+      "energy inequality",
+      "global inflation",
+      "cost of living crisis"
+    ],
+    "slug": "the-sanction-spillover-inequality-audit-7-stress-tests-for-your-household-budget",
+    "published_at": "2026-07-16T15:30:06+00:00",
+    "word_count": 987,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
