@@ -27172,5 +27172,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8836183465433311208",
+    "title": "The 'Digital-Legacy' Liquidation Audit: 7 Stress-Tests for Your Cloud-Based Media Library Against Sudden Platform Account Termination",
+    "url": "https://theomniview.blogspot.com/2026/07/the-digital-legacy-liquidation-audit-7.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Explainers",
+      "digital media ownership",
+      "streaming service shutdowns",
+      "cloud storage security"
+    ],
+    "slug": "the-digital-legacy-liquidation-audit-7-stress-tests-for-your-cloud-based-media-l",
+    "published_at": "2026-07-16T20:48:10+00:00",
+    "word_count": 951,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "364915983670923392",
+    "title": "The 'Flock-Proof' Privacy Audit: 7 Stress-Tests for Your License Plate Security Against AI-Driven Surveillance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-flock-proof-privacy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Reviews",
+      "license plate privacy",
+      "Flock Safety cameras",
+      "vehicle surveillance protection"
+    ],
+    "slug": "the-flock-proof-privacy-audit-7-stress-tests-for-your-license-plate-security-aga",
+    "published_at": "2026-07-16T20:48:35+00:00",
+    "word_count": 602,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
