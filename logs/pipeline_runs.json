@@ -31776,5 +31776,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-16T09:53:20.161466",
+    "run_end": "2026-07-16T09:54:16.196509",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9188724436493848390",
+        "title": "The 'local-first' resilience audit: 7 stress-tests for your SaaS architecture against sudden platform account termination",
+        "url": "https://theomniview.blogspot.com/2026/07/the-local-first-resilience-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Research Articles",
+          "local-first software",
+          "SaaS architecture",
+          "data sovereignty"
+        ],
+        "slug": "the-local-first-resilience-audit-7-stress-tests-for-your-saas-architecture-again",
+        "published_at": "2026-07-16T09:58:53+00:00",
+        "word_count": 1075,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6216460322052640171",
+        "title": "The 'Quantum-Decryption' Vulnerability Audit: 7 Stress-Tests for Your Cryptocurrency Wallet Against Post-Quantum Cryptographic Shifts",
+        "url": "https://theomniview.blogspot.com/2026/07/the-quantum-decryption-vulnerability.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Research Articles",
+          "cryptocurrency wallet security",
+          "post-quantum cryptography",
+          "crypto asset protection"
+        ],
+        "slug": "the-quantum-decryption-vulnerability-audit-7-stress-tests-for-your-cryptocurrenc",
+        "published_at": "2026-07-16T09:59:15+00:00",
+        "word_count": 921,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
