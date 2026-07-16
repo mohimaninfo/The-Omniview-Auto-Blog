@@ -27260,5 +27260,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8733154638611080537",
+    "title": "The 'Foreign-Interference' Audit: 7 Stress-Tests for Your Digital Political Discourse Against State-Sponsored Astroturfing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-foreign-interference-audit-7-stress.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Research Articles",
+      "foreign interference",
+      "astroturfing",
+      "election security"
+    ],
+    "slug": "the-foreign-interference-audit-7-stress-tests-for-your-digital-political-discour",
+    "published_at": "2026-07-16T22:50:40+00:00",
+    "word_count": 993,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8913249873969192077",
+    "title": "The 'V2G-Arbitrage' Resilience Audit: 7 Stress-Tests for Your Home Energy Strategy Against Rising Peak-Hour Electricity Costs",
+    "url": "https://theomniview.blogspot.com/2026/07/the-v2g-arbitrage-resilience-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "How-To Guides",
+      "Vehicle-to-Grid",
+      "V2G technology",
+      "home energy storage"
+    ],
+    "slug": "the-v2g-arbitrage-resilience-audit-7-stress-tests-for-your-home-energy-strategy-",
+    "published_at": "2026-07-16T22:51:00+00:00",
+    "word_count": 1011,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
