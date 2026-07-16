@@ -31880,5 +31880,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-16T13:13:33.134556",
+    "run_end": "2026-07-16T13:14:16.339114",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6872458457963876697",
+        "title": "The 'found-money' liquidity audit: 7 stress-tests for your windfall assets against 2026 inflation and tax volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-found-money-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "windfall financial planning",
+          "unexpected money management",
+          "inflation-proof investments"
+        ],
+        "slug": "the-found-money-liquidity-audit-7-stress-tests-for-your-windfall-assets-against-",
+        "published_at": "2026-07-16T13:18:55+00:00",
+        "word_count": 820,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "8272190801902738030",
+        "title": "The 'cobot-handoff' safety audit: 7 stress-tests for your collaborative robotics deployment against human-worker proximity fatigue",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cobot-handoff-safety-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "collaborative robotics",
+          "cobot safety",
+          "human-robot interaction"
+        ],
+        "slug": "the-cobot-handoff-safety-audit-7-stress-tests-for-your-collaborative-robotics-de",
+        "published_at": "2026-07-16T13:19:15+00:00",
+        "word_count": 721,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
