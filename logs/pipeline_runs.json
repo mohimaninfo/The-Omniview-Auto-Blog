@@ -31672,5 +31672,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-16T04:48:08.469994",
+    "run_end": "2026-07-16T04:49:01.054992",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2716161569386476507",
+        "title": "The 'Digital-Exile' Resilience Audit: 7 Stress-Tests for Your Remote-Work Access Against Platform Account Deletion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-exile-resilience-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote-work security",
+          "digital identity protection",
+          "data sovereignty for freelancers"
+        ],
+        "slug": "the-digital-exile-resilience-audit-7-stress-tests-for-your-remote-work-access-ag",
+        "published_at": "2026-07-16T04:53:35+00:00",
+        "word_count": 949,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "508643744635189246",
+        "title": "The 'Shadow-Manager' Oversight Audit: 7 Stress-Tests for Your Team\u2019s Workflow Against Hidden AI-Agent Autonomy",
+        "url": "https://theomniview.blogspot.com/2026/07/the-shadow-manager-oversight-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "AI agent governance",
+          "management oversight",
+          "autonomous workflow risk"
+        ],
+        "slug": "the-shadow-manager-oversight-audit-7-stress-tests-for-your-teams-workflow-agains",
+        "published_at": "2026-07-16T04:53:57+00:00",
+        "word_count": 973,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
