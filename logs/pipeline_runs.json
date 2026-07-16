@@ -31984,5 +31984,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-16T17:00:11.452032",
+    "run_end": "2026-07-16T17:00:59.224915",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2066932947100312764",
+        "title": "The 'psychedelic-integration' audit: 7 stress-tests for your mental health protocol against the rise of clinical psilocybin",
+        "url": "https://theomniview.blogspot.com/2026/07/the-psychedelic-integration-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "psychedelic therapy",
+          "mental health protocol",
+          "psilocybin treatment"
+        ],
+        "slug": "the-psychedelic-integration-audit-7-stress-tests-for-your-mental-health-protocol",
+        "published_at": "2026-07-16T17:05:29+00:00",
+        "word_count": 620,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1058645817439645276",
+        "title": "The 'thermal-economy' kitchen audit: 7 stress-tests for your meal-prep strategy against rising peak-hour electricity costs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-thermal-economy-kitchen-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "kitchen energy efficiency",
+          "meal prep tips",
+          "cost-effective cooking"
+        ],
+        "slug": "the-thermal-economy-kitchen-audit-7-stress-tests-for-your-meal-prep-strategy-aga",
+        "published_at": "2026-07-16T17:05:58+00:00",
+        "word_count": 1135,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
