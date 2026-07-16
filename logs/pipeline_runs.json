@@ -31724,5 +31724,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-16T07:13:35.107606",
+    "run_end": "2026-07-16T07:14:28.176373",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8211834911370313752",
+        "title": "The 'Influence-Op' Audit: 7 Stress-Tests for Your Digital Information Diet Against State-Sponsored Astroturfing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-influence-op-audit-7-stress-tests.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "digital information diet",
+          "influence operations",
+          "astroturfing"
+        ],
+        "slug": "the-influence-op-audit-7-stress-tests-for-your-digital-information-diet-against-",
+        "published_at": "2026-07-16T07:18:58+00:00",
+        "word_count": 930,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1341661632299767669",
+        "title": "The 'prompt-engineering' literacy audit: 7 stress-tests for your K-12 computer science curriculum against evolving LLM reasoning models",
+        "url": "https://theomniview.blogspot.com/2026/07/the-prompt-engineering-literacy-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "How-To Guides",
+          "K-12 computer science curriculum",
+          "AI literacy in schools",
+          "prompt engineering for students"
+        ],
+        "slug": "the-prompt-engineering-literacy-audit-7-stress-tests-for-your-k-12-computer-scie",
+        "published_at": "2026-07-16T07:19:27+00:00",
+        "word_count": 925,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
