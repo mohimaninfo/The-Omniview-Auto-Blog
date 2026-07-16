@@ -26732,5 +26732,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9193044242603540066",
+    "title": "The 'Inference-Tax' Energy Audit: 7 Stress-Tests for Your Data Center Investment Against Rising Grid-Load Moratoriums",
+    "url": "https://theomniview.blogspot.com/2026/07/the-inference-tax-energy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Explainers",
+      "AI energy consumption",
+      "data center investment",
+      "grid capacity constraints"
+    ],
+    "slug": "the-inference-tax-energy-audit-7-stress-tests-for-your-data-center-investment-ag",
+    "published_at": "2026-07-16T01:26:34+00:00",
+    "word_count": 1010,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "573901338282218439",
+    "title": "The 'hardware-dependency' risk audit: 7 stress-tests for your edge-computing investment against proprietary silicon supply-chain shocks",
+    "url": "https://theomniview.blogspot.com/2026/07/the-hardware-dependency-risk-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Listicles",
+      "edge computing investment",
+      "silicon supply chain",
+      "infrastructure risk"
+    ],
+    "slug": "the-hardware-dependency-risk-audit-7-stress-tests-for-your-edge-computing-invest",
+    "published_at": "2026-07-16T01:27:04+00:00",
+    "word_count": 871,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
