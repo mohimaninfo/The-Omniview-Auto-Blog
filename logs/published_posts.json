@@ -27964,5 +27964,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1998352784268469020",
+    "title": "The 'Shadow-Infrastructure' Audit: 7 Stress-Tests for Your Enterprise Security Posture Against AI Data Center Power-Grid Prioritization",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-infrastructure-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Research Articles",
+      "data center security",
+      "cybersecurity resilience",
+      "power grid stability"
+    ],
+    "slug": "the-shadow-infrastructure-audit-7-stress-tests-for-your-enterprise-security-post",
+    "published_at": "2026-07-17T23:46:34+00:00",
+    "word_count": 976,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7541687308930555014",
+    "title": "The 'Desalination-Dependency' Audit: 7 Stress-Tests for Your Regional Water Security Against Mideast Infrastructure Warfare",
+    "url": "https://theomniview.blogspot.com/2026/07/the-desalination-dependency-audit-7.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Explainers",
+      "water security",
+      "infrastructure warfare",
+      "desalination plants"
+    ],
+    "slug": "the-desalination-dependency-audit-7-stress-tests-for-your-regional-water-securit",
+    "published_at": "2026-07-17T23:47:39+00:00",
+    "word_count": 959,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
