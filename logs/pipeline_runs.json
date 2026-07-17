@@ -32764,5 +32764,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-17T17:55:21.362615",
+    "run_end": "2026-07-17T17:56:04.757877",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1472971885099787211",
+        "title": "The 'Grid-Load' Kitchen Audit: 7 Stress-Tests for Your High-End Appliance Stack Against AI Data Center Power Surges",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-load-kitchen-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Reviews",
+          "energy efficient kitchen appliances",
+          "grid load management",
+          "smart home power consumption"
+        ],
+        "slug": "the-grid-load-kitchen-audit-7-stress-tests-for-your-high-end-appliance-stack-aga",
+        "published_at": "2026-07-17T18:00:41+00:00",
+        "word_count": 545,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5449637661271755011",
+        "title": "The 'protocol-poisoning' audit: 7 stress-tests for your DeFi yield strategy against malicious governance proposals",
+        "url": "https://theomniview.blogspot.com/2026/07/the-protocol-poisoning-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Latest News",
+          "DeFi security",
+          "liquidity pool risks",
+          "governance attacks"
+        ],
+        "slug": "the-protocol-poisoning-audit-7-stress-tests-for-your-defi-yield-strategy-against",
+        "published_at": "2026-07-17T18:01:03+00:00",
+        "word_count": 849,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
