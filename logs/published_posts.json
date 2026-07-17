@@ -27920,5 +27920,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9080000292710883225",
+    "title": "The 'synthetic-slop' brand audit: 7 stress-tests for your content strategy against the rise of AI-generated market saturation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-slop-brand-audit-7-stress.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Listicles",
+      "content strategy",
+      "AI-generated content",
+      "brand authenticity"
+    ],
+    "slug": "the-synthetic-slop-brand-audit-7-stress-tests-for-your-content-strategy-against-",
+    "published_at": "2026-07-17T22:43:17+00:00",
+    "word_count": 770,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7414866020444441596",
+    "title": "The 'heart-sync' contagion audit: 7 stress-tests for your social health against subconscious physiological mirroring",
+    "url": "https://theomniview.blogspot.com/2026/07/the-heart-sync-contagion-audit-7-stress.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Research Articles",
+      "heart rate synchronization",
+      "physiological mirroring",
+      "social biology"
+    ],
+    "slug": "the-heart-sync-contagion-audit-7-stress-tests-for-your-social-health-against-sub",
+    "published_at": "2026-07-17T22:44:31+00:00",
+    "word_count": 1158,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
