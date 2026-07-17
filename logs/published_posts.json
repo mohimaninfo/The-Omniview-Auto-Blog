@@ -27392,5 +27392,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1949019642966239493",
+    "title": "The 'Cognitive-Friction' Audit: 7 Stress-Tests for Your Classroom Curriculum Against AI-Driven Skill Atrophy",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-friction-audit-7-stress_0672609662.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Opinion & Analysis",
+      "cognitive atrophy",
+      "learning science",
+      "AI in education"
+    ],
+    "slug": "the-cognitive-friction-audit-7-stress-tests-for-your-classroom-curriculum-agains",
+    "published_at": "2026-07-17T04:56:24+00:00",
+    "word_count": 995,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8384858793232878815",
+    "title": "The 'dopamine-loop' resilience audit: 7 stress-tests for your mental health against infinite-scroll UI design",
+    "url": "https://theomniview.blogspot.com/2026/07/the-dopamine-loop-resilience-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "case-studies",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Case Studies",
+      "mental health",
+      "dopamine detox",
+      "digital wellbeing"
+    ],
+    "slug": "the-dopamine-loop-resilience-audit-7-stress-tests-for-your-mental-health-against",
+    "published_at": "2026-07-17T04:56:43+00:00",
+    "word_count": 757,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
