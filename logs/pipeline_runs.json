@@ -32504,5 +32504,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-17T09:44:03.579410",
+    "run_end": "2026-07-17T09:44:46.681116",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "558472025929784739",
+        "title": "The 'Gut-Biotic' Resilience Audit: 7 Stress-Tests for Your Fitness Nutrition Against Emerging Foodborne Pathogens \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-gut-biotic-resilience-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Explainers",
+          "food safety for athletes",
+          "fitness nutrition safety",
+          "cyclospora prevention"
+        ],
+        "slug": "the-gut-biotic-resilience-audit-7-stress-tests-for-your-fitness-nutrition-agains",
+        "published_at": "2026-07-17T09:49:24+00:00",
+        "word_count": 1122,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4842252307475359757",
+        "title": "The 'Induction-Transition' Kitchen Audit: 7 Stress-Tests for Your Culinary Workflow Against Rising Peak-Hour Electricity Costs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-induction-transition-kitchen-audit.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "induction cooking",
+          "kitchen energy efficiency",
+          "meal prep strategy"
+        ],
+        "slug": "the-induction-transition-kitchen-audit-7-stress-tests-for-your-culinary-workflow",
+        "published_at": "2026-07-17T09:49:45+00:00",
+        "word_count": 1039,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
