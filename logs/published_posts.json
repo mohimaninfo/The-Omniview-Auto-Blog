@@ -27788,5 +27788,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7077821627950308276",
+    "title": "The 'AI-Power' Moratorium Audit: 7 Stress-Tests for Your Renewable Energy Portfolio Against Data Center Grid-Lock",
+    "url": "https://theomniview.blogspot.com/2026/07/the-ai-power-moratorium-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Opinion & Analysis",
+      "renewable energy investment",
+      "data center power consumption",
+      "grid capacity"
+    ],
+    "slug": "the-ai-power-moratorium-audit-7-stress-tests-for-your-renewable-energy-portfolio",
+    "published_at": "2026-07-17T20:02:41+00:00",
+    "word_count": 902,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "4952483430049781066",
+    "title": "The 'Digital-Sovereignty' Streamer Audit: 7 Stress-Tests for Your Content Career Against State-Level Regulation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-digital-sovereignty-streamer-audit.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "digital sovereignty",
+      "content creator regulation",
+      "online streaming laws"
+    ],
+    "slug": "the-digital-sovereignty-streamer-audit-7-stress-tests-for-your-content-career-ag",
+    "published_at": "2026-07-17T20:03:32+00:00",
+    "word_count": 1075,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
