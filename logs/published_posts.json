@@ -27612,5 +27612,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3468059902222557787",
+    "title": "the 'founder-equity' vesting audit: 7 stress-tests for your startup cap table against 2026 secondary market volatility \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-founder-equity-vesting-audit-7_0729033975.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Opinion & Analysis",
+      "startup equity vesting",
+      "cap table management",
+      "secondary market liquidity"
+    ],
+    "slug": "the-founder-equity-vesting-audit-7-stress-tests-for-your-startup-cap-table-again",
+    "published_at": "2026-07-17T14:45:29+00:00",
+    "word_count": 911,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1475941235602524564",
+    "title": "The 'algorithmic-homogenization' audit: 7 stress-tests for your music discovery algorithm against the rise of 'slop' pop",
+    "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-homogenization-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Listicles",
+      "music discovery algorithm",
+      "streaming platform bias",
+      "algorithmic music"
+    ],
+    "slug": "the-algorithmic-homogenization-audit-7-stress-tests-for-your-music-discovery-alg",
+    "published_at": "2026-07-17T14:45:50+00:00",
+    "word_count": 826,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
