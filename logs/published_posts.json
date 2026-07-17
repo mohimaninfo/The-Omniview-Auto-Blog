@@ -27348,5 +27348,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8976748789007006271",
+    "title": "The 'Pathogen-Gap' Kitchen Audit: 7 Stress-Tests for Your Produce Safety Protocol Against Emerging Foodborne Outbreaks \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-pathogen-gap-kitchen-audit-7-stress.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Research Articles",
+      "foodborne illness prevention",
+      "cyclospora outbreak",
+      "produce safety"
+    ],
+    "slug": "the-pathogen-gap-kitchen-audit-7-stress-tests-for-your-produce-safety-protocol-a",
+    "published_at": "2026-07-17T01:29:47+00:00",
+    "word_count": 1008,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7801088224583093442",
+    "title": "The 'apex-rewilding' audit: 7 stress-tests for your local ecosystem against climate-driven predator displacement",
+    "url": "https://theomniview.blogspot.com/2026/07/the-apex-rewilding-audit-7-stress-tests.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Explainers",
+      "apex predator conservation",
+      "rewilding strategies",
+      "climate-driven species migration"
+    ],
+    "slug": "the-apex-rewilding-audit-7-stress-tests-for-your-local-ecosystem-against-climate",
+    "published_at": "2026-07-17T01:30:11+00:00",
+    "word_count": 878,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
