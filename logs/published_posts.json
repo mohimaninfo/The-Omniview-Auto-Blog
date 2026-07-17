@@ -27436,5 +27436,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "4801724789419114086",
+    "title": "the 'cartel-proof' procurement audit: 7 stress-tests for your ecommerce supply chain against vendor price-fixing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cartel-proof-procurement-audit-7.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Reviews",
+      "ecommerce supply chain management",
+      "procurement risk assessment",
+      "vendor price fixing"
+    ],
+    "slug": "the-cartel-proof-procurement-audit-7-stress-tests-for-your-ecommerce-supply-chai",
+    "published_at": "2026-07-17T07:13:27+00:00",
+    "word_count": 614,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "8318857913237850103",
+    "title": "The 'hardware-drift' maintenance audit: 7 stress-tests for your autonomous mobile robot (AMR) fleet against sensor degradation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-hardware-drift-maintenance-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "autonomous mobile robot maintenance",
+      "AMR fleet management",
+      "LiDAR sensor degradation"
+    ],
+    "slug": "the-hardware-drift-maintenance-audit-7-stress-tests-for-your-autonomous-mobile-r",
+    "published_at": "2026-07-17T07:13:45+00:00",
+    "word_count": 744,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
