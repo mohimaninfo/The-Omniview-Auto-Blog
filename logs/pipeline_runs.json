@@ -32816,5 +32816,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-17T18:49:52.123089",
+    "run_end": "2026-07-17T18:51:31.904421",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5605550304910376771",
+        "title": "The 'Brokerage-Portability' Audit: 7 Stress-Tests for Your Investment Portfolio Against Sudden Platform Migration",
+        "url": "https://theomniview.blogspot.com/2026/07/the-brokerage-portability-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Explainers",
+          "brokerage account transfer",
+          "ACAT transfer fees",
+          "investment portfolio migration"
+        ],
+        "slug": "the-brokerage-portability-audit-7-stress-tests-for-your-investment-portfolio-aga",
+        "published_at": "2026-07-17T18:55:42+00:00",
+        "word_count": 956,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5530831284358789969",
+        "title": "The 'pathogen-shield' pantry audit: 7 stress-tests for your produce safety protocol against emerging foodborne outbreaks \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-pathogen-shield-pantry-audit-7_01315316141.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Reviews",
+          "food safety",
+          "foodborne illness prevention",
+          "produce sanitation"
+        ],
+        "slug": "the-pathogen-shield-pantry-audit-7-stress-tests-for-your-produce-safety-protocol",
+        "published_at": "2026-07-17T18:56:30+00:00",
+        "word_count": 579,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
