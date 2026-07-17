@@ -32920,5 +32920,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-17T20:43:45.332758",
+    "run_end": "2026-07-17T20:45:48.696073",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4829484450204464859",
+        "title": "The 'RSU-Retention' Liquidity Audit: 7 Stress-Tests for Your Tech Stock Windfall Against 2026 Tax Volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-rsu-retention-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "RSU tax strategy",
+          "equity concentration risk",
+          "tech stock diversification"
+        ],
+        "slug": "the-rsu-retention-liquidity-audit-7-stress-tests-for-your-tech-stock-windfall-ag",
+        "published_at": "2026-07-17T20:49:39+00:00",
+        "word_count": 743,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5767109252719145447",
+        "title": "The 'Smart-Glass' Privacy Audit: 7 Stress-Tests for Your Home Security Against Emerging AI-Powered Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-glass-privacy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "How-To Guides",
+          "smart home privacy",
+          "AI surveillance",
+          "home security audit"
+        ],
+        "slug": "the-smart-glass-privacy-audit-7-stress-tests-for-your-home-security-against-emer",
+        "published_at": "2026-07-17T20:50:48+00:00",
+        "word_count": 982,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
