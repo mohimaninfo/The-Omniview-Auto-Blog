@@ -28184,5 +28184,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7037415033040144873",
+    "title": "The 'Sonic-Sovereignty' Interview: 7 Stress-Tests for Your Independent Music Career Against AI-Label Saturation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sonic-sovereignty-interview-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "interviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Interviews",
+      "independent music career",
+      "AI music generation",
+      "streaming platform saturation"
+    ],
+    "slug": "the-sonic-sovereignty-interview-7-stress-tests-for-your-independent-music-career",
+    "published_at": "2026-07-18T10:12:34+00:00",
+    "word_count": 926,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3894150454675301782",
+    "title": "The 'Wearable-Latency' Audit: 7 Stress-Tests for Your Smart Ring Accuracy Against Physiological Drift",
+    "url": "https://theomniview.blogspot.com/2026/07/the-wearable-latency-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Explainers",
+      "smart ring accuracy",
+      "wearable sensor reliability",
+      "biometric tracking"
+    ],
+    "slug": "the-wearable-latency-audit-7-stress-tests-for-your-smart-ring-accuracy-against-p",
+    "published_at": "2026-07-18T10:12:56+00:00",
+    "word_count": 891,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
