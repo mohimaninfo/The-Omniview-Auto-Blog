@@ -33856,5 +33856,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T21:38:28.536359",
+    "run_end": "2026-07-18T21:39:08.086348",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1076259548494991267",
+        "title": "The 'Analog-Escape' Travel Audit: 7 Stress-Tests for Your Vacation Privacy Against AI-Driven Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-analog-escape-travel-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Opinion & Analysis",
+          "travel privacy",
+          "digital detox travel",
+          "AI surveillance"
+        ],
+        "slug": "the-analog-escape-travel-audit-7-stress-tests-for-your-vacation-privacy-against-",
+        "published_at": "2026-07-18T21:43:47+00:00",
+        "word_count": 962,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6638363083733611523",
+        "title": "The 'Ultra-Processed' Resilience Audit: 7 Stress-Tests for Your Grocery Budget Against Shrinkflation-Driven Nutritional Decline",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ultra-processed-resilience-audit-7_02045853495.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "grocery budget nutrition",
+          "ultra-processed food audit",
+          "nutritional quality"
+        ],
+        "slug": "the-ultra-processed-resilience-audit-7-stress-tests-for-your-grocery-budget-agai",
+        "published_at": "2026-07-18T21:44:07+00:00",
+        "word_count": 1174,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
