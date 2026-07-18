@@ -33492,5 +33492,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T14:13:46.803801",
+    "run_end": "2026-07-18T14:14:44.944172",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1750780464524848086",
+        "title": "the 'algorithmic-censorship' audit: 7 stress-tests for your movie library against modern broadcast license volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-censorship-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "broadcast license regulations",
+          "streaming censorship",
+          "digital film ownership"
+        ],
+        "slug": "the-algorithmic-censorship-audit-7-stress-tests-for-your-movie-library-against-m",
+        "published_at": "2026-07-18T14:19:19+00:00",
+        "word_count": 965,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5364057696279783010",
+        "title": "The 'Deep-Fake' Diplomatic Audit: 7 Stress-Tests for Your Organization\u2019s Crisis Communication Against Synthetic State-Sponsored Disinformation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-deep-fake-diplomatic-audit-7-stress.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Case Studies",
+          "deepfake detection",
+          "crisis communication strategy",
+          "synthetic media security"
+        ],
+        "slug": "the-deep-fake-diplomatic-audit-7-stress-tests-for-your-organizations-crisis-comm",
+        "published_at": "2026-07-18T14:19:43+00:00",
+        "word_count": 735,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
