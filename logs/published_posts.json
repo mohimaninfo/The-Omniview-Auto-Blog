@@ -28008,5 +28008,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "9040323252396936186",
+    "title": "The 'Water-Neutral' AI Audit: 7 Stress-Tests for Your Local Watershed Against Data Center Cooling Demands \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-water-neutral-ai-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Explainers",
+      "AI data center water usage",
+      "water neutrality in conservation",
+      "sustainable AI infrastructure"
+    ],
+    "slug": "the-water-neutral-ai-audit-7-stress-tests-for-your-local-watershed-against-data-",
+    "published_at": "2026-07-18T01:21:58+00:00",
+    "word_count": 953,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "4368118517362017837",
+    "title": "the 'handwriting-retention' audit: 7 stress-tests for your k-12 literacy curriculum against digital-first keyboarding displacement",
+    "url": "https://theomniview.blogspot.com/2026/07/the-handwriting-retention-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "case-studies",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Case Studies",
+      "k-12 literacy curriculum",
+      "handwriting retention",
+      "cognitive development in schools"
+    ],
+    "slug": "the-handwriting-retention-audit-7-stress-tests-for-your-k-12-literacy-curriculum",
+    "published_at": "2026-07-18T01:22:20+00:00",
+    "word_count": 730,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
