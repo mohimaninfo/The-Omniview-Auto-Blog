@@ -28228,5 +28228,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5701853903283469310",
+    "title": "The 'Stablecoin-Yield' Audit: 7 Stress-Tests for Your Emergency Fund Against 2026 De-pegging Risks",
+    "url": "https://theomniview.blogspot.com/2026/07/the-stablecoin-yield-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Latest News",
+      "stablecoin yield",
+      "emergency fund",
+      "crypto risk management"
+    ],
+    "slug": "the-stablecoin-yield-audit-7-stress-tests-for-your-emergency-fund-against-2026-d",
+    "published_at": "2026-07-18T11:47:42+00:00",
+    "word_count": 804,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "742221698104867607",
+    "title": "the 'attribution-gap' audit: 7 stress-tests for your marketing ROI against the rise of dark social channels",
+    "url": "https://theomniview.blogspot.com/2026/07/the-attribution-gap-audit-7-stress.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Reviews",
+      "marketing attribution",
+      "dark social",
+      "ROI measurement"
+    ],
+    "slug": "the-attribution-gap-audit-7-stress-tests-for-your-marketing-roi-against-the-rise",
+    "published_at": "2026-07-18T11:48:05+00:00",
+    "word_count": 599,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
