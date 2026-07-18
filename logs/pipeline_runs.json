@@ -33284,5 +33284,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T08:29:53.964125",
+    "run_end": "2026-07-18T08:30:35.757049",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "174666791181572167",
+        "title": "The 'grid-neutral' mandate audit: 7 stress-tests for your renewable energy portfolio against AI data center power-rationing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-neutral-mandate-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "renewable energy portfolio",
+          "AI data center power",
+          "grid-neutral mandate"
+        ],
+        "slug": "the-grid-neutral-mandate-audit-7-stress-tests-for-your-renewable-energy-portfoli",
+        "published_at": "2026-07-18T08:35:12+00:00",
+        "word_count": 869,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3451262522215280160",
+        "title": "The 'Analog-Identity' Resilience Audit: 7 Stress-Tests for Your Personal Privacy Against AI-Driven Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-analog-identity-resilience-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "How-To Guides",
+          "personal privacy",
+          "AI surveillance",
+          "digital anonymity"
+        ],
+        "slug": "the-analog-identity-resilience-audit-7-stress-tests-for-your-personal-privacy-ag",
+        "published_at": "2026-07-18T08:35:34+00:00",
+        "word_count": 894,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
