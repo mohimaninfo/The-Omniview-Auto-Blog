@@ -33752,5 +33752,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T19:57:15.793822",
+    "run_end": "2026-07-18T19:57:58.069785",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5875856379345403286",
+        "title": "The 'Exoplanet-Atmosphere' Audit: 7 Stress-Tests for Your Backyard Telescope Against Light Pollution and Atmospheric Distortion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-exoplanet-atmosphere-audit-7-stress.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "LHS 1140b",
+          "amateur astronomy",
+          "exoplanet atmosphere"
+        ],
+        "slug": "the-exoplanet-atmosphere-audit-7-stress-tests-for-your-backyard-telescope-agains",
+        "published_at": "2026-07-18T20:02:37+00:00",
+        "word_count": 921,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1070327761253415197",
+        "title": "The 'Orbital-Debris' Resilience Audit: 7 Stress-Tests for Your Satellite Connectivity Against Rising Space Junk Density \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-orbital-debris-resilience-audit-7_01563786248.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "orbital debris",
+          "satellite internet",
+          "LEO constellations"
+        ],
+        "slug": "the-orbital-debris-resilience-audit-7-stress-tests-for-your-satellite-connectivi",
+        "published_at": "2026-07-18T20:02:56+00:00",
+        "word_count": 844,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
