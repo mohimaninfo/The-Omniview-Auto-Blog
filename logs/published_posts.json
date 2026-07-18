@@ -28404,5 +28404,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6498650936641793350",
+    "title": "The 'Adversarial-Garment' Home Audit: 7 Stress-Tests for Your Living Space Against AI-Powered Facial Recognition",
+    "url": "https://theomniview.blogspot.com/2026/07/the-adversarial-garment-home-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Reviews",
+      "adversarial clothing",
+      "home privacy",
+      "facial recognition security"
+    ],
+    "slug": "the-adversarial-garment-home-audit-7-stress-tests-for-your-living-space-against-",
+    "published_at": "2026-07-18T16:46:58+00:00",
+    "word_count": 607,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1255970505134984510",
+    "title": "the 'algorithmic-homogenization' music audit: 7 stress-tests for your favorite streaming playlists against 75 million AI-generated tracks",
+    "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-homogenization-music.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Listicles",
+      "Spotify AI music",
+      "music discovery algorithms",
+      "streaming music quality"
+    ],
+    "slug": "the-algorithmic-homogenization-music-audit-7-stress-tests-for-your-favorite-stre",
+    "published_at": "2026-07-18T16:47:23+00:00",
+    "word_count": 876,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
