@@ -33544,5 +33544,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T15:42:44.343379",
+    "run_end": "2026-07-18T15:43:25.113916",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1703474044188734439",
+        "title": "The 'Grid-Priority' Audit: 7 Stress-Tests for Your Renewable Energy Investment Against AI Data Center Power Rationing \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-priority-audit-7-stress-tests.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Explainers",
+          "renewable energy investment",
+          "data center power consumption",
+          "grid reliability"
+        ],
+        "slug": "the-grid-priority-audit-7-stress-tests-for-your-renewable-energy-investment-agai",
+        "published_at": "2026-07-18T15:48:03+00:00",
+        "word_count": 1030,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7255998234582204621",
+        "title": "The 'Debt-to-Degree' ROI Audit: 7 Stress-Tests for Your Medical School Financing Against 2026 Physician Salary Stagnation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-debt-to-degree-roi-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Opinion & Analysis",
+          "medical school debt",
+          "physician financial planning",
+          "student loan ROI"
+        ],
+        "slug": "the-debt-to-degree-roi-audit-7-stress-tests-for-your-medical-school-financing-ag",
+        "published_at": "2026-07-18T15:48:24+00:00",
+        "word_count": 947,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
