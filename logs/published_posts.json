@@ -28492,5 +28492,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6387613388204325920",
+    "title": "The 'Data-Center' Drought Audit: 7 Stress-Tests for Your Renewable Energy Portfolio Against Regional Water-Cooling Mandates",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-drought-audit-7-stress_0342919288.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Case Studies",
+      "renewable energy investment",
+      "data center water consumption",
+      "grid capacity"
+    ],
+    "slug": "the-data-center-drought-audit-7-stress-tests-for-your-renewable-energy-portfolio",
+    "published_at": "2026-07-18T18:48:08+00:00",
+    "word_count": 699,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "8926637571913896010",
+    "title": "The 'Adversarial Fashion' Guide: How to DIY Clothing That Blinds AI Facial Recognition",
+    "url": "https://theomniview.blogspot.com/2026/07/the-adversarial-fashion-guide-how-to.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "How-To Guides",
+      "adversarial fashion",
+      "facial recognition privacy",
+      "anti-surveillance clothing"
+    ],
+    "slug": "the-adversarial-fashion-guide-how-to-diy-clothing-that-blinds-ai-facial-recognit",
+    "published_at": "2026-07-18T18:48:32+00:00",
+    "word_count": 984,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
