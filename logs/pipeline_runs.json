@@ -33804,5 +33804,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T20:38:58.400959",
+    "run_end": "2026-07-18T20:39:56.903261",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1484382566578312049",
+        "title": "The 'License-Laundering' Audit: 7 Stress-Tests for Your Streaming Subscriptions Against FCC-Paramount Regulatory Capture",
+        "url": "https://theomniview.blogspot.com/2026/07/the-license-laundering-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "streaming subscriptions",
+          "FCC Paramount scandal",
+          "content licensing"
+        ],
+        "slug": "the-license-laundering-audit-7-stress-tests-for-your-streaming-subscriptions-aga",
+        "published_at": "2026-07-18T20:44:28+00:00",
+        "word_count": 1020,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5698500807464693414",
+        "title": "The 'Robot-Vision' Privacy Audit: 7 Stress-Tests for Your Home Security Against Emerging AI-Driven Surveillance \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-robot-vision-privacy-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Explainers",
+          "smart home privacy",
+          "robotics surveillance",
+          "AI security audit"
+        ],
+        "slug": "the-robot-vision-privacy-audit-7-stress-tests-for-your-home-security-against-eme",
+        "published_at": "2026-07-18T20:44:55+00:00",
+        "word_count": 1065,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
