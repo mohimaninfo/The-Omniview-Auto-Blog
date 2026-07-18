@@ -33908,5 +33908,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T22:36:08.938150",
+    "run_end": "2026-07-18T22:36:46.303341",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2071805898864717040",
+        "title": "The 'Data-Center' Zoning Audit: 7 Stress-Tests for Your Local Community Against AI-Driven Energy Rationing \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-zoning-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Explainers",
+          "climate policy",
+          "data center energy consumption",
+          "AI energy demand"
+        ],
+        "slug": "the-data-center-zoning-audit-7-stress-tests-for-your-local-community-against-ai-",
+        "published_at": "2026-07-18T22:41:26+00:00",
+        "word_count": 943,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2585116709025401606",
+        "title": "The 'Synthetic-Actor' Residuals Audit: 7 Stress-Tests for Your SAG-AFTRA Protections Against AI-Driven Digital Replicas",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-actor-residuals-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "SAG-AFTRA AI protections",
+          "digital likeness residuals",
+          "generative AI in film"
+        ],
+        "slug": "the-synthetic-actor-residuals-audit-7-stress-tests-for-your-sag-aftra-protection",
+        "published_at": "2026-07-18T22:41:45+00:00",
+        "word_count": 1141,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
