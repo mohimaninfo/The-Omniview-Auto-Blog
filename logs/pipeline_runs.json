@@ -33648,5 +33648,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-18T17:45:14.153139",
+    "run_end": "2026-07-18T17:45:53.743018",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5944187950396023763",
+        "title": "The 'Offline-Chef' Resilience Audit: 7 Stress-Tests for Your Kitchen Workflow Against AI-Powered Adware and Smart-Device Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/07/the-offline-chef-resilience-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "How-To Guides",
+          "kitchen workflow",
+          "offline cooking",
+          "smart home privacy"
+        ],
+        "slug": "the-offline-chef-resilience-audit-7-stress-tests-for-your-kitchen-workflow-again",
+        "published_at": "2026-07-18T17:50:33+00:00",
+        "word_count": 1088,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6563683681411889198",
+        "title": "The 'time-poverty' inheritance audit: 7 stress-tests for your household wealth against the rising cost of human-exclusive services",
+        "url": "https://theomniview.blogspot.com/2026/07/the-time-poverty-inheritance-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Opinion & Analysis",
+          "time poverty",
+          "wealth inequality",
+          "human-exclusive services"
+        ],
+        "slug": "the-time-poverty-inheritance-audit-7-stress-tests-for-your-household-wealth-agai",
+        "published_at": "2026-07-18T17:50:53+00:00",
+        "word_count": 1006,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
