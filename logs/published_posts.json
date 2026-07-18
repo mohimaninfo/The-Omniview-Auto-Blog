@@ -28272,5 +28272,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "4241956771520966615",
+    "title": "The 'wiretap-proof' remote-work audit: 7 stress-tests for your home office against invasive AI surveillance features",
+    "url": "https://theomniview.blogspot.com/2026/07/the-wiretap-proof-remote-work-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Listicles",
+      "remote work security",
+      "AI surveillance",
+      "home office privacy"
+    ],
+    "slug": "the-wiretap-proof-remote-work-audit-7-stress-tests-for-your-home-office-against-",
+    "published_at": "2026-07-18T12:49:51+00:00",
+    "word_count": 860,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4129840498864364392",
+    "title": "The 'kinetic-storage' resilience audit: 7 stress-tests for your community microgrid against long-duration grid outages",
+    "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-storage-resilience-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Research Articles",
+      "kinetic energy storage",
+      "community microgrid",
+      "long-duration energy storage"
+    ],
+    "slug": "the-kinetic-storage-resilience-audit-7-stress-tests-for-your-community-microgrid",
+    "published_at": "2026-07-18T12:50:10+00:00",
+    "word_count": 988,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
