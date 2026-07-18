@@ -28096,5 +28096,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3623803278071512813",
+    "title": "The 'Data-Center' Sovereignty Audit: 7 Stress-Tests for Your Startup\u2019s Cloud Infrastructure Against Regional Power Rationing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-sovereignty-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Interviews",
+      "data center power grid",
+      "cloud infrastructure resilience",
+      "startup operational risk"
+    ],
+    "slug": "the-data-center-sovereignty-audit-7-stress-tests-for-your-startups-cloud-infrast",
+    "published_at": "2026-07-18T06:56:56+00:00",
+    "word_count": 967,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "4549024689044255101",
+    "title": "The 'Fan-Fiction' Canon Audit: 7 Stress-Tests for Your Favorite IP Against AI-Generated Narrative Saturation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-fan-fiction-canon-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Latest News",
+      "AI-generated content",
+      "fan fiction",
+      "pop-culture trends"
+    ],
+    "slug": "the-fan-fiction-canon-audit-7-stress-tests-for-your-favorite-ip-against-ai-gener",
+    "published_at": "2026-07-18T06:57:13+00:00",
+    "word_count": 875,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
