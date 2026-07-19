@@ -34740,5 +34740,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-19T23:44:20.022875",
+    "run_end": "2026-07-19T23:45:01.789335",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7974871650182567341",
+        "title": "The 'Eminent Domain' Grid-Grab Audit: 7 Stress-Tests for Your Local Land Rights Against AI Data Center Expansion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-eminent-domain-grid-grab-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "eminent domain",
+          "data center expansion",
+          "climate policy"
+        ],
+        "slug": "the-eminent-domain-grid-grab-audit-7-stress-tests-for-your-local-land-rights-aga",
+        "published_at": "2026-07-19T23:49:38+00:00",
+        "word_count": 974,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3109069487474697916",
+        "title": "The 'Neuro-Diverse' Classroom Audit: 7 Stress-Tests for Your IEP Compliance Against AI-Driven Adaptive Learning Platforms",
+        "url": "https://theomniview.blogspot.com/2026/07/the-neuro-diverse-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "case-studies",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Case Studies",
+          "IEP compliance",
+          "adaptive learning software",
+          "special education technology"
+        ],
+        "slug": "the-neuro-diverse-classroom-audit-7-stress-tests-for-your-iep-compliance-against",
+        "published_at": "2026-07-19T23:50:01+00:00",
+        "word_count": 754,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
