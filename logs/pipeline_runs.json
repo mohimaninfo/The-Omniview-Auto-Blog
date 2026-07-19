@@ -34428,5 +34428,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-19T16:41:51.170546",
+    "run_end": "2026-07-19T16:42:33.198089",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2928784678668832993",
+        "title": "The 'Data-Center' Biodiversity Audit: 7 Stress-Tests for Your Local Wildlife Corridor Against AI Cooling Infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-biodiversity-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Case Studies",
+          "wildlife corridor conservation",
+          "data center environmental impact",
+          "ecosystem fragmentation"
+        ],
+        "slug": "the-data-center-biodiversity-audit-7-stress-tests-for-your-local-wildlife-corrid",
+        "published_at": "2026-07-19T16:47:11+00:00",
+        "word_count": 633,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4677439263398986299",
+        "title": "The 'Platform-Exodus' Liquidity Audit: 7 Stress-Tests for Your Ecommerce Business Against Sudden Account Termination",
+        "url": "https://theomniview.blogspot.com/2026/07/the-platform-exodus-liquidity-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "ecommerce risk management",
+          "platform dependency",
+          "customer communication strategy"
+        ],
+        "slug": "the-platform-exodus-liquidity-audit-7-stress-tests-for-your-ecommerce-business-a",
+        "published_at": "2026-07-19T16:47:32+00:00",
+        "word_count": 877,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
