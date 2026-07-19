@@ -28800,5 +28800,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8452031140049154493",
+    "title": "The 'planetary-habitability' audit: 7 stress-tests for your climate-model accuracy against new exoplanet atmosphere data",
+    "url": "https://theomniview.blogspot.com/2026/07/the-planetary-habitability-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Research Articles",
+      "exoplanet atmosphere",
+      "LHS 1140b",
+      "planetary habitability"
+    ],
+    "slug": "the-planetary-habitability-audit-7-stress-tests-for-your-climate-model-accuracy-",
+    "published_at": "2026-07-19T05:03:47+00:00",
+    "word_count": 1126,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "788342816952675989",
+    "title": "The 'Horizontal Gene' audit: 7 stress-tests for your microbiome health against the rise of antibiotic-resistant environmental DNA",
+    "url": "https://theomniview.blogspot.com/2026/07/the-horizontal-gene-audit-7-stress.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Research Articles",
+      "horizontal gene transfer",
+      "microbiome health",
+      "antibiotic resistance"
+    ],
+    "slug": "the-horizontal-gene-audit-7-stress-tests-for-your-microbiome-health-against-the-",
+    "published_at": "2026-07-19T05:04:08+00:00",
+    "word_count": 1030,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
