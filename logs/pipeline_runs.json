@@ -34012,5 +34012,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-07-19T01:22:30.720336",
+    "run_end": "2026-07-19T01:23:10.312123",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5846502595055865468",
+        "title": "The 'Inheritance-Trap' Audit: 7 Stress-Tests for Your Property Windfall Against 2026 Maintenance Liability",
+        "url": "https://theomniview.blogspot.com/2026/07/the-inheritance-trap-audit-7-stress_0645669824.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Opinion & Analysis",
+          "inheriting property",
+          "real estate liability",
+          "property maintenance costs"
+        ],
+        "slug": "the-inheritance-trap-audit-7-stress-tests-for-your-property-windfall-against-202",
+        "published_at": "2026-07-19T01:27:51+00:00",
+        "word_count": 912,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8625951316466729388",
+        "title": "The 'dynamic-tempo' performance audit: 7 stress-tests for your live music experience against AI-synced click tracks",
+        "url": "https://theomniview.blogspot.com/2026/07/the-dynamic-tempo-performance-audit-7.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Listicles",
+          "live music performance",
+          "AI in music",
+          "concert experience"
+        ],
+        "slug": "the-dynamic-tempo-performance-audit-7-stress-tests-for-your-live-music-experienc",
+        "published_at": "2026-07-19T01:28:09+00:00",
+        "word_count": 937,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
