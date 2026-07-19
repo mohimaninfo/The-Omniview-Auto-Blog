@@ -34376,5 +34376,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-19T15:43:41.417990",
+    "run_end": "2026-07-19T15:44:24.643272",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6524693755351416418",
+        "title": "The 'Eminent Domain' Leadership Audit: 7 Stress-Tests for Your Corporate Expansion Strategy Against 'Not In My Backyard' Public Backlash",
+        "url": "https://theomniview.blogspot.com/2026/07/the-eminent-domain-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "eminent domain",
+          "corporate leadership strategy",
+          "data center infrastructure"
+        ],
+        "slug": "the-eminent-domain-leadership-audit-7-stress-tests-for-your-corporate-expansion-",
+        "published_at": "2026-07-19T15:49:02+00:00",
+        "word_count": 1047,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3226323660812551710",
+        "title": "the 'proctor-proof' integrity audit: 7 stress-tests for your school\u2019s remote testing software against ai-generated proxy cheating",
+        "url": "https://theomniview.blogspot.com/2026/07/the-proctor-proof-integrity-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Research Articles",
+          "ai cheating in education",
+          "edtech proctoring",
+          "academic integrity"
+        ],
+        "slug": "the-proctor-proof-integrity-audit-7-stress-tests-for-your-schools-remote-testing",
+        "published_at": "2026-07-19T15:49:23+00:00",
+        "word_count": 930,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
