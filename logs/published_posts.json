@@ -29240,5 +29240,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1633858392617578068",
+    "title": "The 'Offline-Save' Gaming Audit: 7 Stress-Tests for Your Digital Library Against Cloud-Sync Corruption",
+    "url": "https://theomniview.blogspot.com/2026/07/the-offline-save-gaming-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Reviews",
+      "gaming preservation",
+      "digital game ownership",
+      "cloud sync issues"
+    ],
+    "slug": "the-offline-save-gaming-audit-7-stress-tests-for-your-digital-library-against-cl",
+    "published_at": "2026-07-19T20:06:07+00:00",
+    "word_count": 637,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "2902531738887615015",
+    "title": "The 'ESP32-Domain' Security Audit: 7 Stress-Tests for Your Enterprise Network Against Micro-Hardware DNS Poisoning",
+    "url": "https://theomniview.blogspot.com/2026/07/the-esp32-domain-security-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Case Studies",
+      "ESP32 network security",
+      "DNS poisoning prevention",
+      "hardware-based cyber attacks"
+    ],
+    "slug": "the-esp32-domain-security-audit-7-stress-tests-for-your-enterprise-network-again",
+    "published_at": "2026-07-19T20:06:32+00:00",
+    "word_count": 677,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
