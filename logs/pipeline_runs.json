@@ -34532,5 +34532,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-19T18:45:15.842697",
+    "run_end": "2026-07-19T18:46:00.570561",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4770393480379298551",
+        "title": "The 'synthetic-romance' audit: 7 stress-tests for your emotional health against the rise of AI-companion addiction",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-romance-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Latest News",
+          "AI companion addiction",
+          "AI girlfriend ban",
+          "digital intimacy risks"
+        ],
+        "slug": "the-synthetic-romance-audit-7-stress-tests-for-your-emotional-health-against-the",
+        "published_at": "2026-07-19T18:50:38+00:00",
+        "word_count": 800,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9126250660385755071",
+        "title": "The 'algorithmic-casting' audit: 7 stress-tests for your favorite film franchises against AI-driven predictive ensemble selection",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-casting-audit-7-stress_0357028038.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Opinion & Analysis",
+          "AI in filmmaking",
+          "predictive casting analytics",
+          "film industry trends"
+        ],
+        "slug": "the-algorithmic-casting-audit-7-stress-tests-for-your-favorite-film-franchises-a",
+        "published_at": "2026-07-19T18:50:59+00:00",
+        "word_count": 890,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
