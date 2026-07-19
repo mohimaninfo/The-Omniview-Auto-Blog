@@ -34168,5 +34168,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-19T09:41:50.976283",
+    "run_end": "2026-07-19T09:42:30.520622",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "945505464975367318",
+        "title": "The 'Platform-Rot' Audit: 7 Stress-Tests for Your Streaming Library Against AI-Generated Content Saturation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-platform-rot-audit-7-stress-tests.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "streaming platforms",
+          "AI-generated content",
+          "digital media library"
+        ],
+        "slug": "the-platform-rot-audit-7-stress-tests-for-your-streaming-library-against-ai-gene",
+        "published_at": "2026-07-19T09:47:09+00:00",
+        "word_count": 825,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1641173184682820578",
+        "title": "the 'cold-chain' pantry audit: 7 stress-tests for your food storage against ai-driven grid load shedding",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cold-chain-pantry-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "food storage safety",
+          "grid load shedding",
+          "kitchen energy resilience"
+        ],
+        "slug": "the-cold-chain-pantry-audit-7-stress-tests-for-your-food-storage-against-ai-driv",
+        "published_at": "2026-07-19T09:47:30+00:00",
+        "word_count": 1190,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
