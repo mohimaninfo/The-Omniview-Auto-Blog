@@ -28932,5 +28932,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5078355974842452656",
+    "title": "The 'Data-Center' Heat-Island Audit: 7 Stress-Tests for Your Local Microclimate Against AI Cooling Exhaust \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-heat-island-audit-7_01965585926.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Explainers",
+      "data center heat island",
+      "AI energy consumption",
+      "sustainable home cooling"
+    ],
+    "slug": "the-data-center-heat-island-audit-7-stress-tests-for-your-local-microclimate-aga",
+    "published_at": "2026-07-19T11:07:25+00:00",
+    "word_count": 1001,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "9162290297889154483",
+    "title": "The 'actuator-fatigue' audit: 7 stress-tests for your humanoid robot fleet against long-term joint wear \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-actuator-fatigue-audit-7-stress_01344812883.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Latest News",
+      "humanoid robots",
+      "robotics maintenance",
+      "actuator failure"
+    ],
+    "slug": "the-actuator-fatigue-audit-7-stress-tests-for-your-humanoid-robot-fleet-against-",
+    "published_at": "2026-07-19T11:07:42+00:00",
+    "word_count": 775,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
