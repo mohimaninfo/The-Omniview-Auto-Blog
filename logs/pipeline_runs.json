@@ -34272,5 +34272,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-19T12:46:19.043165",
+    "run_end": "2026-07-19T12:46:59.930238",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9091876621892889280",
+        "title": "The 'Synthetic-Star' Residuals Audit: 7 Stress-Tests for Your Favorite Streaming Catalog Against AI-Generated Actor Replicas",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-star-residuals-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Reviews",
+          "AI film actors",
+          "streaming service library",
+          "SAG-AFTRA AI rules"
+        ],
+        "slug": "the-synthetic-star-residuals-audit-7-stress-tests-for-your-favorite-streaming-ca",
+        "published_at": "2026-07-19T12:51:35+00:00",
+        "word_count": 632,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6978052527049626368",
+        "title": "The 'Grey-Water' Harvest Audit: 7 Stress-Tests for Your Home Irrigation System Against Increasing Municipal Drought Restrictions",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grey-water-harvest-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "How-To Guides",
+          "grey-water harvesting",
+          "sustainable home irrigation",
+          "drought-resistant landscaping"
+        ],
+        "slug": "the-grey-water-harvest-audit-7-stress-tests-for-your-home-irrigation-system-agai",
+        "published_at": "2026-07-19T12:51:59+00:00",
+        "word_count": 988,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
