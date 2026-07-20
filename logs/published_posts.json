@@ -29856,5 +29856,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2490274963069700196",
+    "title": "The 'human-verification' classroom audit: 7 stress-tests for your k-12 district\u2019s grading integrity against ai-proxy cheating",
+    "url": "https://theomniview.blogspot.com/2026/07/the-human-verification-classroom-audit.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "How-To Guides",
+      "k-12 grading integrity",
+      "ai in education",
+      "classroom assessment strategies"
+    ],
+    "slug": "the-human-verification-classroom-audit-7-stress-tests-for-your-k-12-districts-gr",
+    "published_at": "2026-07-20T22:57:12+00:00",
+    "word_count": 1051,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2274851605615058754",
+    "title": "The 'Human-Only' Rider Audit: 7 stress-tests for your concert contract against AI-generated performance clauses",
+    "url": "https://theomniview.blogspot.com/2026/07/the-human-only-rider-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "interviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Interviews",
+      "live music industry",
+      "AI in music",
+      "concert production"
+    ],
+    "slug": "the-human-only-rider-audit-7-stress-tests-for-your-concert-contract-against-ai-g",
+    "published_at": "2026-07-20T22:57:35+00:00",
+    "word_count": 953,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
