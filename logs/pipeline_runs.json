@@ -35104,5 +35104,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-20T17:15:59.946800",
+    "run_end": "2026-07-20T17:16:53.972068",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8519159711038687188",
+        "title": "The 'starlight-latency' audit: 7 stress-tests for your deep-space observation goals against orbital debris density",
+        "url": "https://theomniview.blogspot.com/2026/07/the-starlight-latency-audit-7-stress.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "orbital debris",
+          "light pollution",
+          "amateur astronomy"
+        ],
+        "slug": "the-starlight-latency-audit-7-stress-tests-for-your-deep-space-observation-goals",
+        "published_at": "2026-07-20T17:21:27+00:00",
+        "word_count": 829,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "931051616277661840",
+        "title": "The 'context-collapse' intimacy audit: 7 stress-tests for your romantic relationship against cross-platform digital oversharing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-context-collapse-intimacy-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Explainers",
+          "digital relationship boundaries",
+          "social media intimacy",
+          "relationship privacy"
+        ],
+        "slug": "the-context-collapse-intimacy-audit-7-stress-tests-for-your-romantic-relationshi",
+        "published_at": "2026-07-20T17:21:53+00:00",
+        "word_count": 1243,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
