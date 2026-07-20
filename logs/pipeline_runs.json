@@ -34896,5 +34896,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-20T08:34:43.645373",
+    "run_end": "2026-07-20T08:35:22.748763",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "504341652830171415",
+        "title": "the 'live-service' collapse audit: 7 stress-tests for your favorite gaming library against developer studio shutdowns",
+        "url": "https://theomniview.blogspot.com/2026/07/the-live-service-collapse-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Reviews",
+          "live-service gaming",
+          "digital game preservation",
+          "Bungie Marathon"
+        ],
+        "slug": "the-live-service-collapse-audit-7-stress-tests-for-your-favorite-gaming-library-",
+        "published_at": "2026-07-20T08:40:01+00:00",
+        "word_count": 581,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4432462568388915176",
+        "title": "The 'Platform-Persistence' Audit: 7 Stress-Tests for Your Streaming Library Against Sudden Developer Studio Shutdowns",
+        "url": "https://theomniview.blogspot.com/2026/07/the-platform-persistence-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "streaming library",
+          "live-service gaming",
+          "digital ownership"
+        ],
+        "slug": "the-platform-persistence-audit-7-stress-tests-for-your-streaming-library-against",
+        "published_at": "2026-07-20T08:40:21+00:00",
+        "word_count": 900,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
