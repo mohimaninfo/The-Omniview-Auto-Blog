@@ -35000,5 +35000,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-20T13:44:14.933001",
+    "run_end": "2026-07-20T13:45:00.420611",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3381536995872255313",
+        "title": "The 'Eminent-Domain' Homestead Audit: 7 Stress-Tests for Your Property Rights Against AI Data Center Expansion \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-eminent-domain-homestead-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "reviews",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Reviews",
+          "eminent domain",
+          "data center construction",
+          "property rights"
+        ],
+        "slug": "the-eminent-domain-homestead-audit-7-stress-tests-for-your-property-rights-again",
+        "published_at": "2026-07-20T13:49:34+00:00",
+        "word_count": 552,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4212435005142068636",
+        "title": "The 'asynchronous-bottleneck' audit: 7 stress-tests for your remote-work workflow against cross-timezone communication latency",
+        "url": "https://theomniview.blogspot.com/2026/07/the-asynchronous-bottleneck-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "research-articles",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Research Articles",
+          "remote-work workflow",
+          "asynchronous communication",
+          "team productivity"
+        ],
+        "slug": "the-asynchronous-bottleneck-audit-7-stress-tests-for-your-remote-work-workflow-a",
+        "published_at": "2026-07-20T13:49:59+00:00",
+        "word_count": 1013,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
