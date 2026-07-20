@@ -29416,5 +29416,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6528565586505707474",
+    "title": "The 'drone-zone' travel audit: 7 stress-tests for your vacation privacy against the rise of 20 million surveillance units",
+    "url": "https://theomniview.blogspot.com/2026/07/the-drone-zone-travel-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "case-studies",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Case Studies",
+      "travel privacy",
+      "drone surveillance",
+      "vacation security"
+    ],
+    "slug": "the-drone-zone-travel-audit-7-stress-tests-for-your-vacation-privacy-against-the",
+    "published_at": "2026-07-20T01:31:54+00:00",
+    "word_count": 777,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2273309821448884052",
+    "title": "the 'thermal-throttle' repair audit: 7 stress-tests for your handheld gaming console against 2026 ambient heatwaves",
+    "url": "https://theomniview.blogspot.com/2026/07/the-thermal-throttle-repair-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Latest News",
+      "handheld gaming console",
+      "thermal throttling",
+      "gaming hardware maintenance"
+    ],
+    "slug": "the-thermal-throttle-repair-audit-7-stress-tests-for-your-handheld-gaming-consol",
+    "published_at": "2026-07-20T01:32:13+00:00",
+    "word_count": 782,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
