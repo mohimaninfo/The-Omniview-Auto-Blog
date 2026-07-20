@@ -29636,5 +29636,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "168246335692629228",
+    "title": "the 'server-heat' kitchen audit: 7 stress-tests for your home refrigeration efficiency against rising ambient temperatures",
+    "url": "https://theomniview.blogspot.com/2026/07/the-server-heat-kitchen-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "How-To Guides",
+      "kitchen energy efficiency",
+      "food storage tips",
+      "refrigerator maintenance"
+    ],
+    "slug": "the-server-heat-kitchen-audit-7-stress-tests-for-your-home-refrigeration-efficie",
+    "published_at": "2026-07-20T15:48:25+00:00",
+    "word_count": 929,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5065019859091792062",
+    "title": "The 'LLM-hallucination' legal audit: 7 stress-tests for your corporate compliance documentation against AI-generated citation errors",
+    "url": "https://theomniview.blogspot.com/2026/07/the-llm-hallucination-legal-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Opinion & Analysis",
+      "AI legal compliance",
+      "LLM hallucination risks",
+      "AI-generated legal citations"
+    ],
+    "slug": "the-llm-hallucination-legal-audit-7-stress-tests-for-your-corporate-compliance-d",
+    "published_at": "2026-07-20T15:48:45+00:00",
+    "word_count": 790,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
