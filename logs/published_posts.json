@@ -29548,5 +29548,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3753432351570306338",
+    "title": "The 'Live-Service' Sunset Audit: 7 Stress-Tests for Your Digital Library Against Developer Studio Shutdowns \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-live-service-sunset-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Explainers",
+      "live service games",
+      "gaming preservation",
+      "digital ownership"
+    ],
+    "slug": "the-live-service-sunset-audit-7-stress-tests-for-your-digital-library-against-de",
+    "published_at": "2026-07-20T11:38:39+00:00",
+    "word_count": 998,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7719435387699781271",
+    "title": "The 'protein-folding' diagnostic audit: 7 stress-tests for your early-stage disease screening against AI-driven structural biology",
+    "url": "https://theomniview.blogspot.com/2026/07/the-protein-folding-diagnostic-audit-7.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Research Articles",
+      "AI medical diagnostics",
+      "AlphaFold",
+      "protein folding"
+    ],
+    "slug": "the-protein-folding-diagnostic-audit-7-stress-tests-for-your-early-stage-disease",
+    "published_at": "2026-07-20T11:38:59+00:00",
+    "word_count": 1128,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
