@@ -35208,5 +35208,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-20T20:58:04.880209",
+    "run_end": "2026-07-20T20:58:49.883808",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1106891022498220876",
+        "title": "The 'Direct-Imaging' Resolution Audit: 7 Stress-Tests for Your Amateur Astronomy Setup Against the Beta Pictoris Discovery",
+        "url": "https://theomniview.blogspot.com/2026/07/the-direct-imaging-resolution-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Explainers",
+          "direct imaging",
+          "exoplanet discovery",
+          "Beta Pictoris"
+        ],
+        "slug": "the-direct-imaging-resolution-audit-7-stress-tests-for-your-amateur-astronomy-se",
+        "published_at": "2026-07-20T21:03:28+00:00",
+        "word_count": 954,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 8
+      },
+      {
+        "post_id": "849647626337061666",
+        "title": "The 'human-verification' labor audit: 7 stress-tests for your household income against the rise of 'proof-of-personhood' task markets",
+        "url": "https://theomniview.blogspot.com/2026/07/the-human-verification-labor-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "human-in-the-loop",
+          "digital labor",
+          "ai training"
+        ],
+        "slug": "the-human-verification-labor-audit-7-stress-tests-for-your-household-income-agai",
+        "published_at": "2026-07-20T21:03:49+00:00",
+        "word_count": 795,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
