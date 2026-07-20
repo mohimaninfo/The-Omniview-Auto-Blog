@@ -35364,5 +35364,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-20T23:44:53.658170",
+    "run_end": "2026-07-20T23:45:40.413190",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3127054756851534824",
+        "title": "The 'Proof-of-Human' Hiring Audit: 7 Stress-Tests for Your Startup\u2019s Recruitment Funnel Against AI-Generated Candidate Fraud",
+        "url": "https://theomniview.blogspot.com/2026/07/the-proof-of-human-hiring-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "startup hiring",
+          "AI candidate fraud",
+          "recruitment strategy"
+        ],
+        "slug": "the-proof-of-human-hiring-audit-7-stress-tests-for-your-startups-recruitment-fun",
+        "published_at": "2026-07-20T23:50:16+00:00",
+        "word_count": 836,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5105323272707232620",
+        "title": "The 'Data-Center' Heat-Island Audit: 7 Stress-Tests for Your Local Microclimate Against AI Cooling Exhaust \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-heat-island-audit-7_01155803837.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Explainers",
+          "data center heat island",
+          "sustainable living",
+          "microclimate management"
+        ],
+        "slug": "the-data-center-heat-island-audit-7-stress-tests-for-your-local-microclimate-aga",
+        "published_at": "2026-07-20T23:50:39+00:00",
+        "word_count": 902,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
