@@ -34844,5 +34844,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-20T05:27:06.193407",
+    "run_end": "2026-07-20T05:27:51.325617",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3867395206708247941",
+        "title": "The 'Synthetic-Attachment' Audit: 7 Stress-Tests for Your Real-World Relationship Against AI-Companion Addiction",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-attachment-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "How-To Guides",
+          "AI companion addiction",
+          "relationship advice",
+          "digital intimacy"
+        ],
+        "slug": "the-synthetic-attachment-audit-7-stress-tests-for-your-real-world-relationship-a",
+        "published_at": "2026-07-20T05:32:30+00:00",
+        "word_count": 1115,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4519787362138927711",
+        "title": "the 'circadian-drift' lighting audit: 7 stress-tests for your sleep quality against high-frequency blue light exposure",
+        "url": "https://theomniview.blogspot.com/2026/07/the-circadian-drift-lighting-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "circadian rhythm optimization",
+          "blue light exposure",
+          "sleep hygiene technology"
+        ],
+        "slug": "the-circadian-drift-lighting-audit-7-stress-tests-for-your-sleep-quality-against",
+        "published_at": "2026-07-20T05:32:50+00:00",
+        "word_count": 608,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
