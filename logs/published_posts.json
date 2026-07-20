@@ -29724,5 +29724,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4308941786831962377",
+    "title": "The 'Smart-Home' Blackout Audit: 7 Stress-Tests for Your Automated Appliances Against Data Center Power-Rationing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-smart-home-blackout-audit-7-stress_0481044432.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "How-To Guides",
+      "smart home energy management",
+      "power grid reliability",
+      "home automation backup"
+    ],
+    "slug": "the-smart-home-blackout-audit-7-stress-tests-for-your-automated-appliances-again",
+    "published_at": "2026-07-20T19:26:42+00:00",
+    "word_count": 992,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3440098839247271441",
+    "title": "The 'Prompt-Injection' Security Audit: 7 Stress-Tests for Your Enterprise Workflow Against LLM Jailbreaking",
+    "url": "https://theomniview.blogspot.com/2026/07/the-prompt-injection-security-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "How-To Guides",
+      "prompt injection",
+      "LLM security",
+      "RAG vulnerability"
+    ],
+    "slug": "the-prompt-injection-security-audit-7-stress-tests-for-your-enterprise-workflow-",
+    "published_at": "2026-07-20T19:27:24+00:00",
+    "word_count": 1073,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
