@@ -29812,5 +29812,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7998184887403574503",
+    "title": "The 'Eminent-Domain' Grid-Grab Audit: 7 Stress-Tests for Your Local Land Rights Against AI Data Center Expansion \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-eminent-domain-grid-grab-audit-7_0719405561.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "data center energy consumption",
+      "eminent domain law",
+      "renewable energy grid"
+    ],
+    "slug": "the-eminent-domain-grid-grab-audit-7-stress-tests-for-your-local-land-rights-aga",
+    "published_at": "2026-07-20T22:02:27+00:00",
+    "word_count": 1071,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5136447706146877284",
+    "title": "The 'closed-loop' curriculum audit: 7 stress-tests for your k-12 district\u2019s data privacy against third-party ai-learning agents",
+    "url": "https://theomniview.blogspot.com/2026/07/the-closed-loop-curriculum-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "case-studies",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Case Studies",
+      "k-12 data privacy",
+      "student data protection",
+      "ai in education"
+    ],
+    "slug": "the-closed-loop-curriculum-audit-7-stress-tests-for-your-k-12-districts-data-pri",
+    "published_at": "2026-07-20T22:02:50+00:00",
+    "word_count": 783,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
