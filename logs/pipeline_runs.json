@@ -35780,5 +35780,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-21T18:06:50.284784",
+    "run_end": "2026-07-21T18:07:38.121538",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3337930462350843338",
+        "title": "The 'human-verification' dating audit: 7 stress-tests for your romantic vetting process against AI-generated bot profiles",
+        "url": "https://theomniview.blogspot.com/2026/07/the-human-verification-dating-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Opinion & Analysis",
+          "dating app safety",
+          "AI bot profiles",
+          "romantic vetting"
+        ],
+        "slug": "the-human-verification-dating-audit-7-stress-tests-for-your-romantic-vetting-pro",
+        "published_at": "2026-07-21T18:12:17+00:00",
+        "word_count": 884,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3850758015188462279",
+        "title": "The 'Data-Center' Land-Use Audit: 7 Stress-Tests for Your Local Zoning Laws Against AI Infrastructure Expansion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-land-use-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "data center zoning",
+          "sustainable land use",
+          "AI infrastructure impact"
+        ],
+        "slug": "the-data-center-land-use-audit-7-stress-tests-for-your-local-zoning-laws-against",
+        "published_at": "2026-07-21T18:12:37+00:00",
+        "word_count": 928,
+        "has_video": false,
+        "image_count": 2,
+        "reference_count": 3
+      }
+    ]
   }
 ]
