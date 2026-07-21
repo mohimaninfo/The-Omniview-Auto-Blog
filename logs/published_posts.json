@@ -30384,5 +30384,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7449262519168081330",
+    "title": "The 'layoff-buffer' liquidity audit: 7 stress-tests for your emergency fund against 2026 economic volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-layoff-buffer-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Explainers",
+      "emergency fund strategy",
+      "layoff financial planning",
+      "personal finance 2026"
+    ],
+    "slug": "the-layoff-buffer-liquidity-audit-7-stress-tests-for-your-emergency-fund-against",
+    "published_at": "2026-07-21T22:48:37+00:00",
+    "word_count": 984,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "1030860878652765777",
+    "title": "The 'neural-drift' audit: 7 stress-tests for your attention span against high-frequency algorithmic feedback loops",
+    "url": "https://theomniview.blogspot.com/2026/07/the-neural-drift-audit-7-stress-tests.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Research Articles",
+      "neural-drift",
+      "attention span science",
+      "neuroplasticity"
+    ],
+    "slug": "the-neural-drift-audit-7-stress-tests-for-your-attention-span-against-high-frequ",
+    "published_at": "2026-07-21T22:48:58+00:00",
+    "word_count": 943,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
