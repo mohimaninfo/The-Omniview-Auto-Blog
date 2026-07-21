@@ -30120,5 +30120,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7256224213996987535",
+    "title": "The 'algorithmic-oversight' classroom audit: 7 stress-tests for your school\u2019s edtech stack against AI-driven predictive surveillance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-oversight-classroom.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "How-To Guides",
+      "edtech surveillance",
+      "student data privacy",
+      "algorithmic bias in education"
+    ],
+    "slug": "the-algorithmic-oversight-classroom-audit-7-stress-tests-for-your-schools-edtech",
+    "published_at": "2026-07-21T12:23:04+00:00",
+    "word_count": 962,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "6958924792536448820",
+    "title": "The 'Data-Center' Drought Audit: 7 Stress-Tests for Your Local Watershed Against AI Cooling Demands \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-drought-audit-7-stress_0915651470.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "How-To Guides",
+      "sustainable living",
+      "data center water usage",
+      "community water security"
+    ],
+    "slug": "the-data-center-drought-audit-7-stress-tests-for-your-local-watershed-against-ai",
+    "published_at": "2026-07-21T12:23:28+00:00",
+    "word_count": 1038,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
