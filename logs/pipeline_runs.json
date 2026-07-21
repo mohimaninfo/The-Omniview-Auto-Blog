@@ -35832,5 +35832,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-21T20:11:20.523932",
+    "run_end": "2026-07-21T20:12:08.260966",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1129355352847154696",
+        "title": "The 'Bot-Traffic' Mitigation Audit: 7 Stress-Tests for Your Website Security Against the 57.5% Non-Human Surge \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-bot-traffic-mitigation-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "How-To Guides",
+          "bot traffic mitigation",
+          "website security",
+          "AI bot protection"
+        ],
+        "slug": "the-bot-traffic-mitigation-audit-7-stress-tests-for-your-website-security-agains",
+        "published_at": "2026-07-21T20:16:44+00:00",
+        "word_count": 1194,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1750229904072168373",
+        "title": "The 'Deep-Fake' Fan-Fiction Audit: 7 Stress-Tests for Your Favorite Fandoms Against AI-Generated Canon \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-deep-fake-fan-fiction-audit-7.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Latest News",
+          "AI fan fiction",
+          "fandom culture",
+          "generative AI copyright"
+        ],
+        "slug": "the-deep-fake-fan-fiction-audit-7-stress-tests-for-your-favorite-fandoms-against",
+        "published_at": "2026-07-21T20:17:07+00:00",
+        "word_count": 889,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
