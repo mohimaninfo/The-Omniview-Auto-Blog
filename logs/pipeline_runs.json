@@ -35676,5 +35676,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-21T14:53:12.275724",
+    "run_end": "2026-07-21T14:54:03.530383",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8546809531861835849",
+        "title": "The 'Offline-First' Gaming Audit: 7 Stress-Tests for Your Physical Media Library Against Digital Storefront Delisting",
+        "url": "https://theomniview.blogspot.com/2026/07/the-offline-first-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "physical media gaming",
+          "video game preservation",
+          "digital storefront delisting"
+        ],
+        "slug": "the-offline-first-gaming-audit-7-stress-tests-for-your-physical-media-library-ag",
+        "published_at": "2026-07-21T14:58:35+00:00",
+        "word_count": 1019,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6245570904999099096",
+        "title": "The 'Digital-Legacy' Inheritance Audit: 7 Stress-Tests for Your Estate Plan Against Post-Mortem AI Resurrections",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-legacy-inheritance-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "digital estate planning",
+          "post-mortem AI",
+          "digital legacy"
+        ],
+        "slug": "the-digital-legacy-inheritance-audit-7-stress-tests-for-your-estate-plan-against",
+        "published_at": "2026-07-21T14:59:02+00:00",
+        "word_count": 1060,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
