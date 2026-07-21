@@ -35728,5 +35728,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-21T16:12:58.191602",
+    "run_end": "2026-07-21T16:13:46.869541",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2187334406737678957",
+        "title": "The 'infrastructure-resilience' audit: 7 stress-tests for your local utility grid against state-sponsored cyber-sabotage",
+        "url": "https://theomniview.blogspot.com/2026/07/the-infrastructure-resilience-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Case Studies",
+          "infrastructure resilience",
+          "utility grid security",
+          "cyber-sabotage"
+        ],
+        "slug": "the-infrastructure-resilience-audit-7-stress-tests-for-your-local-utility-grid-a",
+        "published_at": "2026-07-21T16:18:25+00:00",
+        "word_count": 727,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "960668658393401614",
+        "title": "The 'bot-traffic' architecture audit: 7 stress-tests for your API security against the 57% non-human web surge",
+        "url": "https://theomniview.blogspot.com/2026/07/the-bot-traffic-architecture-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Explainers",
+          "bot traffic mitigation",
+          "API security best practices",
+          "web scraping protection"
+        ],
+        "slug": "the-bot-traffic-architecture-audit-7-stress-tests-for-your-api-security-against-",
+        "published_at": "2026-07-21T16:18:46+00:00",
+        "word_count": 837,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
