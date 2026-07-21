@@ -35572,5 +35572,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-21T10:12:04.931534",
+    "run_end": "2026-07-21T10:12:53.408151",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6758687156648696797",
+        "title": "The 'circular-repair' mandate audit: 7 stress-tests for your home appliance warranty against planned obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/07/the-circular-repair-mandate-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "right to repair",
+          "planned obsolescence"
+        ],
+        "slug": "the-circular-repair-mandate-audit-7-stress-tests-for-your-home-appliance-warrant",
+        "published_at": "2026-07-21T10:17:30+00:00",
+        "word_count": 1083,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2034191744042127238",
+        "title": "The 'Cognitive-Load' Leadership Audit: 7 Stress-Tests for Your Management Workflow Against Asynchronous AI-Delegation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-load-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "leadership workflow",
+          "asynchronous management",
+          "AI delegation strategy"
+        ],
+        "slug": "the-cognitive-load-leadership-audit-7-stress-tests-for-your-management-workflow-",
+        "published_at": "2026-07-21T10:17:52+00:00",
+        "word_count": 1105,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
