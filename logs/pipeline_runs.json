@@ -35988,5 +35988,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-21T23:45:22.958453",
+    "run_end": "2026-07-21T23:46:07.818654",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5214457292320314414",
+        "title": "The 'kinetic-surveillance' audit: 7 stress-tests for your neighborhood privacy against the rise of mobile robotics",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-surveillance-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Explainers",
+          "mobile robotics",
+          "privacy surveillance",
+          "autonomous security robots"
+        ],
+        "slug": "the-kinetic-surveillance-audit-7-stress-tests-for-your-neighborhood-privacy-agai",
+        "published_at": "2026-07-21T23:50:42+00:00",
+        "word_count": 944,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1283200197833226455",
+        "title": "the 'sovereign-data' passport audit: 7 stress-tests for your digital residency against cross-border data localization laws",
+        "url": "https://theomniview.blogspot.com/2026/07/the-sovereign-data-passport-audit-7.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Explainers",
+          "digital residency",
+          "data localization",
+          "global remote work"
+        ],
+        "slug": "the-sovereign-data-passport-audit-7-stress-tests-for-your-digital-residency-agai",
+        "published_at": "2026-07-21T23:51:07+00:00",
+        "word_count": 1033,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
