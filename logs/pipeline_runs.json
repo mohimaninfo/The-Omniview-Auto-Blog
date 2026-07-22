@@ -36144,5 +36144,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-22T07:28:50.920963",
+    "run_end": "2026-07-22T07:29:33.350235",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "886801391287949070",
+        "title": "The 'Perimenopause-Gap' Audit: 7 Stress-Tests for Your Primary Care Experience Against Diagnostic Bias",
+        "url": "https://theomniview.blogspot.com/2026/07/the-perimenopause-gap-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Latest News",
+          "perimenopause symptoms",
+          "medical gaslighting",
+          "women's health research"
+        ],
+        "slug": "the-perimenopause-gap-audit-7-stress-tests-for-your-primary-care-experience-agai",
+        "published_at": "2026-07-22T07:34:10+00:00",
+        "word_count": 665,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2049871751794646055",
+        "title": "The 'Grid-Resilience' Audit: 7 Stress-Tests for Your Home Solar Storage Against AI Data Center Power Surges",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-resilience-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Case Studies",
+          "grid resilience",
+          "home solar storage",
+          "data center power demand"
+        ],
+        "slug": "the-grid-resilience-audit-7-stress-tests-for-your-home-solar-storage-against-ai-",
+        "published_at": "2026-07-22T07:34:32+00:00",
+        "word_count": 750,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
