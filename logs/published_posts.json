@@ -30692,5 +30692,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1504273365913178622",
+    "title": "the 'severance-buffer' liquidity audit: 7 stress-tests for your startup equity against sudden RIF-driven liquidation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-severance-buffer-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Latest News",
+      "startup equity",
+      "severance pay",
+      "layoff financial planning"
+    ],
+    "slug": "the-severance-buffer-liquidity-audit-7-stress-tests-for-your-startup-equity-agai",
+    "published_at": "2026-07-22T14:58:09+00:00",
+    "word_count": 810,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6353872778376753207",
+    "title": "The 'Accountability-Gap' Leadership Audit: 7 Stress-Tests for Your Management Workflow Against AI-Generated Decision-Making",
+    "url": "https://theomniview.blogspot.com/2026/07/the-accountability-gap-leadership-audit.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "interviews",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Interviews",
+      "AI accountability",
+      "management workflow",
+      "human-in-the-loop"
+    ],
+    "slug": "the-accountability-gap-leadership-audit-7-stress-tests-for-your-management-workf",
+    "published_at": "2026-07-22T14:58:40+00:00",
+    "word_count": 827,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
