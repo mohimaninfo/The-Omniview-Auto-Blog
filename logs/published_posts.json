@@ -31000,5 +31000,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1305151243765412276",
+    "title": "The 'subscription-trap' entertainment audit: 7 stress-tests for your media consumption against the rise of hardware-as-a-service",
+    "url": "https://theomniview.blogspot.com/2026/07/the-subscription-trap-entertainment.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Listicles",
+      "subscription economy",
+      "media consumption",
+      "smart home technology"
+    ],
+    "slug": "the-subscription-trap-entertainment-audit-7-stress-tests-for-your-media-consumpt",
+    "published_at": "2026-07-22T23:57:46+00:00",
+    "word_count": 852,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6347329046071859146",
+    "title": "The 'Cart-Abandonment' Sentiment Audit: 7 Stress-Tests for Your Ecommerce Checkout Flow Against AI-Driven Price Anchoring",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cart-abandonment-sentiment-audit-7.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Reviews",
+      "ecommerce checkout optimization",
+      "cart abandonment solutions",
+      "AI price comparison tools"
+    ],
+    "slug": "the-cart-abandonment-sentiment-audit-7-stress-tests-for-your-ecommerce-checkout-",
+    "published_at": "2026-07-22T23:58:12+00:00",
+    "word_count": 582,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
