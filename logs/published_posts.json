@@ -30604,5 +30604,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "553756867344474133",
+    "title": "The 'actuator-fatigue' robotics audit: 7 stress-tests for your autonomous delivery fleet against 2026 hardware-as-a-service degradation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-actuator-fatigue-robotics-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Explainers",
+      "autonomous delivery robots",
+      "robotics maintenance",
+      "hardware-as-a-service"
+    ],
+    "slug": "the-actuator-fatigue-robotics-audit-7-stress-tests-for-your-autonomous-delivery-",
+    "published_at": "2026-07-22T10:17:17+00:00",
+    "word_count": 1002,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3216859298535434783",
+    "title": "The 'Proof-of-Human' Portfolio Audit: 7 Stress-Tests for Your Career Against AI-Generated Candidate Fraud",
+    "url": "https://theomniview.blogspot.com/2026/07/the-proof-of-human-portfolio-audit-7.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Opinion & Analysis",
+      "career strategy",
+      "AI hiring fraud",
+      "proof of human"
+    ],
+    "slug": "the-proof-of-human-portfolio-audit-7-stress-tests-for-your-career-against-ai-gen",
+    "published_at": "2026-07-22T10:17:42+00:00",
+    "word_count": 919,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
