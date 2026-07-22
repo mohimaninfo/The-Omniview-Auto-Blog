@@ -36612,5 +36612,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-22T22:50:55.707492",
+    "run_end": "2026-07-22T22:51:33.368497",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4848593840667187817",
+        "title": "The 'debt-vs-savings' velocity audit: 7 stress-tests for your cash allocation strategy against 2026 inflation volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-debt-vs-savings-velocity-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "debt vs savings",
+          "emergency fund strategy",
+          "personal finance 2026"
+        ],
+        "slug": "the-debt-vs-savings-velocity-audit-7-stress-tests-for-your-cash-allocation-strat",
+        "published_at": "2026-07-22T22:56:15+00:00",
+        "word_count": 730,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3493392826899680916",
+        "title": "The 'Real-Estate-Slop' Audit: 7 Stress-Tests for Your Next Home Purchase Against AI-Generated Listing Deception",
+        "url": "https://theomniview.blogspot.com/2026/07/the-real-estate-slop-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "real estate slop",
+          "housefishing",
+          "AI real estate listings"
+        ],
+        "slug": "the-real-estate-slop-audit-7-stress-tests-for-your-next-home-purchase-against-ai",
+        "published_at": "2026-07-22T22:56:32+00:00",
+        "word_count": 701,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
