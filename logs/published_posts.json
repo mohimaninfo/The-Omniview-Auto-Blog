@@ -30868,5 +30868,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3681048605050729422",
+    "title": "The 'Subscription-Lock' Classroom Audit: 7 Stress-Tests for Your School's EdTech Stack Against Vendor Data-Hoarding",
+    "url": "https://theomniview.blogspot.com/2026/07/the-subscription-lock-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "reviews",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Reviews",
+      "edtech vendor lock-in",
+      "school data portability",
+      "edtech subscription models"
+    ],
+    "slug": "the-subscription-lock-classroom-audit-7-stress-tests-for-your-schools-edtech-sta",
+    "published_at": "2026-07-22T20:58:29+00:00",
+    "word_count": 688,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 7
+  },
+  {
+    "post_id": "333421891943937996",
+    "title": "the 'synthetic-citizen' verification audit: 7 stress-tests for your local neighborhood association against ai-generated proxy voting",
+    "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-citizen-verification.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Explainers",
+      "ai-generated proxy voting",
+      "digital democracy",
+      "neighborhood governance"
+    ],
+    "slug": "the-synthetic-citizen-verification-audit-7-stress-tests-for-your-local-neighborh",
+    "published_at": "2026-07-22T20:59:05+00:00",
+    "word_count": 1049,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
