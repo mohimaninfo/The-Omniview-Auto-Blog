@@ -36404,5 +36404,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-22T18:00:22.979866",
+    "run_end": "2026-07-22T18:01:15.874750",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6277367186049359352",
+        "title": "The 'smart-lock' vulnerability audit: 7 stress-tests for your home security against AI-driven predictive burglary",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-lock-vulnerability-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "smart home security",
+          "AI home security vulnerabilities",
+          "smart lock review"
+        ],
+        "slug": "the-smart-lock-vulnerability-audit-7-stress-tests-for-your-home-security-against",
+        "published_at": "2026-07-22T18:05:47+00:00",
+        "word_count": 583,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8059634423940385929",
+        "title": "The 'foundational-literacy' decay audit: 7 stress-tests for your k-12 curriculum against generative ai-assisted writing tools",
+        "url": "https://theomniview.blogspot.com/2026/07/the-foundational-literacy-decay-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "k12 literacy",
+          "generative ai in education",
+          "ai writing tools"
+        ],
+        "slug": "the-foundational-literacy-decay-audit-7-stress-tests-for-your-k-12-curriculum-ag",
+        "published_at": "2026-07-22T18:06:14+00:00",
+        "word_count": 1155,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
