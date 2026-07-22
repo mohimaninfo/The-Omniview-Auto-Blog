@@ -30516,5 +30516,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8957143706378461423",
+    "title": "The 'supply-chain' pantry audit: 7 stress-tests for your home cooking against AI-driven grocery price volatility",
+    "url": "https://theomniview.blogspot.com/2026/07/the-supply-chain-pantry-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Explainers",
+      "home cooking",
+      "grocery budget",
+      "pantry staples"
+    ],
+    "slug": "the-supply-chain-pantry-audit-7-stress-tests-for-your-home-cooking-against-ai-dr",
+    "published_at": "2026-07-22T05:01:30+00:00",
+    "word_count": 1210,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1544347719710153041",
+    "title": "The 'Microbiome-Defense' Audit: 7 Stress-Tests for Your Gut Health Against Artificial Sweetener Exposure",
+    "url": "https://theomniview.blogspot.com/2026/07/the-microbiome-defense-audit-7-stress.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "How-To Guides",
+      "gut health",
+      "artificial sweeteners",
+      "microbiome"
+    ],
+    "slug": "the-microbiome-defense-audit-7-stress-tests-for-your-gut-health-against-artifici",
+    "published_at": "2026-07-22T05:02:03+00:00",
+    "word_count": 1272,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
