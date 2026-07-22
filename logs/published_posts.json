@@ -30824,5 +30824,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4230970378179696739",
+    "title": "The 'Frontline-Accountability' Audit: 7 Stress-Tests for Your Career Integrity Against AI-Driven Management Decisions",
+    "url": "https://theomniview.blogspot.com/2026/07/the-frontline-accountability-audit-7.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Opinion & Analysis",
+      "AI accountability",
+      "workplace liability",
+      "AI in management"
+    ],
+    "slug": "the-frontline-accountability-audit-7-stress-tests-for-your-career-integrity-agai",
+    "published_at": "2026-07-22T19:27:50+00:00",
+    "word_count": 919,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6561363699918449057",
+    "title": "the 'shadow-model' exfiltration audit: 7 stress-tests for your corporate intellectual property against rogue llm fine-tuning",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-model-exfiltration-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Opinion & Analysis",
+      "llm security",
+      "data exfiltration",
+      "corporate ip protection"
+    ],
+    "slug": "the-shadow-model-exfiltration-audit-7-stress-tests-for-your-corporate-intellectu",
+    "published_at": "2026-07-22T19:28:22+00:00",
+    "word_count": 876,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
