@@ -36248,5 +36248,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-22T12:19:49.462182",
+    "run_end": "2026-07-22T12:20:50.981415",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7975765657092687815",
+        "title": "The 'Neuro-Synaptic' Moss Audit: 7 Stress-Tests for Your Cognitive Focus Against Infinite-Scroll Digital Media",
+        "url": "https://theomniview.blogspot.com/2026/07/the-neuro-synaptic-moss-audit-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "cognitive focus",
+          "neural network",
+          "digital media impact"
+        ],
+        "slug": "the-neuro-synaptic-moss-audit-7-stress-tests-for-your-cognitive-focus-against-in",
+        "published_at": "2026-07-22T12:25:11+00:00",
+        "word_count": 965,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5866814017859231613",
+        "title": "The 'Cognitive-Stagnation' Audit: 7 Stress-Tests for Your Self-Directed Learning Against LLM-Prompt Dependency",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-stagnation-audit-7-stress.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "How-To Guides",
+          "cognitive stagnation",
+          "self-directed learning",
+          "learning science"
+        ],
+        "slug": "the-cognitive-stagnation-audit-7-stress-tests-for-your-self-directed-learning-ag",
+        "published_at": "2026-07-22T12:25:50+00:00",
+        "word_count": 1076,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
