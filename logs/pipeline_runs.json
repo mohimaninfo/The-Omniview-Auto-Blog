@@ -36352,5 +36352,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-22T16:12:17.829236",
+    "run_end": "2026-07-22T16:13:08.083824",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7998684339574072810",
+        "title": "The 'algorithmic-accountability' audit: 7 stress-tests for your ecommerce customer support against AI-generated liability",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-accountability-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Reviews",
+          "ecommerce customer support",
+          "AI liability",
+          "algorithmic accountability"
+        ],
+        "slug": "the-algorithmic-accountability-audit-7-stress-tests-for-your-ecommerce-customer-",
+        "published_at": "2026-07-22T16:17:44+00:00",
+        "word_count": 538,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "571440656747232011",
+        "title": "The 'kinetic-classroom' ergonomics audit: 7 stress-tests for your school\u2019s furniture against the rise of sedentary AI-learning",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-classroom-ergonomics-audit.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "k12 ergonomics",
+          "classroom furniture standards",
+          "student health"
+        ],
+        "slug": "the-kinetic-classroom-ergonomics-audit-7-stress-tests-for-your-schools-furniture",
+        "published_at": "2026-07-22T16:18:06+00:00",
+        "word_count": 1047,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
