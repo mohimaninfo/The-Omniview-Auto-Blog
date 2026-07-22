@@ -30472,5 +30472,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "4056643635596632919",
+    "title": "The 'Shadow-Eval' Security Audit: 7 Stress-Tests for Your LLM Pipeline Against Adversarial Model Hijacking",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-eval-security-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Research Articles",
+      "LLM security",
+      "adversarial AI",
+      "model evaluation"
+    ],
+    "slug": "the-shadow-eval-security-audit-7-stress-tests-for-your-llm-pipeline-against-adve",
+    "published_at": "2026-07-22T01:26:07+00:00",
+    "word_count": 908,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7751187259601214656",
+    "title": "The 'Degree-Value' Deficit Audit: 7 Stress-Tests for Your University\u2019s Enrollment Strategy Against AI-Driven Skill Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/07/the-degree-value-deficit-audit-7-stress.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Research Articles",
+      "higher education enrollment",
+      "degree value",
+      "AI impact on education"
+    ],
+    "slug": "the-degree-value-deficit-audit-7-stress-tests-for-your-universitys-enrollment-st",
+    "published_at": "2026-07-22T01:26:33+00:00",
+    "word_count": 1100,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
