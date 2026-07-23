@@ -37028,5 +37028,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-23T16:24:58.512777",
+    "run_end": "2026-07-23T16:25:53.621725",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6794987405898304147",
+        "title": "The 'Smart-Meter' Data Audit: 7 Stress-Tests for Your Home Energy Privacy Against Utility-Scale AI Surveillance \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-meter-data-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "reviews",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Reviews",
+          "smart meter privacy",
+          "energy data tracking",
+          "home energy surveillance"
+        ],
+        "slug": "the-smart-meter-data-audit-7-stress-tests-for-your-home-energy-privacy-against-u",
+        "published_at": "2026-07-23T16:30:27+00:00",
+        "word_count": 546,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5987818752113651878",
+        "title": "The 'Shadow-CapEx' Audit: 7 Stress-Tests for Your Startup Valuation Against Hidden AI Infrastructure Debt \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-shadow-capex-audit-7-stress-tests.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "How-To Guides",
+          "startup valuation",
+          "AI infrastructure debt",
+          "CapEx vs OpEx"
+        ],
+        "slug": "the-shadow-capex-audit-7-stress-tests-for-your-startup-valuation-against-hidden-",
+        "published_at": "2026-07-23T16:30:53+00:00",
+        "word_count": 1002,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
