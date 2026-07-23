@@ -31088,5 +31088,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6412711998941168347",
+    "title": "The 'insurance-trap' mental health audit: 7 stress-tests for your career stability against job-locked healthcare",
+    "url": "https://theomniview.blogspot.com/2026/07/the-insurance-trap-mental-health-audit.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Explainers",
+      "mental health at work",
+      "job lock",
+      "health insurance coverage"
+    ],
+    "slug": "the-insurance-trap-mental-health-audit-7-stress-tests-for-your-career-stability-",
+    "published_at": "2026-07-23T05:18:09+00:00",
+    "word_count": 1033,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1104826139853309063",
+    "title": "The 'Perimenopause-Bias' diagnostic audit: 7 stress-tests for your mental health against delayed clinical recognition",
+    "url": "https://theomniview.blogspot.com/2026/07/the-perimenopause-bias-diagnostic-audit.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Research Articles",
+      "perimenopause mental health",
+      "hormonal anxiety",
+      "women's health crisis"
+    ],
+    "slug": "the-perimenopause-bias-diagnostic-audit-7-stress-tests-for-your-mental-health-ag",
+    "published_at": "2026-07-23T05:18:31+00:00",
+    "word_count": 958,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
