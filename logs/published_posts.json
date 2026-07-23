@@ -31352,5 +31352,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6950823424142775252",
+    "title": "the 'server-side' preservation audit: 7 stress-tests for your gaming collection against the rise of cloud-only infrastructure",
+    "url": "https://theomniview.blogspot.com/2026/07/the-server-side-preservation-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Listicles",
+      "digital game ownership",
+      "gaming preservation",
+      "cloud gaming risks"
+    ],
+    "slug": "the-server-side-preservation-audit-7-stress-tests-for-your-gaming-collection-aga",
+    "published_at": "2026-07-23T18:10:52+00:00",
+    "word_count": 878,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "154458482679538032",
+    "title": "The 'virtual-peaking' grid audit: 7 stress-tests for your home battery system against AI-driven demand response",
+    "url": "https://theomniview.blogspot.com/2026/07/the-virtual-peaking-grid-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "home battery storage",
+      "grid resilience",
+      "demand response"
+    ],
+    "slug": "the-virtual-peaking-grid-audit-7-stress-tests-for-your-home-battery-system-again",
+    "published_at": "2026-07-23T18:11:13+00:00",
+    "word_count": 1014,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
