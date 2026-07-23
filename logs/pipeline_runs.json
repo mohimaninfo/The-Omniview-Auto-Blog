@@ -37236,5 +37236,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-23T22:44:33.890175",
+    "run_end": "2026-07-23T22:45:17.443074",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1969501430322059872",
+        "title": "The 'surveillance-sprawl' security audit: 7 stress-tests for your neighborhood privacy against decentralized AI-camera networks",
+        "url": "https://theomniview.blogspot.com/2026/07/the-surveillance-sprawl-security-audit.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Research Articles",
+          "neighborhood surveillance privacy",
+          "AI camera network security",
+          "decentralized surveillance risks"
+        ],
+        "slug": "the-surveillance-sprawl-security-audit-7-stress-tests-for-your-neighborhood-priv",
+        "published_at": "2026-07-23T22:49:57+00:00",
+        "word_count": 990,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8422105973683422146",
+        "title": "The 'proof-of-reserves' audit: 7 stress-tests for your cryptocurrency exchange against insolvency-masking tactics",
+        "url": "https://theomniview.blogspot.com/2026/07/the-proof-of-reserves-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Explainers",
+          "proof-of-reserves",
+          "crypto exchange insolvency",
+          "cryptocurrency audit"
+        ],
+        "slug": "the-proof-of-reserves-audit-7-stress-tests-for-your-cryptocurrency-exchange-agai",
+        "published_at": "2026-07-23T22:50:16+00:00",
+        "word_count": 937,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
