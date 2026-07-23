@@ -31220,5 +31220,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6384769731156787253",
+    "title": "The 'Global Device ID' Privacy Audit: 7 Stress-Tests for Your Personal Data Sovereignty Against Microsoft\u2019s Persistent Tracking",
+    "url": "https://theomniview.blogspot.com/2026/07/the-global-device-id-privacy-audit-7.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Explainers",
+      "Global Device ID",
+      "data sovereignty",
+      "Microsoft privacy settings"
+    ],
+    "slug": "the-global-device-id-privacy-audit-7-stress-tests-for-your-personal-data-soverei",
+    "published_at": "2026-07-23T12:24:43+00:00",
+    "word_count": 1126,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7937478248592289883",
+    "title": "The 'poly-pharmacy' interaction audit: 7 stress-tests for your prescription regimen against age-related metabolic decline",
+    "url": "https://theomniview.blogspot.com/2026/07/the-poly-pharmacy-interaction-audit-7.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Explainers",
+      "polypharmacy risks",
+      "medication interaction audit",
+      "metabolic drug clearance"
+    ],
+    "slug": "the-poly-pharmacy-interaction-audit-7-stress-tests-for-your-prescription-regimen",
+    "published_at": "2026-07-23T12:25:05+00:00",
+    "word_count": 995,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
