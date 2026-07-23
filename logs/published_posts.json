@@ -31132,5 +31132,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2756420792707022150",
+    "title": "The 'Grid-Priority' Audit: 7 Stress-Tests for Your Local Energy Reliability Against AI Data Center Expansion \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-grid-priority-audit-7-stress-tests_01133095235.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Explainers",
+      "climate policy",
+      "data center energy consumption",
+      "grid reliability"
+    ],
+    "slug": "the-grid-priority-audit-7-stress-tests-for-your-local-energy-reliability-against",
+    "published_at": "2026-07-23T08:12:42+00:00",
+    "word_count": 1134,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "986322485962388874",
+    "title": "The 'Dopamine-Fast' Productivity Audit: 7 Stress-Tests for Your Focus Against Infinite-Scroll Algorithmic Loops",
+    "url": "https://theomniview.blogspot.com/2026/07/the-dopamine-fast-productivity-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "How-To Guides",
+      "dopamine detox",
+      "digital wellbeing",
+      "attention span recovery"
+    ],
+    "slug": "the-dopamine-fast-productivity-audit-7-stress-tests-for-your-focus-against-infin",
+    "published_at": "2026-07-23T08:13:07+00:00",
+    "word_count": 1093,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
