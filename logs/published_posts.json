@@ -31264,5 +31264,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8721027016307769642",
+    "title": "The 'Shadow-Debt' Transparency Audit: 7 Stress-Tests for Your Startup\u2019s Valuation Against Hidden AI Infrastructure Costs",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-debt-transparency-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Interviews",
+      "startup valuation",
+      "AI operational debt",
+      "venture debt"
+    ],
+    "slug": "the-shadow-debt-transparency-audit-7-stress-tests-for-your-startups-valuation-ag",
+    "published_at": "2026-07-23T15:04:46+00:00",
+    "word_count": 991,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8697455670248037676",
+    "title": "The 'canon-drift' preservation audit: 7 stress-tests for your favorite franchise lore against AI-generated retroactive continuity",
+    "url": "https://theomniview.blogspot.com/2026/07/the-canon-drift-preservation-audit-7.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Explainers",
+      "AI generated canon",
+      "franchise lore preservation",
+      "generative AI in entertainment"
+    ],
+    "slug": "the-canon-drift-preservation-audit-7-stress-tests-for-your-favorite-franchise-lo",
+    "published_at": "2026-07-23T15:05:11+00:00",
+    "word_count": 886,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
