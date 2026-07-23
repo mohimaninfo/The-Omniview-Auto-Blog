@@ -31396,5 +31396,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2182101533748212698",
+    "title": "The 'autonomous-vandalism' audit: 7 stress-tests for your neighborhood safety against the rise of smart-camera sabotage",
+    "url": "https://theomniview.blogspot.com/2026/07/the-autonomous-vandalism-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Research Articles",
+      "smart camera sabotage",
+      "Flock safety cameras",
+      "autonomous surveillance privacy"
+    ],
+    "slug": "the-autonomous-vandalism-audit-7-stress-tests-for-your-neighborhood-safety-again",
+    "published_at": "2026-07-23T20:11:43+00:00",
+    "word_count": 1013,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3542087533828502378",
+    "title": "The 'sovereign-neutrality' audit: 7 stress-tests for your global travel documentation against state-level digital currency mandates",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sovereign-neutrality-audit-7-stress.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Opinion & Analysis",
+      "digital currency mandates",
+      "global travel documentation",
+      "sovereign neutrality"
+    ],
+    "slug": "the-sovereign-neutrality-audit-7-stress-tests-for-your-global-travel-documentati",
+    "published_at": "2026-07-23T20:12:05+00:00",
+    "word_count": 894,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
