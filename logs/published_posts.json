@@ -31440,5 +31440,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "992566067607909411",
+    "title": "The 'coral-bleaching' resilience audit: 7 stress-tests for your local marine conservation against climate-driven ocean warming",
+    "url": "https://theomniview.blogspot.com/2026/07/the-coral-bleaching-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Opinion & Analysis",
+      "coral bleaching",
+      "marine conservation",
+      "climate change biology"
+    ],
+    "slug": "the-coral-bleaching-resilience-audit-7-stress-tests-for-your-local-marine-conser",
+    "published_at": "2026-07-23T21:59:49+00:00",
+    "word_count": 720,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "377422040128291615",
+    "title": "the 'ad-tech' attribution audit: 7 stress-tests for your marketing ROI against the rise of server-side conversion modeling",
+    "url": "https://theomniview.blogspot.com/2026/07/the-ad-tech-attribution-audit-7-stress.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Research Articles",
+      "marketing attribution",
+      "server-side tracking",
+      "conversion modeling"
+    ],
+    "slug": "the-ad-tech-attribution-audit-7-stress-tests-for-your-marketing-roi-against-the-",
+    "published_at": "2026-07-23T22:00:20+00:00",
+    "word_count": 944,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
