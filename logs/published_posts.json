@@ -31176,5 +31176,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5482569869103746162",
+    "title": "The 'carbon-debt' cooling audit: 7 stress-tests for your local power grid against ai data center expansion",
+    "url": "https://theomniview.blogspot.com/2026/07/the-carbon-debt-cooling-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Explainers",
+      "ai data center energy consumption",
+      "climate policy",
+      "grid resilience"
+    ],
+    "slug": "the-carbon-debt-cooling-audit-7-stress-tests-for-your-local-power-grid-against-a",
+    "published_at": "2026-07-23T11:02:11+00:00",
+    "word_count": 878,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5888168042466153325",
+    "title": "The 'dynamic-pricing' pantry audit: 7 stress-tests for your home cooking budget against algorithmic grocery inflation",
+    "url": "https://theomniview.blogspot.com/2026/07/the-dynamic-pricing-pantry-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Listicles",
+      "grocery price inflation",
+      "dynamic pricing food",
+      "home cooking budget"
+    ],
+    "slug": "the-dynamic-pricing-pantry-audit-7-stress-tests-for-your-home-cooking-budget-aga",
+    "published_at": "2026-07-23T11:02:39+00:00",
+    "word_count": 821,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
