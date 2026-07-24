@@ -37808,5 +37808,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-24T22:50:22.469826",
+    "run_end": "2026-07-24T22:51:16.228559",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1523797735432595995",
+        "title": "The 'kinetic-vulnerability' audit: 7 stress-tests for your autonomous delivery robot fleet against adversarial physical interference",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-vulnerability-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Research Articles",
+          "autonomous delivery robots",
+          "robotics security",
+          "fleet management"
+        ],
+        "slug": "the-kinetic-vulnerability-audit-7-stress-tests-for-your-autonomous-delivery-robo",
+        "published_at": "2026-07-24T22:55:53+00:00",
+        "word_count": 976,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "704431771180463059",
+        "title": "The 'zero-party' data audit: 7 stress-tests for your CRM strategy against the death of third-party cookies \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-zero-party-data-audit-7-stress_0614662255.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Opinion & Analysis",
+          "zero-party data",
+          "CRM strategy",
+          "data privacy marketing"
+        ],
+        "slug": "the-zero-party-data-audit-7-stress-tests-for-your-crm-strategy-against-the-death",
+        "published_at": "2026-07-24T22:56:15+00:00",
+        "word_count": 877,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
