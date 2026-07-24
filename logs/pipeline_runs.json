@@ -37548,5 +37548,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-24T12:10:35.651206",
+    "run_end": "2026-07-24T12:11:16.135436",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1132697825998801146",
+        "title": "The 'Inheritance-Gap' Audit: 7 Stress-Tests for Your Estate Plan Against Post-Retirement Long-Term Care Costs",
+        "url": "https://theomniview.blogspot.com/2026/07/the-inheritance-gap-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "estate planning",
+          "long-term care costs",
+          "retirement asset protection"
+        ],
+        "slug": "the-inheritance-gap-audit-7-stress-tests-for-your-estate-plan-against-post-retir",
+        "published_at": "2026-07-24T12:15:56+00:00",
+        "word_count": 865,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "717799370547986292",
+        "title": "The 'Edge-Node' security audit: 7 stress-tests for your local mesh network against AI-driven botnet infiltration",
+        "url": "https://theomniview.blogspot.com/2026/07/the-edge-node-security-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Research Articles",
+          "mesh network security",
+          "botnet infiltration",
+          "edge computing cybersecurity"
+        ],
+        "slug": "the-edge-node-security-audit-7-stress-tests-for-your-local-mesh-network-against-",
+        "published_at": "2026-07-24T12:16:15+00:00",
+        "word_count": 999,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
