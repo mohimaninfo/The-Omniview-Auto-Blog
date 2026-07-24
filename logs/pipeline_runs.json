@@ -37600,5 +37600,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-24T14:41:44.842296",
+    "run_end": "2026-07-24T14:43:00.764864",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2120185039413762897",
+        "title": "the 'sovereign-currency' panic audit: 7 stress-tests for your personal savings against global trade decoupling and tariff wars",
+        "url": "https://theomniview.blogspot.com/2026/07/the-sovereign-currency-panic-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Opinion & Analysis",
+          "trade decoupling",
+          "personal finance strategy",
+          "tariff impact"
+        ],
+        "slug": "the-sovereign-currency-panic-audit-7-stress-tests-for-your-personal-savings-agai",
+        "published_at": "2026-07-24T14:47:28+00:00",
+        "word_count": 962,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "545244429598049555",
+        "title": "the 'human-in-the-loop' career audit: 7 stress-tests for your professional role against ai-driven workforce redundancy",
+        "url": "https://theomniview.blogspot.com/2026/07/the-human-in-loop-career-audit-7-stress.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "ai career redundancy",
+          "future of work skills",
+          "professional resilience"
+        ],
+        "slug": "the-human-in-the-loop-career-audit-7-stress-tests-for-your-professional-role-aga",
+        "published_at": "2026-07-24T14:47:59+00:00",
+        "word_count": 865,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
