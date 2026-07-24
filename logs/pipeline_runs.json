@@ -37756,5 +37756,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-24T21:53:13.130030",
+    "run_end": "2026-07-24T21:54:07.923352",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5907971830264005482",
+        "title": "The 'Smart-Home' Lockout Audit: 7 Stress-Tests for Your Connected Deadbolts Against Cloud-Platform Failures",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-home-lockout-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "smart home security",
+          "cloud outage protection",
+          "smart lock reliability"
+        ],
+        "slug": "the-smart-home-lockout-audit-7-stress-tests-for-your-connected-deadbolts-against",
+        "published_at": "2026-07-24T21:58:36+00:00",
+        "word_count": 749,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6634461320560177523",
+        "title": "The 'Cognitive-Offload' Curriculum Audit: 7 Stress-Tests for Your Study Habits Against AI-Dependency",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-offload-curriculum-audit.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "How-To Guides",
+          "learning science",
+          "cognitive offloading",
+          "ai in education"
+        ],
+        "slug": "the-cognitive-offload-curriculum-audit-7-stress-tests-for-your-study-habits-agai",
+        "published_at": "2026-07-24T21:59:06+00:00",
+        "word_count": 1127,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
