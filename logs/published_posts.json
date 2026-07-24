@@ -31572,5 +31572,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3612581186456231",
+    "title": "The 'async-parity' communication audit: 7 stress-tests for your remote-work culture against AI-driven management surveillance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-async-parity-communication-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Research Articles",
+      "remote work culture",
+      "AI productivity monitoring",
+      "asynchronous communication"
+    ],
+    "slug": "the-async-parity-communication-audit-7-stress-tests-for-your-remote-work-culture",
+    "published_at": "2026-07-24T01:30:06+00:00",
+    "word_count": 1071,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6247512208124270606",
+    "title": "the 'master-tape' ownership audit: 7 stress-tests for your high-fidelity music collection against the rise of cloud-only licensing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-master-tape-ownership-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "digital music ownership",
+      "high-fidelity music",
+      "music streaming licensing"
+    ],
+    "slug": "the-master-tape-ownership-audit-7-stress-tests-for-your-high-fidelity-music-coll",
+    "published_at": "2026-07-24T01:30:26+00:00",
+    "word_count": 681,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
