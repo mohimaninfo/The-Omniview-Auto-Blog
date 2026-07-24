@@ -31616,5 +31616,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8013005639097444787",
+    "title": "The 'shadow-manager' performance audit: 7 stress-tests for your remote-work productivity against AI-driven management surveillance \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-shadow-manager-performance-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "How-To Guides",
+      "remote work productivity",
+      "employee surveillance",
+      "AI performance management"
+    ],
+    "slug": "the-shadow-manager-performance-audit-7-stress-tests-for-your-remote-work-product",
+    "published_at": "2026-07-24T05:03:21+00:00",
+    "word_count": 978,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7377811460543221970",
+    "title": "The 'algorithmic-shrinkflation' audit: 7 stress-tests for your household budget against dynamic pricing software",
+    "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-shrinkflation-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Opinion & Analysis",
+      "algorithmic shrinkflation",
+      "dynamic pricing",
+      "household budget"
+    ],
+    "slug": "the-algorithmic-shrinkflation-audit-7-stress-tests-for-your-household-budget-aga",
+    "published_at": "2026-07-24T05:03:51+00:00",
+    "word_count": 989,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
