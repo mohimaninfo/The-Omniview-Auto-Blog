@@ -37652,5 +37652,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-24T18:09:05.601660",
+    "run_end": "2026-07-24T18:09:45.602042",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3573559936055246591",
+        "title": "The 'algorithmic-price-gouging' audit: 7 stress-tests for your household budget against real-time AI dynamic pricing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-price-gouging-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Reviews",
+          "AI dynamic pricing",
+          "algorithmic price gouging",
+          "retail AI surveillance"
+        ],
+        "slug": "the-algorithmic-price-gouging-audit-7-stress-tests-for-your-household-budget-aga",
+        "published_at": "2026-07-24T18:14:24+00:00",
+        "word_count": 660,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3446587132730416232",
+        "title": "The 'v2g-latency' grid audit: 7 stress-tests for your electric vehicle battery against bi-directional charging bottlenecks \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-v2g-latency-grid-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Case Studies",
+          "vehicle-to-grid",
+          "v2g technology",
+          "renewable energy storage"
+        ],
+        "slug": "the-v2g-latency-grid-audit-7-stress-tests-for-your-electric-vehicle-battery-agai",
+        "published_at": "2026-07-24T18:14:45+00:00",
+        "word_count": 738,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
