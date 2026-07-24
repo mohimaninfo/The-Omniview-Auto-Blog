@@ -31880,5 +31880,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1788707507940184388",
+    "title": "The 'Cold-Storage' Liquidity Audit: 7 Stress-Tests for Your Crypto Portfolio Against Sudden Emergency Cash Needs",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cold-storage-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "cryptocurrency liquidity",
+      "crypto portfolio management",
+      "emergency fund strategy"
+    ],
+    "slug": "the-cold-storage-liquidity-audit-7-stress-tests-for-your-crypto-portfolio-agains",
+    "published_at": "2026-07-24T20:14:01+00:00",
+    "word_count": 962,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1247136073043212437",
+    "title": "the 'burn-rate' stress-test audit: 7 financial health-checks for your startup against rising venture debt costs \u2014 a case studies perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-burn-rate-stress-test-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Case Studies",
+      "startup burn rate",
+      "venture debt",
+      "startup financial health"
+    ],
+    "slug": "the-burn-rate-stress-test-audit-7-financial-health-checks-for-your-startup-again",
+    "published_at": "2026-07-24T20:14:22+00:00",
+    "word_count": 676,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
