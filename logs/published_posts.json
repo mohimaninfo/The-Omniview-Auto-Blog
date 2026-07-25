@@ -32188,5 +32188,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7459141602609425603",
+    "title": "The 'algorithmic-liquidity' audit: 7 stress-tests for your emergency fund against AI-driven bank run contagion",
+    "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Opinion & Analysis",
+      "emergency fund strategy",
+      "bank run risk",
+      "liquidity management"
+    ],
+    "slug": "the-algorithmic-liquidity-audit-7-stress-tests-for-your-emergency-fund-against-a",
+    "published_at": "2026-07-25T09:30:10+00:00",
+    "word_count": 891,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5672661074248256079",
+    "title": "The 'DNS-Poisoning' Defense Audit: 7 Stress-Tests for Your Developer Laptop Against Hotel Wi-Fi Interception",
+    "url": "https://theomniview.blogspot.com/2026/07/the-dns-poisoning-defense-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "DNS poisoning",
+      "developer security",
+      "network hardening"
+    ],
+    "slug": "the-dns-poisoning-defense-audit-7-stress-tests-for-your-developer-laptop-against",
+    "published_at": "2026-07-25T09:30:43+00:00",
+    "word_count": 947,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
