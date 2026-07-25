@@ -32540,5 +32540,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8986352779127838563",
+    "title": "The 'Slur-Desensitization' Audit: 7 Stress-Tests for Your Cognitive Empathy Against Reclaimed Hate Speech",
+    "url": "https://theomniview.blogspot.com/2026/07/the-slur-desensitization-audit-7-stress.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Research Articles",
+      "neuroscience of hate speech",
+      "cognitive desensitization",
+      "reclaimed slurs impact"
+    ],
+    "slug": "the-slur-desensitization-audit-7-stress-tests-for-your-cognitive-empathy-against",
+    "published_at": "2026-07-25T20:09:00+00:00",
+    "word_count": 1156,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7544545857014288916",
+    "title": "The 'Open-Weight' Fragility Audit: 7 Stress-Tests for Your Production Codebase Against Model Drift",
+    "url": "https://theomniview.blogspot.com/2026/07/the-open-weight-fragility-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Opinion & Analysis",
+      "open-weight models",
+      "LLM production",
+      "model drift"
+    ],
+    "slug": "the-open-weight-fragility-audit-7-stress-tests-for-your-production-codebase-agai",
+    "published_at": "2026-07-25T20:09:23+00:00",
+    "word_count": 787,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
