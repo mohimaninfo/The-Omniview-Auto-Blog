@@ -38536,5 +38536,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-25T21:42:11.071361",
+    "run_end": "2026-07-25T21:43:00.670848",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6597111011305083479",
+        "title": "The 'Brain Rot' Neural Audit: 7 Stress-Tests for Your Cognitive Resilience Against Short-Form Video Loops",
+        "url": "https://theomniview.blogspot.com/2026/07/the-brain-rot-neural-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Explainers",
+          "brain rot neuroscience",
+          "cognitive fatigue",
+          "dopamine regulation"
+        ],
+        "slug": "the-brain-rot-neural-audit-7-stress-tests-for-your-cognitive-resilience-against-",
+        "published_at": "2026-07-25T21:47:34+00:00",
+        "word_count": 969,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7893065305097746001",
+        "title": "The 'context-window' retention audit: 7 stress-tests for your brand\u2019s long-form content against AI-summarization bias",
+        "url": "https://theomniview.blogspot.com/2026/07/the-context-window-retention-audit-7_01264432115.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "How-To Guides",
+          "AI summarization",
+          "content marketing strategy",
+          "LLM optimization"
+        ],
+        "slug": "the-context-window-retention-audit-7-stress-tests-for-your-brands-long-form-cont",
+        "published_at": "2026-07-25T21:47:59+00:00",
+        "word_count": 1088,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
