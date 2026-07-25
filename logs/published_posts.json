@@ -32364,5 +32364,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "2152923862357547993",
+    "title": "The 'human-in-the-loop' pedagogy audit: 7 stress-tests for your classroom against AI-driven skill atrophy",
+    "url": "https://theomniview.blogspot.com/2026/07/the-human-in-loop-pedagogy-audit-7.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Research Articles",
+      "learning science",
+      "AI in education",
+      "cognitive offloading"
+    ],
+    "slug": "the-human-in-the-loop-pedagogy-audit-7-stress-tests-for-your-classroom-against-a",
+    "published_at": "2026-07-25T15:59:45+00:00",
+    "word_count": 956,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7090430507699508083",
+    "title": "The 'proxy-enrollment' audit: 7 stress-tests for your university\u2019s admissions process against ai-generated applicant personas",
+    "url": "https://theomniview.blogspot.com/2026/07/the-proxy-enrollment-audit-7-stress.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Explainers",
+      "ai admissions fraud",
+      "university enrollment strategy",
+      "synthetic student profiles"
+    ],
+    "slug": "the-proxy-enrollment-audit-7-stress-tests-for-your-universitys-admissions-proces",
+    "published_at": "2026-07-25T16:00:08+00:00",
+    "word_count": 1012,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
