@@ -32056,5 +32056,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5729351255141190857",
+    "title": "The 'Kill-Switch' Privacy Audit: 7 Stress-Tests for Your Smartphone Against Modern Duress-Mode Surveillance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-kill-switch-privacy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Explainers",
+      "duress password",
+      "smartphone privacy audit",
+      "border search security"
+    ],
+    "slug": "the-kill-switch-privacy-audit-7-stress-tests-for-your-smartphone-against-modern-",
+    "published_at": "2026-07-25T01:30:12+00:00",
+    "word_count": 1098,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7171230153446594962",
+    "title": "The 'proprietary-part' circular economy audit: 7 stress-tests for your fleet of electric vehicles against manufacturer component-locking",
+    "url": "https://theomniview.blogspot.com/2026/07/the-proprietary-part-circular-economy.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Explainers",
+      "circular economy",
+      "right to repair",
+      "electric vehicle maintenance"
+    ],
+    "slug": "the-proprietary-part-circular-economy-audit-7-stress-tests-for-your-fleet-of-ele",
+    "published_at": "2026-07-25T01:30:35+00:00",
+    "word_count": 1033,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
