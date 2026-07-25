@@ -32408,5 +32408,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1031628698216491159",
+    "title": "The 'humanoid-integration' ethics audit: 7 stress-tests for your school district\u2019s robotics pilot against public backlash",
+    "url": "https://theomniview.blogspot.com/2026/07/the-humanoid-integration-ethics-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "humanoid robots in schools",
+      "robotics ethics",
+      "AI in education"
+    ],
+    "slug": "the-humanoid-integration-ethics-audit-7-stress-tests-for-your-school-districts-r",
+    "published_at": "2026-07-25T16:47:56+00:00",
+    "word_count": 989,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4915338980781052459",
+    "title": "The 'neural-entrainment' audit: 7 stress-tests for your circadian rhythm against blue-light-filtering ai displays",
+    "url": "https://theomniview.blogspot.com/2026/07/the-neural-entrainment-audit-7-stress.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Latest News",
+      "circadian rhythm",
+      "neural entrainment",
+      "blue light exposure"
+    ],
+    "slug": "the-neural-entrainment-audit-7-stress-tests-for-your-circadian-rhythm-against-bl",
+    "published_at": "2026-07-25T16:48:17+00:00",
+    "word_count": 762,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
