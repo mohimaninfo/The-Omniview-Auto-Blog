@@ -38172,5 +38172,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-25T12:02:11.327576",
+    "run_end": "2026-07-25T12:02:58.023660",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4164924048265026385",
+        "title": "The 'Duress-Code' Security Audit: 7 Stress-Tests for Your Smartphone Privacy Against Border Searches",
+        "url": "https://theomniview.blogspot.com/2026/07/the-duress-code-security-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "smartphone privacy",
+          "border security",
+          "duress password"
+        ],
+        "slug": "the-duress-code-security-audit-7-stress-tests-for-your-smartphone-privacy-agains",
+        "published_at": "2026-07-25T12:07:33+00:00",
+        "word_count": 1135,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6241816932339628022",
+        "title": "The 'Return-to-Sender' Logistics Audit: 7 Stress-Tests for Your Ecommerce Profitability Against Automated Returns Fraud",
+        "url": "https://theomniview.blogspot.com/2026/07/the-return-to-sender-logistics-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Reviews",
+          "ecommerce returns management",
+          "reverse logistics strategy",
+          "returns fraud prevention"
+        ],
+        "slug": "the-return-to-sender-logistics-audit-7-stress-tests-for-your-ecommerce-profitabi",
+        "published_at": "2026-07-25T12:07:56+00:00",
+        "word_count": 548,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
