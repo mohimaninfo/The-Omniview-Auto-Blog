@@ -38016,5 +38016,57 @@
         "reference_count": 7
       }
     ]
+  },
+  {
+    "run_start": "2026-07-25T07:07:49.079102",
+    "run_end": "2026-07-25T07:08:42.565457",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5713990224014340250",
+        "title": "The 'tariff-inflation' household audit: 7 stress-tests for your grocery budget against global trade decoupling \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-tariff-inflation-household-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Opinion & Analysis",
+          "tariff-inflation",
+          "household budget",
+          "global trade decoupling"
+        ],
+        "slug": "the-tariff-inflation-household-audit-7-stress-tests-for-your-grocery-budget-agai",
+        "published_at": "2026-07-25T07:13:23+00:00",
+        "word_count": 1079,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6969611829932878172",
+        "title": "The 'digital-sovereignty' border audit: 7 stress-tests for your personal data against cross-border warrant enforcement",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-sovereignty-border-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "digital sovereignty",
+          "data privacy",
+          "international jurisdiction"
+        ],
+        "slug": "the-digital-sovereignty-border-audit-7-stress-tests-for-your-personal-data-again",
+        "published_at": "2026-07-25T07:13:42+00:00",
+        "word_count": 1117,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
