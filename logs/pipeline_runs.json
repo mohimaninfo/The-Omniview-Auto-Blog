@@ -38224,5 +38224,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-25T14:25:06.093988",
+    "run_end": "2026-07-25T14:25:51.442804",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4455020530744098340",
+        "title": "The 'Kill-Switch' Fandom Audit: 7 Stress-Tests for Your Digital Library Against Cloud-Only Content Deletion \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kill-switch-fandom-audit-7-stress_0120410864.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "digital library",
+          "cloud-only licensing",
+          "PlayStation Network outage"
+        ],
+        "slug": "the-kill-switch-fandom-audit-7-stress-tests-for-your-digital-library-against-clo",
+        "published_at": "2026-07-25T14:30:25+00:00",
+        "word_count": 890,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3021253334583755186",
+        "title": "The 'permafrost-thaw' infrastructure audit: 7 stress-tests for your northern real estate investments against climate-driven ground subsidence \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-permafrost-thaw-infrastructure_0794838124.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Latest News",
+          "permafrost thaw",
+          "climate adaptation",
+          "infrastructure resilience"
+        ],
+        "slug": "the-permafrost-thaw-infrastructure-audit-7-stress-tests-for-your-northern-real-e",
+        "published_at": "2026-07-25T14:30:50+00:00",
+        "word_count": 744,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
