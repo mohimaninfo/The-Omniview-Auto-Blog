@@ -38640,5 +38640,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-25T23:48:40.403373",
+    "run_end": "2026-07-25T23:49:36.413942",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1200024208068677131",
+        "title": "The 'catch-up' velocity audit: 7 stress-tests for your late-start retirement portfolio against 2026 market volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-catch-up-velocity-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Research Articles",
+          "late retirement savings",
+          "catch-up investing strategy",
+          "retirement portfolio stress test"
+        ],
+        "slug": "the-catch-up-velocity-audit-7-stress-tests-for-your-late-start-retirement-portfo",
+        "published_at": "2026-07-25T23:54:01+00:00",
+        "word_count": 1080,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "1305932311916571359",
+        "title": "The 'Satellite-Sovereignty' Audit: 7 Stress-Tests for Your Personal Data Privacy Against Cross-Border Intelligence Sharing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-satellite-sovereignty-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Opinion & Analysis",
+          "digital sovereignty",
+          "data privacy",
+          "geopolitical surveillance"
+        ],
+        "slug": "the-satellite-sovereignty-audit-7-stress-tests-for-your-personal-data-privacy-ag",
+        "published_at": "2026-07-25T23:54:35+00:00",
+        "word_count": 863,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
