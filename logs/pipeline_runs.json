@@ -38588,5 +38588,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-25T22:41:40.502644",
+    "run_end": "2026-07-25T22:42:16.440232",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2272447821101969898",
+        "title": "The 'digital-extinction' audit: 7 stress-tests for your favorite film franchises against cloud-only license revocation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-extinction-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Reviews",
+          "digital movie ownership",
+          "streaming service license revocation",
+          "DRM film access"
+        ],
+        "slug": "the-digital-extinction-audit-7-stress-tests-for-your-favorite-film-franchises-ag",
+        "published_at": "2026-07-25T22:46:56+00:00",
+        "word_count": 596,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "344184139429873799",
+        "title": "The 'Quantum-Decoherence' Audit: 7 Stress-Tests for Your Next-Gen Encryption Against Q-Day Vulnerabilities",
+        "url": "https://theomniview.blogspot.com/2026/07/the-quantum-decoherence-audit-7-stress_01389365313.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "quantum decoherence",
+          "post-quantum cryptography",
+          "cybersecurity threats"
+        ],
+        "slug": "the-quantum-decoherence-audit-7-stress-tests-for-your-next-gen-encryption-agains",
+        "published_at": "2026-07-25T22:47:15+00:00",
+        "word_count": 892,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
