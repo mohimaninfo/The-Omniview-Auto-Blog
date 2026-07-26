@@ -33024,5 +33024,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5973387810710493432",
+    "title": "The 'Offline-First' Kitchen Audit: 7 Stress-Tests for Your Sustainable Home Against Cloud-Dependent Appliance Failures",
+    "url": "https://theomniview.blogspot.com/2026/07/the-offline-first-kitchen-audit-7.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "How-To Guides",
+      "sustainable living",
+      "smart home privacy",
+      "offline-first appliances"
+    ],
+    "slug": "the-offline-first-kitchen-audit-7-stress-tests-for-your-sustainable-home-against",
+    "published_at": "2026-07-26T15:58:10+00:00",
+    "word_count": 1007,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2538482658933845627",
+    "title": "The 'local-node' resilience audit: 7 stress-tests for your startup\u2019s infrastructure against data center protests",
+    "url": "https://theomniview.blogspot.com/2026/07/the-local-node-resilience-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Interviews",
+      "data center protests",
+      "startup infrastructure",
+      "digital resilience"
+    ],
+    "slug": "the-local-node-resilience-audit-7-stress-tests-for-your-startups-infrastructure-",
+    "published_at": "2026-07-26T15:58:32+00:00",
+    "word_count": 994,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
