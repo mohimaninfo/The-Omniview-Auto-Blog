@@ -32804,5 +32804,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8296939050491789636",
+    "title": "The 'analog-reversion' classroom audit: 7 stress-tests for your school\u2019s tech-heavy curriculum against the screen-free movement",
+    "url": "https://theomniview.blogspot.com/2026/07/the-analog-reversion-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "latest-news",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Latest News",
+      "k12 education",
+      "screen-free classrooms",
+      "edtech policy"
+    ],
+    "slug": "the-analog-reversion-classroom-audit-7-stress-tests-for-your-schools-tech-heavy-",
+    "published_at": "2026-07-26T08:08:50+00:00",
+    "word_count": 712,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "968417954884099630",
+    "title": "The 'algorithmic-tenancy' audit: 7 stress-tests for your housing security against institutional rent-setting software",
+    "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-tenancy-audit-7-stress.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Opinion & Analysis",
+      "algorithmic rent pricing",
+      "housing inequality",
+      "real estate tech"
+    ],
+    "slug": "the-algorithmic-tenancy-audit-7-stress-tests-for-your-housing-security-against-i",
+    "published_at": "2026-07-26T08:09:09+00:00",
+    "word_count": 973,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
