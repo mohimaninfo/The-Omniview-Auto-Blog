@@ -32848,5 +32848,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "1239120756390582570",
+    "title": "The 'Hard-Reset' Gadget Audit: 7 Stress-Tests for Your Home Tech Against the Screen-Free Classroom Backlash",
+    "url": "https://theomniview.blogspot.com/2026/07/the-hard-reset-gadget-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "screen-free learning",
+      "educational gadgets",
+      "cognitive development"
+    ],
+    "slug": "the-hard-reset-gadget-audit-7-stress-tests-for-your-home-tech-against-the-screen",
+    "published_at": "2026-07-26T10:31:53+00:00",
+    "word_count": 849,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4880189474576539890",
+    "title": "The 'bio-feedback' pantry audit: 7 stress-tests for your glucose monitor against hidden glycemic-spike food fillers",
+    "url": "https://theomniview.blogspot.com/2026/07/the-bio-feedback-pantry-audit-7-stress.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "reviews",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Reviews",
+      "continuous glucose monitor",
+      "glycemic index",
+      "blood sugar management"
+    ],
+    "slug": "the-bio-feedback-pantry-audit-7-stress-tests-for-your-glucose-monitor-against-hi",
+    "published_at": "2026-07-26T10:32:11+00:00",
+    "word_count": 696,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
