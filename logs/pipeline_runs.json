@@ -38692,5 +38692,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-26T01:27:49.688162",
+    "run_end": "2026-07-26T01:28:28.045796",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1714774838140486426",
+        "title": "The 'Analog-Resilience' Kitchen Audit: 7 Stress-Tests for Your Home Appliances Against Cloud-Only Infrastructure Failures",
+        "url": "https://theomniview.blogspot.com/2026/07/the-analog-resilience-kitchen-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "smart home reliability",
+          "analog kitchen appliances",
+          "home automation failure"
+        ],
+        "slug": "the-analog-resilience-kitchen-audit-7-stress-tests-for-your-home-appliances-agai",
+        "published_at": "2026-07-26T01:33:09+00:00",
+        "word_count": 761,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7733531463275372947",
+        "title": "the 'satellite-latency' surveillance audit: 7 stress-tests for your home privacy against low-earth-orbit intelligence sharing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-satellite-latency-surveillance.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "satellite surveillance privacy",
+          "low-earth-orbit intelligence",
+          "commercial satellite imagery"
+        ],
+        "slug": "the-satellite-latency-surveillance-audit-7-stress-tests-for-your-home-privacy-ag",
+        "published_at": "2026-07-26T01:33:27+00:00",
+        "word_count": 996,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
