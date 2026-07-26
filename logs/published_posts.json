@@ -32980,5 +32980,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7575929184045272041",
+    "title": "The 'Analog-Pivot' Productivity Audit: 7 Stress-Tests for Your Creative Workflow Against Digital Over-Optimization",
+    "url": "https://theomniview.blogspot.com/2026/07/the-analog-pivot-productivity-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Explainers",
+      "analog productivity",
+      "digital detox",
+      "creative workflow"
+    ],
+    "slug": "the-analog-pivot-productivity-audit-7-stress-tests-for-your-creative-workflow-ag",
+    "published_at": "2026-07-26T14:27:25+00:00",
+    "word_count": 1048,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5726921839285223066",
+    "title": "The 'bit-rot' streaming audit: 7 stress-tests for your movie library against resolution-downgrading and compression fatigue",
+    "url": "https://theomniview.blogspot.com/2026/07/the-bit-rot-streaming-audit-7-stress_01162118888.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Reviews",
+      "streaming quality",
+      "bitrate analysis",
+      "video compression"
+    ],
+    "slug": "the-bit-rot-streaming-audit-7-stress-tests-for-your-movie-library-against-resolu",
+    "published_at": "2026-07-26T14:27:45+00:00",
+    "word_count": 635,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
