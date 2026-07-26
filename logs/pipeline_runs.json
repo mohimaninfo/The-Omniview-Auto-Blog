@@ -39316,5 +39316,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-26T21:46:08.929202",
+    "run_end": "2026-07-26T21:46:55.816370",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5949447553659093916",
+        "title": "The 'Ancient-Drought' Resilience Audit: 7 Stress-Tests for Your Local Water Security Against Climate-Driven Megadroughts",
+        "url": "https://theomniview.blogspot.com/2026/07/the-ancient-drought-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Latest News",
+          "water security",
+          "climate resilience",
+          "drought preparedness"
+        ],
+        "slug": "the-ancient-drought-resilience-audit-7-stress-tests-for-your-local-water-securit",
+        "published_at": "2026-07-26T21:51:35+00:00",
+        "word_count": 760,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4537567379583974180",
+        "title": "The 'degree-decay' validation audit: 7 stress-tests for your liberal arts credentials against the rise of skill-based hiring",
+        "url": "https://theomniview.blogspot.com/2026/07/the-degree-decay-validation-audit-7.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Explainers",
+          "degree-decay",
+          "skill-based hiring",
+          "higher-education reform"
+        ],
+        "slug": "the-degree-decay-validation-audit-7-stress-tests-for-your-liberal-arts-credentia",
+        "published_at": "2026-07-26T21:51:55+00:00",
+        "word_count": 1090,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
