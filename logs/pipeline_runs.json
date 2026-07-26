@@ -39108,5 +39108,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-26T16:43:29.084225",
+    "run_end": "2026-07-26T16:44:22.085898",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1649296519435693876",
+        "title": "The 'Cognitive-Ageing' Financial Audit: 7 Stress-Tests for Your Brain Health Against Persistent Economic Stress",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-ageing-financial-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Explainers",
+          "brain ageing",
+          "neurobiology of stress",
+          "financial stress and health"
+        ],
+        "slug": "the-cognitive-ageing-financial-audit-7-stress-tests-for-your-brain-health-agains",
+        "published_at": "2026-07-26T16:48:51+00:00",
+        "word_count": 969,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1885096027767451580",
+        "title": "The 'founder-exit' succession audit: 7 stress-tests for your leadership legacy against AI-driven corporate integration",
+        "url": "https://theomniview.blogspot.com/2026/07/the-founder-exit-succession-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Case Studies",
+          "leadership succession planning",
+          "founder exit strategy",
+          "corporate culture preservation"
+        ],
+        "slug": "the-founder-exit-succession-audit-7-stress-tests-for-your-leadership-legacy-agai",
+        "published_at": "2026-07-26T16:49:21+00:00",
+        "word_count": 724,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
