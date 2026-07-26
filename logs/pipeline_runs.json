@@ -38952,5 +38952,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-26T12:52:46.209329",
+    "run_end": "2026-07-26T12:53:37.143711",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7573490860565056437",
+        "title": "The 'visa-vetting' geopolitical audit: 7 stress-tests for your international mobility against emerging diplomatic blacklisting",
+        "url": "https://theomniview.blogspot.com/2026/07/the-visa-vetting-geopolitical-audit-7.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Research Articles",
+          "visa denial",
+          "geopolitical risk",
+          "global mobility"
+        ],
+        "slug": "the-visa-vetting-geopolitical-audit-7-stress-tests-for-your-international-mobili",
+        "published_at": "2026-07-26T12:58:10+00:00",
+        "word_count": 1052,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4240384613335418238",
+        "title": "The 'Data-Center-Exile' Travel Audit: 7 Stress-Tests for Your Sustainable Vacation Against AI-Driven Grid Strain",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-exile-travel-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "case-studies",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Case Studies",
+          "sustainable travel",
+          "data center water usage",
+          "eco-conscious tourism"
+        ],
+        "slug": "the-data-center-exile-travel-audit-7-stress-tests-for-your-sustainable-vacation-",
+        "published_at": "2026-07-26T12:58:36+00:00",
+        "word_count": 803,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
