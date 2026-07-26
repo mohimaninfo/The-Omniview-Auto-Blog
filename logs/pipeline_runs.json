@@ -38744,5 +38744,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-07-26T05:18:17.271558",
+    "run_end": "2026-07-26T05:19:04.456990",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3622338873091633447",
+        "title": "The 'neural-plasticity' burnout audit: 7 stress-tests for your brain's recovery against chronic short-form digital fatigue",
+        "url": "https://theomniview.blogspot.com/2026/07/the-neural-plasticity-burnout-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "neural plasticity",
+          "cognitive fatigue",
+          "brain health"
+        ],
+        "slug": "the-neural-plasticity-burnout-audit-7-stress-tests-for-your-brains-recovery-agai",
+        "published_at": "2026-07-26T05:23:38+00:00",
+        "word_count": 1068,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3316494634670380977",
+        "title": "The 'synthetic-microbiome' resilience audit: 7 stress-tests for your gut health against ultra-processed food additives",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-microbiome-resilience.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "gut microbiome health",
+          "ultra-processed foods",
+          "microbiome resilience"
+        ],
+        "slug": "the-synthetic-microbiome-resilience-audit-7-stress-tests-for-your-gut-health-aga",
+        "published_at": "2026-07-26T05:24:03+00:00",
+        "word_count": 1036,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
