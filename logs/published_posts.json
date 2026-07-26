@@ -33288,5 +33288,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5319527504466022885",
+    "title": "The 'Digital-Diplomacy' Visa Audit: 7 Stress-Tests for Your Global Mobility Against Rising Geopolitical Blacklisting",
+    "url": "https://theomniview.blogspot.com/2026/07/the-digital-diplomacy-visa-audit-7.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Explainers",
+      "global mobility",
+      "visa restrictions",
+      "geopolitical blacklisting"
+    ],
+    "slug": "the-digital-diplomacy-visa-audit-7-stress-tests-for-your-global-mobility-against",
+    "published_at": "2026-07-26T22:52:26+00:00",
+    "word_count": 1075,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "6852618762842302523",
+    "title": "The 'Dependency-Hell' Audit: 7 Stress-Tests for Your Production Codebase Against Abandonware and Supply-Chain Shifts",
+    "url": "https://theomniview.blogspot.com/2026/07/the-dependency-hell-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "software supply chain security",
+      "dependency management",
+      "open source maintenance"
+    ],
+    "slug": "the-dependency-hell-audit-7-stress-tests-for-your-production-codebase-against-ab",
+    "published_at": "2026-07-26T22:52:45+00:00",
+    "word_count": 910,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
