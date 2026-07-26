@@ -33156,5 +33156,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2703279313010742622",
+    "title": "the 'vigilante-eye' security audit: 7 stress-tests for your neighborhood privacy against decentralized camera sabotage",
+    "url": "https://theomniview.blogspot.com/2026/07/the-vigilante-eye-security-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Latest News",
+      "neighborhood surveillance privacy",
+      "smart camera security",
+      "Flock camera controversy"
+    ],
+    "slug": "the-vigilante-eye-security-audit-7-stress-tests-for-your-neighborhood-privacy-ag",
+    "published_at": "2026-07-26T18:57:34+00:00",
+    "word_count": 738,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7578424830786807978",
+    "title": "The 'closed-loop' assessment audit: 7 stress-tests for your k12 district\u2019s data privacy against state-mandated ai-proctoring tools",
+    "url": "https://theomniview.blogspot.com/2026/07/the-closed-loop-assessment-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "latest-news",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Latest News",
+      "k12 data privacy",
+      "AI proctoring software",
+      "student data security"
+    ],
+    "slug": "the-closed-loop-assessment-audit-7-stress-tests-for-your-k12-districts-data-priv",
+    "published_at": "2026-07-26T18:57:54+00:00",
+    "word_count": 751,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
