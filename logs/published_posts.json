@@ -33332,5 +33332,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2621238378139526672",
+    "title": "The 'stadium-blackout' privacy audit: 7 stress-tests for your concert-going anonymity against facial recognition surveillance",
+    "url": "https://theomniview.blogspot.com/2026/07/the-stadium-blackout-privacy-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Latest News",
+      "concert privacy",
+      "facial recognition at concerts",
+      "biometric data protection"
+    ],
+    "slug": "the-stadium-blackout-privacy-audit-7-stress-tests-for-your-concert-going-anonymi",
+    "published_at": "2026-07-26T23:55:21+00:00",
+    "word_count": 789,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4860288732653841244",
+    "title": "The 'hollow-influencer' authenticity audit: 7 stress-tests for your parasocial relationships against deepfake-driven brand personas",
+    "url": "https://theomniview.blogspot.com/2026/07/the-hollow-influencer-authenticity.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "interviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Interviews",
+      "parasocial relationships",
+      "AI influencers",
+      "digital authenticity"
+    ],
+    "slug": "the-hollow-influencer-authenticity-audit-7-stress-tests-for-your-parasocial-rela",
+    "published_at": "2026-07-26T23:56:02+00:00",
+    "word_count": 1025,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
