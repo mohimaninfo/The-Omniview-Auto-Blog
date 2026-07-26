@@ -39264,5 +39264,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-26T20:02:19.693923",
+    "run_end": "2026-07-26T20:03:02.369878",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2609320919457610236",
+        "title": "The 'Grid-Lock' Resilience Audit: 7 Stress-Tests for Your Home Solar Setup Against AI-Driven Data Center Demand \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-lock-resilience-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Explainers",
+          "home solar resilience",
+          "grid instability",
+          "data center energy demand"
+        ],
+        "slug": "the-grid-lock-resilience-audit-7-stress-tests-for-your-home-solar-setup-against-",
+        "published_at": "2026-07-26T20:07:39+00:00",
+        "word_count": 1126,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4347929907896823747",
+        "title": "The 'Water-Stress' Data Audit: 7 Stress-Tests for Your Local Utility Rates Against AI-Driven Cooling Demands \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-water-stress-data-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "climate-policy",
+          "water scarcity",
+          "data center sustainability"
+        ],
+        "slug": "the-water-stress-data-audit-7-stress-tests-for-your-local-utility-rates-against-",
+        "published_at": "2026-07-26T20:08:01+00:00",
+        "word_count": 1060,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
