@@ -39784,5 +39784,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-27T19:07:57.365074",
+    "run_end": "2026-07-27T19:08:53.269117",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6953533769181942960",
+        "title": "The 'Grid-Independence' Audit: 7 Stress-Tests for Your Home Solar Battery Against AI-Driven Peak Demand Surges",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-independence-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "How-To Guides",
+          "home solar battery",
+          "grid independence",
+          "energy storage capacity"
+        ],
+        "slug": "the-grid-independence-audit-7-stress-tests-for-your-home-solar-battery-against-a",
+        "published_at": "2026-07-27T19:13:31+00:00",
+        "word_count": 1246,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2936658799917240335",
+        "title": "The 'Salmonella-Shift' Pantry Audit: 7 Stress-Tests for Your Kitchen Safety Against Modern Egg Recalls",
+        "url": "https://theomniview.blogspot.com/2026/07/the-salmonella-shift-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Research Articles",
+          "kitchen food safety",
+          "salmonella prevention",
+          "egg recall"
+        ],
+        "slug": "the-salmonella-shift-pantry-audit-7-stress-tests-for-your-kitchen-safety-against",
+        "published_at": "2026-07-27T19:13:52+00:00",
+        "word_count": 982,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
