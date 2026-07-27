@@ -33728,5 +33728,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3090026632319791084",
+    "title": "The 'cosmic-debris' navigation audit: 7 stress-tests for your satellite internet uptime against the Kessler Syndrome \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-cosmic-debris-navigation-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "listicles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Listicles",
+      "Kessler Syndrome",
+      "satellite internet",
+      "space debris"
+    ],
+    "slug": "the-cosmic-debris-navigation-audit-7-stress-tests-for-your-satellite-internet-up",
+    "published_at": "2026-07-27T22:11:21+00:00",
+    "word_count": 798,
+    "has_video": false,
+    "image_count": 2,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5265313516437030548",
+    "title": "The 'fractional-residency' tax audit: 7 stress-tests for your nomadic investment portfolio against global nexus laws",
+    "url": "https://theomniview.blogspot.com/2026/07/the-fractional-residency-tax-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Finance",
+      "Investing",
+      "How-To Guides",
+      "nomad tax planning",
+      "investment portfolio strategy",
+      "nexus tax laws"
+    ],
+    "slug": "the-fractional-residency-tax-audit-7-stress-tests-for-your-nomadic-investment-po",
+    "published_at": "2026-07-27T22:11:43+00:00",
+    "word_count": 1087,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
