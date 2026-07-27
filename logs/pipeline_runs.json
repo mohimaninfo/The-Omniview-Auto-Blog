@@ -39472,5 +39472,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-27T01:46:17.766750",
+    "run_end": "2026-07-27T01:47:03.422263",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6194651891956607514",
+        "title": "The 'cognitive-rebound' pedagogy audit: 7 stress-tests for your student's memory retention against screen-first classroom withdrawal",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cognitive-rebound-pedagogy-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "learning science",
+          "screen-free education",
+          "cognitive load theory"
+        ],
+        "slug": "the-cognitive-rebound-pedagogy-audit-7-stress-tests-for-your-students-memory-ret",
+        "published_at": "2026-07-27T01:51:39+00:00",
+        "word_count": 940,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8679071077852920868",
+        "title": "The 'Tokenized-Equity' liquidity audit: 7 stress-tests for your private market portfolio against real-world asset (RWA) volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-tokenized-equity-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Opinion & Analysis",
+          "tokenized real-world assets",
+          "private market liquidity",
+          "RWA tokenization"
+        ],
+        "slug": "the-tokenized-equity-liquidity-audit-7-stress-tests-for-your-private-market-port",
+        "published_at": "2026-07-27T01:52:02+00:00",
+        "word_count": 951,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
