@@ -39524,5 +39524,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-27T05:36:52.042040",
+    "run_end": "2026-07-27T05:38:51.182876",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3960173560057837344",
+        "title": "The 'Deepfake-Doctor' Credibility Audit: 7 Stress-Tests for Your Healthcare Brand Against AI-Generated Medical Misinformation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-deepfake-doctor-credibility-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Case Studies",
+          "AI medical misinformation",
+          "healthcare brand reputation",
+          "deepfake detection"
+        ],
+        "slug": "the-deepfake-doctor-credibility-audit-7-stress-tests-for-your-healthcare-brand-a",
+        "published_at": "2026-07-27T05:42:54+00:00",
+        "word_count": 717,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6140092891688347742",
+        "title": "The 'Flock-Free' School Zone Audit: 7 Stress-Tests for Your District\u2019s Data Privacy Against Automated License Plate Reader Surveillance \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-flock-free-school-zone-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Latest News",
+          "school data privacy",
+          "Flock license plate readers",
+          "K-12 surveillance"
+        ],
+        "slug": "the-flock-free-school-zone-audit-7-stress-tests-for-your-districts-data-privacy-",
+        "published_at": "2026-07-27T05:43:50+00:00",
+        "word_count": 879,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
