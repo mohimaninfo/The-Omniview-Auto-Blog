@@ -33860,5 +33860,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7983472661401945944",
+    "title": "The 'Digital-Ghost' Licensing Audit: 7 Stress-Tests for Your Streaming Library Against Sudden Platform De-platforming",
+    "url": "https://theomniview.blogspot.com/2026/07/the-digital-ghost-licensing-audit-7.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Explainers",
+      "digital movie library",
+      "streaming content removal",
+      "DRM licensing"
+    ],
+    "slug": "the-digital-ghost-licensing-audit-7-stress-tests-for-your-streaming-library-agai",
+    "published_at": "2026-07-28T04:57:03+00:00",
+    "word_count": 1029,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2149759391029532215",
+    "title": "The 'Data-Center-Drain' Streaming Audit: 7 Stress-Tests for Your 4K Video Quality Against AI-Driven Grid Demand",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-drain-streaming-audit-7.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Reviews",
+      "streaming quality",
+      "data center energy consumption",
+      "4K streaming issues"
+    ],
+    "slug": "the-data-center-drain-streaming-audit-7-stress-tests-for-your-4k-video-quality-a",
+    "published_at": "2026-07-28T04:57:26+00:00",
+    "word_count": 690,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
