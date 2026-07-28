@@ -40252,5 +40252,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-28T15:09:32.796511",
+    "run_end": "2026-07-28T15:10:17.100286",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4263322232706245510",
+        "title": "The 'thermal-footprint' conservation audit: 7 stress-tests for your local wetlands against AI data center heat discharge",
+        "url": "https://theomniview.blogspot.com/2026/07/the-thermal-footprint-conservation.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Case Studies",
+          "data center environmental impact",
+          "thermal pollution",
+          "wetland conservation"
+        ],
+        "slug": "the-thermal-footprint-conservation-audit-7-stress-tests-for-your-local-wetlands-",
+        "published_at": "2026-07-28T15:14:54+00:00",
+        "word_count": 727,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8523422608539767343",
+        "title": "The 'dopamine-loop' exhaustion audit: 7 stress-tests for your mental-health stability against infinite-scroll UI design \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-dopamine-loop-exhaustion-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Explainers",
+          "mental health",
+          "dopamine loop",
+          "digital burnout"
+        ],
+        "slug": "the-dopamine-loop-exhaustion-audit-7-stress-tests-for-your-mental-health-stabili",
+        "published_at": "2026-07-28T15:15:16+00:00",
+        "word_count": 887,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
