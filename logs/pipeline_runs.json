@@ -40304,5 +40304,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-28T17:16:03.208071",
+    "run_end": "2026-07-28T17:16:51.015796",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "112850549504671134",
+        "title": "The 'Super-Growth' Poultry Audit: 7 Stress-Tests for Your Kitchen Safety Against Antimicrobial-Resistant Pathogens",
+        "url": "https://theomniview.blogspot.com/2026/07/the-super-growth-poultry-audit-7-stress.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "case-studies",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Case Studies",
+          "antimicrobial resistance",
+          "industrial chicken farming",
+          "food safety"
+        ],
+        "slug": "the-super-growth-poultry-audit-7-stress-tests-for-your-kitchen-safety-against-an",
+        "published_at": "2026-07-28T17:21:26+00:00",
+        "word_count": 783,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4393867421680594603",
+        "title": "The 'remittance-drain' currency audit: 7 stress-tests for your cross-border family support against volatile stablecoin de-pegging",
+        "url": "https://theomniview.blogspot.com/2026/07/the-remittance-drain-currency-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Explainers",
+          "remittance costs",
+          "stablecoin volatility",
+          "cross-border payments"
+        ],
+        "slug": "the-remittance-drain-currency-audit-7-stress-tests-for-your-cross-border-family-",
+        "published_at": "2026-07-28T17:21:50+00:00",
+        "word_count": 930,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
