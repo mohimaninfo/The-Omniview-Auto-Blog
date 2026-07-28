@@ -40148,5 +40148,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-28T10:20:05.310342",
+    "run_end": "2026-07-28T10:20:45.330325",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8946904302111063747",
+        "title": "The 'algorithmic-liquidity' inheritance audit: 7 stress-tests for your custodial brokerage accounts against AI-driven bank run contagion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-liquidity-inheritance.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Latest News",
+          "custodial brokerage account",
+          "liquidity risk",
+          "AI bank run"
+        ],
+        "slug": "the-algorithmic-liquidity-inheritance-audit-7-stress-tests-for-your-custodial-br",
+        "published_at": "2026-07-28T10:25:24+00:00",
+        "word_count": 819,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8475423969397156011",
+        "title": "The 'synthetic-equity' dilution audit: 7 stress-tests for your startup cap table against AI-generated phantom shares",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-equity-dilution-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "How-To Guides",
+          "startup cap table",
+          "equity dilution",
+          "startup founder legal"
+        ],
+        "slug": "the-synthetic-equity-dilution-audit-7-stress-tests-for-your-startup-cap-table-ag",
+        "published_at": "2026-07-28T10:25:44+00:00",
+        "word_count": 931,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
