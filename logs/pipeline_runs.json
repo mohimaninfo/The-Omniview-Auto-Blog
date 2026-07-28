@@ -39992,5 +39992,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-28T01:19:59.518157",
+    "run_end": "2026-07-28T01:20:52.794633",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1243943644770236876",
+        "title": "The 'Solar-Flare' Resilience Audit: 7 Stress-Tests for Your Home Electronics Against Geomagnetic Storms",
+        "url": "https://theomniview.blogspot.com/2026/07/the-solar-flare-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "geomagnetic storms",
+          "space weather",
+          "solar flare protection"
+        ],
+        "slug": "the-solar-flare-resilience-audit-7-stress-tests-for-your-home-electronics-agains",
+        "published_at": "2026-07-28T01:25:21+00:00",
+        "word_count": 878,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7084428643343606057",
+        "title": "The 'Shadow-Credential' Career Audit: 7 Stress-Tests for Your Professional Portfolio Against AI-Generated Portfolios \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-shadow-credential-career-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "career development",
+          "AI in hiring",
+          "professional portfolio"
+        ],
+        "slug": "the-shadow-credential-career-audit-7-stress-tests-for-your-professional-portfoli",
+        "published_at": "2026-07-28T01:25:52+00:00",
+        "word_count": 883,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
