@@ -33904,5 +33904,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5308336960026394255",
+    "title": "The 'Neural-Noise' Communication Audit: 7 Stress-Tests for Your Social Interactions Against Autistic Processing Differences",
+    "url": "https://theomniview.blogspot.com/2026/07/the-neural-noise-communication-audit-7.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Physics",
+      "Opinion & Analysis",
+      "neural noise",
+      "autism spectrum disorder",
+      "signal-to-noise ratio"
+    ],
+    "slug": "the-neural-noise-communication-audit-7-stress-tests-for-your-social-interactions",
+    "published_at": "2026-07-28T07:35:17+00:00",
+    "word_count": 720,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7981217102253246612",
+    "title": "The Sperm Whale Buoyancy Mechanism: How Biological Gas Regulation Enables Vertical Sleep",
+    "url": "https://theomniview.blogspot.com/2026/07/the-sperm-whale-buoyancy-mechanism-how.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Explainers",
+      "sperm whale sleep",
+      "marine biology",
+      "buoyancy mechanism"
+    ],
+    "slug": "the-sperm-whale-buoyancy-mechanism-how-biological-gas-regulation-enables-vertica",
+    "published_at": "2026-07-28T07:35:40+00:00",
+    "word_count": 993,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
