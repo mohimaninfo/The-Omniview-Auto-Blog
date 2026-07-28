@@ -40460,5 +40460,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-28T21:55:11.725370",
+    "run_end": "2026-07-28T21:55:52.379132",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7641342734039409836",
+        "title": "The 'GLP-1 Weight-Loss' Cognitive Audit: 7 Stress-Tests for Your Brain Health Against Rapid Fat Loss",
+        "url": "https://theomniview.blogspot.com/2026/07/the-glp-1-weight-loss-cognitive-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Latest News",
+          "GLP-1 side effects",
+          "cognitive decline",
+          "semaglutide brain health"
+        ],
+        "slug": "the-glp-1-weight-loss-cognitive-audit-7-stress-tests-for-your-brain-health-again",
+        "published_at": "2026-07-28T22:00:31+00:00",
+        "word_count": 846,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "89392737484257937",
+        "title": "The 'Fast-Forward' Fatigue Audit: 7 Stress-Tests for Your Attention Span Against AI-Generated Streaming Recaps",
+        "url": "https://theomniview.blogspot.com/2026/07/the-fast-forward-fatigue-audit-7-stress_0601696773.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Latest News",
+          "streaming services",
+          "AI content consumption",
+          "attention span"
+        ],
+        "slug": "the-fast-forward-fatigue-audit-7-stress-tests-for-your-attention-span-against-ai",
+        "published_at": "2026-07-28T22:00:51+00:00",
+        "word_count": 899,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
