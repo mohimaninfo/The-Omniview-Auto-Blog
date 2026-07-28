@@ -34300,5 +34300,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5894216069602912253",
+    "title": "The 'kinetic-sanction' supply-chain audit: 7 stress-tests for your logistics resilience against global trade blockades",
+    "url": "https://theomniview.blogspot.com/2026/07/the-kinetic-sanction-supply-chain-audit.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Explainers",
+      "supply chain resilience",
+      "geopolitical risk",
+      "logistics management"
+    ],
+    "slug": "the-kinetic-sanction-supply-chain-audit-7-stress-tests-for-your-logistics-resili",
+    "published_at": "2026-07-28T23:53:46+00:00",
+    "word_count": 986,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7880985417554086148",
+    "title": "the 'empathy-gap' audit: 7 stress-tests for your emotional regulation against ai-mediated therapy chatbots",
+    "url": "https://theomniview.blogspot.com/2026/07/the-empathy-gap-audit-7-stress-tests.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Opinion & Analysis",
+      "ai therapy",
+      "emotional regulation",
+      "mental health technology"
+    ],
+    "slug": "the-empathy-gap-audit-7-stress-tests-for-your-emotional-regulation-against-ai-me",
+    "published_at": "2026-07-28T23:54:06+00:00",
+    "word_count": 955,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
