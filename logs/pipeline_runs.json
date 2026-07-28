@@ -40512,5 +40512,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-28T22:48:53.024177",
+    "run_end": "2026-07-28T22:50:07.084447",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3774114154807021226",
+        "title": "The 'Nutritional-Anxiety' Audit: 7 Stress-Tests for Your Mental Health Against Food-Safety Outbreaks",
+        "url": "https://theomniview.blogspot.com/2026/07/the-nutritional-anxiety-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Explainers",
+          "nutritional anxiety",
+          "food safety mental health",
+          "health anxiety"
+        ],
+        "slug": "the-nutritional-anxiety-audit-7-stress-tests-for-your-mental-health-against-food",
+        "published_at": "2026-07-28T22:54:15+00:00",
+        "word_count": 1250,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3196552844905333020",
+        "title": "The 'Geopolitical-Risk' Insurance Audit: 7 Stress-Tests for Your Global Investment Portfolio Against Emerging Sanction Volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-geopolitical-risk-insurance-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Explainers",
+          "geopolitical risk",
+          "investment portfolio",
+          "sanction volatility"
+        ],
+        "slug": "the-geopolitical-risk-insurance-audit-7-stress-tests-for-your-global-investment-",
+        "published_at": "2026-07-28T22:55:05+00:00",
+        "word_count": 952,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
