@@ -34344,5 +34344,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7782791090605993909",
+    "title": "The 'hardware-as-a-service' circularity audit: 7 stress-tests for your home electronics against planned obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/07/the-hardware-as-service-circularity.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Explainers",
+      "circular economy",
+      "planned obsolescence",
+      "hardware-as-a-service"
+    ],
+    "slug": "the-hardware-as-a-service-circularity-audit-7-stress-tests-for-your-home-electro",
+    "published_at": "2026-07-29T01:26:50+00:00",
+    "word_count": 984,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5030593815323634030",
+    "title": "The 'metabolic-flexibility' training audit: 7 stress-tests for your endurance capacity against ultra-processed fuel dependence",
+    "url": "https://theomniview.blogspot.com/2026/07/the-metabolic-flexibility-training.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Listicles",
+      "metabolic flexibility",
+      "endurance training",
+      "sports nutrition"
+    ],
+    "slug": "the-metabolic-flexibility-training-audit-7-stress-tests-for-your-endurance-capac",
+    "published_at": "2026-07-29T01:27:10+00:00",
+    "word_count": 920,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
