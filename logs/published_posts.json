@@ -34828,5 +34828,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2268188642911718685",
+    "title": "The 'Data-Center-Demolition' Circularity Audit: 7 Stress-Tests for Your Local Community Against AI-Driven Infrastructure Waste \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-data-center-demolition-circularity.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Research Articles",
+      "circular economy",
+      "data center waste",
+      "sustainable infrastructure"
+    ],
+    "slug": "the-data-center-demolition-circularity-audit-7-stress-tests-for-your-local-commu",
+    "published_at": "2026-07-29T23:56:32+00:00",
+    "word_count": 968,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3951129649646288420",
+    "title": "The 'distributed-authority' audit: 7 stress-tests for your leadership hierarchy against autonomous agent workflows",
+    "url": "https://theomniview.blogspot.com/2026/07/the-distributed-authority-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "How-To Guides",
+      "autonomous agent workflows",
+      "leadership hierarchy",
+      "organizational design"
+    ],
+    "slug": "the-distributed-authority-audit-7-stress-tests-for-your-leadership-hierarchy-aga",
+    "published_at": "2026-07-29T23:57:01+00:00",
+    "word_count": 918,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
