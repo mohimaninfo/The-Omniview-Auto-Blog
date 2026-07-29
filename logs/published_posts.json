@@ -34432,5 +34432,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "374109408504901889",
+    "title": "The 'Deepfake-Director' Audit: 7 Stress-Tests for Your Favorite Film Franchises Against AI-Generated Legacy Actors",
+    "url": "https://theomniview.blogspot.com/2026/07/the-deepfake-director-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Listicles",
+      "AI in film",
+      "deepfake actors",
+      "Hollywood AI controversy"
+    ],
+    "slug": "the-deepfake-director-audit-7-stress-tests-for-your-favorite-film-franchises-aga",
+    "published_at": "2026-07-29T07:43:17+00:00",
+    "word_count": 917,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8422063451100195993",
+    "title": "The 'hi-fi' grid-lock audit: 7 stress-tests for your concert-going experience against AI-driven data center energy surges",
+    "url": "https://theomniview.blogspot.com/2026/07/the-hi-fi-grid-lock-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Latest News",
+      "live music industry",
+      "data center power consumption",
+      "concert infrastructure"
+    ],
+    "slug": "the-hi-fi-grid-lock-audit-7-stress-tests-for-your-concert-going-experience-again",
+    "published_at": "2026-07-29T07:43:49+00:00",
+    "word_count": 829,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
