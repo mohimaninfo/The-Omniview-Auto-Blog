@@ -41084,5 +41084,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-29T21:44:29.008508",
+    "run_end": "2026-07-29T21:45:06.997509",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4105725833052266004",
+        "title": "The 'bit-starved' streaming audit: 7 stress-tests for your 4K movie library against AI-driven bandwidth throttling",
+        "url": "https://theomniview.blogspot.com/2026/07/the-bit-starved-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "streaming quality",
+          "bitrate throttling",
+          "data center energy demand"
+        ],
+        "slug": "the-bit-starved-streaming-audit-7-stress-tests-for-your-4k-movie-library-against",
+        "published_at": "2026-07-29T21:49:47+00:00",
+        "word_count": 771,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7490973715320223243",
+        "title": "The 'Endogenous-Rhythm' Audit: 7 Stress-Tests for Your Circadian Health Against Blue-Light Pollution in Modern Urban Environments",
+        "url": "https://theomniview.blogspot.com/2026/07/the-endogenous-rhythm-audit-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "circadian rhythm",
+          "circadian biology",
+          "blue light pollution"
+        ],
+        "slug": "the-endogenous-rhythm-audit-7-stress-tests-for-your-circadian-health-against-blu",
+        "published_at": "2026-07-29T21:50:06+00:00",
+        "word_count": 927,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
