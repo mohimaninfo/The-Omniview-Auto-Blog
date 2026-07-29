@@ -40876,5 +40876,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-29T15:02:42.587760",
+    "run_end": "2026-07-29T15:03:24.642603",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3082537559908436467",
+        "title": "The 'Data-Center-Drain' Screening Audit: 7 Stress-Tests for Your Local Cinema\u2019s Survival Against AI Energy Demands",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-drain-screening-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "AI data centers",
+          "independent cinema",
+          "energy grid stability"
+        ],
+        "slug": "the-data-center-drain-screening-audit-7-stress-tests-for-your-local-cinemas-surv",
+        "published_at": "2026-07-29T15:08:02+00:00",
+        "word_count": 937,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5564126435489032815",
+        "title": "The 'book-desert' infrastructure audit: 7 stress-tests for your school library against AI-driven collection culling",
+        "url": "https://theomniview.blogspot.com/2026/07/the-book-desert-infrastructure-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "case-studies",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Case Studies",
+          "school library collections",
+          "AI data centers",
+          "k12 digital equity"
+        ],
+        "slug": "the-book-desert-infrastructure-audit-7-stress-tests-for-your-school-library-agai",
+        "published_at": "2026-07-29T15:08:24+00:00",
+        "word_count": 773,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
