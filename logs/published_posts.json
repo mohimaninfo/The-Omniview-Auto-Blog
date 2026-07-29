@@ -34520,5 +34520,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7976070289374483884",
+    "title": "The 'Pathogen-Pantry' Audit: 7 Stress-Tests for Your Kitchen Hygiene Against Modern Foodborne Outbreaks",
+    "url": "https://theomniview.blogspot.com/2026/07/the-pathogen-pantry-audit-7-stress.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Research Articles",
+      "food safety tips",
+      "foodborne illness prevention",
+      "kitchen hygiene"
+    ],
+    "slug": "the-pathogen-pantry-audit-7-stress-tests-for-your-kitchen-hygiene-against-modern",
+    "published_at": "2026-07-29T12:59:20+00:00",
+    "word_count": 984,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2358302937281078138",
+    "title": "The 'Deep-Archive' Integrity Audit: 7 Stress-Tests for Your Physical Film Collection Against AI-Driven Metadata Scrubbing",
+    "url": "https://theomniview.blogspot.com/2026/07/the-deep-archive-integrity-audit-7.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Reviews",
+      "physical media vs streaming",
+      "film preservation",
+      "ai metadata scrubbing"
+    ],
+    "slug": "the-deep-archive-integrity-audit-7-stress-tests-for-your-physical-film-collectio",
+    "published_at": "2026-07-29T12:59:43+00:00",
+    "word_count": 672,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
