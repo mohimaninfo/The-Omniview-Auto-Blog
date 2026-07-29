@@ -34696,5 +34696,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7675196073268646493",
+    "title": "The 'Memory-Leak' Architecture Audit: 7 Stress-Tests for Your Legacy Codebase Against AI-Generated Bloat",
+    "url": "https://theomniview.blogspot.com/2026/07/the-memory-leak-architecture-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Explainers",
+      "legacy codebase",
+      "AI-assisted coding",
+      "memory leaks"
+    ],
+    "slug": "the-memory-leak-architecture-audit-7-stress-tests-for-your-legacy-codebase-again",
+    "published_at": "2026-07-29T20:11:46+00:00",
+    "word_count": 1111,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7854690912865292190",
+    "title": "The 'Passive-Grid' Home Audit: 7 Stress-Tests for Your Smart Lighting Against Local Utility Brownouts",
+    "url": "https://theomniview.blogspot.com/2026/07/the-passive-grid-home-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "How-To Guides",
+      "smart home lighting",
+      "home energy efficiency",
+      "grid resilience"
+    ],
+    "slug": "the-passive-grid-home-audit-7-stress-tests-for-your-smart-lighting-against-local",
+    "published_at": "2026-07-29T20:12:34+00:00",
+    "word_count": 1169,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
