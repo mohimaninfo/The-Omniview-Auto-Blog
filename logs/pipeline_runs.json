@@ -40980,5 +40980,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-29T18:51:22.193950",
+    "run_end": "2026-07-29T18:52:12.726570",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "517854847920982218",
+        "title": "The 'Offline-First' Gaming Audit: 7 Stress-Tests for Your Physical Game Library Against Cloud-Only License Revocation",
+        "url": "https://theomniview.blogspot.com/2026/07/the-offline-first-gaming-audit-7-stress_01506379198.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "digital game ownership",
+          "DRM-free gaming",
+          "game preservation"
+        ],
+        "slug": "the-offline-first-gaming-audit-7-stress-tests-for-your-physical-game-library-aga",
+        "published_at": "2026-07-29T18:56:46+00:00",
+        "word_count": 1049,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6790501850539366124",
+        "title": "the 'climate-gentrification' property audit: 7 stress-tests for your home equity against rising flood-resilience mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-climate-gentrification-property.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Opinion & Analysis",
+          "climate-gentrification",
+          "property value risk",
+          "climate-policy"
+        ],
+        "slug": "the-climate-gentrification-property-audit-7-stress-tests-for-your-home-equity-ag",
+        "published_at": "2026-07-29T18:57:11+00:00",
+        "word_count": 959,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
