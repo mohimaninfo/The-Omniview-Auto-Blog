@@ -40928,5 +40928,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-29T17:02:01.395096",
+    "run_end": "2026-07-29T17:03:04.934176",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4290549370405384433",
+        "title": "The 'Data-Center-Drain' Real Estate Audit: 7 Stress-Tests for Your Home Property Value Against AI Energy Demands \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-drain-real-estate-audit.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Case Studies",
+          "data center energy consumption",
+          "property value impact",
+          "renewable energy grid"
+        ],
+        "slug": "the-data-center-drain-real-estate-audit-7-stress-tests-for-your-home-property-va",
+        "published_at": "2026-07-29T17:07:45+00:00",
+        "word_count": 738,
+        "has_video": true,
+        "image_count": 2,
+        "reference_count": 4
+      },
+      {
+        "post_id": "255873356458352430",
+        "title": "the 'lithium-drain' infrastructure audit: 7 stress-tests for your home energy storage against electric vehicle charging spikes",
+        "url": "https://theomniview.blogspot.com/2026/07/the-lithium-drain-infrastructure-audit.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "listicles",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Listicles",
+          "home energy storage",
+          "residential solar battery",
+          "electric vehicle charging"
+        ],
+        "slug": "the-lithium-drain-infrastructure-audit-7-stress-tests-for-your-home-energy-stora",
+        "published_at": "2026-07-29T17:08:04+00:00",
+        "word_count": 778,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
