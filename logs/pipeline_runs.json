@@ -40772,5 +40772,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-29T10:26:11.642259",
+    "run_end": "2026-07-29T10:27:01.882435",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2001022422757037847",
+        "title": "The 'human-capital' pivot: 7 stress-tests for your career longevity against the AI-hiring reversal",
+        "url": "https://theomniview.blogspot.com/2026/07/the-human-capital-pivot-7-stress-tests.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Explainers",
+          "career longevity",
+          "AI hiring reversal",
+          "future of work"
+        ],
+        "slug": "the-human-capital-pivot-7-stress-tests-for-your-career-longevity-against-the-ai-",
+        "published_at": "2026-07-29T10:31:33+00:00",
+        "word_count": 1067,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8116478712115275518",
+        "title": "the 'repair-to-resell' inventory audit: 7 stress-tests for your retail business against the rise of brand-led circular economy marketplaces",
+        "url": "https://theomniview.blogspot.com/2026/07/the-repair-to-resell-inventory-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Case Studies",
+          "circular economy",
+          "re-commerce",
+          "retail sustainability"
+        ],
+        "slug": "the-repair-to-resell-inventory-audit-7-stress-tests-for-your-retail-business-aga",
+        "published_at": "2026-07-29T10:32:01+00:00",
+        "word_count": 698,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
