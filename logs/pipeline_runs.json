@@ -41396,5 +41396,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-30T10:09:03.162538",
+    "run_end": "2026-07-30T10:09:44.501068",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7038981706749539129",
+        "title": "The 'subscription-trap' audit: 7 stress-tests for your ecommerce brand against the FTC\u2019s new 'click-to-cancel' mandate",
+        "url": "https://theomniview.blogspot.com/2026/07/the-subscription-trap-audit-7-stress.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Reviews",
+          "ecommerce subscription management",
+          "FTC click-to-cancel rule",
+          "customer retention strategies"
+        ],
+        "slug": "the-subscription-trap-audit-7-stress-tests-for-your-ecommerce-brand-against-the-",
+        "published_at": "2026-07-30T10:14:20+00:00",
+        "word_count": 503,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "1316604048170552646",
+        "title": "The 'algorithmic-wealth' inheritance audit: 7 stress-tests for your family\u2019s estate against dynamic AI-driven probate valuations",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-wealth-inheritance.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Explainers",
+          "algorithmic probate",
+          "estate planning inequality",
+          "AI wealth management"
+        ],
+        "slug": "the-algorithmic-wealth-inheritance-audit-7-stress-tests-for-your-familys-estate-",
+        "published_at": "2026-07-30T10:14:43+00:00",
+        "word_count": 1014,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
