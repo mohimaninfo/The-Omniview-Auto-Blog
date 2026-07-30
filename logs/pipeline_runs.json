@@ -41292,5 +41292,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-07-30T04:44:37.712043",
+    "run_end": "2026-07-30T04:45:30.838909",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7208863880875895427",
+        "title": "The 'Inheritance-Logic' Audit: 7 Stress-Tests for Your Startup Equity Against Sudden Founder Loss",
+        "url": "https://theomniview.blogspot.com/2026/07/the-inheritance-logic-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup equity",
+          "founder estate planning",
+          "key person insurance"
+        ],
+        "slug": "the-inheritance-logic-audit-7-stress-tests-for-your-startup-equity-against-sudde",
+        "published_at": "2026-07-30T04:49:58+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8980627129129092566",
+        "title": "The 'Return-to-Marketplace' audit: 7 stress-tests for your D2C brand against the rising dominance of retail-media networks",
+        "url": "https://theomniview.blogspot.com/2026/07/the-return-to-marketplace-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "retail media networks",
+          "D2C ecommerce",
+          "customer acquisition costs"
+        ],
+        "slug": "the-return-to-marketplace-audit-7-stress-tests-for-your-d2c-brand-against-the-ri",
+        "published_at": "2026-07-30T04:50:30+00:00",
+        "word_count": 860,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
