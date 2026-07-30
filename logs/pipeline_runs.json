@@ -41760,5 +41760,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-30T22:55:59.951718",
+    "run_end": "2026-07-30T22:56:49.514812",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4070686950926886579",
+        "title": "The 'Smart-Home' E-Waste Audit: 7 Stress-Tests for Your Connected Devices Against FCC-Mandated Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-home-e-waste-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "smart home e-waste",
+          "FCC gadget regulations",
+          "planned obsolescence"
+        ],
+        "slug": "the-smart-home-e-waste-audit-7-stress-tests-for-your-connected-devices-against-f",
+        "published_at": "2026-07-30T23:01:25+00:00",
+        "word_count": 1013,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1519364677234111005",
+        "title": "The 'attachment-style' compatibility audit: 7 stress-tests for your romantic relationship against conflicting digital communication habits \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-attachment-style-compatibility.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Listicles",
+          "attachment styles in relationships",
+          "digital communication boundaries",
+          "relationship conflict resolution"
+        ],
+        "slug": "the-attachment-style-compatibility-audit-7-stress-tests-for-your-romantic-relati",
+        "published_at": "2026-07-30T23:01:48+00:00",
+        "word_count": 966,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
