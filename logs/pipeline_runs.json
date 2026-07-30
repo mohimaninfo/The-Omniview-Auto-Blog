@@ -41812,5 +41812,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-30T23:53:12.354779",
+    "run_end": "2026-07-30T23:54:21.813798",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8269254599291478209",
+        "title": "The 'founder-exit' liquidity audit: 7 stress-tests for your startup\u2019s cap table against sudden secondary-market volatility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-founder-exit-liquidity-audit-7_077774711.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup cap table management",
+          "secondary market liquidity",
+          "founder equity protection"
+        ],
+        "slug": "the-founder-exit-liquidity-audit-7-stress-tests-for-your-startups-cap-table-agai",
+        "published_at": "2026-07-30T23:58:57+00:00",
+        "word_count": 982,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "760175825395846258",
+        "title": "The 'Echo-Chamber' Anxiety Audit: 7 Stress-Tests for Your Mental Health Against AI-Personalized Social Feeds",
+        "url": "https://theomniview.blogspot.com/2026/07/the-echo-chamber-anxiety-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Latest News",
+          "mental health",
+          "AI-driven anxiety",
+          "social media algorithm"
+        ],
+        "slug": "the-echo-chamber-anxiety-audit-7-stress-tests-for-your-mental-health-against-ai-",
+        "published_at": "2026-07-30T23:59:21+00:00",
+        "word_count": 827,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
