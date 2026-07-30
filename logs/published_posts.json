@@ -35092,5 +35092,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8929271751029099969",
+    "title": "The 'clawback-clause' resilience audit: 7 stress-tests for your startup\u2019s equity against predatory secondary-sale clawbacks",
+    "url": "https://theomniview.blogspot.com/2026/07/the-clawback-clause-resilience-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Case Studies",
+      "startup equity clawbacks",
+      "secondary market liquidity",
+      "venture capital restructuring"
+    ],
+    "slug": "the-clawback-clause-resilience-audit-7-stress-tests-for-your-startups-equity-aga",
+    "published_at": "2026-07-30T15:04:59+00:00",
+    "word_count": 723,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1522609819188338900",
+    "title": "The 'Memory-Leak' Architecture Audit: 7 Stress-Tests for Your Legacy Codebase Against AI-Generated Bloat \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-memory-leak-architecture-audit-7_01929101333.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Opinion & Analysis",
+      "technical debt",
+      "AI code generation",
+      "legacy software maintenance"
+    ],
+    "slug": "the-memory-leak-architecture-audit-7-stress-tests-for-your-legacy-codebase-again",
+    "published_at": "2026-07-30T15:05:25+00:00",
+    "word_count": 942,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
