@@ -34872,5 +34872,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4028119447112437189",
+    "title": "The 'Duress-Password' Audit: 7 Stress-Tests for Your Local Device Security Against Border Data Searches",
+    "url": "https://theomniview.blogspot.com/2026/07/the-duress-password-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "device encryption",
+      "data privacy",
+      "duress password"
+    ],
+    "slug": "the-duress-password-audit-7-stress-tests-for-your-local-device-security-against-",
+    "published_at": "2026-07-30T01:20:16+00:00",
+    "word_count": 1245,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5915506653852197177",
+    "title": "The 'Eminent Domain' Energy Audit: 7 Stress-Tests for Your Property Rights Against AI Data Center Expansion \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-eminent-domain-energy-audit-7.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Opinion & Analysis",
+      "eminent domain",
+      "AI data center",
+      "climate policy"
+    ],
+    "slug": "the-eminent-domain-energy-audit-7-stress-tests-for-your-property-rights-against-",
+    "published_at": "2026-07-30T01:20:34+00:00",
+    "word_count": 787,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
