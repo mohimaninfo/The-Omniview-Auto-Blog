@@ -41448,5 +41448,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-30T12:21:21.546138",
+    "run_end": "2026-07-30T12:22:08.205928",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8977764539137112304",
+        "title": "The 'Kessler-Syndrome' Sovereignty Audit: 7 Stress-Tests for Your National Space Assets Against Emerging Orbital Congestion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-kessler-syndrome-sovereignty-audit.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "Kessler Syndrome",
+          "orbital debris",
+          "space policy"
+        ],
+        "slug": "the-kessler-syndrome-sovereignty-audit-7-stress-tests-for-your-national-space-as",
+        "published_at": "2026-07-30T12:26:43+00:00",
+        "word_count": 863,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3361396675319609334",
+        "title": "The 'synaptic-pruning' workplace audit: 7 stress-tests for your cognitive agility against high-frequency task switching",
+        "url": "https://theomniview.blogspot.com/2026/07/the-synaptic-pruning-workplace-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Research Articles",
+          "synaptic pruning",
+          "cognitive agility",
+          "neuroplasticity"
+        ],
+        "slug": "the-synaptic-pruning-workplace-audit-7-stress-tests-for-your-cognitive-agility-a",
+        "published_at": "2026-07-30T12:27:07+00:00",
+        "word_count": 1011,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
