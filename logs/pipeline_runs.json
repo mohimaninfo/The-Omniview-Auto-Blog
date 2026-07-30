@@ -41708,5 +41708,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-30T21:56:08.703915",
+    "run_end": "2026-07-30T21:56:49.251265",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6314478216864023302",
+        "title": "The 'visa-veto' residency audit: 7 stress-tests for your cross-border mobility against emerging political 'hate speech' decrees",
+        "url": "https://theomniview.blogspot.com/2026/07/the-visa-veto-residency-audit-7-stress.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "global mobility",
+          "digital nomad visa",
+          "hate speech laws"
+        ],
+        "slug": "the-visa-veto-residency-audit-7-stress-tests-for-your-cross-border-mobility-agai",
+        "published_at": "2026-07-30T22:01:26+00:00",
+        "word_count": 820,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6624170705411586070",
+        "title": "The 'passport-parity' audit: 7 stress-tests for your digital nomad lifestyle against the rise of biometric exit-entry mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-passport-parity-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Opinion & Analysis",
+          "digital nomad lifestyle",
+          "biometric border control",
+          "travel data privacy"
+        ],
+        "slug": "the-passport-parity-audit-7-stress-tests-for-your-digital-nomad-lifestyle-agains",
+        "published_at": "2026-07-30T22:01:48+00:00",
+        "word_count": 1092,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
