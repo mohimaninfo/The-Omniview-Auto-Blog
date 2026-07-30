@@ -41344,5 +41344,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-30T07:25:19.994775",
+    "run_end": "2026-07-30T07:26:00.044620",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3011191341118817275",
+        "title": "The 'license-lock' streaming audit: 7 stress-tests for your movie collection against sudden platform de-platforming",
+        "url": "https://theomniview.blogspot.com/2026/07/the-license-lock-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "digital movie library",
+          "streaming service licensing",
+          "digital ownership"
+        ],
+        "slug": "the-license-lock-streaming-audit-7-stress-tests-for-your-movie-collection-agains",
+        "published_at": "2026-07-30T07:30:41+00:00",
+        "word_count": 718,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "523704801603267506",
+        "title": "The 'Right-to-Repair' Hardware Audit: 7 Stress-Tests for Your Smart Home Gadgets Against Planned Obsolescence \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/07/the-right-to-repair-hardware-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Reviews",
+          "smart home gadgets",
+          "right to repair",
+          "planned obsolescence"
+        ],
+        "slug": "the-right-to-repair-hardware-audit-7-stress-tests-for-your-smart-home-gadgets-ag",
+        "published_at": "2026-07-30T07:30:59+00:00",
+        "word_count": 499,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
