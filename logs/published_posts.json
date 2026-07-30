@@ -35224,5 +35224,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1794662370118018448",
+    "title": "The 'AI-Slop' Classroom Audit: 7 Stress-Tests for Your District\u2019s Learning Integrity Against Automated Content Generators",
+    "url": "https://theomniview.blogspot.com/2026/07/the-ai-slop-classroom-audit-7-stress.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "latest-news",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Latest News",
+      "AI slop in education",
+      "edtech content integrity",
+      "generative AI in schools"
+    ],
+    "slug": "the-ai-slop-classroom-audit-7-stress-tests-for-your-districts-learning-integrity",
+    "published_at": "2026-07-30T20:15:19+00:00",
+    "word_count": 743,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "250791659520936014",
+    "title": "The 'haptic-silence' sensory audit: 7 stress-tests for your digital literacy against the loss of physical feedback in touchless interfaces",
+    "url": "https://theomniview.blogspot.com/2026/07/the-haptic-silence-sensory-audit-7.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "interviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Interviews",
+      "digital literacy",
+      "sensory architecture",
+      "haptic feedback"
+    ],
+    "slug": "the-haptic-silence-sensory-audit-7-stress-tests-for-your-digital-literacy-agains",
+    "published_at": "2026-07-30T20:15:41+00:00",
+    "word_count": 1057,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
