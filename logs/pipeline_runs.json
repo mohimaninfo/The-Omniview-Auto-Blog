@@ -41916,5 +41916,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-31T05:22:14.016541",
+    "run_end": "2026-07-31T05:22:51.191534",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2851106283192699114",
+        "title": "The 'Data-Center-Draft' Grid Audit: 7 Stress-Tests for Your Local Energy Security Against AI-Driven Infrastructure Expansion",
+        "url": "https://theomniview.blogspot.com/2026/07/the-data-center-draft-grid-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Opinion & Analysis",
+          "climate policy",
+          "data center energy consumption",
+          "grid resilience"
+        ],
+        "slug": "the-data-center-draft-grid-audit-7-stress-tests-for-your-local-energy-security-a",
+        "published_at": "2026-07-31T05:27:30+00:00",
+        "word_count": 779,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "859327284698529346",
+        "title": "The 'mycelium-network' restoration audit: 7 stress-tests for your local soil health against industrial chemical runoff",
+        "url": "https://theomniview.blogspot.com/2026/07/the-mycelium-network-restoration-audit_01134858134.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Explainers",
+          "mycelium network",
+          "soil restoration",
+          "ecosystem conservation"
+        ],
+        "slug": "the-mycelium-network-restoration-audit-7-stress-tests-for-your-local-soil-health",
+        "published_at": "2026-07-31T05:27:50+00:00",
+        "word_count": 863,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
