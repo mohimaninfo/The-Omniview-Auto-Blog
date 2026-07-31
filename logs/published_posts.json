@@ -35752,5 +35752,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6570586011640903785",
+    "title": "The 'synthetic-trust' marketing audit: 7 stress-tests for your brand reputation against AI-generated research slop",
+    "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-trust-marketing-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Opinion & Analysis",
+      "content marketing strategy",
+      "brand reputation management",
+      "AI generated content"
+    ],
+    "slug": "the-synthetic-trust-marketing-audit-7-stress-tests-for-your-brand-reputation-aga",
+    "published_at": "2026-07-31T20:56:16+00:00",
+    "word_count": 887,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5589248704167798831",
+    "title": "The 'asynchronous-overload' audit: 7 stress-tests for your remote-work culture against AI-agent communication bloat \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-asynchronous-overload-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Listicles",
+      "remote-work culture",
+      "AI agents in business",
+      "asynchronous communication"
+    ],
+    "slug": "the-asynchronous-overload-audit-7-stress-tests-for-your-remote-work-culture-agai",
+    "published_at": "2026-07-31T20:56:38+00:00",
+    "word_count": 756,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
