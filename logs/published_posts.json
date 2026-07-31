@@ -35840,5 +35840,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3048820655769759710",
+    "title": "The 'disc-to-dust' transition audit: 7 stress-tests for your physical film collection against Sony\u2019s digital-only future \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/07/the-disc-to-dust-transition-audit-7.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Explainers",
+      "physical media ownership",
+      "Sony PlayStation disc rumors",
+      "streaming content expiration"
+    ],
+    "slug": "the-disc-to-dust-transition-audit-7-stress-tests-for-your-physical-film-collecti",
+    "published_at": "2026-07-31T22:53:42+00:00",
+    "word_count": 962,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5364476405492301057",
+    "title": "The 'Goldilocks' Exoplanet Audit: 7 Stress-Tests for Your Habitable Zone Theories Against JWST Atmospheric Data",
+    "url": "https://theomniview.blogspot.com/2026/07/the-goldilocks-exoplanet-audit-7-stress.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Explainers",
+      "exoplanets",
+      "habitable zone",
+      "JWST"
+    ],
+    "slug": "the-goldilocks-exoplanet-audit-7-stress-tests-for-your-habitable-zone-theories-a",
+    "published_at": "2026-07-31T22:54:06+00:00",
+    "word_count": 1003,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
