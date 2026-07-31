@@ -41968,5 +41968,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-31T08:28:58.062950",
+    "run_end": "2026-07-31T08:29:50.439094",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8941209125059075691",
+        "title": "The 'digital-surveillance' intimacy audit: 7 stress-tests for your romantic relationship against the rise of Flock camera data tracking",
+        "url": "https://theomniview.blogspot.com/2026/07/the-digital-surveillance-intimacy-audit.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "research-articles",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Research Articles",
+          "relationship privacy",
+          "digital surveillance",
+          "Flock cameras"
+        ],
+        "slug": "the-digital-surveillance-intimacy-audit-7-stress-tests-for-your-romantic-relatio",
+        "published_at": "2026-07-31T08:34:18+00:00",
+        "word_count": 1071,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4266932881031877379",
+        "title": "The 'Peaker-Plant' Resilience Audit: 7 Stress-Tests for Your Local Grid Against AI Data Center Energy Demand",
+        "url": "https://theomniview.blogspot.com/2026/07/the-peaker-plant-resilience-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Latest News",
+          "data center energy demand",
+          "renewable energy transition",
+          "peaker plants"
+        ],
+        "slug": "the-peaker-plant-resilience-audit-7-stress-tests-for-your-local-grid-against-ai-",
+        "published_at": "2026-07-31T08:34:49+00:00",
+        "word_count": 716,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
