@@ -42176,5 +42176,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-31T17:15:55.787563",
+    "run_end": "2026-07-31T17:16:42.713128",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5401974252552783100",
+        "title": "The 'Grid-Lock' Zoning Audit: 7 Stress-Tests for Your Property Value Against AI Data Center Energy Mandates",
+        "url": "https://theomniview.blogspot.com/2026/07/the-grid-lock-zoning-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Latest News",
+          "AI data center energy consumption",
+          "climate-policy",
+          "grid stability"
+        ],
+        "slug": "the-grid-lock-zoning-audit-7-stress-tests-for-your-property-value-against-ai-dat",
+        "published_at": "2026-07-31T17:21:18+00:00",
+        "word_count": 801,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1785351320226090271",
+        "title": "The 'Flock-Watch' Campus Audit: 7 Stress-Tests for Your K12 District\u2019s Security Against AI-Driven Surveillance Bias",
+        "url": "https://theomniview.blogspot.com/2026/07/the-flock-watch-campus-audit-7-stress.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "K12 school security",
+          "AI surveillance bias",
+          "Flock Safety cameras"
+        ],
+        "slug": "the-flock-watch-campus-audit-7-stress-tests-for-your-k12-districts-security-agai",
+        "published_at": "2026-07-31T17:21:41+00:00",
+        "word_count": 1081,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
