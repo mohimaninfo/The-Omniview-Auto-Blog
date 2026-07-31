@@ -35532,5 +35532,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5345675662913752620",
+    "title": "the 'asynchronous-collapse' remote audit: 7 stress-tests for your distributed team against ai-agent communication bloat",
+    "url": "https://theomniview.blogspot.com/2026/07/the-asynchronous-collapse-remote-audit.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Listicles",
+      "remote work productivity",
+      "AI agent workflows",
+      "asynchronous communication"
+    ],
+    "slug": "the-asynchronous-collapse-remote-audit-7-stress-tests-for-your-distributed-team-",
+    "published_at": "2026-07-31T11:20:54+00:00",
+    "word_count": 900,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "4426811513147974437",
+    "title": "The 'Dependency-Hell' Audit: 7 Stress-Tests for Your Node.js Production Environment Against Supply-Chain Poisoning",
+    "url": "https://theomniview.blogspot.com/2026/07/the-dependency-hell-audit-7-stress_0662849872.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Explainers",
+      "Node.js security",
+      "supply chain attacks",
+      "dependency auditing"
+    ],
+    "slug": "the-dependency-hell-audit-7-stress-tests-for-your-nodejs-production-environment-",
+    "published_at": "2026-07-31T11:21:17+00:00",
+    "word_count": 989,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
