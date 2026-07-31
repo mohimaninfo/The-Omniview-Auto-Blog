@@ -42332,5 +42332,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-07-31T21:54:49.583069",
+    "run_end": "2026-07-31T21:55:32.030038",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1426232749691586271",
+        "title": "The 'mortgage-lock' liquidity audit: 7 stress-tests for your home equity against high-interest refinancing traps",
+        "url": "https://theomniview.blogspot.com/2026/07/the-mortgage-lock-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Latest News",
+          "mortgage liquidity",
+          "home equity strategy",
+          "refinancing risks"
+        ],
+        "slug": "the-mortgage-lock-liquidity-audit-7-stress-tests-for-your-home-equity-against-hi",
+        "published_at": "2026-07-31T22:00:10+00:00",
+        "word_count": 979,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3667520484029366292",
+        "title": "the 'smart-glass' surveillance audit: 7 stress-tests for your neighborhood privacy against ai-integrated wearable tech",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-glass-surveillance-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "reviews",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Reviews",
+          "smart glasses privacy",
+          "biometric surveillance",
+          "community privacy rights"
+        ],
+        "slug": "the-smart-glass-surveillance-audit-7-stress-tests-for-your-neighborhood-privacy-",
+        "published_at": "2026-07-31T22:00:31+00:00",
+        "word_count": 557,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
