@@ -42436,5 +42436,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-31T23:50:57.012138",
+    "run_end": "2026-07-31T23:51:34.707689",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1343918688573818059",
+        "title": "The 'Governance-Gap' Audit: 7 Stress-Tests for Your Corporate Leadership Strategy Against Autonomous AI-Agent Misalignment",
+        "url": "https://theomniview.blogspot.com/2026/07/the-governance-gap-audit-7-stress-tests.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Case Studies",
+          "AI governance",
+          "leadership strategy",
+          "autonomous agents"
+        ],
+        "slug": "the-governance-gap-audit-7-stress-tests-for-your-corporate-leadership-strategy-a",
+        "published_at": "2026-07-31T23:56:13+00:00",
+        "word_count": 636,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3757808508812236143",
+        "title": "The 'Smart-Lens' Privacy Audit: 7 Stress-Tests for Your Personal Anonymity Against Meta AI Smart Glasses",
+        "url": "https://theomniview.blogspot.com/2026/07/the-smart-lens-privacy-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Reviews",
+          "Meta smart glasses privacy",
+          "wearable camera security",
+          "personal data protection"
+        ],
+        "slug": "the-smart-lens-privacy-audit-7-stress-tests-for-your-personal-anonymity-against-",
+        "published_at": "2026-07-31T23:56:34+00:00",
+        "word_count": 649,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
