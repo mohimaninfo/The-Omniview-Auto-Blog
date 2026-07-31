@@ -41864,5 +41864,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-07-31T01:28:14.931845",
+    "run_end": "2026-07-31T01:28:59.410449",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7752616002172611130",
+        "title": "The 'license-drift' streaming audit: 7 stress-tests for your favorite digital movie library against silent studio content-shuffling",
+        "url": "https://theomniview.blogspot.com/2026/07/the-license-drift-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "digital movie library",
+          "streaming licensing agreements",
+          "digital content ownership"
+        ],
+        "slug": "the-license-drift-streaming-audit-7-stress-tests-for-your-favorite-digital-movie",
+        "published_at": "2026-07-31T01:33:37+00:00",
+        "word_count": 945,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7928669424289821610",
+        "title": "the 'protocol-entropy' governance audit: 7 stress-tests for your dao treasury against ai-agent-driven proposal spam",
+        "url": "https://theomniview.blogspot.com/2026/07/the-protocol-entropy-governance-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "dao governance",
+          "crypto treasury management",
+          "ai-driven spam"
+        ],
+        "slug": "the-protocol-entropy-governance-audit-7-stress-tests-for-your-dao-treasury-again",
+        "published_at": "2026-07-31T01:33:58+00:00",
+        "word_count": 868,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
