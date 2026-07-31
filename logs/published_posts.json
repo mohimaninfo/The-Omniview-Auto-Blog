@@ -35576,5 +35576,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5686609875715449592",
+    "title": "The 'synthetic-scholar' accreditation audit: 7 stress-tests for your university\u2019s degree value against ai-generated research bloat",
+    "url": "https://theomniview.blogspot.com/2026/07/the-synthetic-scholar-accreditation.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Opinion & Analysis",
+      "academic integrity",
+      "AI in higher education",
+      "degree devaluation"
+    ],
+    "slug": "the-synthetic-scholar-accreditation-audit-7-stress-tests-for-your-universitys-de",
+    "published_at": "2026-07-31T13:31:47+00:00",
+    "word_count": 933,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3498281089306753920",
+    "title": "The 'founder-equity' dilution audit: 7 stress-tests for your startup\u2019s cap table against ai-driven predictive valuation models",
+    "url": "https://theomniview.blogspot.com/2026/07/the-founder-equity-dilution-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Interviews",
+      "startup cap table",
+      "founder equity",
+      "ai valuation models"
+    ],
+    "slug": "the-founder-equity-dilution-audit-7-stress-tests-for-your-startups-cap-table-aga",
+    "published_at": "2026-07-31T13:32:10+00:00",
+    "word_count": 1080,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
