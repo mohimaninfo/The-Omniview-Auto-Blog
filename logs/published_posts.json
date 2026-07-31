@@ -35620,5 +35620,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5005316079027163753",
+    "title": "The 'Caffeine-Clarity' Audit: 7 Stress-Tests for Your Child's Focus Against Hidden Dietary Stimulants",
+    "url": "https://theomniview.blogspot.com/2026/07/the-caffeine-clarity-audit-7-stress.html",
+    "genre": "health",
+    "topic": "wellness",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Wellness & Lifestyle",
+      "Listicles",
+      "caffeine in kids",
+      "pediatric wellness",
+      "hidden caffeine sources"
+    ],
+    "slug": "the-caffeine-clarity-audit-7-stress-tests-for-your-childs-focus-against-hidden-d",
+    "published_at": "2026-07-31T15:57:23+00:00",
+    "word_count": 892,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2503088003445303934",
+    "title": "The 'smart-curtain' privacy audit: 7 stress-tests for your home security against ai-enabled lidar and thermal imaging",
+    "url": "https://theomniview.blogspot.com/2026/07/the-smart-curtain-privacy-audit-7.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Case Studies",
+      "smart home privacy",
+      "ai-enabled surveillance",
+      "lidar security risks"
+    ],
+    "slug": "the-smart-curtain-privacy-audit-7-stress-tests-for-your-home-security-against-ai",
+    "published_at": "2026-07-31T15:57:53+00:00",
+    "word_count": 736,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
