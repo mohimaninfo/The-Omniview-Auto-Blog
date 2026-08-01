@@ -42696,5 +42696,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-01T11:10:21.749614",
+    "run_end": "2026-08-01T11:11:03.234279",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5412527205884696352",
+        "title": "The 'protein-ceiling' mental health audit: 7 stress-tests for your mood stability against modern dietary trends",
+        "url": "https://theomniview.blogspot.com/2026/08/the-protein-ceiling-mental-health-audit.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "How-To Guides",
+          "mental health diet",
+          "protein intake anxiety",
+          "neurotransmitter health"
+        ],
+        "slug": "the-protein-ceiling-mental-health-audit-7-stress-tests-for-your-mood-stability-a",
+        "published_at": "2026-08-01T11:15:43+00:00",
+        "word_count": 1019,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "344197799134341663",
+        "title": "The 'kitchen-latency' audit: 7 stress-tests for your home cooking efficiency against modern induction-stove electromagnetic interference",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kitchen-latency-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "induction cooking efficiency",
+          "kitchen technology trends",
+          "smart home interference"
+        ],
+        "slug": "the-kitchen-latency-audit-7-stress-tests-for-your-home-cooking-efficiency-agains",
+        "published_at": "2026-08-01T11:16:02+00:00",
+        "word_count": 870,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
