@@ -42852,5 +42852,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-01T15:50:00.762326",
+    "run_end": "2026-08-01T15:50:38.894109",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6045731121536514918",
+        "title": "The 'Dashboard-Dash' Review Audit: 7 Stress-Tests for Your Privacy Against In-Car Full-Screen Advertising",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dashboard-dash-review-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "in-car advertising",
+          "car dashboard privacy",
+          "infotainment system review"
+        ],
+        "slug": "the-dashboard-dash-review-audit-7-stress-tests-for-your-privacy-against-in-car-f",
+        "published_at": "2026-08-01T15:55:19+00:00",
+        "word_count": 609,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "3135462474831825698",
+        "title": "The 'save-file' corruption audit: 7 stress-tests for your cloud-synced gaming progress against intermittent network latency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-save-file-corruption-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Explainers",
+          "cloud gaming",
+          "save file corruption",
+          "gaming latency"
+        ],
+        "slug": "the-save-file-corruption-audit-7-stress-tests-for-your-cloud-synced-gaming-progr",
+        "published_at": "2026-08-01T15:55:38+00:00",
+        "word_count": 896,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
