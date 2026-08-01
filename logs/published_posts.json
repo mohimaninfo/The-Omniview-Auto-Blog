@@ -36544,5 +36544,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "9043092339575092728",
+    "title": "The 'Power-Pact' Protest Audit: 7 Stress-Tests for Local Renewable Energy Resilience Against Data Center Load-Balancing \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-power-pact-protest-audit-7-stress_01501297906.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Research Articles",
+      "data center energy consumption",
+      "renewable energy resilience",
+      "climate policy"
+    ],
+    "slug": "the-power-pact-protest-audit-7-stress-tests-for-local-renewable-energy-resilienc",
+    "published_at": "2026-08-01T23:51:37+00:00",
+    "word_count": 993,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "4758282381479244757",
+    "title": "The 'Shadow-Sync' Productivity Audit: 7 Stress-Tests for Your Remote-Work Culture Against AI-Agent Shadow IT",
+    "url": "https://theomniview.blogspot.com/2026/08/the-shadow-sync-productivity-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Opinion & Analysis",
+      "remote work security",
+      "shadow IT",
+      "AI agents"
+    ],
+    "slug": "the-shadow-sync-productivity-audit-7-stress-tests-for-your-remote-work-culture-a",
+    "published_at": "2026-08-01T23:52:00+00:00",
+    "word_count": 1003,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
