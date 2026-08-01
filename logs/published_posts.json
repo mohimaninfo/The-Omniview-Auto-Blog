@@ -36368,5 +36368,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "24522902732419839",
+    "title": "The 'Grid-Capacity' Conflict Audit: 7 Stress-Tests for Your Local Renewable Energy Resilience Against AI Data Center Expansion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-capacity-conflict-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Case Studies",
+      "renewable energy grid",
+      "AI data center energy consumption",
+      "grid capacity"
+    ],
+    "slug": "the-grid-capacity-conflict-audit-7-stress-tests-for-your-local-renewable-energy-",
+    "published_at": "2026-08-01T18:55:00+00:00",
+    "word_count": 647,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5966220237931513049",
+    "title": "The 'algorithmic-curation' audit: 7 stress-tests for your streaming habits against platform-forced AI recommendations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-curation-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Opinion & Analysis",
+      "streaming platforms",
+      "AI recommendations",
+      "algorithmic curation"
+    ],
+    "slug": "the-algorithmic-curation-audit-7-stress-tests-for-your-streaming-habits-against-",
+    "published_at": "2026-08-01T18:55:24+00:00",
+    "word_count": 946,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
