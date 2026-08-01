@@ -42592,5 +42592,57 @@
         "reference_count": 8
       }
     ]
+  },
+  {
+    "run_start": "2026-08-01T07:58:53.131175",
+    "run_end": "2026-08-01T07:59:41.614065",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "989961237565495422",
+        "title": "The 'Resource-Sovereignty' Audit: 7 Stress-Tests for Your National Tech Infrastructure Against Rare Earth Mineral Scarcity",
+        "url": "https://theomniview.blogspot.com/2026/08/the-resource-sovereignty-audit-7-stress.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "rare earth metals",
+          "resource sovereignty",
+          "geopolitical risk"
+        ],
+        "slug": "the-resource-sovereignty-audit-7-stress-tests-for-your-national-tech-infrastruct",
+        "published_at": "2026-08-01T08:04:17+00:00",
+        "word_count": 883,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5381577171850827062",
+        "title": "The 'caffeine-cortex' audit: 7 stress-tests for your child's mental health against hidden dietary stimulants \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-caffeine-cortex-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "How-To Guides",
+          "child mental health",
+          "pediatric caffeine intake",
+          "hidden dietary stimulants"
+        ],
+        "slug": "the-caffeine-cortex-audit-7-stress-tests-for-your-childs-mental-health-against-h",
+        "published_at": "2026-08-01T08:04:40+00:00",
+        "word_count": 954,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
