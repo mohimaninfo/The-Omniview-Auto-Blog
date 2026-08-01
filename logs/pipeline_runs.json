@@ -42800,5 +42800,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-01T14:19:36.448569",
+    "run_end": "2026-08-01T14:20:25.113066",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "695427084113347156",
+        "title": "The 'Analog-Resonance' Audit: 7 Stress-Tests for Your Vinyl Collection Against AI-Driven Data Center Energy Spikes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-analog-resonance-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "interviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Interviews",
+          "analog music",
+          "AI data centers",
+          "vinyl record industry"
+        ],
+        "slug": "the-analog-resonance-audit-7-stress-tests-for-your-vinyl-collection-against-ai-d",
+        "published_at": "2026-08-01T14:25:00+00:00",
+        "word_count": 1022,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5565754771755123430",
+        "title": "The 'Server-Farm-to-Soil' Circularity Audit: 7 Stress-Tests for Your Local Ecosystem Against AI Data Center Water Consumption",
+        "url": "https://theomniview.blogspot.com/2026/08/the-server-farm-to-soil-circularity.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "data center water consumption",
+          "circular economy",
+          "sustainable infrastructure"
+        ],
+        "slug": "the-server-farm-to-soil-circularity-audit-7-stress-tests-for-your-local-ecosyste",
+        "published_at": "2026-08-01T14:25:24+00:00",
+        "word_count": 972,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
