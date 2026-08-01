@@ -42748,5 +42748,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-01T12:50:26.248912",
+    "run_end": "2026-08-01T12:51:07.308385",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "517609538441288421",
+        "title": "The 'Orbital-Rust' Resilience Audit: 7 Stress-Tests for Your Satellite Data Integrity Against Growing Space Weather Hazards",
+        "url": "https://theomniview.blogspot.com/2026/08/the-orbital-rust-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "space weather",
+          "satellite data integrity",
+          "orbital infrastructure"
+        ],
+        "slug": "the-orbital-rust-resilience-audit-7-stress-tests-for-your-satellite-data-integri",
+        "published_at": "2026-08-01T12:55:47+00:00",
+        "word_count": 922,
+        "has_video": false,
+        "image_count": 2,
+        "reference_count": 8
+      },
+      {
+        "post_id": "4123953719544645642",
+        "title": "The 'zero-party' data audit: 7 stress-tests for your ecommerce retention strategy against the death of third-party cookies \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-zero-party-data-audit-7-stress.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "zero-party data",
+          "ecommerce retention strategy",
+          "first-party data collection"
+        ],
+        "slug": "the-zero-party-data-audit-7-stress-tests-for-your-ecommerce-retention-strategy-a",
+        "published_at": "2026-08-01T12:56:06+00:00",
+        "word_count": 950,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
