@@ -36412,5 +36412,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4893492797130697235",
+    "title": "The 'Power-Pact' Protest Audit: 7 Stress-Tests for Your Local Renewable Energy Resilience Against Data Center Load-Balancing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-power-pact-protest-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Case Studies",
+      "renewable energy resilience",
+      "data center energy demand",
+      "local grid capacity"
+    ],
+    "slug": "the-power-pact-protest-audit-7-stress-tests-for-your-local-renewable-energy-resi",
+    "published_at": "2026-08-01T20:08:34+00:00",
+    "word_count": 648,
+    "has_video": true,
+    "image_count": 2,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7936455974945492060",
+    "title": "The 'algorithmic-divorce' audit: 7 stress-tests for your marriage against AI-driven financial platform nudges",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-divorce-audit-7-stress.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Latest News",
+      "AI financial planning",
+      "algorithmic bias in relationships",
+      "fintech marriage stress"
+    ],
+    "slug": "the-algorithmic-divorce-audit-7-stress-tests-for-your-marriage-against-ai-driven",
+    "published_at": "2026-08-01T20:08:55+00:00",
+    "word_count": 899,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
