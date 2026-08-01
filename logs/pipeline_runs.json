@@ -42488,5 +42488,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-01T01:29:44.492148",
+    "run_end": "2026-08-01T01:30:31.024517",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1358578189158813196",
+        "title": "The 'low-rate-lock' equity audit: 7 stress-tests for your 2.5% mortgage against future life-stage mobility",
+        "url": "https://theomniview.blogspot.com/2026/07/the-low-rate-lock-equity-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Opinion & Analysis",
+          "mortgage lock-in effect",
+          "2.5% mortgage",
+          "home equity"
+        ],
+        "slug": "the-low-rate-lock-equity-audit-7-stress-tests-for-your-25-mortgage-against-futur",
+        "published_at": "2026-08-01T01:35:07+00:00",
+        "word_count": 1013,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5795161856526816089",
+        "title": "The 'Phone-Free' Campus Audit: 7 Stress-Tests for Your K12 District\u2019s Security Against Surveillance-Linked Smartphone Bans",
+        "url": "https://theomniview.blogspot.com/2026/07/the-phone-free-campus-audit-7-stress.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "case-studies",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Case Studies",
+          "k12 smartphone ban",
+          "school campus security",
+          "student digital privacy"
+        ],
+        "slug": "the-phone-free-campus-audit-7-stress-tests-for-your-k12-districts-security-again",
+        "published_at": "2026-08-01T01:35:30+00:00",
+        "word_count": 634,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
