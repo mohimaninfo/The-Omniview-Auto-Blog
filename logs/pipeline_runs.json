@@ -42540,5 +42540,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-01T05:14:36.924705",
+    "run_end": "2026-08-01T05:15:32.333571",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5714712894288816674",
+        "title": "The 'algorithmic-tax' audit: 7 stress-tests for your ecommerce profit margins against AI-driven dynamic pricing",
+        "url": "https://theomniview.blogspot.com/2026/07/the-algorithmic-tax-audit-7-stress_02121226494.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "ecommerce profit margins",
+          "dynamic pricing strategy",
+          "AI retail competition"
+        ],
+        "slug": "the-algorithmic-tax-audit-7-stress-tests-for-your-ecommerce-profit-margins-again",
+        "published_at": "2026-08-01T05:20:07+00:00",
+        "word_count": 909,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "2912947059595819543",
+        "title": "The 'Cosmic-Ghost' Detection Audit: 7 Stress-Tests for Your Star-Mapping Data Against Deep-Space Signal Anomalies",
+        "url": "https://theomniview.blogspot.com/2026/07/the-cosmic-ghost-detection-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "astronomy data analysis",
+          "deep-space signals",
+          "cosmic anomalies"
+        ],
+        "slug": "the-cosmic-ghost-detection-audit-7-stress-tests-for-your-star-mapping-data-again",
+        "published_at": "2026-08-01T05:20:31+00:00",
+        "word_count": 767,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 8
+      }
+    ]
   }
 ]
