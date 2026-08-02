@@ -37028,5 +37028,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6647372166826470618",
+    "title": "The 'cortisol-reset' neuro-audit: 7 stress-tests for your mental resilience against ketamine-induced hormonal shifts",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cortisol-reset-neuro-audit-7-stress.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Research Articles",
+      "ketamine therapy",
+      "cortisol levels",
+      "neuroplasticity"
+    ],
+    "slug": "the-cortisol-reset-neuro-audit-7-stress-tests-for-your-mental-resilience-against",
+    "published_at": "2026-08-02T18:55:39+00:00",
+    "word_count": 887,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7775695440593401101",
+    "title": "The 'presence-parity' audit: 7 stress-tests for your remote-work career against proximity-bias performance tracking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-presence-parity-audit-7-stress.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Opinion & Analysis",
+      "remote-work",
+      "proximity bias",
+      "performance analytics"
+    ],
+    "slug": "the-presence-parity-audit-7-stress-tests-for-your-remote-work-career-against-pro",
+    "published_at": "2026-08-02T18:56:01+00:00",
+    "word_count": 916,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
