@@ -43892,5 +43892,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-02T21:42:24.397586",
+    "run_end": "2026-08-02T21:43:07.391088",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5463679806834774032",
+        "title": "The 'GLP-1' Mental Health Audit: 7 Stress-Tests for Your Emotional Stability Against Ozempic-Induced Neuro-Shifts",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glp-1-mental-health-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "GLP-1 mental health side effects",
+          "Ozempic anxiety",
+          "metabolic psychiatry"
+        ],
+        "slug": "the-glp-1-mental-health-audit-7-stress-tests-for-your-emotional-stability-agains",
+        "published_at": "2026-08-02T21:47:46+00:00",
+        "word_count": 693,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3067938079756750309",
+        "title": "The 'Kernel-Panic' Security Audit: 7 Stress-Tests for Your Embedded Rust Codebase Against Memory-Unsafe Driver Interop",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kernel-panic-security-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Programming",
+          "How-To Guides",
+          "embedded Rust",
+          "memory safety",
+          "FFI security"
+        ],
+        "slug": "the-kernel-panic-security-audit-7-stress-tests-for-your-embedded-rust-codebase-a",
+        "published_at": "2026-08-02T21:48:07+00:00",
+        "word_count": 1048,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
