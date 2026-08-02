@@ -37160,5 +37160,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "1040316715258762079",
+    "title": "The 'Liquidity-Trap' Retirement Audit: 7 Stress-Tests for Your 401k Strategy Against Early-Withdrawal Inflation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-liquidity-trap-retirement-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Opinion & Analysis",
+      "401k strategy",
+      "retirement planning",
+      "liquidity trap"
+    ],
+    "slug": "the-liquidity-trap-retirement-audit-7-stress-tests-for-your-401k-strategy-agains",
+    "published_at": "2026-08-02T22:48:31+00:00",
+    "word_count": 902,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "2664099127101793836",
+    "title": "The 'battery-passport' supply-chain audit: 7 stress-tests for your EV fleet against upcoming EU circular-economy mandates",
+    "url": "https://theomniview.blogspot.com/2026/08/the-battery-passport-supply-chain-audit.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Case Studies",
+      "battery passport",
+      "circular economy",
+      "EV supply chain"
+    ],
+    "slug": "the-battery-passport-supply-chain-audit-7-stress-tests-for-your-ev-fleet-against",
+    "published_at": "2026-08-02T22:48:58+00:00",
+    "word_count": 684,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
