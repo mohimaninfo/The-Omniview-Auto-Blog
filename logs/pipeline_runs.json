@@ -43632,5 +43632,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-02T15:50:13.897039",
+    "run_end": "2026-08-02T15:50:56.474365",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7346384969837678117",
+        "title": "The 'Right-to-Repair' Kitchen Audit: 7 Stress-Tests for Your Smart Appliances Against Planned Obsolescence \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-right-to-repair-kitchen-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "right to repair",
+          "smart home appliances",
+          "home maintenance"
+        ],
+        "slug": "the-right-to-repair-kitchen-audit-7-stress-tests-for-your-smart-appliances-again",
+        "published_at": "2026-08-02T15:55:36+00:00",
+        "word_count": 771,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2824065808772887671",
+        "title": "The 'kinematic-drift' precision audit: 7 stress-tests for your warehouse robotics fleet against sensor-fusion signal degradation \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kinematic-drift-precision-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Research Articles",
+          "warehouse robotics",
+          "sensor fusion",
+          "autonomous mobile robots"
+        ],
+        "slug": "the-kinematic-drift-precision-audit-7-stress-tests-for-your-warehouse-robotics-f",
+        "published_at": "2026-08-02T15:55:55+00:00",
+        "word_count": 977,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
