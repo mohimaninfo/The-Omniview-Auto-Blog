@@ -36852,5 +36852,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "1519462276947052501",
+    "title": "The 'thermal-inequality' housing audit: 7 stress-tests for your urban home\u2019s equity against climate-driven heat zoning",
+    "url": "https://theomniview.blogspot.com/2026/08/the-thermal-inequality-housing-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Research Articles",
+      "urban heat island",
+      "climate inequality",
+      "housing equity"
+    ],
+    "slug": "the-thermal-inequality-housing-audit-7-stress-tests-for-your-urban-homes-equity-",
+    "published_at": "2026-08-02T14:26:47+00:00",
+    "word_count": 1032,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8011041901928712161",
+    "title": "the 'context-collapse' curriculum audit: 7 stress-tests for your instructional design against generative ai hallucination drift",
+    "url": "https://theomniview.blogspot.com/2026/08/the-context-collapse-curriculum-audit-7.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Opinion & Analysis",
+      "instructional design",
+      "generative ai in education",
+      "learning science"
+    ],
+    "slug": "the-context-collapse-curriculum-audit-7-stress-tests-for-your-instructional-desi",
+    "published_at": "2026-08-02T14:27:06+00:00",
+    "word_count": 821,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
