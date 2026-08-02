@@ -43736,5 +43736,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-02T17:50:28.958575",
+    "run_end": "2026-08-02T17:51:12.928695",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9165841747040994528",
+        "title": "The 'Mandatory-Disclosure' Audit: 7 Stress-Tests for Your Brand's AI Interactions Against New EU Transparency Laws",
+        "url": "https://theomniview.blogspot.com/2026/08/the-mandatory-disclosure-audit-7-stress.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "EU AI Act compliance",
+          "AI transparency mandate",
+          "digital society ethics"
+        ],
+        "slug": "the-mandatory-disclosure-audit-7-stress-tests-for-your-brands-ai-interactions-ag",
+        "published_at": "2026-08-02T17:55:48+00:00",
+        "word_count": 959,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2915504114561758288",
+        "title": "The 'metabolic-flexibility' fitness audit: 7 stress-tests for your training endurance against ultra-processed energy gels \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-metabolic-flexibility-fitness-audit.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "How-To Guides",
+          "metabolic flexibility",
+          "endurance training",
+          "intra-workout nutrition"
+        ],
+        "slug": "the-metabolic-flexibility-fitness-audit-7-stress-tests-for-your-training-enduran",
+        "published_at": "2026-08-02T17:56:12+00:00",
+        "word_count": 1125,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
