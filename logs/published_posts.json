@@ -36588,5 +36588,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8184333895361001455",
+    "title": "The 'Nudify-Filter' Security Audit: 7 Stress-Tests for Your Personal Privacy Against AI-Generated Deepfake Apps",
+    "url": "https://theomniview.blogspot.com/2026/08/the-nudify-filter-security-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Reviews",
+      "AI deepfake protection",
+      "privacy security audit",
+      "nudify apps"
+    ],
+    "slug": "the-nudify-filter-security-audit-7-stress-tests-for-your-personal-privacy-agains",
+    "published_at": "2026-08-02T01:32:33+00:00",
+    "word_count": 762,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3750607319620650103",
+    "title": "The 'stem-separation' fidelity audit: 7 stress-tests for your high-end audio setup against AI-remastered streaming catalogs",
+    "url": "https://theomniview.blogspot.com/2026/08/the-stem-separation-fidelity-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Latest News",
+      "AI music remastering",
+      "high-fidelity audio",
+      "streaming audio quality"
+    ],
+    "slug": "the-stem-separation-fidelity-audit-7-stress-tests-for-your-high-end-audio-setup-",
+    "published_at": "2026-08-02T01:32:56+00:00",
+    "word_count": 762,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
