@@ -36764,5 +36764,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8640626796493714317",
+    "title": "The 'zero-trust' classroom audit: 7 stress-tests for your school district's privacy against AI-powered age verification mandates",
+    "url": "https://theomniview.blogspot.com/2026/08/the-zero-trust-classroom-audit-7-stress.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Opinion & Analysis",
+      "AI age verification",
+      "student data privacy",
+      "edtech security"
+    ],
+    "slug": "the-zero-trust-classroom-audit-7-stress-tests-for-your-school-districts-privacy-",
+    "published_at": "2026-08-02T11:18:38+00:00",
+    "word_count": 965,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "2069015563556438618",
+    "title": "The 'cognitive-load' audit: 7 stress-tests for your instructional design against AI-induced information density",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-load-audit-7-stress-tests.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "How-To Guides",
+      "cognitive load theory",
+      "instructional design",
+      "learning science"
+    ],
+    "slug": "the-cognitive-load-audit-7-stress-tests-for-your-instructional-design-against-ai",
+    "published_at": "2026-08-02T11:18:59+00:00",
+    "word_count": 986,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
