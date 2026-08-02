@@ -43684,5 +43684,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-02T16:43:36.765279",
+    "run_end": "2026-08-02T16:44:22.821427",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8073353807797679872",
+        "title": "The 'Biometric-Border' Travel Audit: 7 Stress-Tests for Your Privacy Against AI-Driven Passport Control",
+        "url": "https://theomniview.blogspot.com/2026/08/the-biometric-border-travel-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Explainers",
+          "travel privacy",
+          "biometric passport control",
+          "AI Act travel"
+        ],
+        "slug": "the-biometric-border-travel-audit-7-stress-tests-for-your-privacy-against-ai-dri",
+        "published_at": "2026-08-02T16:49:02+00:00",
+        "word_count": 896,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1487565010230266491",
+        "title": "the 'linux-gaming' performance audit: 7 stress-tests for your steam deck library against the 10% market share surge",
+        "url": "https://theomniview.blogspot.com/2026/08/the-linux-gaming-performance-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Reviews",
+          "linux gaming",
+          "steam deck performance",
+          "gaming on linux"
+        ],
+        "slug": "the-linux-gaming-performance-audit-7-stress-tests-for-your-steam-deck-library-ag",
+        "published_at": "2026-08-02T16:49:21+00:00",
+        "word_count": 717,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
