@@ -43528,5 +43528,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-02T12:52:42.616780",
+    "run_end": "2026-08-02T12:53:38.696784",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4074077494167190247",
+        "title": "The 'Plastisphere' Invasion: 7 Stress-Tests for Your Deep-Sea Ecosystem Awareness Against Microplastic Proliferation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-plastisphere-invasion-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Latest News",
+          "microplastics in deep sea",
+          "hydrothermal vent biology",
+          "ocean pollution"
+        ],
+        "slug": "the-plastisphere-invasion-7-stress-tests-for-your-deep-sea-ecosystem-awareness-a",
+        "published_at": "2026-08-02T12:58:18+00:00",
+        "word_count": 840,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2193513829593706039",
+        "title": "The 'Open-Source' Robotics Audit: 7 Stress-Tests for Your Warehouse Automation Against Linux-Based Kernel Volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-open-source-robotics-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "robotics automation",
+          "Linux kernel",
+          "warehouse robotics"
+        ],
+        "slug": "the-open-source-robotics-audit-7-stress-tests-for-your-warehouse-automation-agai",
+        "published_at": "2026-08-02T12:58:38+00:00",
+        "word_count": 694,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
