@@ -44152,5 +44152,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-03T08:57:08.332704",
+    "run_end": "2026-08-03T08:57:47.874759",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3367865626475511048",
+        "title": "The 'In-Law-Liability' Audit: 7 Stress-Tests for Your Retirement Savings Against Unplanned Intergenerational Care",
+        "url": "https://theomniview.blogspot.com/2026/08/the-in-law-liability-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "retirement planning",
+          "sandwich generation finance",
+          "elder care costs"
+        ],
+        "slug": "the-in-law-liability-audit-7-stress-tests-for-your-retirement-savings-against-un",
+        "published_at": "2026-08-03T09:02:28+00:00",
+        "word_count": 779,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4906556850839554711",
+        "title": "the 'gig-care' mobility audit: 7 stress-tests for your family's social safety net against platform-based eldercare",
+        "url": "https://theomniview.blogspot.com/2026/08/the-gig-care-mobility-audit-7-stress.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Case Studies",
+          "eldercare inequality",
+          "gig economy",
+          "social safety net"
+        ],
+        "slug": "the-gig-care-mobility-audit-7-stress-tests-for-your-familys-social-safety-net-ag",
+        "published_at": "2026-08-03T09:02:47+00:00",
+        "word_count": 759,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
