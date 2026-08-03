@@ -44100,5 +44100,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-03T05:27:33.040190",
+    "run_end": "2026-08-03T05:28:20.153100",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6541811238394532034",
+        "title": "The 'Vocal-Identity' Audit: 7 Stress-Tests for Your Favorite RPG Characters Against AI Voice Cloning",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vocal-identity-audit-7-stress-tests.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Opinion & Analysis",
+          "AI voice cloning",
+          "gaming industry ethics",
+          "Megumi Ogata"
+        ],
+        "slug": "the-vocal-identity-audit-7-stress-tests-for-your-favorite-rpg-characters-against",
+        "published_at": "2026-08-03T05:32:53+00:00",
+        "word_count": 864,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5995504711633197563",
+        "title": "The 'Spatial-Latency' Perception Audit: 7 Stress-Tests for Your VR Immersion Against Modern Headset Refresh Rates",
+        "url": "https://theomniview.blogspot.com/2026/08/the-spatial-latency-perception-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "VR headset latency",
+          "spatial computing",
+          "motion-to-photon latency"
+        ],
+        "slug": "the-spatial-latency-perception-audit-7-stress-tests-for-your-vr-immersion-agains",
+        "published_at": "2026-08-03T05:33:19+00:00",
+        "word_count": 919,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
