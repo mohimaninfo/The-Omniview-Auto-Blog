@@ -37556,5 +37556,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8743902596012962056",
+    "title": "The 'conscription-readiness' audit: 7 stress-tests for your career stability against emerging mandatory national service mandates \u2014 A Interviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-conscription-readiness-audit-7.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "interviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Interviews",
+      "mandatory military service",
+      "career stability",
+      "workforce planning"
+    ],
+    "slug": "the-conscription-readiness-audit-7-stress-tests-for-your-career-stability-agains",
+    "published_at": "2026-08-03T20:57:38+00:00",
+    "word_count": 1035,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7519098793445260458",
+    "title": "The 'shadow-firmware' integrity audit: 7 stress-tests for your enterprise iot deployment against malicious peripheral implants",
+    "url": "https://theomniview.blogspot.com/2026/08/the-shadow-firmware-integrity-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Research Articles",
+      "firmware security",
+      "iot vulnerability",
+      "enterprise cybersecurity"
+    ],
+    "slug": "the-shadow-firmware-integrity-audit-7-stress-tests-for-your-enterprise-iot-deplo",
+    "published_at": "2026-08-03T20:58:00+00:00",
+    "word_count": 932,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
