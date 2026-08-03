@@ -44048,5 +44048,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-03T01:27:20.519451",
+    "run_end": "2026-08-03T01:28:09.831900",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7917569449500224197",
+        "title": "The 'AI-Disclosure' Relationship Audit: 7 Stress-Tests for Your Couple\u2019s Digital Boundaries Under New EU Transparency Laws",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ai-disclosure-relationship-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "How-To Guides",
+          "relationship advice",
+          "digital boundaries",
+          "AI transparency"
+        ],
+        "slug": "the-ai-disclosure-relationship-audit-7-stress-tests-for-your-couples-digital-bou",
+        "published_at": "2026-08-03T01:32:41+00:00",
+        "word_count": 998,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2031979977767272698",
+        "title": "The 'wildlife-corridor' connectivity audit: 7 stress-tests for your local biodiversity strategy against urban infrastructure sprawl",
+        "url": "https://theomniview.blogspot.com/2026/08/the-wildlife-corridor-connectivity.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Case Studies",
+          "wildlife corridors",
+          "biodiversity conservation",
+          "urban habitat fragmentation"
+        ],
+        "slug": "the-wildlife-corridor-connectivity-audit-7-stress-tests-for-your-local-biodivers",
+        "published_at": "2026-08-03T01:33:09+00:00",
+        "word_count": 803,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
