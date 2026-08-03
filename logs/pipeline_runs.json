@@ -44516,5 +44516,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-03T22:52:07.691912",
+    "run_end": "2026-08-03T22:53:00.522167",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8952669922454414289",
+        "title": "The 'sandwich-generation' solvency audit: 7 stress-tests for your retirement portfolio against rising eldercare and childcare costs",
+        "url": "https://theomniview.blogspot.com/2026/08/the-sandwich-generation-solvency-audit.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Opinion & Analysis",
+          "sandwich generation retirement",
+          "eldercare financial planning",
+          "intergenerational wealth management"
+        ],
+        "slug": "the-sandwich-generation-solvency-audit-7-stress-tests-for-your-retirement-portfo",
+        "published_at": "2026-08-03T22:57:30+00:00",
+        "word_count": 834,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8463834094596160660",
+        "title": "The 'skill-stack' obsolescence audit: 7 stress-tests for your career longevity against AI-integrated workflow automation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-skill-stack-obsolescence-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "How-To Guides",
+          "career longevity",
+          "skill stack",
+          "AI workflow automation"
+        ],
+        "slug": "the-skill-stack-obsolescence-audit-7-stress-tests-for-your-career-longevity-agai",
+        "published_at": "2026-08-03T22:58:00+00:00",
+        "word_count": 903,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
