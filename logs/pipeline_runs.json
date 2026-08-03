@@ -44256,5 +44256,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-03T15:35:21.762866",
+    "run_end": "2026-08-03T15:36:04.215863",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1121991675872988994",
+        "title": "The 'Self-Bias' Body Image Audit: 7 Stress-Tests for Your Cognitive Health Against Distorted Self-Perception",
+        "url": "https://theomniview.blogspot.com/2026/08/the-self-bias-body-image-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Explainers",
+          "body dysmorphia neuroscience",
+          "cognitive bias",
+          "self-referential processing"
+        ],
+        "slug": "the-self-bias-body-image-audit-7-stress-tests-for-your-cognitive-health-against-",
+        "published_at": "2026-08-03T15:40:44+00:00",
+        "word_count": 899,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7046361590577735926",
+        "title": "The 'NPC-core' immersion audit: 7 stress-tests for your social media persona against the rise of generative background-character trends",
+        "url": "https://theomniview.blogspot.com/2026/08/the-npc-core-immersion-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "NPC-core",
+          "social media persona",
+          "generative AI trends"
+        ],
+        "slug": "the-npc-core-immersion-audit-7-stress-tests-for-your-social-media-persona-agains",
+        "published_at": "2026-08-03T15:41:03+00:00",
+        "word_count": 803,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
