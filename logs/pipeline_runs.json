@@ -44204,5 +44204,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-03T12:13:31.544414",
+    "run_end": "2026-08-03T12:14:18.478961",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "797920238801672341",
+        "title": "The 'gut-brain' barrier audit: 7 stress-tests for your metabolic health against synthetic sweetener-induced microvascular dysfunction",
+        "url": "https://theomniview.blogspot.com/2026/08/the-gut-brain-barrier-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Research Articles",
+          "erythritol health risks",
+          "metabolic health research",
+          "brain microvascular function"
+        ],
+        "slug": "the-gut-brain-barrier-audit-7-stress-tests-for-your-metabolic-health-against-syn",
+        "published_at": "2026-08-03T12:18:54+00:00",
+        "word_count": 1017,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5792231400403299183",
+        "title": "The 'Digital-Twin' Disassembly Audit: 7 Stress-Tests for Your Enterprise Circular Economy Against Virtual Product Passport Mandates",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-twin-disassembly-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Opinion & Analysis",
+          "digital product passport",
+          "circular economy strategy",
+          "supply chain transparency"
+        ],
+        "slug": "the-digital-twin-disassembly-audit-7-stress-tests-for-your-enterprise-circular-e",
+        "published_at": "2026-08-03T12:19:18+00:00",
+        "word_count": 924,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
