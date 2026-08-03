@@ -44464,5 +44464,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-03T21:56:17.714910",
+    "run_end": "2026-08-03T21:57:02.105500",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5426158757422563508",
+        "title": "The 'Crypto-Inheritance' Audit: 7 Stress-Tests for Your Digital Asset Legacy Against Unplanned Family Financial Dynamics",
+        "url": "https://theomniview.blogspot.com/2026/08/the-crypto-inheritance-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Explainers",
+          "crypto inheritance",
+          "bitcoin estate planning",
+          "digital asset security"
+        ],
+        "slug": "the-crypto-inheritance-audit-7-stress-tests-for-your-digital-asset-legacy-agains",
+        "published_at": "2026-08-03T22:01:41+00:00",
+        "word_count": 1042,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "790235656057966744",
+        "title": "The 'Cart-Abandonment' latency audit: 7 stress-tests for your ecommerce checkout flow against mobile-network packet loss",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cart-abandonment-latency-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Listicles",
+          "ecommerce checkout optimization",
+          "cart abandonment rate",
+          "mobile conversion rate"
+        ],
+        "slug": "the-cart-abandonment-latency-audit-7-stress-tests-for-your-ecommerce-checkout-fl",
+        "published_at": "2026-08-03T22:02:01+00:00",
+        "word_count": 832,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
