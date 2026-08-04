@@ -44932,5 +44932,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-04T18:21:08.880693",
+    "run_end": "2026-08-04T18:22:03.478951",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1160169596821874229",
+        "title": "The 'gpu-hunger' grid audit: 7 stress-tests for your gaming rig against local data center power moratoriums",
+        "url": "https://theomniview.blogspot.com/2026/08/the-gpu-hunger-grid-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Listicles",
+          "gaming rig power consumption",
+          "data center energy crisis",
+          "GPU energy efficiency"
+        ],
+        "slug": "the-gpu-hunger-grid-audit-7-stress-tests-for-your-gaming-rig-against-local-data-",
+        "published_at": "2026-08-04T18:26:39+00:00",
+        "word_count": 902,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5895491197493379169",
+        "title": "the 'dependency-hell' drift audit: 7 stress-tests for your node.js production environment against package-manager lockfile volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dependency-hell-drift-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Explainers",
+          "Node.js security",
+          "dependency management",
+          "software supply chain"
+        ],
+        "slug": "the-dependency-hell-drift-audit-7-stress-tests-for-your-nodejs-production-enviro",
+        "published_at": "2026-08-04T18:27:03+00:00",
+        "word_count": 1029,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
