@@ -38040,5 +38040,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "5642931680208319011",
+    "title": "The 'Token-Budget' Optimization Audit: 7 Stress-Tests for Your LLM-Powered Application Against Microsoft\u2019s New API Constraints",
+    "url": "https://theomniview.blogspot.com/2026/08/the-token-budget-optimization-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Explainers",
+      "LLM optimization",
+      "token management",
+      "API cost reduction"
+    ],
+    "slug": "the-token-budget-optimization-audit-7-stress-tests-for-your-llm-powered-applicat",
+    "published_at": "2026-08-04T20:21:34+00:00",
+    "word_count": 967,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5102310471355488554",
+    "title": "The 'modular-handset' durability audit: 7 stress-tests for your smartphone's lifecycle against industry-wide repairability bottlenecks",
+    "url": "https://theomniview.blogspot.com/2026/08/the-modular-handset-durability-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Opinion & Analysis",
+      "circular economy",
+      "right to repair",
+      "sustainable electronics"
+    ],
+    "slug": "the-modular-handset-durability-audit-7-stress-tests-for-your-smartphones-lifecyc",
+    "published_at": "2026-08-04T20:22:06+00:00",
+    "word_count": 821,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
