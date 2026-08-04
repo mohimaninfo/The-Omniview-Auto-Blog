@@ -37820,5 +37820,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5924401304445749322",
+    "title": "The 'Sonic-Surveillance' Audit: 7 Stress-Tests for Your Music Streaming Privacy Against AI-Driven Behavioral Profiling",
+    "url": "https://theomniview.blogspot.com/2026/08/the-sonic-surveillance-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Opinion & Analysis",
+      "music streaming privacy",
+      "AI behavioral profiling",
+      "streaming service data tracking"
+    ],
+    "slug": "the-sonic-surveillance-audit-7-stress-tests-for-your-music-streaming-privacy-aga",
+    "published_at": "2026-08-04T08:19:11+00:00",
+    "word_count": 955,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4391495167619578627",
+    "title": "The 'End-of-Life' Autonomy Audit: 7 Stress-Tests for Your Mental Health Against New Medically Assisted Dying Legislation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-end-of-life-autonomy-audit-7-stress.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Opinion & Analysis",
+      "medically assisted death",
+      "mental health impact",
+      "end-of-life care"
+    ],
+    "slug": "the-end-of-life-autonomy-audit-7-stress-tests-for-your-mental-health-against-new",
+    "published_at": "2026-08-04T08:19:38+00:00",
+    "word_count": 918,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
