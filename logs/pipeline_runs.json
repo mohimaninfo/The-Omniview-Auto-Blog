@@ -44620,5 +44620,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-04T01:59:47.786861",
+    "run_end": "2026-08-04T02:00:55.057709",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4185532331755404173",
+        "title": "The 'Inundation-Risk' Coastal Audit: 7 Stress-Tests for Your Property Value Against Wetland Loss",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inundation-risk-coastal-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Research Articles",
+          "coastal wetland loss",
+          "property value climate risk",
+          "coastal real estate"
+        ],
+        "slug": "the-inundation-risk-coastal-audit-7-stress-tests-for-your-property-value-against",
+        "published_at": "2026-08-04T02:05:14+00:00",
+        "word_count": 987,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1018139517174883349",
+        "title": "The 'license-plate' privacy audit: 7 stress-tests for your personal security against AI-powered surveillance gadgets",
+        "url": "https://theomniview.blogspot.com/2026/08/the-license-plate-privacy-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Reviews",
+          "license plate reader",
+          "home security cameras",
+          "data privacy"
+        ],
+        "slug": "the-license-plate-privacy-audit-7-stress-tests-for-your-personal-security-agains",
+        "published_at": "2026-08-04T02:05:54+00:00",
+        "word_count": 594,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
