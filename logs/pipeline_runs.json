@@ -44880,5 +44880,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-04T16:03:58.793182",
+    "run_end": "2026-08-04T16:04:47.664675",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6651810329070002395",
+        "title": "The 'forever-chemical' watershed audit: 7 stress-tests for your local river biodiversity against industrial chip fab runoff",
+        "url": "https://theomniview.blogspot.com/2026/08/the-forever-chemical-watershed-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Case Studies",
+          "forever chemicals",
+          "PFAS contamination",
+          "semiconductor manufacturing"
+        ],
+        "slug": "the-forever-chemical-watershed-audit-7-stress-tests-for-your-local-river-biodive",
+        "published_at": "2026-08-04T16:09:24+00:00",
+        "word_count": 729,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 7
+      },
+      {
+        "post_id": "6142674026037812409",
+        "title": "The 'Cold-Wallet' Succession Audit: 7 Stress-Tests for Your Cryptocurrency Portfolio Against Sudden Incapacitation \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cold-wallet-succession-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Research Articles",
+          "cryptocurrency estate planning",
+          "crypto inheritance",
+          "self-custody security"
+        ],
+        "slug": "the-cold-wallet-succession-audit-7-stress-tests-for-your-cryptocurrency-portfoli",
+        "published_at": "2026-08-04T16:09:46+00:00",
+        "word_count": 1130,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
