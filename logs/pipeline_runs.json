@@ -45088,5 +45088,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-04T23:52:22.389923",
+    "run_end": "2026-08-04T23:53:03.700409",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6559231597787878425",
+        "title": "The 'Ozempic-Face' muscle audit: 7 stress-tests for your strength training routine against GLP-1 induced hair and muscle loss \u2014 a how to guides perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ozempic-face-muscle-audit-7-stress.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "How-To Guides",
+          "Ozempic muscle loss",
+          "GLP-1 strength training",
+          "prevent hair loss on Ozempic"
+        ],
+        "slug": "the-ozempic-face-muscle-audit-7-stress-tests-for-your-strength-training-routine-",
+        "published_at": "2026-08-04T23:57:43+00:00",
+        "word_count": 1030,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1677935543659467346",
+        "title": "The 'myco-remediation' audit: 7 stress-tests for your local soil health against industrial heavy metal contamination \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-myco-remediation-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Research Articles",
+          "mycoremediation",
+          "soil health",
+          "heavy metal contamination"
+        ],
+        "slug": "the-myco-remediation-audit-7-stress-tests-for-your-local-soil-health-against-ind",
+        "published_at": "2026-08-04T23:58:03+00:00",
+        "word_count": 954,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
