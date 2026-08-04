@@ -44828,5 +44828,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-04T13:40:33.028740",
+    "run_end": "2026-08-04T13:41:18.452798",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1851943473587099051",
+        "title": "The 'franchise-fatigue' audit: 7 stress-tests for your cinematic universe loyalty against AI-generated script bloat",
+        "url": "https://theomniview.blogspot.com/2026/08/the-franchise-fatigue-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Reviews",
+          "franchise fatigue",
+          "generative AI in film",
+          "cinematic universe"
+        ],
+        "slug": "the-franchise-fatigue-audit-7-stress-tests-for-your-cinematic-universe-loyalty-a",
+        "published_at": "2026-08-04T13:45:55+00:00",
+        "word_count": 670,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4668827823477310341",
+        "title": "The 'haptic-numbness' sensory audit: 7 stress-tests for your nervous system against haptic-feedback wearable addiction",
+        "url": "https://theomniview.blogspot.com/2026/08/the-haptic-numbness-sensory-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "haptic feedback health risks",
+          "digital wellness",
+          "sensory processing disorder"
+        ],
+        "slug": "the-haptic-numbness-sensory-audit-7-stress-tests-for-your-nervous-system-against",
+        "published_at": "2026-08-04T13:46:17+00:00",
+        "word_count": 1018,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
