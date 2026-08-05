@@ -45452,5 +45452,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-05T17:16:02.402023",
+    "run_end": "2026-08-05T17:17:07.137121",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6983070747621523468",
+        "title": "The 'surveillance-as-service' classroom audit: 7 stress-tests for your school's data privacy against Flock-style license plate readers",
+        "url": "https://theomniview.blogspot.com/2026/08/the-surveillance-as-service-classroom.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "k12 data privacy",
+          "school surveillance technology",
+          "student data protection"
+        ],
+        "slug": "the-surveillance-as-service-classroom-audit-7-stress-tests-for-your-schools-data",
+        "published_at": "2026-08-05T17:21:37+00:00",
+        "word_count": 1123,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5458238505777499122",
+        "title": "the 'muon-tomography' structural audit: 7 stress-tests for your urban infrastructure resilience against hidden internal decay \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-muon-tomography-structural-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Physics",
+          "Latest News",
+          "muon tomography",
+          "particle physics",
+          "structural health monitoring"
+        ],
+        "slug": "the-muon-tomography-structural-audit-7-stress-tests-for-your-urban-infrastructur",
+        "published_at": "2026-08-05T17:22:06+00:00",
+        "word_count": 787,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
