@@ -38304,5 +38304,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8207328117503731896",
+    "title": "the 'climate-refugee' mobility audit: 7 stress-tests for your social safety net against mass displacement inequality",
+    "url": "https://theomniview.blogspot.com/2026/08/the-climate-refugee-mobility-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Research Articles",
+      "climate inequality",
+      "social safety net",
+      "climate displacement"
+    ],
+    "slug": "the-climate-refugee-mobility-audit-7-stress-tests-for-your-social-safety-net-aga",
+    "published_at": "2026-08-05T10:27:05+00:00",
+    "word_count": 1004,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3751049450611305124",
+    "title": "The 'Power-Grid' Personal Audit: 7 Stress-Tests for Your Home Energy Resilience Against Data Center Moratoriums",
+    "url": "https://theomniview.blogspot.com/2026/08/the-power-grid-personal-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Reviews",
+      "home energy resilience",
+      "power grid stability",
+      "data center impact"
+    ],
+    "slug": "the-power-grid-personal-audit-7-stress-tests-for-your-home-energy-resilience-aga",
+    "published_at": "2026-08-05T10:27:21+00:00",
+    "word_count": 590,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
