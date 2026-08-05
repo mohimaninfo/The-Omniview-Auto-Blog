@@ -38348,5 +38348,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6255463764605134311",
+    "title": "The 'Buffer-Stress' Streaming Audit: 7 Tests for Your Smart TV\u2019s Reliability Against Local Grid Moratoriums",
+    "url": "https://theomniview.blogspot.com/2026/08/the-buffer-stress-streaming-audit-7.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Explainers",
+      "streaming quality",
+      "data center power moratorium",
+      "grid instability"
+    ],
+    "slug": "the-buffer-stress-streaming-audit-7-tests-for-your-smart-tvs-reliability-against",
+    "published_at": "2026-08-05T12:36:08+00:00",
+    "word_count": 1062,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "615296291587155985",
+    "title": "The 'Entanglement-Limit' Audit: 7 Stress-Tests for Your Data Security Against Quantum Record-Breaking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-entanglement-limit-audit-7-stress.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Physics",
+      "Opinion & Analysis",
+      "quantum entanglement",
+      "data security",
+      "quantum physics"
+    ],
+    "slug": "the-entanglement-limit-audit-7-stress-tests-for-your-data-security-against-quant",
+    "published_at": "2026-08-05T12:36:31+00:00",
+    "word_count": 828,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
