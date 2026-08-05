@@ -45400,5 +45400,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-05T15:05:39.151735",
+    "run_end": "2026-08-05T15:06:48.471759",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2880484904720594585",
+        "title": "The 'Data-Center' Talent Audit: 7 Stress-Tests for Your Career Resilience Against Local Energy Moratoriums",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-talent-audit-7-stress.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "career resilience",
+          "data center moratorium",
+          "energy grid capacity"
+        ],
+        "slug": "the-data-center-talent-audit-7-stress-tests-for-your-career-resilience-against-l",
+        "published_at": "2026-08-05T15:11:11+00:00",
+        "word_count": 849,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8098172803262666146",
+        "title": "The 'Smart-Home' Surveillance Audit: 7 Stress-Tests for Your Relationship Privacy Against Hidden Camera Risks \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-home-surveillance-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Explainers",
+          "relationship privacy",
+          "smart home security",
+          "hidden camera detection"
+        ],
+        "slug": "the-smart-home-surveillance-audit-7-stress-tests-for-your-relationship-privacy-a",
+        "published_at": "2026-08-05T15:11:47+00:00",
+        "word_count": 1083,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
