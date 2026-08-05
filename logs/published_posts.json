@@ -38612,5 +38612,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "9056654216576058986",
+    "title": "The 'Side-Hustle' Solvency Audit: 7 Stress-Tests for Your Startup Burn Rate Against Emerging Gig-Economy Tax Audits",
+    "url": "https://theomniview.blogspot.com/2026/08/the-side-hustle-solvency-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Latest News",
+      "startup burn rate",
+      "gig economy taxes",
+      "founder financial planning"
+    ],
+    "slug": "the-side-hustle-solvency-audit-7-stress-tests-for-your-startup-burn-rate-against",
+    "published_at": "2026-08-05T23:50:14+00:00",
+    "word_count": 770,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "90352703668983",
+    "title": "The 'algorithmic-hiring' bias audit: 7 stress-tests for your resume against AI-driven applicant tracking systems",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-hiring-bias-audit-7.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Explainers",
+      "AI resume screening",
+      "applicant tracking systems",
+      "career resilience"
+    ],
+    "slug": "the-algorithmic-hiring-bias-audit-7-stress-tests-for-your-resume-against-ai-driv",
+    "published_at": "2026-08-05T23:50:41+00:00",
+    "word_count": 939,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
