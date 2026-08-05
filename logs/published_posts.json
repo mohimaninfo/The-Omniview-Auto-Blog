@@ -38260,5 +38260,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3097365266697104272",
+    "title": "The 'urban-heat' resilience audit: 7 stress-tests for your family's safety against extreme heatwave infrastructure failure",
+    "url": "https://theomniview.blogspot.com/2026/08/the-urban-heat-resilience-audit-7.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Explainers",
+      "urban heat resilience",
+      "heatwave preparedness",
+      "infrastructure failure"
+    ],
+    "slug": "the-urban-heat-resilience-audit-7-stress-tests-for-your-familys-safety-against-e",
+    "published_at": "2026-08-05T07:35:47+00:00",
+    "word_count": 876,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "2668204618325718074",
+    "title": "The 'Quantum-Decoherence' Audit: 7 Stress-Tests for Your Cryogenic Computing Reliability Against Near-Absolute Zero Thermal Fluctuations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-quantum-decoherence-audit-7-stress.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Physics",
+      "Research Articles",
+      "quantum decoherence",
+      "cryogenic computing",
+      "superconducting qubits"
+    ],
+    "slug": "the-quantum-decoherence-audit-7-stress-tests-for-your-cryogenic-computing-reliab",
+    "published_at": "2026-08-05T07:36:22+00:00",
+    "word_count": 1034,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
