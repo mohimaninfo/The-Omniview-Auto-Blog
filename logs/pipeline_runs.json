@@ -45608,5 +45608,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-05T22:03:25.364737",
+    "run_end": "2026-08-05T22:04:38.814141",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "105585431261163384",
+        "title": "The 'Ozempic-Muscle' Recovery Audit: 7 Stress-Tests for Your Strength Training Routine Against GLP-1 Induced Sarcopenia",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ozempic-muscle-recovery-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Explainers",
+          "GLP-1 muscle loss",
+          "strength training with Ozempic",
+          "preventing sarcopenia"
+        ],
+        "slug": "the-ozempic-muscle-recovery-audit-7-stress-tests-for-your-strength-training-rout",
+        "published_at": "2026-08-05T22:09:11+00:00",
+        "word_count": 1047,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7966281863524309939",
+        "title": "The 'Digital-Sovereignty' Border Audit: 7 Stress-Tests for Your Personal Privacy Against Emerging Cross-Border Data Interception Trends",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-sovereignty-border-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Listicles",
+          "digital sovereignty",
+          "cross-border data privacy",
+          "traveler surveillance"
+        ],
+        "slug": "the-digital-sovereignty-border-audit-7-stress-tests-for-your-personal-privacy-ag",
+        "published_at": "2026-08-05T22:09:38+00:00",
+        "word_count": 843,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
