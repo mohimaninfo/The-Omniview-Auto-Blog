@@ -45192,5 +45192,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-05T04:52:26.228700",
+    "run_end": "2026-08-05T04:53:21.611412",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "683390381031924619",
+        "title": "The 'Cognitive-Bandwidth' Classroom Audit: 7 Stress-Tests for Your Lesson Plans Against AI-Induced Power Grid Latency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-bandwidth-classroom-audit.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Opinion & Analysis",
+          "AI in education",
+          "learning science",
+          "data center moratorium"
+        ],
+        "slug": "the-cognitive-bandwidth-classroom-audit-7-stress-tests-for-your-lesson-plans-aga",
+        "published_at": "2026-08-05T04:57:57+00:00",
+        "word_count": 992,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8307443365052490315",
+        "title": "The 'algorithmic-redlining' insurance audit: 7 stress-tests for your home equity against climate-risk modeling",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-redlining-insurance.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Case Studies",
+          "algorithmic redlining",
+          "climate risk modeling",
+          "home equity inequality"
+        ],
+        "slug": "the-algorithmic-redlining-insurance-audit-7-stress-tests-for-your-home-equity-ag",
+        "published_at": "2026-08-05T04:58:20+00:00",
+        "word_count": 781,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
