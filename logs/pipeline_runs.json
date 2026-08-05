@@ -45504,5 +45504,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-05T19:09:53.214558",
+    "run_end": "2026-08-05T19:10:45.106607",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2651346026277716637",
+        "title": "The 'GLP-1' nutrient-density audit: 7 stress-tests for your supplement stack against rapid weight-loss induced deficiencies",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glp-1-nutrient-density-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Reviews",
+          "GLP-1 nutrition",
+          "Ozempic nutrient deficiencies",
+          "weight loss supplement review"
+        ],
+        "slug": "the-glp-1-nutrient-density-audit-7-stress-tests-for-your-supplement-stack-agains",
+        "published_at": "2026-08-05T19:15:18+00:00",
+        "word_count": 617,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4862747310301056990",
+        "title": "The 'Inheritance-Gap' Solvency Audit: 7 Stress-Tests for Your Retirement Plan Against Generational Wealth Transfer Delays",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inheritance-gap-solvency-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Opinion & Analysis",
+          "retirement planning",
+          "generational wealth transfer",
+          "inheritance tax"
+        ],
+        "slug": "the-inheritance-gap-solvency-audit-7-stress-tests-for-your-retirement-plan-again",
+        "published_at": "2026-08-05T19:15:44+00:00",
+        "word_count": 1002,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
