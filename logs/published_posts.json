@@ -38172,5 +38172,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3575574605878986243",
+    "title": "The 'Grid-Dependency' Classroom Audit: 7 Stress-Tests for Your School District's AI Readiness Against Local Data Center Power Moratoriums",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-dependency-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "case-studies",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Case Studies",
+      "k12 digital infrastructure",
+      "school power grid resilience",
+      "AI in education"
+    ],
+    "slug": "the-grid-dependency-classroom-audit-7-stress-tests-for-your-school-districts-ai-",
+    "published_at": "2026-08-05T01:26:26+00:00",
+    "word_count": 745,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1386005760104819184",
+    "title": "The 'shader-compilation' stutter audit: 7 stress-tests for your PC gaming performance against modern engine optimization flaws",
+    "url": "https://theomniview.blogspot.com/2026/08/the-shader-compilation-stutter-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Explainers",
+      "shader compilation stutter",
+      "PC gaming performance",
+      "game optimization"
+    ],
+    "slug": "the-shader-compilation-stutter-audit-7-stress-tests-for-your-pc-gaming-performan",
+    "published_at": "2026-08-05T01:26:46+00:00",
+    "word_count": 902,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
