@@ -45764,5 +45764,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-06T04:52:43.194464",
+    "run_end": "2026-08-06T04:53:21.941709",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1964154151648501640",
+        "title": "The 'campus-perimeter' surveillance audit: 7 stress-tests for your university\u2019s privacy policy against AI-powered license plate readers",
+        "url": "https://theomniview.blogspot.com/2026/08/the-campus-perimeter-surveillance-audit.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Explainers",
+          "campus surveillance",
+          "higher education privacy",
+          "Flock camera policy"
+        ],
+        "slug": "the-campus-perimeter-surveillance-audit-7-stress-tests-for-your-universitys-priv",
+        "published_at": "2026-08-06T04:58:03+00:00",
+        "word_count": 1030,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6685318336492189631",
+        "title": "The 'Vigilante-Proof' Privacy Audit: 7 Stress-Tests for Your Home Security Gadgets Against Anti-Surveillance Tactics",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vigilante-proof-privacy-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Latest News",
+          "home security cameras",
+          "Flock camera controversy",
+          "privacy gadgets"
+        ],
+        "slug": "the-vigilante-proof-privacy-audit-7-stress-tests-for-your-home-security-gadgets-",
+        "published_at": "2026-08-06T04:58:21+00:00",
+        "word_count": 801,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
