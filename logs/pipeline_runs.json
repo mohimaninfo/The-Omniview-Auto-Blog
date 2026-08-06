@@ -45816,5 +45816,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-06T07:30:22.409865",
+    "run_end": "2026-08-06T07:31:14.183714",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6680914505910953971",
+        "title": "The 'prediction-market' classroom audit: 7 stress-tests for your school district's ethics policy against gamified student outcomes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-prediction-market-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "prediction markets in education",
+          "edtech ethics",
+          "gamified learning risks"
+        ],
+        "slug": "the-prediction-market-classroom-audit-7-stress-tests-for-your-school-districts-e",
+        "published_at": "2026-08-06T07:35:44+00:00",
+        "word_count": 945,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9082206165217366719",
+        "title": "The 'human-in-the-loop' career audit: 7 stress-tests for your professional expertise against generative ai agent autonomy",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-in-loop-career-audit-7-stress.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "AI agent autonomy",
+          "career resilience",
+          "professional expertise"
+        ],
+        "slug": "the-human-in-the-loop-career-audit-7-stress-tests-for-your-professional-expertis",
+        "published_at": "2026-08-06T07:36:13+00:00",
+        "word_count": 902,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
