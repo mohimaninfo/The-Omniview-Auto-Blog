@@ -45920,5 +45920,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-06T12:48:20.711616",
+    "run_end": "2026-08-06T12:49:01.988856",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "413427354116560961",
+        "title": "The 'Late-Start' Retirement Audit: 7 Stress-Tests for Your 401k Strategy Against Mid-Life Catch-Up Realities",
+        "url": "https://theomniview.blogspot.com/2026/08/the-late-start-retirement-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "retirement planning for 40s",
+          "401k catch-up contributions",
+          "mid-life investing strategy"
+        ],
+        "slug": "the-late-start-retirement-audit-7-stress-tests-for-your-401k-strategy-against-mi",
+        "published_at": "2026-08-06T12:53:39+00:00",
+        "word_count": 836,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "3247753012593803656",
+        "title": "the 'empathy-gap' assessment audit: 7 stress-tests for your classroom's social-emotional learning against ai-driven student feedback loops",
+        "url": "https://theomniview.blogspot.com/2026/08/the-empathy-gap-assessment-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "social-emotional learning",
+          "ai in education",
+          "classroom technology"
+        ],
+        "slug": "the-empathy-gap-assessment-audit-7-stress-tests-for-your-classrooms-social-emoti",
+        "published_at": "2026-08-06T12:54:01+00:00",
+        "word_count": 1000,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
