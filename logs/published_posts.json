@@ -38656,5 +38656,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6293296237764389820",
+    "title": "The 'Migration-Corridor' Surveillance Audit: 7 Stress-Tests for Your Local Wildlife Conservation Strategy Against AI-Powered License Plate Readers",
+    "url": "https://theomniview.blogspot.com/2026/08/the-migration-corridor-surveillance.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Case Studies",
+      "wildlife conservation",
+      "AI surveillance",
+      "license plate readers"
+    ],
+    "slug": "the-migration-corridor-surveillance-audit-7-stress-tests-for-your-local-wildlife",
+    "published_at": "2026-08-06T01:24:01+00:00",
+    "word_count": 709,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5999684249974536705",
+    "title": "The 'algorithmic-exile' housing audit: 7 stress-tests for your neighborhood equity against AI-driven credit scoring",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-exile-housing-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Case Studies",
+      "algorithmic redlining",
+      "housing inequality",
+      "AI credit scoring"
+    ],
+    "slug": "the-algorithmic-exile-housing-audit-7-stress-tests-for-your-neighborhood-equity-",
+    "published_at": "2026-08-06T01:24:21+00:00",
+    "word_count": 774,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
