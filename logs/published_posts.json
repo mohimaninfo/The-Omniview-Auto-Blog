@@ -38876,5 +38876,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "8476249839271971564",
+    "title": "the 'legacy-lockout' inheritance audit: 7 stress-tests for your IRA beneficiaries against modern tax-code volatility",
+    "url": "https://theomniview.blogspot.com/2026/08/the-legacy-lockout-inheritance-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Opinion & Analysis",
+      "inherited IRA",
+      "retirement planning",
+      "SECURE Act 2.0"
+    ],
+    "slug": "the-legacy-lockout-inheritance-audit-7-stress-tests-for-your-ira-beneficiaries-a",
+    "published_at": "2026-08-06T15:10:13+00:00",
+    "word_count": 1089,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1782505921870291821",
+    "title": "The 'Shadow-Infrastructure' Audit: 7 Stress-Tests for Your Local API Integrations Against Data Center Power Moratoriums",
+    "url": "https://theomniview.blogspot.com/2026/08/the-shadow-infrastructure-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Explainers",
+      "API resiliency",
+      "data center power moratoriums",
+      "distributed systems architecture"
+    ],
+    "slug": "the-shadow-infrastructure-audit-7-stress-tests-for-your-local-api-integrations-a",
+    "published_at": "2026-08-06T15:10:49+00:00",
+    "word_count": 938,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
