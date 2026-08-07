@@ -46128,5 +46128,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-07T04:25:22.964353",
+    "run_end": "2026-08-07T04:26:10.426390",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4414775366167340706",
+        "title": "The 'Dengue-Forecast' Audit: 7 Stress-Tests for Your Local Healthcare Readiness Against Rapidly Expanding Mosquito Ranges",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dengue-forecast-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "dengue fever transmission",
+          "mosquito-borne disease prevention",
+          "public health infrastructure"
+        ],
+        "slug": "the-dengue-forecast-audit-7-stress-tests-for-your-local-healthcare-readiness-aga",
+        "published_at": "2026-08-07T04:30:47+00:00",
+        "word_count": 1153,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 8
+      },
+      {
+        "post_id": "3161833618948656654",
+        "title": "The 'fractional-equity' liquidity audit: 7 stress-tests for your private market portfolio against secondary-market volatility \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-fractional-equity-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Latest News",
+          "private equity investing",
+          "secondary market liquidity",
+          "alternative assets"
+        ],
+        "slug": "the-fractional-equity-liquidity-audit-7-stress-tests-for-your-private-market-por",
+        "published_at": "2026-08-07T04:31:09+00:00",
+        "word_count": 980,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
