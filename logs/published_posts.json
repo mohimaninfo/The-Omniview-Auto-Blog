@@ -39096,5 +39096,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "3610071711228665661",
+    "title": "The 'Privacy-First' Gadget Audit: 7 Stress-Tests for Your Smart Home Security Against Unauthorized AI Surveillance",
+    "url": "https://theomniview.blogspot.com/2026/08/the-privacy-first-gadget-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Reviews",
+      "smart home privacy",
+      "home security gadgets",
+      "AI data collection"
+    ],
+    "slug": "the-privacy-first-gadget-audit-7-stress-tests-for-your-smart-home-security-again",
+    "published_at": "2026-08-07T08:09:31+00:00",
+    "word_count": 688,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6708974377291419992",
+    "title": "the 'last-mile' kinetic audit: 7 stress-tests for your autonomous delivery robot\u2019s navigation against urban sidewalk clutter",
+    "url": "https://theomniview.blogspot.com/2026/08/the-last-mile-kinetic-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "autonomous delivery robots",
+      "robotics navigation",
+      "last-mile delivery"
+    ],
+    "slug": "the-last-mile-kinetic-audit-7-stress-tests-for-your-autonomous-delivery-robots-n",
+    "published_at": "2026-08-07T08:10:02+00:00",
+    "word_count": 696,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
