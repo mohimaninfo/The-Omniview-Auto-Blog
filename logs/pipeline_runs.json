@@ -46752,5 +46752,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-07T19:42:18.528779",
+    "run_end": "2026-08-07T19:43:08.493384",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2299033545361837510",
+        "title": "The 'Car-Payment' Solvency Audit: 7 Stress-Tests for Your Household Cash Flow Against Rising Auto-Loan Delinquency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-car-payment-solvency-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Opinion & Analysis",
+          "auto loan debt",
+          "household cash flow",
+          "personal finance strategy"
+        ],
+        "slug": "the-car-payment-solvency-audit-7-stress-tests-for-your-household-cash-flow-again",
+        "published_at": "2026-08-07T19:47:43+00:00",
+        "word_count": 823,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5906530436489293697",
+        "title": "The 'synthetic-yield' liquidity audit: 7 stress-tests for your stablecoin portfolio against de-pegging event risks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-yield-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "stablecoin investing",
+          "liquidity risk management",
+          "de-pegging risks"
+        ],
+        "slug": "the-synthetic-yield-liquidity-audit-7-stress-tests-for-your-stablecoin-portfolio",
+        "published_at": "2026-08-07T19:48:07+00:00",
+        "word_count": 727,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
