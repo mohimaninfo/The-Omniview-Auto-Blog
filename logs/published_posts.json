@@ -39404,5 +39404,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3602353744534779160",
+    "title": "The 'Physical-Media' Resilience Audit: 7 Stress-Tests for Your Entertainment Collection Against Cloud-Only Erasure",
+    "url": "https://theomniview.blogspot.com/2026/08/the-physical-media-resilience-audit-7.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Latest News",
+      "physical media",
+      "digital media ownership",
+      "Nintendo physical sales"
+    ],
+    "slug": "the-physical-media-resilience-audit-7-stress-tests-for-your-entertainment-collec",
+    "published_at": "2026-08-07T16:44:28+00:00",
+    "word_count": 727,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "6991599700645707628",
+    "title": "The 'Inference-Drift' Latency Audit: 7 Stress-Tests for Your Edge-AI Deployments Against Fluctuating API Response Times",
+    "url": "https://theomniview.blogspot.com/2026/08/the-inference-drift-latency-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Research Articles",
+      "edge AI latency",
+      "LLM API reliability",
+      "inference drift"
+    ],
+    "slug": "the-inference-drift-latency-audit-7-stress-tests-for-your-edge-ai-deployments-ag",
+    "published_at": "2026-08-07T16:44:54+00:00",
+    "word_count": 1042,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
