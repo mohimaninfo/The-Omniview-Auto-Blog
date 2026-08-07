@@ -39624,5 +39624,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2004633512733979991",
+    "title": "The 'Surveillance-as-a-Service' Exit Audit: 7 Stress-Tests for Your Startup\u2019s Ethical Valuation Against Evolving Privacy Litigation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-surveillance-as-service-exit-audit.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Opinion & Analysis",
+      "startup valuation",
+      "privacy litigation",
+      "surveillance ethics"
+    ],
+    "slug": "the-surveillance-as-a-service-exit-audit-7-stress-tests-for-your-startups-ethica",
+    "published_at": "2026-08-07T21:31:56+00:00",
+    "word_count": 955,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1277096654140214114",
+    "title": "The 'synthetic-labor' solvency audit: 7 stress-tests for your retirement portfolio against deflationary wage pressure",
+    "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-labor-solvency-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Opinion & Analysis",
+      "retirement planning",
+      "autonomous AI agents",
+      "wage deflation"
+    ],
+    "slug": "the-synthetic-labor-solvency-audit-7-stress-tests-for-your-retirement-portfolio-",
+    "published_at": "2026-08-07T21:32:28+00:00",
+    "word_count": 946,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
