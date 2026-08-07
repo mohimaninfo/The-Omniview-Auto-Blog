@@ -39316,5 +39316,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3769424538125853660",
+    "title": "The 'Data-Center' Classroom Audit: 7 Stress-Tests for Your School District's AI Readiness Against Local Energy Moratoriums \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-data-center-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "How-To Guides",
+      "edtech infrastructure",
+      "school data center",
+      "AI energy consumption"
+    ],
+    "slug": "the-data-center-classroom-audit-7-stress-tests-for-your-school-districts-ai-read",
+    "published_at": "2026-08-07T14:08:51+00:00",
+    "word_count": 969,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1543180917690401206",
+    "title": "The 'Entropy-Tax' Thermal Audit: 7 Stress-Tests for Your Data Center\u2019s Cooling Efficiency Against Rising Ambient Global Temperatures",
+    "url": "https://theomniview.blogspot.com/2026/08/the-entropy-tax-thermal-audit-7-stress.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Physics",
+      "Opinion & Analysis",
+      "data center cooling",
+      "thermodynamics of computing",
+      "thermal management"
+    ],
+    "slug": "the-entropy-tax-thermal-audit-7-stress-tests-for-your-data-centers-cooling-effic",
+    "published_at": "2026-08-07T14:09:11+00:00",
+    "word_count": 914,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
