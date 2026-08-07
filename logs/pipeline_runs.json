@@ -46180,5 +46180,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-07T06:03:08.392501",
+    "run_end": "2026-08-07T06:05:35.882656",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3073084413044341942",
+        "title": "The 'Microgrid-Independence' Audit: 7 Stress-Tests for Your Home\u2019s Power Resilience Against AI Data Center Grid Strain",
+        "url": "https://theomniview.blogspot.com/2026/08/the-microgrid-independence-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "How-To Guides",
+          "home energy resilience",
+          "microgrid independence",
+          "data center power demand"
+        ],
+        "slug": "the-microgrid-independence-audit-7-stress-tests-for-your-homes-power-resilience-",
+        "published_at": "2026-08-07T06:09:35+00:00",
+        "word_count": 1011,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6112539989213689111",
+        "title": "The 'Inference-Cost' Profitability Audit: 7 Stress-Tests for Your SaaS Margins Against Soaring AI API Latency and Pricing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inference-cost-profitability-audit.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Research Articles",
+          "AI inference costs",
+          "LLM API pricing",
+          "SaaS profitability"
+        ],
+        "slug": "the-inference-cost-profitability-audit-7-stress-tests-for-your-saas-margins-agai",
+        "published_at": "2026-08-07T06:10:35+00:00",
+        "word_count": 888,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
