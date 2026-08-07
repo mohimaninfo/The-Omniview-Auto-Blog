@@ -46960,5 +46960,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-07T23:22:30.184875",
+    "run_end": "2026-08-07T23:23:13.220982",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "876297423732168964",
+        "title": "The 'Synthetic-Blockade' Resilience Audit: 7 Stress-Tests for Your Digital Infrastructure Against AI-Driven Geopolitical Spoofing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-blockade-resilience-audit.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "synthetic media defense",
+          "deepfake security",
+          "geopolitical digital threats"
+        ],
+        "slug": "the-synthetic-blockade-resilience-audit-7-stress-tests-for-your-digital-infrastr",
+        "published_at": "2026-08-07T23:27:52+00:00",
+        "word_count": 1029,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "595095666199271763",
+        "title": "The 'bit-rot' streaming audit: 7 stress-tests for your favorite digital movies against silent license expiration",
+        "url": "https://theomniview.blogspot.com/2026/08/the-bit-rot-streaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Reviews",
+          "digital movie ownership",
+          "streaming license expiration",
+          "digital library access"
+        ],
+        "slug": "the-bit-rot-streaming-audit-7-stress-tests-for-your-favorite-digital-movies-agai",
+        "published_at": "2026-08-07T23:28:11+00:00",
+        "word_count": 530,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
