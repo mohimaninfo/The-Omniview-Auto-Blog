@@ -39492,5 +39492,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5014198564245244085",
+    "title": "The 'async-sovereignty' audit: 7 stress-tests for your remote-work culture against AI-driven surveillance creep",
+    "url": "https://theomniview.blogspot.com/2026/08/the-async-sovereignty-audit-7-stress.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Listicles",
+      "remote-work culture",
+      "employee privacy",
+      "AI surveillance"
+    ],
+    "slug": "the-async-sovereignty-audit-7-stress-tests-for-your-remote-work-culture-against-",
+    "published_at": "2026-08-07T18:41:42+00:00",
+    "word_count": 743,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1764750875581916338",
+    "title": "The 'GPU-Sovereignty' CapEx audit: 7 stress-tests for your startup\u2019s cloud infrastructure against rising compute scarcity",
+    "url": "https://theomniview.blogspot.com/2026/08/the-gpu-sovereignty-capex-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Listicles",
+      "startup compute costs",
+      "GPU scarcity",
+      "cloud infrastructure audit"
+    ],
+    "slug": "the-gpu-sovereignty-capex-audit-7-stress-tests-for-your-startups-cloud-infrastru",
+    "published_at": "2026-08-07T18:42:06+00:00",
+    "word_count": 762,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
