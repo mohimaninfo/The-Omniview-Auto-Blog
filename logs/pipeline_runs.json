@@ -46284,5 +46284,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-07T09:47:28.460377",
+    "run_end": "2026-08-07T09:48:09.264093",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1003692205936493072",
+        "title": "The 'algorithmic-royalty' audit: 7 stress-tests for your independent music catalog against AI-driven streaming distribution",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-royalty-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Latest News",
+          "music streaming royalties",
+          "algorithmic bias in music",
+          "independent musician revenue"
+        ],
+        "slug": "the-algorithmic-royalty-audit-7-stress-tests-for-your-independent-music-catalog-",
+        "published_at": "2026-08-07T09:52:48+00:00",
+        "word_count": 744,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "167938947732752260",
+        "title": "The 'pumped-hydro' storage audit: 7 stress-tests for your local grid stability against intermittent wind and solar surges",
+        "url": "https://theomniview.blogspot.com/2026/08/the-pumped-hydro-storage-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Case Studies",
+          "pumped-storage hydropower",
+          "grid stability",
+          "renewable energy storage"
+        ],
+        "slug": "the-pumped-hydro-storage-audit-7-stress-tests-for-your-local-grid-stability-agai",
+        "published_at": "2026-08-07T09:53:08+00:00",
+        "word_count": 730,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
