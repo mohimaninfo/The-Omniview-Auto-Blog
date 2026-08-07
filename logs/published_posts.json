@@ -39668,5 +39668,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2413286713650300930",
+    "title": "The 'Physical-Media' Preservation Audit: 7 Stress-Tests for Your Gaming Library Against Cloud-Only Erasure",
+    "url": "https://theomniview.blogspot.com/2026/08/the-physical-media-preservation-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Explainers",
+      "gaming preservation",
+      "physical media vs digital",
+      "video game ownership"
+    ],
+    "slug": "the-physical-media-preservation-audit-7-stress-tests-for-your-gaming-library-aga",
+    "published_at": "2026-08-07T22:28:20+00:00",
+    "word_count": 947,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6617084792634379190",
+    "title": "The 'Digital-Alibi' Relationship Audit: 7 Stress-Tests for Your Couple\u2019s Privacy Against AI-Powered Surveillance Creep",
+    "url": "https://theomniview.blogspot.com/2026/08/the-digital-alibi-relationship-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Opinion & Analysis",
+      "relationship privacy",
+      "digital boundaries",
+      "AI surveillance"
+    ],
+    "slug": "the-digital-alibi-relationship-audit-7-stress-tests-for-your-couples-privacy-aga",
+    "published_at": "2026-08-07T22:28:41+00:00",
+    "word_count": 851,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
