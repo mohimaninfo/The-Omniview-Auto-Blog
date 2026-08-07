@@ -46804,5 +46804,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-07T20:26:32.220183",
+    "run_end": "2026-08-07T20:27:19.743562",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8165829120767920499",
+        "title": "The 'VTA-Epigenetic' Resilience Audit: 7 Stress-Tests for Your Early-Life Trauma Recovery Against Future Neuroplasticity Shifts",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vta-epigenetic-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Research Articles",
+          "epigenetics",
+          "neuroplasticity",
+          "VTA neurons"
+        ],
+        "slug": "the-vta-epigenetic-resilience-audit-7-stress-tests-for-your-early-life-trauma-re",
+        "published_at": "2026-08-07T20:31:57+00:00",
+        "word_count": 967,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "72081716082789636",
+        "title": "the 'burn-rate' cold-start audit: 7 stress-tests for your startup\u2019s financial runway against rising cloud-compute egress fees",
+        "url": "https://theomniview.blogspot.com/2026/08/the-burn-rate-cold-start-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Listicles",
+          "startup burn rate",
+          "cloud egress fees",
+          "cloud infrastructure costs"
+        ],
+        "slug": "the-burn-rate-cold-start-audit-7-stress-tests-for-your-startups-financial-runway",
+        "published_at": "2026-08-07T20:32:18+00:00",
+        "word_count": 763,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
