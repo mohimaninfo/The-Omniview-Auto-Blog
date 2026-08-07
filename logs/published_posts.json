@@ -38964,5 +38964,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7097114268401931916",
+    "title": "The 'Quantum-Cooling' Audit: 7 Stress-Tests for Your Server Room\u2019s Efficiency Against Sunlight-Powered Computing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-quantum-cooling-audit-7-stress.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "quantum computing",
+      "thermal noise",
+      "energy-efficient computing"
+    ],
+    "slug": "the-quantum-cooling-audit-7-stress-tests-for-your-server-rooms-efficiency-agains",
+    "published_at": "2026-08-07T02:05:12+00:00",
+    "word_count": 977,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5174540413988325907",
+    "title": "The 'Grid-Constraint' Zoning Audit: 7 Stress-Tests for Your Property Value Against Data Center Power Moratoriums",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-constraint-zoning-audit-7.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Latest News",
+      "data center power moratorium",
+      "climate policy",
+      "property value impact"
+    ],
+    "slug": "the-grid-constraint-zoning-audit-7-stress-tests-for-your-property-value-against-",
+    "published_at": "2026-08-07T02:05:41+00:00",
+    "word_count": 858,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
