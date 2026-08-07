@@ -39184,5 +39184,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4323189412614993655",
+    "title": "The 'Tidal Disruption' Risk Audit: 7 Stress-Tests for Your Galactic Neighborhood Against Unpredictable Black Hole Events",
+    "url": "https://theomniview.blogspot.com/2026/08/the-tidal-disruption-risk-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "listicles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Listicles",
+      "Tidal Disruption Event",
+      "black hole",
+      "astronomy news"
+    ],
+    "slug": "the-tidal-disruption-risk-audit-7-stress-tests-for-your-galactic-neighborhood-ag",
+    "published_at": "2026-08-07T10:45:32+00:00",
+    "word_count": 855,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6804059511806135782",
+    "title": "The 'V2G-Grid' stability audit: 7 stress-tests for your electric vehicle\u2019s battery health against utility-led peak demand mandates",
+    "url": "https://theomniview.blogspot.com/2026/08/the-v2g-grid-stability-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Latest News",
+      "vehicle-to-grid",
+      "EV battery degradation",
+      "grid stability"
+    ],
+    "slug": "the-v2g-grid-stability-audit-7-stress-tests-for-your-electric-vehicles-battery-h",
+    "published_at": "2026-08-07T10:45:54+00:00",
+    "word_count": 766,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
