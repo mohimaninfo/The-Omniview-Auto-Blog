@@ -40196,5 +40196,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2398270677566856864",
+    "title": "The 'Accounting-Ghost' Audit: 7 Stress-Tests for Your SaaS Valuation Against AI-Driven Enron-Style Revenue Recognition",
+    "url": "https://theomniview.blogspot.com/2026/08/the-accounting-ghost-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Opinion & Analysis",
+      "AI accounting ethics",
+      "SaaS revenue recognition",
+      "AI compute costs"
+    ],
+    "slug": "the-accounting-ghost-audit-7-stress-tests-for-your-saas-valuation-against-ai-dri",
+    "published_at": "2026-08-08T12:26:38+00:00",
+    "word_count": 1044,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "8733984741311331710",
+    "title": "The 'thermal-stability' kitchen audit: 7 stress-tests for your home cooking equipment against modern heat-retention fluctuations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-thermal-stability-kitchen-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Listicles",
+      "home cooking techniques",
+      "kitchen appliance efficiency",
+      "induction cooking tips"
+    ],
+    "slug": "the-thermal-stability-kitchen-audit-7-stress-tests-for-your-home-cooking-equipme",
+    "published_at": "2026-08-08T12:26:58+00:00",
+    "word_count": 870,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
