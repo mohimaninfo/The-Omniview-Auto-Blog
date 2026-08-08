@@ -47168,5 +47168,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T05:33:17.433602",
+    "run_end": "2026-08-08T05:34:05.431107",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5743181057017834753",
+        "title": "The 'Licensing-Void' Streaming Audit: 7 Stress-Tests for Your Digital Library Against Sudden Content Purges",
+        "url": "https://theomniview.blogspot.com/2026/08/the-licensing-void-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "digital media ownership",
+          "streaming license expiration",
+          "purchased content removal"
+        ],
+        "slug": "the-licensing-void-streaming-audit-7-stress-tests-for-your-digital-library-again",
+        "published_at": "2026-08-08T05:38:35+00:00",
+        "word_count": 911,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "874066522620304975",
+        "title": "the 'subscription-trap' legacy audit: 7 stress-tests for your digital estate against post-mortem account lockouts",
+        "url": "https://theomniview.blogspot.com/2026/08/the-subscription-trap-legacy-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Listicles",
+          "digital estate planning",
+          "subscription management",
+          "digital legacy"
+        ],
+        "slug": "the-subscription-trap-legacy-audit-7-stress-tests-for-your-digital-estate-agains",
+        "published_at": "2026-08-08T05:39:04+00:00",
+        "word_count": 973,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
