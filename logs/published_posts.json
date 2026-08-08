@@ -40504,5 +40504,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1875424814503922174",
+    "title": "The 'Superbug' Pathogen Audit: 7 Stress-Tests for Your Hospital's Infection Control Against Candida Auris",
+    "url": "https://theomniview.blogspot.com/2026/08/the-superbug-pathogen-audit-7-stress.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Opinion & Analysis",
+      "Candida auris",
+      "infection control",
+      "hospital safety"
+    ],
+    "slug": "the-superbug-pathogen-audit-7-stress-tests-for-your-hospitals-infection-control-",
+    "published_at": "2026-08-08T19:25:37+00:00",
+    "word_count": 873,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "51665271923764069",
+    "title": "The 'Shared-Calendar' Synchronization Audit: 7 Stress-Tests for Your Couple\u2019s Mental Load Against Algorithmic Scheduling Fatigue",
+    "url": "https://theomniview.blogspot.com/2026/08/the-shared-calendar-synchronization.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "How-To Guides",
+      "couple's mental load",
+      "relationship scheduling",
+      "digital intimacy"
+    ],
+    "slug": "the-shared-calendar-synchronization-audit-7-stress-tests-for-your-couples-mental",
+    "published_at": "2026-08-08T19:26:07+00:00",
+    "word_count": 1043,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
