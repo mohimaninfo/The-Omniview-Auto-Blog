@@ -47428,5 +47428,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T10:19:21.171304",
+    "run_end": "2026-08-08T10:20:04.947199",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4087396006337486027",
+        "title": "The 'Physical-First' Cinema Audit: 7 Stress-Tests for Your 4K Blu-ray Collection Against Cloud-Only Erasure",
+        "url": "https://theomniview.blogspot.com/2026/08/the-physical-first-cinema-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "physical media",
+          "4K Blu-ray collection",
+          "digital film library"
+        ],
+        "slug": "the-physical-first-cinema-audit-7-stress-tests-for-your-4k-blu-ray-collection-ag",
+        "published_at": "2026-08-08T10:24:40+00:00",
+        "word_count": 1235,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6432631767565420165",
+        "title": "The 'Deep-Work' Cognitive Audit: 7 Stress-Tests for Your Creative Focus Against AI-Prompt Fatigue",
+        "url": "https://theomniview.blogspot.com/2026/08/the-deep-work-cognitive-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "How-To Guides",
+          "deep work",
+          "cognitive stamina",
+          "AI fatigue"
+        ],
+        "slug": "the-deep-work-cognitive-audit-7-stress-tests-for-your-creative-focus-against-ai-",
+        "published_at": "2026-08-08T10:25:03+00:00",
+        "word_count": 1070,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
