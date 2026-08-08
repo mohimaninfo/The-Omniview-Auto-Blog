@@ -40372,5 +40372,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5837007858744800380",
+    "title": "The 'human-in-the-loop' wellness audit: 7 stress-tests for your personal data privacy against period tracker tracking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-human-in-loop-wellness-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "How-To Guides",
+      "period tracker privacy",
+      "data privacy audit",
+      "health data protection"
+    ],
+    "slug": "the-human-in-the-loop-wellness-audit-7-stress-tests-for-your-personal-data-priva",
+    "published_at": "2026-08-08T16:22:47+00:00",
+    "word_count": 937,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3374419701903213397",
+    "title": "The 'Token-Cost' Margin Audit: 7 Stress-Tests for Your SaaS Pricing Model Against AI API Latency Surges",
+    "url": "https://theomniview.blogspot.com/2026/08/the-token-cost-margin-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Explainers",
+      "SaaS pricing model",
+      "AI API costs",
+      "gross margin optimization"
+    ],
+    "slug": "the-token-cost-margin-audit-7-stress-tests-for-your-saas-pricing-model-against-a",
+    "published_at": "2026-08-08T16:23:07+00:00",
+    "word_count": 996,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
