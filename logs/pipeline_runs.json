@@ -47688,5 +47688,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T15:17:14.978558",
+    "run_end": "2026-08-08T15:18:04.932368",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7629025560488758810",
+        "title": "the 'public-comment' leadership audit: 7 stress-tests for your corporate expansion strategy against community-led data center resistance",
+        "url": "https://theomniview.blogspot.com/2026/08/the-public-comment-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "data center community relations",
+          "corporate expansion strategy",
+          "leadership crisis management"
+        ],
+        "slug": "the-public-comment-leadership-audit-7-stress-tests-for-your-corporate-expansion-",
+        "published_at": "2026-08-08T15:22:36+00:00",
+        "word_count": 935,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1337190896547323520",
+        "title": "The 'permafrost-thaw' infrastructure audit: 7 stress-tests for your northern property resilience against accelerating ground instability \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-permafrost-thaw-infrastructure.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Explainers",
+          "permafrost thaw",
+          "climate infrastructure resilience",
+          "geotechnical risk assessment"
+        ],
+        "slug": "the-permafrost-thaw-infrastructure-audit-7-stress-tests-for-your-northern-proper",
+        "published_at": "2026-08-08T15:23:04+00:00",
+        "word_count": 947,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
