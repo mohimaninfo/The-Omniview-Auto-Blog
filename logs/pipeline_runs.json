@@ -47636,5 +47636,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T14:21:20.229059",
+    "run_end": "2026-08-08T14:22:04.146120",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8657205923118055061",
+        "title": "The 'Shadow-Productivity' Remote-Work Audit: 7 Stress-Tests for Your Team\u2019s Output Against AI-Driven Management Metrics",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-productivity-remote-work.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote work productivity",
+          "AI productivity tools",
+          "employee monitoring"
+        ],
+        "slug": "the-shadow-productivity-remote-work-audit-7-stress-tests-for-your-teams-output-a",
+        "published_at": "2026-08-08T14:26:40+00:00",
+        "word_count": 1083,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6204942884245286804",
+        "title": "The 'synthetic-memory' legacy audit: 7 stress-tests for your family\u2019s digital archives against generative ai-hallucination decay",
+        "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-memory-legacy-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "digital legacy",
+          "generative ai",
+          "data integrity"
+        ],
+        "slug": "the-synthetic-memory-legacy-audit-7-stress-tests-for-your-familys-digital-archiv",
+        "published_at": "2026-08-08T14:27:03+00:00",
+        "word_count": 1021,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
