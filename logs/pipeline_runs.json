@@ -47272,5 +47272,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T07:39:05.470565",
+    "run_end": "2026-08-08T07:39:45.683298",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5950278192621310211",
+        "title": "The 'Candida Auris' Hospital Audit: 7 Stress-Tests for Your Healthcare Facility\u2019s Infection Control Against Emerging Fungal Pathogens",
+        "url": "https://theomniview.blogspot.com/2026/08/the-candida-auris-hospital-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Latest News",
+          "Candida auris",
+          "hospital-acquired infection",
+          "healthcare facility safety"
+        ],
+        "slug": "the-candida-auris-hospital-audit-7-stress-tests-for-your-healthcare-facilitys-in",
+        "published_at": "2026-08-08T07:44:23+00:00",
+        "word_count": 722,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6890788595267568080",
+        "title": "The 'ingredient-transparency' pantry audit: 7 stress-tests for your home-cooked meals against ultra-processed additive creep",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ingredient-transparency-pantry.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "How-To Guides",
+          "ultra-processed foods",
+          "pantry audit",
+          "clean eating"
+        ],
+        "slug": "the-ingredient-transparency-pantry-audit-7-stress-tests-for-your-home-cooked-mea",
+        "published_at": "2026-08-08T07:44:45+00:00",
+        "word_count": 1145,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
