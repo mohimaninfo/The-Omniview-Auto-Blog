@@ -40240,5 +40240,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9116698858766365711",
+    "title": "The 'license-expiration' streaming audit: 7 stress-tests for your watchlist against sudden studio content purges",
+    "url": "https://theomniview.blogspot.com/2026/08/the-license-expiration-streaming-audit.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Listicles",
+      "streaming services",
+      "content removal",
+      "digital media ownership"
+    ],
+    "slug": "the-license-expiration-streaming-audit-7-stress-tests-for-your-watchlist-against",
+    "published_at": "2026-08-08T13:41:46+00:00",
+    "word_count": 810,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6150429441036872312",
+    "title": "The 'algorithmic-fidelity' listening audit: 7 stress-tests for your high-res audio setup against modern streaming compression",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-fidelity-listening.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Opinion & Analysis",
+      "high-fidelity audio",
+      "streaming compression",
+      "dynamic range"
+    ],
+    "slug": "the-algorithmic-fidelity-listening-audit-7-stress-tests-for-your-high-res-audio-",
+    "published_at": "2026-08-08T13:42:28+00:00",
+    "word_count": 982,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
