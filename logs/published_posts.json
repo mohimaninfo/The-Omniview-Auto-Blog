@@ -40460,5 +40460,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4688466404834829034",
+    "title": "The 'Neuro-Plasticity' Resilience Audit: 7 Stress-Tests for Your Cognitive Recovery Against Post-Viral Brain Fog",
+    "url": "https://theomniview.blogspot.com/2026/08/the-neuro-plasticity-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Opinion & Analysis",
+      "post-viral brain fog",
+      "neuroplasticity",
+      "neurological recovery"
+    ],
+    "slug": "the-neuro-plasticity-resilience-audit-7-stress-tests-for-your-cognitive-recovery",
+    "published_at": "2026-08-08T18:24:35+00:00",
+    "word_count": 837,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4588988449863737553",
+    "title": "The 'bit-rate' degradation audit: 7 stress-tests for your home theater setup against invisible streaming compression",
+    "url": "https://theomniview.blogspot.com/2026/08/the-bit-rate-degradation-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Explainers",
+      "streaming quality",
+      "bitrate optimization",
+      "home theater setup"
+    ],
+    "slug": "the-bit-rate-degradation-audit-7-stress-tests-for-your-home-theater-setup-agains",
+    "published_at": "2026-08-08T18:24:58+00:00",
+    "word_count": 1172,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
