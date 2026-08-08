@@ -40636,5 +40636,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1266181984253966889",
+    "title": "The 'collections-trap' medical audit: 7 stress-tests for your financial assistance application against automated debt collection",
+    "url": "https://theomniview.blogspot.com/2026/08/the-collections-trap-medical-audit-7.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Case Studies",
+      "medical debt collections",
+      "hospital financial assistance",
+      "managing medical bills"
+    ],
+    "slug": "the-collections-trap-medical-audit-7-stress-tests-for-your-financial-assistance-",
+    "published_at": "2026-08-08T22:21:12+00:00",
+    "word_count": 750,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "1002468115979298154",
+    "title": "the 'smart-home' blackout audit: 7 stress-tests for your automated living space against local energy grid instability",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-home-blackout-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Listicles",
+      "smart home energy efficiency",
+      "grid instability",
+      "home automation security"
+    ],
+    "slug": "the-smart-home-blackout-audit-7-stress-tests-for-your-automated-living-space-aga",
+    "published_at": "2026-08-08T22:21:30+00:00",
+    "word_count": 899,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
