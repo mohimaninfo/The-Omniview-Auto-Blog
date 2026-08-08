@@ -47220,5 +47220,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T06:30:41.576320",
+    "run_end": "2026-08-08T06:31:23.596777",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7953199536966295483",
+        "title": "The 'footage-integrity' audit: 7 stress-tests for your business security against ai-rewritten surveillance data \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-footage-integrity-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Case Studies",
+          "video authentication",
+          "ai surveillance security",
+          "digital forensics"
+        ],
+        "slug": "the-footage-integrity-audit-7-stress-tests-for-your-business-security-against-ai",
+        "published_at": "2026-08-08T06:36:02+00:00",
+        "word_count": 757,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2305067410981583072",
+        "title": "The 'digital-disappearing' act: 7 stress-tests for your cloud-based film library against silent content purges",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-disappearing-act-7-stress.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "digital movie collection",
+          "physical media vs streaming",
+          "content de-listing"
+        ],
+        "slug": "the-digital-disappearing-act-7-stress-tests-for-your-cloud-based-film-library-ag",
+        "published_at": "2026-08-08T06:36:23+00:00",
+        "word_count": 966,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
