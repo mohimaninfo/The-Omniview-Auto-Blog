@@ -47064,5 +47064,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T02:48:05.208735",
+    "run_end": "2026-08-08T02:49:04.310489",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8434967094715151242",
+        "title": "The 'Footage-Forensics' Audit: 7 Stress-Tests for Your Business Security Against AI-Rewritten Surveillance Data",
+        "url": "https://theomniview.blogspot.com/2026/08/the-footage-forensics-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Case Studies",
+          "AI surveillance security",
+          "video evidence tampering",
+          "cybersecurity risk assessment"
+        ],
+        "slug": "the-footage-forensics-audit-7-stress-tests-for-your-business-security-against-ai",
+        "published_at": "2026-08-08T02:53:33+00:00",
+        "word_count": 738,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7901082635329570012",
+        "title": "The 'return-to-sender' logistics audit: 7 stress-tests for your ecommerce profitability against rising reverse-logistics costs \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-return-to-sender-logistics-audit-7_0157738186.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Listicles",
+          "ecommerce reverse logistics",
+          "return rate optimization",
+          "ecommerce profitability"
+        ],
+        "slug": "the-return-to-sender-logistics-audit-7-stress-tests-for-your-ecommerce-profitabi",
+        "published_at": "2026-08-08T02:54:03+00:00",
+        "word_count": 713,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
