@@ -40020,5 +40020,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6746930040530350855",
+    "title": "The 'Digital-Alibi' Relationship Audit: 7 Stress-Tests for Your Couple\u2019s Privacy Against AI-Powered Surveillance Creep \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-digital-alibi-relationship-audit-7_0169668249.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Listicles",
+      "relationship privacy",
+      "digital boundaries for couples",
+      "AI surveillance"
+    ],
+    "slug": "the-digital-alibi-relationship-audit-7-stress-tests-for-your-couples-privacy-aga",
+    "published_at": "2026-08-08T08:30:49+00:00",
+    "word_count": 794,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8412203356314245284",
+    "title": "The 'context-window' bloat audit: 7 stress-tests for your RAG architecture against massive token-context expansion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-context-window-bloat-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Listicles",
+      "RAG architecture",
+      "LLM context window",
+      "AI development"
+    ],
+    "slug": "the-context-window-bloat-audit-7-stress-tests-for-your-rag-architecture-against-",
+    "published_at": "2026-08-08T08:31:09+00:00",
+    "word_count": 825,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
