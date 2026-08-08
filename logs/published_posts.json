@@ -40416,5 +40416,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6795040097869529509",
+    "title": "The 'orbital-debris' collision audit: 7 stress-tests for your satellite-based internet resilience against Kessler Syndrome \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-orbital-debris-collision-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Latest News",
+      "orbital debris",
+      "Kessler Syndrome",
+      "satellite internet"
+    ],
+    "slug": "the-orbital-debris-collision-audit-7-stress-tests-for-your-satellite-based-inter",
+    "published_at": "2026-08-08T17:24:16+00:00",
+    "word_count": 794,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "8764478571689772444",
+    "title": "The 'methane-leak' property audit: 7 stress-tests for your home\u2019s climate footprint against accelerating Siberian permafrost thaw",
+    "url": "https://theomniview.blogspot.com/2026/08/the-methane-leak-property-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Explainers",
+      "methane emissions",
+      "permafrost thaw",
+      "home climate footprint"
+    ],
+    "slug": "the-methane-leak-property-audit-7-stress-tests-for-your-homes-climate-footprint-",
+    "published_at": "2026-08-08T17:24:40+00:00",
+    "word_count": 987,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
