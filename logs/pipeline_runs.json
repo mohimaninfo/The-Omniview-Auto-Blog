@@ -48000,5 +48000,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T21:18:08.181625",
+    "run_end": "2026-08-08T21:19:00.913866",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7246412786417273391",
+        "title": "The 'Offline-Native' Gaming Audit: 7 Stress-Tests for Your Retro Collection Against Modern Cloud-Only Erasure",
+        "url": "https://theomniview.blogspot.com/2026/08/the-offline-native-gaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "retro gaming preservation",
+          "DRM-free games",
+          "digital game ownership"
+        ],
+        "slug": "the-offline-native-gaming-audit-7-stress-tests-for-your-retro-collection-against",
+        "published_at": "2026-08-08T21:23:35+00:00",
+        "word_count": 874,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1645621995248678844",
+        "title": "The 'algorithmic-compatibility' dating audit: 7 stress-tests for your relationship longevity against AI-driven matchmaking bias",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-compatibility-dating.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Opinion & Analysis",
+          "dating app algorithms",
+          "relationship longevity",
+          "AI matchmaking bias"
+        ],
+        "slug": "the-algorithmic-compatibility-dating-audit-7-stress-tests-for-your-relationship-",
+        "published_at": "2026-08-08T21:24:00+00:00",
+        "word_count": 943,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
