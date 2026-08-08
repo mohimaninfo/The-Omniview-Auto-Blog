@@ -47116,5 +47116,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T04:01:47.195545",
+    "run_end": "2026-08-08T04:02:24.788352",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "522971966509516495",
+        "title": "The 'Inheritance-Volatility' Audit: 7 Stress-Tests for Your Crypto Portfolio Against Unexpected Wealth Windfalls",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inheritance-volatility-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "reviews",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Reviews",
+          "crypto portfolio management",
+          "inheritance tax crypto",
+          "financial windfall planning"
+        ],
+        "slug": "the-inheritance-volatility-audit-7-stress-tests-for-your-crypto-portfolio-agains",
+        "published_at": "2026-08-08T04:07:06+00:00",
+        "word_count": 611,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3650440129039373014",
+        "title": "The 'Super Mover' Longevity Audit: 7 Stress-Tests for Your Daily Routine Against Cognitive Decline",
+        "url": "https://theomniview.blogspot.com/2026/08/the-super-mover-longevity-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "super mover",
+          "cognitive decline prevention",
+          "longevity habits"
+        ],
+        "slug": "the-super-mover-longevity-audit-7-stress-tests-for-your-daily-routine-against-co",
+        "published_at": "2026-08-08T04:07:24+00:00",
+        "word_count": 586,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
