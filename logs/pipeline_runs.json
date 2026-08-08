@@ -47480,5 +47480,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T11:17:55.572371",
+    "run_end": "2026-08-08T11:18:44.013283",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1477283674770633883",
+        "title": "The 'Kill-Switch' Contingency Audit: 7 Stress-Tests for Your Enterprise Cloud Strategy Against Sovereign Data Blockades",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kill-switch-contingency-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Listicles",
+          "enterprise cloud strategy",
+          "data sovereignty",
+          "business continuity planning"
+        ],
+        "slug": "the-kill-switch-contingency-audit-7-stress-tests-for-your-enterprise-cloud-strat",
+        "published_at": "2026-08-08T11:23:18+00:00",
+        "word_count": 808,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7583540623764261133",
+        "title": "The 'Super Mover' Longevity Audit: 7 Stress-Tests for Your Daily Routine Against Cognitive Decline \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-super-mover-longevity-audit-7_0497797709.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "Super Mover",
+          "cognitive decline prevention",
+          "fitness for longevity"
+        ],
+        "slug": "the-super-mover-longevity-audit-7-stress-tests-for-your-daily-routine-against-co",
+        "published_at": "2026-08-08T11:23:42+00:00",
+        "word_count": 997,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
