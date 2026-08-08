@@ -47376,5 +47376,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-08T09:25:37.788661",
+    "run_end": "2026-08-08T09:26:31.229878",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "351975648769737322",
+        "title": "The 'License-Plate' Pivot Audit: 7 Stress-Tests for Your Startup\u2019s Physical Security Strategy Against AI Surveillance Backlash",
+        "url": "https://theomniview.blogspot.com/2026/08/the-license-plate-pivot-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Interviews",
+          "ALPR technology",
+          "business surveillance ethics",
+          "data privacy compliance"
+        ],
+        "slug": "the-license-plate-pivot-audit-7-stress-tests-for-your-startups-physical-security",
+        "published_at": "2026-08-08T09:31:03+00:00",
+        "word_count": 944,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2270659751793501443",
+        "title": "The 'Physical-Media' Sovereignty Audit: 7 Stress-Tests for Your Home Cinema Library Against Cloud-Only Erasure \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-physical-media-sovereignty-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Reviews",
+          "physical media",
+          "streaming service content removal",
+          "home cinema collection"
+        ],
+        "slug": "the-physical-media-sovereignty-audit-7-stress-tests-for-your-home-cinema-library",
+        "published_at": "2026-08-08T09:31:30+00:00",
+        "word_count": 643,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
