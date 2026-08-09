@@ -48208,5 +48208,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T02:55:27.165324",
+    "run_end": "2026-08-09T02:57:00.728565",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1098220453430905335",
+        "title": "The 'origami-morph' structural audit: 7 stress-tests for your mechanical designs against creased-curve physics",
+        "url": "https://theomniview.blogspot.com/2026/08/the-origami-morph-structural-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Physics",
+          "Opinion & Analysis",
+          "origami physics",
+          "soft robotics",
+          "creased-curve shells"
+        ],
+        "slug": "the-origami-morph-structural-audit-7-stress-tests-for-your-mechanical-designs-ag",
+        "published_at": "2026-08-09T03:00:48+00:00",
+        "word_count": 823,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1677278432944929109",
+        "title": "The 'async-parity' remote-work audit: 7 stress-tests for your team\u2019s collaboration against time-zone-agnostic workflows",
+        "url": "https://theomniview.blogspot.com/2026/08/the-async-parity-remote-work-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "explainers",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Explainers",
+          "async remote work",
+          "remote team collaboration",
+          "asynchronous workflows"
+        ],
+        "slug": "the-async-parity-remote-work-audit-7-stress-tests-for-your-teams-collaboration-a",
+        "published_at": "2026-08-09T03:01:59+00:00",
+        "word_count": 1042,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
