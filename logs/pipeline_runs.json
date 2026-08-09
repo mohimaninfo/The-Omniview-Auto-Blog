@@ -48884,5 +48884,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T16:19:25.067401",
+    "run_end": "2026-08-09T16:20:04.197426",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1126061090593685699",
+        "title": "The 'digital-sovereignty' border audit: 7 stress-tests for your travel data privacy against AI-driven migration surveillance",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-sovereignty-border-audit-7_01914524115.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "digital privacy",
+          "travel security",
+          "AI surveillance"
+        ],
+        "slug": "the-digital-sovereignty-border-audit-7-stress-tests-for-your-travel-data-privacy",
+        "published_at": "2026-08-09T16:24:45+00:00",
+        "word_count": 667,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "638329495918553770",
+        "title": "The 'microbiome-memory' clinical audit: 7 stress-tests for your long-term immunity against post-antibiotic dysbiosis",
+        "url": "https://theomniview.blogspot.com/2026/08/the-microbiome-memory-clinical-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Latest News",
+          "gut microbiome health",
+          "antibiotic resistance",
+          "dysbiosis recovery"
+        ],
+        "slug": "the-microbiome-memory-clinical-audit-7-stress-tests-for-your-long-term-immunity-",
+        "published_at": "2026-08-09T16:25:03+00:00",
+        "word_count": 829,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
