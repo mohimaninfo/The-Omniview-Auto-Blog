@@ -48780,5 +48780,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T14:22:33.833913",
+    "run_end": "2026-08-09T14:23:22.416735",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3527341222905066431",
+        "title": "The 'Inherited-Account' Recovery Audit: 7 Stress-Tests for Your Late-Parent 401k Strategy Against Modern Tax-Code Volatility \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inherited-account-recovery-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "inherited 401k rules",
+          "SECURE Act 2.0",
+          "beneficiary retirement account"
+        ],
+        "slug": "the-inherited-account-recovery-audit-7-stress-tests-for-your-late-parent-401k-st",
+        "published_at": "2026-08-09T14:28:00+00:00",
+        "word_count": 712,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "427825447810387587",
+        "title": "the 'mobilization-alert' network audit: 7 stress-tests for your community\u2019s digital infrastructure against unannounced emergency shutdowns",
+        "url": "https://theomniview.blogspot.com/2026/08/the-mobilization-alert-network-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Latest News",
+          "digital infrastructure resilience",
+          "internet blackout",
+          "emergency communication protocols"
+        ],
+        "slug": "the-mobilization-alert-network-audit-7-stress-tests-for-your-communitys-digital-",
+        "published_at": "2026-08-09T14:28:21+00:00",
+        "word_count": 732,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
