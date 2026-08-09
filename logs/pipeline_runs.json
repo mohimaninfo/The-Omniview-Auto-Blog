@@ -48520,5 +48520,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T09:26:51.969710",
+    "run_end": "2026-08-09T09:27:33.715315",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3724314131848504216",
+        "title": "The 'Public-Trust' Infrastructure Audit: 7 Stress-Tests for Your Startup\u2019s Physical Expansion Strategy Against Localized Data Center Backlash",
+        "url": "https://theomniview.blogspot.com/2026/08/the-public-trust-infrastructure-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Opinion & Analysis",
+          "data center resistance",
+          "startup infrastructure strategy",
+          "corporate social responsibility"
+        ],
+        "slug": "the-public-trust-infrastructure-audit-7-stress-tests-for-your-startups-physical-",
+        "published_at": "2026-08-09T09:32:11+00:00",
+        "word_count": 862,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8555556920453899616",
+        "title": "The 'strait-chokepoint' resilience audit: 7 stress-tests for your global supply chain strategy against regional maritime blockades \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-strait-chokepoint-resilience-audit.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Opinion & Analysis",
+          "global supply chain resilience",
+          "maritime chokepoints",
+          "Strait of Hormuz"
+        ],
+        "slug": "the-strait-chokepoint-resilience-audit-7-stress-tests-for-your-global-supply-cha",
+        "published_at": "2026-08-09T09:32:32+00:00",
+        "word_count": 903,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
