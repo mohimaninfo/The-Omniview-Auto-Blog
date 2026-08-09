@@ -41516,5 +41516,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "33462033206488269",
+    "title": "The 'bioluminescent-streetlight' ecological audit: 7 stress-tests for your urban biodiversity against synthetic firefly DNA integration",
+    "url": "https://theomniview.blogspot.com/2026/08/the-bioluminescent-streetlight.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Research Articles",
+      "urban biodiversity",
+      "bioluminescent plants",
+      "ecological impact"
+    ],
+    "slug": "the-bioluminescent-streetlight-ecological-audit-7-stress-tests-for-your-urban-bi",
+    "published_at": "2026-08-09T20:22:58+00:00",
+    "word_count": 1007,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "6644504504802447621",
+    "title": "The 'Egress-Tax' Cloud Audit: 7 Stress-Tests for Your Startup\u2019s Financial Runway Against Prohibitive Data Transfer Fees",
+    "url": "https://theomniview.blogspot.com/2026/08/the-egress-tax-cloud-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Opinion & Analysis",
+      "cloud egress fees",
+      "startup burn rate",
+      "cloud cost optimization"
+    ],
+    "slug": "the-egress-tax-cloud-audit-7-stress-tests-for-your-startups-financial-runway-aga",
+    "published_at": "2026-08-09T20:23:15+00:00",
+    "word_count": 928,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
