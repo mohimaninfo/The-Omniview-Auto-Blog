@@ -41296,5 +41296,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2186806000443951787",
+    "title": "The 'Offline-First' Home Security Audit: 7 Stress-Tests for Your Smart Camera Privacy Against AI Surveillance Creep",
+    "url": "https://theomniview.blogspot.com/2026/08/the-offline-first-home-security-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Reviews",
+      "smart home privacy",
+      "local storage security cameras",
+      "offline surveillance"
+    ],
+    "slug": "the-offline-first-home-security-audit-7-stress-tests-for-your-smart-camera-priva",
+    "published_at": "2026-08-09T15:24:30+00:00",
+    "word_count": 708,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1852726760484356687",
+    "title": "The 'GLP-1' metabolic audit: 7 stress-tests for your long-term cardiovascular health against rapid weight-loss drugs",
+    "url": "https://theomniview.blogspot.com/2026/08/the-glp-1-metabolic-audit-7-stress.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Opinion & Analysis",
+      "GLP-1 cardiovascular health",
+      "metabolic health risks",
+      "semaglutide long-term effects"
+    ],
+    "slug": "the-glp-1-metabolic-audit-7-stress-tests-for-your-long-term-cardiovascular-healt",
+    "published_at": "2026-08-09T15:24:52+00:00",
+    "word_count": 971,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
