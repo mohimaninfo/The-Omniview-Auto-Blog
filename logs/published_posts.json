@@ -40856,5 +40856,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "2032394178908418853",
+    "title": "The 'Super Mover' Metabolic Audit: 7 Stress-Tests for Your Fitness Routine Against Age-Related Mobility Decline",
+    "url": "https://theomniview.blogspot.com/2026/08/the-super-mover-metabolic-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Explainers",
+      "Super Mover fitness",
+      "functional mobility training",
+      "healthy aging exercise"
+    ],
+    "slug": "the-super-mover-metabolic-audit-7-stress-tests-for-your-fitness-routine-against-",
+    "published_at": "2026-08-09T05:44:20+00:00",
+    "word_count": 1035,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7208954604062033901",
+    "title": "the 'churn-prediction' retention audit: 7 stress-tests for your saas marketing stack against post-cookies attribution decay",
+    "url": "https://theomniview.blogspot.com/2026/08/the-churn-prediction-retention-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Case Studies",
+      "saas marketing",
+      "churn prediction",
+      "attribution modeling"
+    ],
+    "slug": "the-churn-prediction-retention-audit-7-stress-tests-for-your-saas-marketing-stac",
+    "published_at": "2026-08-09T05:44:59+00:00",
+    "word_count": 694,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
