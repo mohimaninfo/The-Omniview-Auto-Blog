@@ -48988,5 +48988,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T18:21:19.903360",
+    "run_end": "2026-08-09T18:22:15.321402",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6487901783543199334",
+        "title": "The 'Vagabond-Black-Hole' Navigation Audit: 7 Stress-Tests for Your Deep-Space Communication Resilience Against Galactic Drift",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vagabond-black-hole-navigation.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "supermassive black hole",
+          "galactic drift",
+          "deep-space communication"
+        ],
+        "slug": "the-vagabond-black-hole-navigation-audit-7-stress-tests-for-your-deep-space-comm",
+        "published_at": "2026-08-09T18:26:49+00:00",
+        "word_count": 869,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "297742789648202727",
+        "title": "The 'Cinema-HDR' calibration audit: 7 stress-tests for your 4K streaming setup against aggressive display tone-mapping",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cinema-hdr-calibration-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Reviews",
+          "4K streaming quality",
+          "HDR tone mapping",
+          "home cinema calibration"
+        ],
+        "slug": "the-cinema-hdr-calibration-audit-7-stress-tests-for-your-4k-streaming-setup-agai",
+        "published_at": "2026-08-09T18:27:13+00:00",
+        "word_count": 579,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
