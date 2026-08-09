@@ -48728,5 +48728,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T13:39:57.325443",
+    "run_end": "2026-08-09T13:41:30.041378",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1242072942738061453",
+        "title": "The 'cognitive-offload' learning audit: 7 stress-tests for your student's critical thinking against generative AI dependency \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-offload-learning-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "cognitive offload",
+          "learning science",
+          "generative AI in education"
+        ],
+        "slug": "the-cognitive-offload-learning-audit-7-stress-tests-for-your-students-critical-t",
+        "published_at": "2026-08-09T13:45:58+00:00",
+        "word_count": 1085,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5905853362697884449",
+        "title": "The 'Artistic-Integrity' Layoff Audit: 7 Stress-Tests for Your Favorite Gaming Studios Against Corporate Consolidation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-artistic-integrity-layoff-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "gaming studio layoffs",
+          "id Software",
+          "video game industry news"
+        ],
+        "slug": "the-artistic-integrity-layoff-audit-7-stress-tests-for-your-favorite-gaming-stud",
+        "published_at": "2026-08-09T13:46:28+00:00",
+        "word_count": 898,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
