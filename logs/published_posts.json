@@ -41120,5 +41120,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "826252168501311158",
+    "title": "The 'algorithmic-oversight' audit: 7 stress-tests for your startup\u2019s automated decision-making against public-sector liability",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-oversight-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "How-To Guides",
+      "algorithmic accountability",
+      "AI risk management",
+      "startup legal compliance"
+    ],
+    "slug": "the-algorithmic-oversight-audit-7-stress-tests-for-your-startups-automated-decis",
+    "published_at": "2026-08-09T11:23:52+00:00",
+    "word_count": 846,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "8535510975919207205",
+    "title": "The 'fractional-utility' energy audit: 7 stress-tests for your household budget against dynamic time-of-use pricing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-fractional-utility-energy-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Explainers",
+      "time-of-use pricing",
+      "energy cost management",
+      "household economics"
+    ],
+    "slug": "the-fractional-utility-energy-audit-7-stress-tests-for-your-household-budget-aga",
+    "published_at": "2026-08-09T11:24:13+00:00",
+    "word_count": 925,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
