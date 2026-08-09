@@ -49248,5 +49248,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T23:18:40.461691",
+    "run_end": "2026-08-09T23:19:29.965724",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7289572851115055062",
+        "title": "The 'Baseload-Drain' Conservation Audit: 7 Stress-Tests for Local Biodiversity Against AI Data Center Energy Spikes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-baseload-drain-conservation-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Explainers",
+          "data center energy consumption",
+          "biodiversity conservation",
+          "baseload power pollution"
+        ],
+        "slug": "the-baseload-drain-conservation-audit-7-stress-tests-for-local-biodiversity-agai",
+        "published_at": "2026-08-09T23:24:08+00:00",
+        "word_count": 1009,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8426097801228600389",
+        "title": "The 'Analog-Travel' Sovereignty Audit: 7 Stress-Tests for Your Next Vacation Against AI-Driven Surveillance and Data-Center Outages",
+        "url": "https://theomniview.blogspot.com/2026/08/the-analog-travel-sovereignty-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "How-To Guides",
+          "analog travel",
+          "digital privacy for travelers",
+          "offline travel guide"
+        ],
+        "slug": "the-analog-travel-sovereignty-audit-7-stress-tests-for-your-next-vacation-agains",
+        "published_at": "2026-08-09T23:24:29+00:00",
+        "word_count": 1184,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
