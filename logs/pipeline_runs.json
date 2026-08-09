@@ -49196,5 +49196,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T22:17:26.857590",
+    "run_end": "2026-08-09T22:18:07.586522",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "458812577138671321",
+        "title": "The 'Smart-Kitchen' Blackout Audit: 7 Stress-Tests for Your Wi-Fi-Dependent Cooking Workflow Against Localized Grid Instability",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-kitchen-blackout-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen",
+          "appliance reliability",
+          "offline cooking"
+        ],
+        "slug": "the-smart-kitchen-blackout-audit-7-stress-tests-for-your-wi-fi-dependent-cooking",
+        "published_at": "2026-08-09T22:22:50+00:00",
+        "word_count": 1129,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2771042980755029929",
+        "title": "The 'Yield-Cap' Dilution Audit: 7 Stress-Tests for Your Dividend Portfolio Against AI-Driven Operational Capex",
+        "url": "https://theomniview.blogspot.com/2026/08/the-yield-cap-dilution-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Latest News",
+          "dividend investing",
+          "free cash flow",
+          "AI capital expenditure"
+        ],
+        "slug": "the-yield-cap-dilution-audit-7-stress-tests-for-your-dividend-portfolio-against-",
+        "published_at": "2026-08-09T22:23:07+00:00",
+        "word_count": 716,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
