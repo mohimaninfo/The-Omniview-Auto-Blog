@@ -48260,5 +48260,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T04:08:27.603343",
+    "run_end": "2026-08-09T04:09:12.804389",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2408120541392498884",
+        "title": "The 'clean-label' pantry audit: 7 stress-tests for your grocery staples against hidden ultra-processed additives",
+        "url": "https://theomniview.blogspot.com/2026/08/the-clean-label-pantry-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "ultra-processed foods",
+          "clean label food",
+          "pantry audit"
+        ],
+        "slug": "the-clean-label-pantry-audit-7-stress-tests-for-your-grocery-staples-against-hid",
+        "published_at": "2026-08-09T04:13:48+00:00",
+        "word_count": 723,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2010711326452909163",
+        "title": "The 'Model-Collapse' Knowledge Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against Recursive Data Degradation \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-model-collapse-knowledge-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "model collapse",
+          "ai data quality",
+          "synthetic data"
+        ],
+        "slug": "the-model-collapse-knowledge-audit-7-stress-tests-for-your-enterprise-ai-strateg",
+        "published_at": "2026-08-09T04:14:11+00:00",
+        "word_count": 912,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
