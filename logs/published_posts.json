@@ -41076,5 +41076,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4282673563145171296",
+    "title": "The 'Digital-Dopamine' Audit: 7 Stress-Tests for Your Attention Span Against Modern Screen Fatigue",
+    "url": "https://theomniview.blogspot.com/2026/08/the-digital-dopamine-audit-7-stress.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Explainers",
+      "digital fatigue",
+      "attention span health",
+      "cognitive decline prevention"
+    ],
+    "slug": "the-digital-dopamine-audit-7-stress-tests-for-your-attention-span-against-modern",
+    "published_at": "2026-08-09T10:26:04+00:00",
+    "word_count": 1128,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4086387611119859188",
+    "title": "The 'Ultra-Processed' Label Audit: 7 Stress-Tests for Your Grocery Staples Against Hidden Chemical Additives \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-ultra-processed-label-audit-7.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Explainers",
+      "ultra-processed foods",
+      "clean label nutrition",
+      "food additive safety"
+    ],
+    "slug": "the-ultra-processed-label-audit-7-stress-tests-for-your-grocery-staples-against-",
+    "published_at": "2026-08-09T10:26:29+00:00",
+    "word_count": 1131,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
