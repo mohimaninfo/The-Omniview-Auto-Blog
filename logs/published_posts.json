@@ -41560,5 +41560,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4123829231716497917",
+    "title": "The 'Baseload-Bias' Grid Audit: 7 Stress-Tests for Your Renewable Energy Strategy Against AI Data Center Demand",
+    "url": "https://theomniview.blogspot.com/2026/08/the-baseload-bias-grid-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Opinion & Analysis",
+      "renewable energy strategy",
+      "data center power consumption",
+      "grid stability"
+    ],
+    "slug": "the-baseload-bias-grid-audit-7-stress-tests-for-your-renewable-energy-strategy-a",
+    "published_at": "2026-08-09T21:25:11+00:00",
+    "word_count": 957,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "6643484096561475768",
+    "title": "The 'Carbon-Offset' Mirage: 7 Stress-Tests for Your Corporate Climate Strategy Against AI-Driven Energy Demand",
+    "url": "https://theomniview.blogspot.com/2026/08/the-carbon-offset-mirage-7-stress-tests.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Opinion & Analysis",
+      "corporate climate strategy",
+      "AI energy consumption",
+      "data center carbon footprint"
+    ],
+    "slug": "the-carbon-offset-mirage-7-stress-tests-for-your-corporate-climate-strategy-agai",
+    "published_at": "2026-08-09T21:25:32+00:00",
+    "word_count": 1016,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
