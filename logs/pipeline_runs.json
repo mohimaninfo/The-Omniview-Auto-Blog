@@ -48156,5 +48156,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-09T00:44:59.273069",
+    "run_end": "2026-08-09T00:47:05.334323",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1171308779022281494",
+        "title": "The 'Data-Center' Heat-Pump Audit: 7 Stress-Tests for Your Home\u2019s Thermal Efficiency Against Local Grid-Strain",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-heat-pump-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "reviews",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Reviews",
+          "home energy audit",
+          "heat pump efficiency",
+          "sustainable living"
+        ],
+        "slug": "the-data-center-heat-pump-audit-7-stress-tests-for-your-homes-thermal-efficiency",
+        "published_at": "2026-08-09T00:50:17+00:00",
+        "word_count": 591,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5849418788961293135",
+        "title": "The 'proctor-drift' integrity audit: 7 stress-tests for your school\u2019s remote testing platform against generative AI-assisted cheating \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-proctor-drift-integrity-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Research Articles",
+          "ai proctoring software",
+          "academic integrity",
+          "remote testing security"
+        ],
+        "slug": "the-proctor-drift-integrity-audit-7-stress-tests-for-your-schools-remote-testing",
+        "published_at": "2026-08-09T00:52:04+00:00",
+        "word_count": 888,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
