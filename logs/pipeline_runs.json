@@ -49404,5 +49404,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T05:14:10.192296",
+    "run_end": "2026-08-10T05:15:00.547732",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7100143421705823265",
+        "title": "The 'hardware-wallet' inheritance audit: 7 stress-tests for your crypto recovery plan against post-mortem access loss",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hardware-wallet-inheritance-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Latest News",
+          "crypto inheritance",
+          "hardware wallet security",
+          "digital estate planning"
+        ],
+        "slug": "the-hardware-wallet-inheritance-audit-7-stress-tests-for-your-crypto-recovery-pl",
+        "published_at": "2026-08-10T05:19:39+00:00",
+        "word_count": 745,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5003065270419212177",
+        "title": "The 'Horizontal Gene Transfer' Audit: 7 Stress-Tests for Your Microbiome Resilience Against Environmental Microplastic Exposure",
+        "url": "https://theomniview.blogspot.com/2026/08/the-horizontal-gene-transfer-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Explainers",
+          "horizontal gene transfer",
+          "microbiome resilience",
+          "microplastics and human health"
+        ],
+        "slug": "the-horizontal-gene-transfer-audit-7-stress-tests-for-your-microbiome-resilience",
+        "published_at": "2026-08-10T05:20:00+00:00",
+        "word_count": 1009,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
