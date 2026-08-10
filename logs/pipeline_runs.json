@@ -49456,5 +49456,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T07:04:27.663780",
+    "run_end": "2026-08-10T07:05:10.651968",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8105286551739872409",
+        "title": "The Microglia Sleep Switch: How Immune Cells Control Restorative Sleep in Alzheimer\u2019s",
+        "url": "https://theomniview.blogspot.com/2026/08/the-microglia-sleep-switch-how-immune.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Explainers",
+          "microglia",
+          "Alzheimer's disease",
+          "sleep loss"
+        ],
+        "slug": "the-microglia-sleep-switch-how-immune-cells-control-restorative-sleep-in-alzheim",
+        "published_at": "2026-08-10T07:09:49+00:00",
+        "word_count": 981,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "649617323935441661",
+        "title": "The 'Solar-Flare' Resilience Audit: 7 Stress-Tests for Your Starlink Terminal Against Extreme Geomagnetic Storms \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-solar-flare-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "Starlink resilience",
+          "geomagnetic storm impact",
+          "satellite internet"
+        ],
+        "slug": "the-solar-flare-resilience-audit-7-stress-tests-for-your-starlink-terminal-again",
+        "published_at": "2026-08-10T07:10:10+00:00",
+        "word_count": 848,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 7
+      }
+    ]
   }
 ]
