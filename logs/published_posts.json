@@ -42000,5 +42000,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4718865791646316484",
+    "title": "The 'debt-vs-savings' paradox audit: 7 stress-tests for your high-interest credit card repayment strategy against market volatility",
+    "url": "https://theomniview.blogspot.com/2026/08/the-debt-vs-savings-paradox-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Explainers",
+      "credit card debt vs savings",
+      "high interest debt payoff",
+      "personal finance strategy"
+    ],
+    "slug": "the-debt-vs-savings-paradox-audit-7-stress-tests-for-your-high-interest-credit-c",
+    "published_at": "2026-08-10T12:44:47+00:00",
+    "word_count": 1146,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "962957638338070862",
+    "title": "The 'exoplanet-transit' timing audit: 7 stress-tests for your amateur light-curve data against stellar activity noise",
+    "url": "https://theomniview.blogspot.com/2026/08/the-exoplanet-transit-timing-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Research Articles",
+      "exoplanet detection",
+      "light curve analysis",
+      "citizen science"
+    ],
+    "slug": "the-exoplanet-transit-timing-audit-7-stress-tests-for-your-amateur-light-curve-d",
+    "published_at": "2026-08-10T12:45:08+00:00",
+    "word_count": 952,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
