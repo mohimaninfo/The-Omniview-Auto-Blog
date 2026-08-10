@@ -42044,5 +42044,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "3902270597973623775",
+    "title": "The 'Cloud-Free' Home Security Audit: 7 Stress-Tests for Your Smart Camera Privacy Against Internet Outages",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cloud-free-home-security-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "How-To Guides",
+      "smart home privacy",
+      "local storage security cameras",
+      "offline home security"
+    ],
+    "slug": "the-cloud-free-home-security-audit-7-stress-tests-for-your-smart-camera-privacy-",
+    "published_at": "2026-08-10T14:16:12+00:00",
+    "word_count": 1043,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4321315337740661841",
+    "title": "The 'grid-sovereignty' infrastructure audit: 7 stress-tests for your home\u2019s energy resilience against data-center demand surges",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-sovereignty-infrastructure.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Research Articles",
+      "energy resilience",
+      "grid instability",
+      "home energy audit"
+    ],
+    "slug": "the-grid-sovereignty-infrastructure-audit-7-stress-tests-for-your-homes-energy-r",
+    "published_at": "2026-08-10T14:16:35+00:00",
+    "word_count": 971,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
