@@ -49300,5 +49300,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T00:47:09.266075",
+    "run_end": "2026-08-10T00:48:09.153752",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8171488502003244221",
+        "title": "The 'Physical-Vault' Preservation Audit: 7 Stress-Tests for Your 4K Blu-Ray Collection Against Streaming Enshittification",
+        "url": "https://theomniview.blogspot.com/2026/08/the-physical-vault-preservation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "physical media preservation",
+          "4K Blu-ray collection",
+          "streaming license expiration"
+        ],
+        "slug": "the-physical-vault-preservation-audit-7-stress-tests-for-your-4k-blu-ray-collect",
+        "published_at": "2026-08-10T00:52:44+00:00",
+        "word_count": 926,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6265843467434727400",
+        "title": "The 'algorithmic-redlining' mortgage audit: 7 stress-tests for your home loan application against AI-driven credit bias \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-redlining-mortgage.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "algorithmic redlining",
+          "mortgage approval bias",
+          "fair lending"
+        ],
+        "slug": "the-algorithmic-redlining-mortgage-audit-7-stress-tests-for-your-home-loan-appli",
+        "published_at": "2026-08-10T00:53:07+00:00",
+        "word_count": 870,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
