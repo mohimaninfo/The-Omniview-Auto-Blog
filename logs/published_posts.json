@@ -42176,5 +42176,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "2495655953614089290",
+    "title": "The 'portfolio-stress' liquidity audit: 7 stress-tests for your 20s investment strategy against unexpected cash emergencies",
+    "url": "https://theomniview.blogspot.com/2026/08/the-portfolio-stress-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Listicles",
+      "investment strategy for 20s",
+      "emergency fund vs investing",
+      "401k early withdrawal penalty"
+    ],
+    "slug": "the-portfolio-stress-liquidity-audit-7-stress-tests-for-your-20s-investment-stra",
+    "published_at": "2026-08-10T17:46:45+00:00",
+    "word_count": 779,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6199788132813712163",
+    "title": "The 'dividend-trap' valuation audit: 7 stress-tests for your income portfolio against AI-driven operational capex \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-dividend-trap-valuation-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Explainers",
+      "dividend investing",
+      "capital expenditure",
+      "portfolio stress test"
+    ],
+    "slug": "the-dividend-trap-valuation-audit-7-stress-tests-for-your-income-portfolio-again",
+    "published_at": "2026-08-10T17:47:25+00:00",
+    "word_count": 1237,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
