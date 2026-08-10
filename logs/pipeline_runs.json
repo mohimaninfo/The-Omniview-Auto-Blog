@@ -50028,5 +50028,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T20:29:18.081239",
+    "run_end": "2026-08-10T20:30:33.795649",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3681169515526428656",
+        "title": "The 'Investor-Subsidy' Streaming Audit: 7 Stress-Tests for Your Subscription Portfolio Against Post-VC Price Hikes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-investor-subsidy-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "streaming subscription costs",
+          "streaming service price hikes",
+          "venture capital streaming"
+        ],
+        "slug": "the-investor-subsidy-streaming-audit-7-stress-tests-for-your-subscription-portfo",
+        "published_at": "2026-08-10T20:35:03+00:00",
+        "word_count": 1184,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1969365747261941556",
+        "title": "The 'Cloud-Exodus' Appliance Audit: 7 Stress-Tests for Your Smart Home Against Server-Side Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cloud-exodus-appliance-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "smart home automation",
+          "local-first smart home",
+          "smart home privacy"
+        ],
+        "slug": "the-cloud-exodus-appliance-audit-7-stress-tests-for-your-smart-home-against-serv",
+        "published_at": "2026-08-10T20:35:32+00:00",
+        "word_count": 641,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
