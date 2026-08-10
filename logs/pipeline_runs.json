@@ -49820,5 +49820,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T16:40:15.985346",
+    "run_end": "2026-08-10T16:41:15.257882",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8842906483729794090",
+        "title": "The 'Investor-Funded' Lifestyle Audit: 7 Stress-Tests for Your Personal Budget Against Subsidized AI Pricing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-investor-funded-lifestyle-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "personal finance",
+          "AI pricing",
+          "budgeting strategy"
+        ],
+        "slug": "the-investor-funded-lifestyle-audit-7-stress-tests-for-your-personal-budget-agai",
+        "published_at": "2026-08-10T16:45:51+00:00",
+        "word_count": 981,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2226190526594956193",
+        "title": "the 'algorithmic-rent' housing audit: 7 stress-tests for your apartment lease against ai-driven price-fixing software",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-rent-housing-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "algorithmic rent pricing",
+          "housing inequality",
+          "rental market transparency"
+        ],
+        "slug": "the-algorithmic-rent-housing-audit-7-stress-tests-for-your-apartment-lease-again",
+        "published_at": "2026-08-10T16:46:14+00:00",
+        "word_count": 893,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
