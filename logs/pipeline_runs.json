@@ -49560,5 +49560,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T10:55:06.298940",
+    "run_end": "2026-08-10T10:55:57.961809",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7229794306374305322",
+        "title": "The 'Baseload-Backlash' Audit: 7 Stress-Tests for Your Home\u2019s Energy Independence Against AI Data Center Grid Strain \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-baseload-backlash-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "listicles",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Listicles",
+          "energy independence",
+          "data center power consumption",
+          "grid strain"
+        ],
+        "slug": "the-baseload-backlash-audit-7-stress-tests-for-your-homes-energy-independence-ag",
+        "published_at": "2026-08-10T11:00:26+00:00",
+        "word_count": 762,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9082234173122353079",
+        "title": "The 'Epigenetic-Clock' Aging Audit: 7 Stress-Tests for Your Biological Age Against Modern Environmental Stressors \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-epigenetic-clock-aging-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Explainers",
+          "epigenetic clock",
+          "biological age",
+          "DNA methylation"
+        ],
+        "slug": "the-epigenetic-clock-aging-audit-7-stress-tests-for-your-biological-age-against-",
+        "published_at": "2026-08-10T11:00:56+00:00",
+        "word_count": 1068,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
