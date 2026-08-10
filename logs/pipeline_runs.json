@@ -49976,5 +49976,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T19:45:51.574843",
+    "run_end": "2026-08-10T19:46:48.872555",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "542759044542825964",
+        "title": "The 'Baseload-Drain' Policy Audit: 7 Stress-Tests for Your Local Utility Grid Against AI Data Center Expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-baseload-drain-policy-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Explainers",
+          "climate policy",
+          "AI data center energy consumption",
+          "utility grid stability"
+        ],
+        "slug": "the-baseload-drain-policy-audit-7-stress-tests-for-your-local-utility-grid-again",
+        "published_at": "2026-08-10T19:51:15+00:00",
+        "word_count": 1092,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7928006898289037877",
+        "title": "The 'Deep-State' Supply Chain Audit: 7 Stress-Tests for Your Essential Goods Strategy Against Escalating Maritime Chokepoint Instability \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-deep-state-supply-chain-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Latest News",
+          "maritime supply chain",
+          "geopolitical risk",
+          "global logistics"
+        ],
+        "slug": "the-deep-state-supply-chain-audit-7-stress-tests-for-your-essential-goods-strate",
+        "published_at": "2026-08-10T19:51:47+00:00",
+        "word_count": 852,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
