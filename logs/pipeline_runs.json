@@ -50080,5 +50080,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T21:29:51.818806",
+    "run_end": "2026-08-10T21:30:44.533399",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5720276842798086114",
+        "title": "The 'Manual-Loop' Tutoring Audit: 7 Stress-Tests for Your EdTech Platform Against AI-Driven Credibility Collapse",
+        "url": "https://theomniview.blogspot.com/2026/08/the-manual-loop-tutoring-audit-7-stress.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "How-To Guides",
+          "edtech transparency",
+          "AI chatbot audit",
+          "AI in education"
+        ],
+        "slug": "the-manual-loop-tutoring-audit-7-stress-tests-for-your-edtech-platform-against-a",
+        "published_at": "2026-08-10T21:35:20+00:00",
+        "word_count": 1009,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5892815049980657051",
+        "title": "The 'weight-set-point' metabolic audit: 7 stress-tests for your fitness routine against biological weight regain",
+        "url": "https://theomniview.blogspot.com/2026/08/the-weight-set-point-metabolic-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "weight regain",
+          "metabolic adaptation",
+          "fitness science"
+        ],
+        "slug": "the-weight-set-point-metabolic-audit-7-stress-tests-for-your-fitness-routine-aga",
+        "published_at": "2026-08-10T21:35:44+00:00",
+        "word_count": 1002,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
