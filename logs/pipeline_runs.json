@@ -50132,5 +50132,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T22:24:11.596091",
+    "run_end": "2026-08-10T22:25:05.135142",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5195392827483085015",
+        "title": "The 'Investor-Subsidy' Churn Audit: 7 Stress-Tests for Your SaaS Marketing Stack Against AI-Driven Pricing Reality",
+        "url": "https://theomniview.blogspot.com/2026/08/the-investor-subsidy-churn-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Listicles",
+          "SaaS marketing strategy",
+          "customer acquisition costs",
+          "SaaS churn rate"
+        ],
+        "slug": "the-investor-subsidy-churn-audit-7-stress-tests-for-your-saas-marketing-stack-ag",
+        "published_at": "2026-08-10T22:29:37+00:00",
+        "word_count": 865,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1200242566885069889",
+        "title": "The 'Dependency-Hell' Audit: 7 Stress-Tests for Your Legacy Node.js Monorepo Against Modern Security Vulnerabilities",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dependency-hell-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Explainers",
+          "node.js security",
+          "dependency management",
+          "software supply chain"
+        ],
+        "slug": "the-dependency-hell-audit-7-stress-tests-for-your-legacy-nodejs-monorepo-against",
+        "published_at": "2026-08-10T22:30:03+00:00",
+        "word_count": 922,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
