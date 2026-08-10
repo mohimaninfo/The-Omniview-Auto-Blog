@@ -50184,5 +50184,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-10T23:23:24.832871",
+    "run_end": "2026-08-10T23:24:12.242384",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8667017667500960954",
+        "title": "The 'on-chain' inheritance audit: 7 stress-tests for your cryptocurrency recovery plan against sudden incapacitation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-on-chain-inheritance-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Research Articles",
+          "cryptocurrency inheritance",
+          "crypto estate planning",
+          "seed phrase security"
+        ],
+        "slug": "the-on-chain-inheritance-audit-7-stress-tests-for-your-cryptocurrency-recovery-p",
+        "published_at": "2026-08-10T23:28:46+00:00",
+        "word_count": 996,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2717120118201374664",
+        "title": "The 'founder-burnout' equity audit: 7 stress-tests for your startup vesting schedule against long-term operational fatigue",
+        "url": "https://theomniview.blogspot.com/2026/08/the-founder-burnout-equity-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "startup equity vesting",
+          "founder burnout",
+          "startup operational strategy"
+        ],
+        "slug": "the-founder-burnout-equity-audit-7-stress-tests-for-your-startup-vesting-schedul",
+        "published_at": "2026-08-10T23:29:11+00:00",
+        "word_count": 786,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
