@@ -43144,5 +43144,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5162356601855933602",
+    "title": "The 'Viral-Misinfo' Fitness Audit: 7 Stress-Tests for Your Workout Routine Against Short-Form Video Health Trends",
+    "url": "https://theomniview.blogspot.com/2026/08/the-viral-misinfo-fitness-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "How-To Guides",
+      "fitness misinformation",
+      "social media fitness trends",
+      "workout safety tips"
+    ],
+    "slug": "the-viral-misinfo-fitness-audit-7-stress-tests-for-your-workout-routine-against-",
+    "published_at": "2026-08-11T19:57:57+00:00",
+    "word_count": 1031,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1647386963960906713",
+    "title": "The 'context-window' retention audit: 7 stress-tests for your long-form technical documentation against AI-induced hallucination",
+    "url": "https://theomniview.blogspot.com/2026/08/the-context-window-retention-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "How-To Guides",
+      "AI hallucination",
+      "technical documentation",
+      "RAG systems"
+    ],
+    "slug": "the-context-window-retention-audit-7-stress-tests-for-your-long-form-technical-d",
+    "published_at": "2026-08-11T19:58:19+00:00",
+    "word_count": 951,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
