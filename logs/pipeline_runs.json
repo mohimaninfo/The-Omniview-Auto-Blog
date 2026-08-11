@@ -50600,5 +50600,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T10:39:43.142519",
+    "run_end": "2026-08-11T10:40:34.048878",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7499389075929258514",
+        "title": "The 'Chef-to-Cloud' Latency Audit: 7 Stress-Tests for Your Smart Kitchen Against Server-Side Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-chef-to-cloud-latency-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen appliances",
+          "kitchen tech longevity",
+          "connected cooking"
+        ],
+        "slug": "the-chef-to-cloud-latency-audit-7-stress-tests-for-your-smart-kitchen-against-se",
+        "published_at": "2026-08-11T10:45:07+00:00",
+        "word_count": 1105,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8429292022098099095",
+        "title": "The 'proxy-sovereignty' audit: 7 stress-tests for your personal digital borders against state-level internet fragmentation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-proxy-sovereignty-audit-7-stress.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "digital sovereignty",
+          "internet fragmentation",
+          "data privacy"
+        ],
+        "slug": "the-proxy-sovereignty-audit-7-stress-tests-for-your-personal-digital-borders-aga",
+        "published_at": "2026-08-11T10:45:33+00:00",
+        "word_count": 943,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
