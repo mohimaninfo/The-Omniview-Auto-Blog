@@ -50548,5 +50548,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T09:47:57.018365",
+    "run_end": "2026-08-11T09:48:48.632590",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8606779951150022425",
+        "title": "The 'Homeostasis-Rebound' Fitness Audit: 7 Stress-Tests for Your Training Routine Against Biological Weight Regain",
+        "url": "https://theomniview.blogspot.com/2026/08/the-homeostasis-rebound-fitness-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "weight regain",
+          "fitness routine",
+          "metabolic adaptation"
+        ],
+        "slug": "the-homeostasis-rebound-fitness-audit-7-stress-tests-for-your-training-routine-a",
+        "published_at": "2026-08-11T09:53:21+00:00",
+        "word_count": 1092,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3459136011235044663",
+        "title": "The 'algorithmic-rot' streaming audit: 7 stress-tests for your movie collection against AI-driven content decay",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-rot-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "streaming services",
+          "algorithmic bias",
+          "AI content"
+        ],
+        "slug": "the-algorithmic-rot-streaming-audit-7-stress-tests-for-your-movie-collection-aga",
+        "published_at": "2026-08-11T09:53:47+00:00",
+        "word_count": 884,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
