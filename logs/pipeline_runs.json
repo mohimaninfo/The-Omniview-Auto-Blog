@@ -50756,5 +50756,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T14:10:09.506026",
+    "run_end": "2026-08-11T14:10:58.726186",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3354549597085774415",
+        "title": "The 'Set-Point' Metabolic Audit: 7 Stress-Tests for Your Weight-Loss Mental Health Against Biological Rebound",
+        "url": "https://theomniview.blogspot.com/2026/08/the-set-point-metabolic-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Latest News",
+          "weight set point theory",
+          "mental health and weight loss",
+          "metabolic adaptation"
+        ],
+        "slug": "the-set-point-metabolic-audit-7-stress-tests-for-your-weight-loss-mental-health-",
+        "published_at": "2026-08-11T14:15:30+00:00",
+        "word_count": 765,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2693447003155554200",
+        "title": "The 'Turing-Gap' robotics audit: 7 stress-tests for your cobot fleet against high-dexterity generative AI integration",
+        "url": "https://theomniview.blogspot.com/2026/08/the-turing-gap-robotics-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Opinion & Analysis",
+          "collaborative robots",
+          "generative AI robotics",
+          "cobot safety"
+        ],
+        "slug": "the-turing-gap-robotics-audit-7-stress-tests-for-your-cobot-fleet-against-high-d",
+        "published_at": "2026-08-11T14:15:58+00:00",
+        "word_count": 809,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
