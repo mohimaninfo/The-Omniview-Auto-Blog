@@ -50288,5 +50288,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T02:57:39.275415",
+    "run_end": "2026-08-11T02:58:24.667199",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8532083297811553903",
+        "title": "The 'Geopolitical-Isolation' Digital Audit: 7 Stress-Tests for Your Personal Data Sovereignty Against State-Level Internet Shutdowns",
+        "url": "https://theomniview.blogspot.com/2026/08/the-geopolitical-isolation-digital.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "digital sovereignty",
+          "internet shutdown",
+          "data privacy"
+        ],
+        "slug": "the-geopolitical-isolation-digital-audit-7-stress-tests-for-your-personal-data-s",
+        "published_at": "2026-08-11T03:03:03+00:00",
+        "word_count": 988,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "155104388051457076",
+        "title": "The 'Smart-Glass' Privacy Audit: 7 Stress-Tests for Your Personal Boundaries Against Wearable Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-glass-privacy-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Listicles",
+          "smart glasses privacy",
+          "wearable surveillance",
+          "privacy in public spaces"
+        ],
+        "slug": "the-smart-glass-privacy-audit-7-stress-tests-for-your-personal-boundaries-agains",
+        "published_at": "2026-08-11T03:03:24+00:00",
+        "word_count": 847,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
