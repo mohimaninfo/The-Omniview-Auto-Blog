@@ -50808,5 +50808,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T15:46:50.273273",
+    "run_end": "2026-08-11T15:48:04.243153",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4723758619659685290",
+        "title": "The 'human-verification' credential audit: 7 stress-tests for your university degree against AI-generated diploma fraud \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-verification-credential-audit.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Research Articles",
+          "degree verification",
+          "academic integrity",
+          "AI fraud"
+        ],
+        "slug": "the-human-verification-credential-audit-7-stress-tests-for-your-university-degre",
+        "published_at": "2026-08-11T15:52:20+00:00",
+        "word_count": 1076,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2162989374903630917",
+        "title": "The 'Grid-Locked' AI Audit: 7 Stress-Tests for Your Local Renewable Energy Portfolio Against Data Center Power Spikes \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-grid-locked-ai-audit-7-stress-tests.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "renewable energy",
+          "AI data centers",
+          "grid stability"
+        ],
+        "slug": "the-grid-locked-ai-audit-7-stress-tests-for-your-local-renewable-energy-portfoli",
+        "published_at": "2026-08-11T15:53:03+00:00",
+        "word_count": 913,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
