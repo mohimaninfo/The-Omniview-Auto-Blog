@@ -50652,5 +50652,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T11:35:33.123530",
+    "run_end": "2026-08-11T11:36:21.405700",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6259090329327334899",
+        "title": "The 'kinetic-sovereignty' audit: 7 stress-tests for your personal digital footprint against state-level internet shutdowns \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kinetic-sovereignty-audit-7-stress.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Opinion & Analysis",
+          "internet shutdown",
+          "digital sovereignty",
+          "network resilience"
+        ],
+        "slug": "the-kinetic-sovereignty-audit-7-stress-tests-for-your-personal-digital-footprint",
+        "published_at": "2026-08-11T11:41:00+00:00",
+        "word_count": 875,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8621362232811779253",
+        "title": "The 'circular-hardware' audit: 7 stress-tests for your enterprise IT strategy against AI-driven GPU obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-circular-hardware-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Research Articles",
+          "circular economy",
+          "e-waste management",
+          "AI hardware sustainability"
+        ],
+        "slug": "the-circular-hardware-audit-7-stress-tests-for-your-enterprise-it-strategy-again",
+        "published_at": "2026-08-11T11:41:20+00:00",
+        "word_count": 1003,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
