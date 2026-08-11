@@ -50236,5 +50236,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T00:46:46.158332",
+    "run_end": "2026-08-11T00:47:26.884813",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8156298298434985239",
+        "title": "The 'amygdala-trigger' audit: 7 stress-tests for your social anxiety resilience against oxytocin-linked cataplexy",
+        "url": "https://theomniview.blogspot.com/2026/08/the-amygdala-trigger-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Research Articles",
+          "cataplexy symptoms",
+          "amygdala function",
+          "social anxiety neuroscience"
+        ],
+        "slug": "the-amygdala-trigger-audit-7-stress-tests-for-your-social-anxiety-resilience-aga",
+        "published_at": "2026-08-11T00:52:05+00:00",
+        "word_count": 868,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "644098643736778946",
+        "title": "The 'Investor-Subsidized' AI Audit: 7 Stress-Tests for Your Startup\u2019s Sustainability Against Looming API Price Hikes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-investor-subsidized-ai-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Opinion & Analysis",
+          "AI startup sustainability",
+          "AI API pricing",
+          "venture capital AI"
+        ],
+        "slug": "the-investor-subsidized-ai-audit-7-stress-tests-for-your-startups-sustainability",
+        "published_at": "2026-08-11T00:52:26+00:00",
+        "word_count": 971,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
