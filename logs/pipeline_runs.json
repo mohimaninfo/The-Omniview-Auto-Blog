@@ -50496,5 +50496,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T08:01:04.341717",
+    "run_end": "2026-08-11T08:02:00.438999",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "520947119632778576",
+        "title": "The 'Set-Point' Resilience Audit: 7 Stress-Tests for Your Fitness Routine Against Biological Weight Regain \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-set-point-resilience-audit-7-stress.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "How-To Guides",
+          "weight set point",
+          "metabolic adaptation",
+          "sustainable weight loss"
+        ],
+        "slug": "the-set-point-resilience-audit-7-stress-tests-for-your-fitness-routine-against-b",
+        "published_at": "2026-08-11T08:06:38+00:00",
+        "word_count": 1120,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5161181466398569977",
+        "title": "The 'FAST-Channel' saturation audit: 7 stress-tests for your streaming habits against the rise of algorithmic clutter \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-fast-channel-saturation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "FAST channels",
+          "streaming services",
+          "content curation"
+        ],
+        "slug": "the-fast-channel-saturation-audit-7-stress-tests-for-your-streaming-habits-again",
+        "published_at": "2026-08-11T08:06:59+00:00",
+        "word_count": 815,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
