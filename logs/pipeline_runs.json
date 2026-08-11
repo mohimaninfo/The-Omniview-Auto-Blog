@@ -51224,5 +51224,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T23:27:55.150313",
+    "run_end": "2026-08-11T23:30:37.384694",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8869713682310275038",
+        "title": "The 'Flock-Cam' Evasion Audit: 7 Stress-Tests for Your Vehicle Privacy Against AI-Driven License Plate Surveillance \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-flock-cam-evasion-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Research Articles",
+          "vehicle privacy",
+          "AI surveillance",
+          "license plate recognition"
+        ],
+        "slug": "the-flock-cam-evasion-audit-7-stress-tests-for-your-vehicle-privacy-against-ai-d",
+        "published_at": "2026-08-11T23:34:34+00:00",
+        "word_count": 1167,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3890565901303819638",
+        "title": "The 'clean-label' pantry audit: 7 stress-tests for your grocery list against ultra-processed additive loopholes \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-clean-label-pantry-audit-7-stress_0463734344.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Listicles",
+          "clean label diet",
+          "food additive safety",
+          "ultra-processed foods"
+        ],
+        "slug": "the-clean-label-pantry-audit-7-stress-tests-for-your-grocery-list-against-ultra-",
+        "published_at": "2026-08-11T23:35:36+00:00",
+        "word_count": 854,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
