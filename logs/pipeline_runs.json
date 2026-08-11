@@ -50704,5 +50704,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T12:36:27.037154",
+    "run_end": "2026-08-11T12:37:23.379200",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3618487063681223464",
+        "title": "The 'debt-avalanche' psychology audit: 7 stress-tests for your personal finance strategy against behavioral burnout",
+        "url": "https://theomniview.blogspot.com/2026/08/the-debt-avalanche-psychology-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Opinion & Analysis",
+          "debt avalanche vs snowball",
+          "personal finance psychology",
+          "credit card debt relief"
+        ],
+        "slug": "the-debt-avalanche-psychology-audit-7-stress-tests-for-your-personal-finance-str",
+        "published_at": "2026-08-11T12:41:53+00:00",
+        "word_count": 876,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1957108430120220268",
+        "title": "The 'subsea-backbone' integrity audit: 7 stress-tests for your global data security against localized maritime cable sabotage",
+        "url": "https://theomniview.blogspot.com/2026/08/the-subsea-backbone-integrity-audit-7.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "undersea cable security",
+          "digital sovereignty",
+          "global network resilience"
+        ],
+        "slug": "the-subsea-backbone-integrity-audit-7-stress-tests-for-your-global-data-security",
+        "published_at": "2026-08-11T12:42:22+00:00",
+        "word_count": 774,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
