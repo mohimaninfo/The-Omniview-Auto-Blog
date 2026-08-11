@@ -50340,5 +50340,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T04:14:52.716019",
+    "run_end": "2026-08-11T04:15:34.600923",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5910111383101813207",
+        "title": "The 'Manual-Human' Pedagogy Audit: 7 Stress-Tests for Your K12 Classroom Against AI-Generated 'Slop' Curriculum",
+        "url": "https://theomniview.blogspot.com/2026/08/the-manual-human-pedagogy-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "K12 education",
+          "AI in the classroom",
+          "teacher pedagogy"
+        ],
+        "slug": "the-manual-human-pedagogy-audit-7-stress-tests-for-your-k12-classroom-against-ai",
+        "published_at": "2026-08-11T04:20:14+00:00",
+        "word_count": 913,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1114131762936037200",
+        "title": "The 'Shadow-Prompt' Audit: 7 Stress-Tests for Your Codebase Against AI-Generated Technical Debt \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-prompt-audit-7-stress-tests.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Explainers",
+          "AI coding tools",
+          "technical debt",
+          "codebase security"
+        ],
+        "slug": "the-shadow-prompt-audit-7-stress-tests-for-your-codebase-against-ai-generated-te",
+        "published_at": "2026-08-11T04:20:34+00:00",
+        "word_count": 1128,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
