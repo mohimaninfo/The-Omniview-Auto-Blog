@@ -51172,5 +51172,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T22:29:20.257785",
+    "run_end": "2026-08-11T22:31:45.577907",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1064232551445170310",
+        "title": "The 'Synthetic-Lead' Casting Audit: 7 Stress-Tests for Your Favorite Film Franchises Against AI-Generated Actor Resemblance",
+        "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-lead-casting-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Opinion & Analysis",
+          "AI in film",
+          "digital human actors",
+          "film industry ethics"
+        ],
+        "slug": "the-synthetic-lead-casting-audit-7-stress-tests-for-your-favorite-film-franchise",
+        "published_at": "2026-08-11T22:35:39+00:00",
+        "word_count": 871,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1974385453067785284",
+        "title": "The 'vaccine-hesitancy' trauma audit: 7 stress-tests for your family\u2019s mental health against medical misinformation loops",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vaccine-hesitancy-trauma-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "vaccine hesitancy",
+          "mental health",
+          "medical misinformation"
+        ],
+        "slug": "the-vaccine-hesitancy-trauma-audit-7-stress-tests-for-your-familys-mental-health",
+        "published_at": "2026-08-11T22:36:44+00:00",
+        "word_count": 778,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
