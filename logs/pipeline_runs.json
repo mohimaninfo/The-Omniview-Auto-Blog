@@ -51068,5 +51068,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T20:31:50.378557",
+    "run_end": "2026-08-11T20:32:42.264499",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5350726769780143708",
+        "title": "The 'Right-to-Repair' hardware audit: 7 stress-tests for your smart-home longevity against cloud-dependent obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-right-to-repair-hardware-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "How-To Guides",
+          "right to repair",
+          "smart home circular economy",
+          "planned obsolescence"
+        ],
+        "slug": "the-right-to-repair-hardware-audit-7-stress-tests-for-your-smart-home-longevity-",
+        "published_at": "2026-08-11T20:37:17+00:00",
+        "word_count": 1124,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "4221888464477881619",
+        "title": "The 'Digital-Validation' Burnout Audit: 7 Stress-Tests for Your Mental Health Against Short-Form Health Misinformation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-validation-burnout-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "mental health misinformation",
+          "digital burnout",
+          "self-diagnosis anxiety"
+        ],
+        "slug": "the-digital-validation-burnout-audit-7-stress-tests-for-your-mental-health-again",
+        "published_at": "2026-08-11T20:37:41+00:00",
+        "word_count": 774,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
