@@ -50392,5 +50392,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-11T05:44:49.561174",
+    "run_end": "2026-08-11T05:45:32.891739",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3454434079326177622",
+        "title": "The 'Influencer-Pipeline' Career Audit: 7 Stress-Tests for Your Skill-Building Strategy Against Manosphere Exploitation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-influencer-pipeline-career-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "career development",
+          "influencer economy",
+          "professional skills"
+        ],
+        "slug": "the-influencer-pipeline-career-audit-7-stress-tests-for-your-skill-building-stra",
+        "published_at": "2026-08-11T05:50:11+00:00",
+        "word_count": 823,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5632770022953702384",
+        "title": "the 'sovereignty-gap' digital audit: 7 stress-tests for your cultural identity against state-sponsored internet fragmentation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-sovereignty-gap-digital-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "digital sovereignty",
+          "internet fragmentation",
+          "geopolitical censorship"
+        ],
+        "slug": "the-sovereignty-gap-digital-audit-7-stress-tests-for-your-cultural-identity-agai",
+        "published_at": "2026-08-11T05:50:32+00:00",
+        "word_count": 1032,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
