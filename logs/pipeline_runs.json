@@ -51952,5 +51952,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T18:44:15.187299",
+    "run_end": "2026-08-12T18:45:43.234100",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6498954947977586303",
+        "title": "The 'additive-loophole' pantry audit: 7 stress-tests for your grocery list against unregulated food-tech chemicals",
+        "url": "https://theomniview.blogspot.com/2026/08/the-additive-loophole-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "food additives",
+          "ultra-processed foods",
+          "clean eating"
+        ],
+        "slug": "the-additive-loophole-pantry-audit-7-stress-tests-for-your-grocery-list-against-",
+        "published_at": "2026-08-12T18:49:56+00:00",
+        "word_count": 1010,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2042058277359221605",
+        "title": "the 'zero-party' data audit: 7 stress-tests for your crm strategy against looming third-party cookie deprecation \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-zero-party-data-audit-7-stress_0226573622.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Listicles",
+          "zero-party data",
+          "crm strategy",
+          "privacy-first marketing"
+        ],
+        "slug": "the-zero-party-data-audit-7-stress-tests-for-your-crm-strategy-against-looming-t",
+        "published_at": "2026-08-12T18:50:42+00:00",
+        "word_count": 782,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
