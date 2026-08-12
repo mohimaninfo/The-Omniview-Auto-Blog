@@ -43716,5 +43716,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5166674357077927934",
+    "title": "The 'kinetic-sovereignty' infrastructure audit: 7 stress-tests for your home\u2019s internet resilience against state-level maritime cable sabotage",
+    "url": "https://theomniview.blogspot.com/2026/08/the-kinetic-sovereignty-infrastructure.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Explainers",
+      "internet resilience",
+      "subsea cable security",
+      "digital sovereignty"
+    ],
+    "slug": "the-kinetic-sovereignty-infrastructure-audit-7-stress-tests-for-your-homes-inter",
+    "published_at": "2026-08-12T12:44:53+00:00",
+    "word_count": 1008,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6669600254856624882",
+    "title": "The 'Layer-2' congestion audit: 7 stress-tests for your DeFi yield strategy against network gas spikes",
+    "url": "https://theomniview.blogspot.com/2026/08/the-layer-2-congestion-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Explainers",
+      "DeFi yield strategy",
+      "Layer-2 scaling",
+      "crypto gas fees"
+    ],
+    "slug": "the-layer-2-congestion-audit-7-stress-tests-for-your-defi-yield-strategy-against",
+    "published_at": "2026-08-12T12:45:19+00:00",
+    "word_count": 1003,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
