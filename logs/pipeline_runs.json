@@ -52212,5 +52212,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T23:28:13.047239",
+    "run_end": "2026-08-12T23:30:19.554518",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1061468399770391272",
+        "title": "The 'GLP-1' nutrition audit: 7 stress-tests for your weight loss diet against muscle atrophy and nutrient depletion \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glp-1-nutrition-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Listicles",
+          "GLP-1 nutrition",
+          "weight loss medication diet",
+          "preventing muscle loss on Ozempic"
+        ],
+        "slug": "the-glp-1-nutrition-audit-7-stress-tests-for-your-weight-loss-diet-against-muscl",
+        "published_at": "2026-08-12T23:33:34+00:00",
+        "word_count": 802,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4446042453341277910",
+        "title": "The 'modular-refurb' battery audit: 7 stress-tests for your electric vehicle\u2019s circular-economy longevity against proprietary software locks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-modular-refurb-battery-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "electric vehicle battery recycling",
+          "right to repair"
+        ],
+        "slug": "the-modular-refurb-battery-audit-7-stress-tests-for-your-electric-vehicles-circu",
+        "published_at": "2026-08-12T23:35:19+00:00",
+        "word_count": 1072,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
