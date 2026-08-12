@@ -52160,5 +52160,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T22:27:40.426618",
+    "run_end": "2026-08-12T22:28:35.643624",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8812862069688064659",
+        "title": "The 'learning-debt' enrollment audit: 7 stress-tests for your higher-education career path against AI-induced skill atrophy",
+        "url": "https://theomniview.blogspot.com/2026/08/the-learning-debt-enrollment-audit-7.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Research Articles",
+          "AI in higher education",
+          "student learning outcomes",
+          "career readiness"
+        ],
+        "slug": "the-learning-debt-enrollment-audit-7-stress-tests-for-your-higher-education-care",
+        "published_at": "2026-08-12T22:33:03+00:00",
+        "word_count": 1119,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8885889948921111870",
+        "title": "The 'kinetic-vandalism' defense audit: 7 stress-tests for your autonomous delivery fleet against anti-surveillance sabotage",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kinetic-vandalism-defense-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Opinion & Analysis",
+          "autonomous delivery robots",
+          "robotics security",
+          "physical security for robots"
+        ],
+        "slug": "the-kinetic-vandalism-defense-audit-7-stress-tests-for-your-autonomous-delivery-",
+        "published_at": "2026-08-12T22:33:34+00:00",
+        "word_count": 790,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
