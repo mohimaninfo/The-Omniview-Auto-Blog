@@ -43804,5 +43804,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "541059707394313650",
+    "title": "The 'thermal-shadow' conservation audit: 7 stress-tests for your local watershed against AI data center cooling requirements \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-thermal-shadow-conservation-audit-7.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Explainers",
+      "data center water consumption",
+      "watershed conservation",
+      "AI environmental impact"
+    ],
+    "slug": "the-thermal-shadow-conservation-audit-7-stress-tests-for-your-local-watershed-ag",
+    "published_at": "2026-08-12T15:54:09+00:00",
+    "word_count": 1021,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "736080745828300339",
+    "title": "The 'Bio-Contamination' Pantry Audit: 7 Stress-Tests for Your Personal Care Products Against Unlabeled Chemical Hazards",
+    "url": "https://theomniview.blogspot.com/2026/08/the-bio-contamination-pantry-audit-7.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Latest News",
+      "chemical hazards in personal care",
+      "clean label audit",
+      "hidden toxins in cosmetics"
+    ],
+    "slug": "the-bio-contamination-pantry-audit-7-stress-tests-for-your-personal-care-product",
+    "published_at": "2026-08-12T15:55:51+00:00",
+    "word_count": 787,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
