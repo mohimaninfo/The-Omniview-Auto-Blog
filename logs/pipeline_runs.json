@@ -52108,5 +52108,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T21:32:38.977427",
+    "run_end": "2026-08-12T21:33:19.986869",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6788341730743452240",
+        "title": "The 'Data-Center-Drain' Policy Audit: 7 Stress-Tests for Your Local Utility Grid Against AI Cooling Demands \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-drain-policy-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Opinion & Analysis",
+          "climate policy",
+          "data center energy consumption",
+          "AI environmental impact"
+        ],
+        "slug": "the-data-center-drain-policy-audit-7-stress-tests-for-your-local-utility-grid-ag",
+        "published_at": "2026-08-12T21:37:59+00:00",
+        "word_count": 877,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1384459382622515067",
+        "title": "The 'Curiosity-Gap' Classroom Audit: 7 Stress-Tests for Your K12 Lesson Plans Against AI-Induced Learning Apathy",
+        "url": "https://theomniview.blogspot.com/2026/08/the-curiosity-gap-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Latest News",
+          "k12 education",
+          "AI in the classroom",
+          "student engagement"
+        ],
+        "slug": "the-curiosity-gap-classroom-audit-7-stress-tests-for-your-k12-lesson-plans-again",
+        "published_at": "2026-08-12T21:38:19+00:00",
+        "word_count": 786,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
