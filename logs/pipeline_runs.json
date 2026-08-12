@@ -51848,5 +51848,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T16:43:25.206428",
+    "run_end": "2026-08-12T16:45:03.454132",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3240769005785893022",
+        "title": "The 'maternity-desert' navigation audit: 7 stress-tests for your pregnancy care plan against regional access gaps \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-maternity-desert-navigation-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Research Articles",
+          "maternity care deserts",
+          "pregnancy care plan",
+          "prenatal access"
+        ],
+        "slug": "the-maternity-desert-navigation-audit-7-stress-tests-for-your-pregnancy-care-pla",
+        "published_at": "2026-08-12T16:49:22+00:00",
+        "word_count": 1143,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2235970158207946549",
+        "title": "The 'Tattoo-Sterility' Diagnostic Audit: 7 Stress-Tests for Your Next Ink Session Against Emerging Pathogen Risks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-tattoo-sterility-diagnostic-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "tattoo ink safety",
+          "FDA tattoo study",
+          "pathogen contamination"
+        ],
+        "slug": "the-tattoo-sterility-diagnostic-audit-7-stress-tests-for-your-next-ink-session-a",
+        "published_at": "2026-08-12T16:50:02+00:00",
+        "word_count": 1100,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
