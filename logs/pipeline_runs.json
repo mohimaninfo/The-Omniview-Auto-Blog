@@ -51276,5 +51276,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T00:54:39.922607",
+    "run_end": "2026-08-12T00:56:35.570977",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8782403266787956415",
+        "title": "The 'human-fidelity' streaming audit: 7 stress-tests for your favorite artists against AI-generated voice cloning",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-fidelity-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "interviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Interviews",
+          "AI voice cloning",
+          "music industry trends",
+          "artist rights"
+        ],
+        "slug": "the-human-fidelity-streaming-audit-7-stress-tests-for-your-favorite-artists-agai",
+        "published_at": "2026-08-12T01:00:34+00:00",
+        "word_count": 1039,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3533910089245935053",
+        "title": "The 'smart-glasses' consent audit: 7 stress-tests for your personal boundaries against wearable surveillance \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-glasses-consent-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "How-To Guides",
+          "smart glasses privacy",
+          "wearable surveillance",
+          "digital boundaries"
+        ],
+        "slug": "the-smart-glasses-consent-audit-7-stress-tests-for-your-personal-boundaries-agai",
+        "published_at": "2026-08-12T01:01:35+00:00",
+        "word_count": 1021,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
