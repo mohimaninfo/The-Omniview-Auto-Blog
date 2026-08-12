@@ -43408,5 +43408,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3338631825312194396",
+    "title": "The 'Smart-Glasses' Proctoring Audit: 7 Stress-Tests for Your Exam Integrity Against Wearable Surveillance \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-glasses-proctoring-audit-7_0308704146.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "reviews",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Reviews",
+      "exam proctoring software",
+      "smart glasses surveillance",
+      "academic integrity"
+    ],
+    "slug": "the-smart-glasses-proctoring-audit-7-stress-tests-for-your-exam-integrity-agains",
+    "published_at": "2026-08-12T03:22:19+00:00",
+    "word_count": 688,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6348702760245639217",
+    "title": "The 'Stablecoin-Peg' Liquidity Audit: 7 Stress-Tests for Your DeFi Yield Strategy Against Algorithmic De-pegging Events",
+    "url": "https://theomniview.blogspot.com/2026/08/the-stablecoin-peg-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "DeFi yield strategy",
+      "stablecoin de-pegging",
+      "cryptocurrency risk management"
+    ],
+    "slug": "the-stablecoin-peg-liquidity-audit-7-stress-tests-for-your-defi-yield-strategy-a",
+    "published_at": "2026-08-12T03:23:13+00:00",
+    "word_count": 882,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
