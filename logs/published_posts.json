@@ -43496,5 +43496,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8640207304134108302",
+    "title": "The 'Community-First' Microgrid Audit: 7 Stress-Tests for Your Local Energy Resilience Against AI Data Center Expansion \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-community-first-microgrid-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Case Studies",
+      "microgrid energy resilience",
+      "data center energy demand",
+      "renewable energy community"
+    ],
+    "slug": "the-community-first-microgrid-audit-7-stress-tests-for-your-local-energy-resilie",
+    "published_at": "2026-08-12T07:09:00+00:00",
+    "word_count": 729,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2048254755819676133",
+    "title": "The 'Delivery-Protection' Compliance Audit: 7 Stress-Tests for Your Ecommerce Logistics Strategy Against Emerging Gig-Worker Regulations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-delivery-protection-compliance.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Case Studies",
+      "ecommerce logistics",
+      "delivery protection act",
+      "supply chain resilience"
+    ],
+    "slug": "the-delivery-protection-compliance-audit-7-stress-tests-for-your-ecommerce-logis",
+    "published_at": "2026-08-12T07:09:19+00:00",
+    "word_count": 685,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
