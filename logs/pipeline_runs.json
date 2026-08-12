@@ -51588,5 +51588,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T10:54:05.938424",
+    "run_end": "2026-08-12T10:54:53.071802",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2667943132722737240",
+        "title": "The 'emergency-liquidity' audit: 7 stress-tests for your personal finance strategy against unexpected medical debt and job loss",
+        "url": "https://theomniview.blogspot.com/2026/08/the-emergency-liquidity-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "personal finance strategy",
+          "medical debt",
+          "emergency fund"
+        ],
+        "slug": "the-emergency-liquidity-audit-7-stress-tests-for-your-personal-finance-strategy-",
+        "published_at": "2026-08-12T10:59:30+00:00",
+        "word_count": 927,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4827825463105889258",
+        "title": "The 'Quantum-Decoherence' Audit: 7 Stress-Tests for Your Cryogenic Computing Strategy Against Environmental Noise \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-quantum-decoherence-audit-7-stress_0198068576.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Physics",
+          "Research Articles",
+          "quantum computing",
+          "decoherence",
+          "cryogenic engineering"
+        ],
+        "slug": "the-quantum-decoherence-audit-7-stress-tests-for-your-cryogenic-computing-strate",
+        "published_at": "2026-08-12T10:59:52+00:00",
+        "word_count": 969,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
