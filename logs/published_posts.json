@@ -43452,5 +43452,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7575039175482617831",
+    "title": "the 'gpu-graveyard' circular audit: 7 stress-tests for your data center lifecycle against rapid ai hardware turnover",
+    "url": "https://theomniview.blogspot.com/2026/08/the-gpu-graveyard-circular-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Opinion & Analysis",
+      "circular economy",
+      "e-waste management",
+      "ai hardware sustainability"
+    ],
+    "slug": "the-gpu-graveyard-circular-audit-7-stress-tests-for-your-data-center-lifecycle-a",
+    "published_at": "2026-08-12T05:27:24+00:00",
+    "word_count": 952,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4885897537865868361",
+    "title": "The 'Echo-Chamber' Anxiety Audit: 7 Stress-Tests for Your Mental Health Against Viral Medical Misinformation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-echo-chamber-anxiety-audit-7-stress.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "latest-news",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Latest News",
+      "medical misinformation",
+      "anxiety triggers",
+      "mental health"
+    ],
+    "slug": "the-echo-chamber-anxiety-audit-7-stress-tests-for-your-mental-health-against-vir",
+    "published_at": "2026-08-12T05:27:48+00:00",
+    "word_count": 710,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
