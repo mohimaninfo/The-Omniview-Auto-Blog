@@ -43584,5 +43584,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4883120529090600866",
+    "title": "The 'Cognitive-Bias' Vaccine Audit: 7 Stress-Tests for Your Mental Health Against Medical Misinformation Loops \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-bias-vaccine-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "How-To Guides",
+      "medical misinformation",
+      "vaccine anxiety",
+      "mental health resilience"
+    ],
+    "slug": "the-cognitive-bias-vaccine-audit-7-stress-tests-for-your-mental-health-against-m",
+    "published_at": "2026-08-12T10:02:29+00:00",
+    "word_count": 1092,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1561780266200433416",
+    "title": "the 'content-tether' streaming audit: 7 stress-tests for your entertainment library against platform-mandated cloud deletion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-content-tether-streaming-audit-7.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Opinion & Analysis",
+      "digital ownership",
+      "streaming services",
+      "content licensing"
+    ],
+    "slug": "the-content-tether-streaming-audit-7-stress-tests-for-your-entertainment-library",
+    "published_at": "2026-08-12T10:02:48+00:00",
+    "word_count": 901,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
