@@ -51484,5 +51484,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-12T08:58:09.661383",
+    "run_end": "2026-08-12T08:58:51.868671",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6672730115703106496",
+        "title": "The 'Maternity-Desert' Diagnostic Audit: 7 Stress-Tests for Your Pregnancy Care Plan Against Regional Access Gaps",
+        "url": "https://theomniview.blogspot.com/2026/08/the-maternity-desert-diagnostic-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "maternity care deserts",
+          "pregnancy health research",
+          "obstetric access"
+        ],
+        "slug": "the-maternity-desert-diagnostic-audit-7-stress-tests-for-your-pregnancy-care-pla",
+        "published_at": "2026-08-12T09:03:29+00:00",
+        "word_count": 1191,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1311275761033419212",
+        "title": "The 'Glycemic-Index' Resilience Audit: 7 Stress-Tests for Your Blood Sugar Stability Against Ultra-Processed Food Additives",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glycemic-index-resilience-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Research Articles",
+          "blood sugar stability",
+          "ultra-processed foods",
+          "metabolic health"
+        ],
+        "slug": "the-glycemic-index-resilience-audit-7-stress-tests-for-your-blood-sugar-stabilit",
+        "published_at": "2026-08-12T09:03:51+00:00",
+        "word_count": 1040,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
