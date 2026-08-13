@@ -52524,5 +52524,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-13T10:05:25.562275",
+    "run_end": "2026-08-13T10:06:49.345502",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "598724074964652812",
+        "title": "The 'Smart-Feeder' Offline Audit: 7 Stress-Tests for Your Pet's Nutrition Against Cloud-Dependent Failures",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-feeder-offline-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "smart pet feeder",
+          "smart home security",
+          "cloud dependency"
+        ],
+        "slug": "the-smart-feeder-offline-audit-7-stress-tests-for-your-pets-nutrition-against-cl",
+        "published_at": "2026-08-13T10:10:58+00:00",
+        "word_count": 1140,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "861998312535902381",
+        "title": "The 'neural-drift' calibration audit: 7 stress-tests for your cognitive focus against long-term generative AI dependency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-neural-drift-calibration-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "how-to-guides",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "How-To Guides",
+          "cognitive health",
+          "neuroplasticity",
+          "generative AI impact"
+        ],
+        "slug": "the-neural-drift-calibration-audit-7-stress-tests-for-your-cognitive-focus-again",
+        "published_at": "2026-08-13T10:11:48+00:00",
+        "word_count": 988,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
