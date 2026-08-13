@@ -44596,5 +44596,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5387231897071566360",
+    "title": "The 'Martian-Geology' Audit: 7 Stress-Tests for Your Understanding of Planetary Physics Against the Discovery of Gemstone-Forming Minerals",
+    "url": "https://theomniview.blogspot.com/2026/08/the-martian-geology-audit-7-stress.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "planetary physics",
+      "Mars geology",
+      "gemstone formation"
+    ],
+    "slug": "the-martian-geology-audit-7-stress-tests-for-your-understanding-of-planetary-phy",
+    "published_at": "2026-08-13T15:53:51+00:00",
+    "word_count": 1002,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3422831479372042859",
+    "title": "The 'Watermark-Proof' Productivity Audit: 7 Stress-Tests for Your Remote-Work Privacy Against Covert AI Surveillance",
+    "url": "https://theomniview.blogspot.com/2026/08/the-watermark-proof-productivity-audit.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "explainers",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Explainers",
+      "remote-work privacy",
+      "AI surveillance",
+      "workplace monitoring"
+    ],
+    "slug": "the-watermark-proof-productivity-audit-7-stress-tests-for-your-remote-work-priva",
+    "published_at": "2026-08-13T15:56:01+00:00",
+    "word_count": 960,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
