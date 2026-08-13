@@ -44200,5 +44200,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4053908646637714739",
+    "title": "The 'Cooling-Tax' Resilience Audit: 7 Stress-Tests for Your Local Water Security Against AI Data Center Expansion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cooling-tax-resilience-audit-7.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Opinion & Analysis",
+      "AI water consumption",
+      "data center water usage",
+      "sustainable infrastructure"
+    ],
+    "slug": "the-cooling-tax-resilience-audit-7-stress-tests-for-your-local-water-security-ag",
+    "published_at": "2026-08-13T01:01:15+00:00",
+    "word_count": 942,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "4573801538557465012",
+    "title": "The 'off-grid' autonomy audit: 7 stress-tests for your home solar battery against utility-enforced load shedding",
+    "url": "https://theomniview.blogspot.com/2026/08/the-off-grid-autonomy-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "How-To Guides",
+      "home solar battery",
+      "utility load shedding",
+      "energy independence"
+    ],
+    "slug": "the-off-grid-autonomy-audit-7-stress-tests-for-your-home-solar-battery-against-u",
+    "published_at": "2026-08-13T01:01:38+00:00",
+    "word_count": 1105,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
