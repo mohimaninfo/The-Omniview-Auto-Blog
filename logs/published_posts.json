@@ -44772,5 +44772,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8552797952284070289",
+    "title": "The 'Opt-Out' Mirage: 7 Stress-Tests for Your Twitch Content Against Amazon AI Training Scrapes",
+    "url": "https://theomniview.blogspot.com/2026/08/the-opt-out-mirage-7-stress-tests-for.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Latest News",
+      "Twitch AI training",
+      "Amazon AI data scraping",
+      "content creator privacy"
+    ],
+    "slug": "the-opt-out-mirage-7-stress-tests-for-your-twitch-content-against-amazon-ai-trai",
+    "published_at": "2026-08-13T19:54:57+00:00",
+    "word_count": 856,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6673828983255448351",
+    "title": "The 'Zone 2' cardiovascular audit: 7 stress-tests for your endurance base against high-intensity training burnout",
+    "url": "https://theomniview.blogspot.com/2026/08/the-zone-2-cardiovascular-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Listicles",
+      "Zone 2 training",
+      "cardiovascular endurance",
+      "fitness burnout"
+    ],
+    "slug": "the-zone-2-cardiovascular-audit-7-stress-tests-for-your-endurance-base-against-h",
+    "published_at": "2026-08-13T19:55:25+00:00",
+    "word_count": 893,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
