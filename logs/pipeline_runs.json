@@ -52888,5 +52888,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-13T18:44:48.550072",
+    "run_end": "2026-08-13T18:48:32.347467",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4567622281609331605",
+        "title": "The 'Sonic-Provenance' Audit: 7 Stress-Tests for Your Music Library Against AI-Training Scrapes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-sonic-provenance-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Listicles",
+          "music streaming privacy",
+          "AI training data",
+          "Spotify AI badge"
+        ],
+        "slug": "the-sonic-provenance-audit-7-stress-tests-for-your-music-library-against-ai-trai",
+        "published_at": "2026-08-13T18:50:31+00:00",
+        "word_count": 889,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "130732829270855635",
+        "title": "The Dendritic-Compute Audit: 7 Stress-Tests for Your Cognitive Focus Against AI-Driven Multitasking",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dendritic-compute-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "how-to-guides",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "How-To Guides",
+          "dendritic computation",
+          "cognitive focus",
+          "neuroscience of attention"
+        ],
+        "slug": "the-dendritic-compute-audit-7-stress-tests-for-your-cognitive-focus-against-ai-d",
+        "published_at": "2026-08-13T18:53:31+00:00",
+        "word_count": 991,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
