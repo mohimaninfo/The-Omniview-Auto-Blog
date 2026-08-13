@@ -44684,5 +44684,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8583648630499356076",
+    "title": "The 'algorithmic-migration' audit: 7 stress-tests for your community\u2019s social cohesion against digital platform fragmentation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-migration-audit-7.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "social media fragmentation",
+      "algorithmic bias",
+      "digital society"
+    ],
+    "slug": "the-algorithmic-migration-audit-7-stress-tests-for-your-communitys-social-cohesi",
+    "published_at": "2026-08-13T17:53:10+00:00",
+    "word_count": 871,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1557238235101668099",
+    "title": "The 'Hydrological-Footprint' Audit: 7 Stress-Tests for Your Local Water Security Against AI Data Center Expansion \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-hydrological-footprint-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Explainers",
+      "AI data center water usage",
+      "water security",
+      "environmental impact of AI"
+    ],
+    "slug": "the-hydrological-footprint-audit-7-stress-tests-for-your-local-water-security-ag",
+    "published_at": "2026-08-13T17:53:55+00:00",
+    "word_count": 934,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
