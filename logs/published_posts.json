@@ -44948,5 +44948,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1156202502988412491",
+    "title": "The 'Consent-Gap' Marketing Audit: 7 Stress-Tests for Your Brand\u2019s Data Ethics Against AI Training Scrapes \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-consent-gap-marketing-audit-7_01836130003.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "How-To Guides",
+      "AI data scraping",
+      "marketing data ethics",
+      "content protection"
+    ],
+    "slug": "the-consent-gap-marketing-audit-7-stress-tests-for-your-brands-data-ethics-again",
+    "published_at": "2026-08-13T23:38:44+00:00",
+    "word_count": 1063,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7979073005261035015",
+    "title": "The 'human-in-the-loop' career audit: 7 stress-tests for your professional portfolio against AI-driven skill atrophy",
+    "url": "https://theomniview.blogspot.com/2026/08/the-human-in-loop-career-audit-7-stress_01054790396.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "listicles",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Listicles",
+      "AI career obsolescence",
+      "future of work skills",
+      "professional development audit"
+    ],
+    "slug": "the-human-in-the-loop-career-audit-7-stress-tests-for-your-professional-portfoli",
+    "published_at": "2026-08-13T23:40:39+00:00",
+    "word_count": 771,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
