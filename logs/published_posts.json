@@ -44508,5 +44508,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4845287424059041296",
+    "title": "The 'Smart-Home' Blackout Audit: 7 Stress-Tests for Your Connected Life Against AI Data Center Energy Spikes",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-home-blackout-audit-7-stress_0477272468.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "Listicles",
+      "smart home energy management",
+      "data center power consumption",
+      "home grid resilience"
+    ],
+    "slug": "the-smart-home-blackout-audit-7-stress-tests-for-your-connected-life-against-ai-",
+    "published_at": "2026-08-13T12:45:43+00:00",
+    "word_count": 866,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2860807519720226788",
+    "title": "The 'closed-loop' textile audit: 7 stress-tests for your fashion supply chain against microplastic regulation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-closed-loop-textile-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Case Studies",
+      "circular economy",
+      "textile recycling",
+      "fashion supply chain"
+    ],
+    "slug": "the-closed-loop-textile-audit-7-stress-tests-for-your-fashion-supply-chain-again",
+    "published_at": "2026-08-13T12:46:10+00:00",
+    "word_count": 713,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
