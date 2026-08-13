@@ -44244,5 +44244,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4965443031127887502",
+    "title": "The 'Consent-Gap' Marketing Audit: 7 Stress-Tests for Your Brand\u2019s Data Ethics Against AI Training Scrapes",
+    "url": "https://theomniview.blogspot.com/2026/08/the-consent-gap-marketing-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Reviews",
+      "AI data ethics",
+      "brand trust",
+      "data privacy marketing"
+    ],
+    "slug": "the-consent-gap-marketing-audit-7-stress-tests-for-your-brands-data-ethics-again",
+    "published_at": "2026-08-13T03:26:58+00:00",
+    "word_count": 596,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "577445285339154073",
+    "title": "The 'attribution-collapse' marketing audit: 7 stress-tests for your ad spend efficiency against post-cookie tracking decay",
+    "url": "https://theomniview.blogspot.com/2026/08/the-attribution-collapse-marketing.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Listicles",
+      "marketing attribution",
+      "ad spend efficiency",
+      "post-cookie marketing"
+    ],
+    "slug": "the-attribution-collapse-marketing-audit-7-stress-tests-for-your-ad-spend-effici",
+    "published_at": "2026-08-13T03:27:28+00:00",
+    "word_count": 783,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
