@@ -52784,5 +52784,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-13T16:42:27.700664",
+    "run_end": "2026-08-13T16:43:25.502525",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8204463140253932915",
+        "title": "The 'border-crossing' privacy audit: 7 stress-tests for your travel documents against AI-driven facial recognition \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-border-crossing-privacy-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "How-To Guides",
+          "travel privacy",
+          "facial recognition at airports",
+          "digital border security"
+        ],
+        "slug": "the-border-crossing-privacy-audit-7-stress-tests-for-your-travel-documents-again",
+        "published_at": "2026-08-13T16:47:58+00:00",
+        "word_count": 1041,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5383461700734532962",
+        "title": "The 'fractional-equity' insolvency audit: 7 stress-tests for your startup investment portfolio against secondary market liquidity traps",
+        "url": "https://theomniview.blogspot.com/2026/08/the-fractional-equity-insolvency-audit.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Research Articles",
+          "fractional equity investing",
+          "startup secondary market",
+          "private equity liquidity"
+        ],
+        "slug": "the-fractional-equity-insolvency-audit-7-stress-tests-for-your-startup-investmen",
+        "published_at": "2026-08-13T16:48:25+00:00",
+        "word_count": 1078,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
