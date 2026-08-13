@@ -52992,5 +52992,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-13T20:27:46.938628",
+    "run_end": "2026-08-13T20:29:05.927752",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4107315652054169357",
+        "title": "The 'equity-vest' liquidity audit: 7 stress-tests for your startup profit sharing against secondary market volatility \u2014 a listicles perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-equity-vest-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Listicles",
+          "startup equity",
+          "profit sharing",
+          "secondary market liquidity"
+        ],
+        "slug": "the-equity-vest-liquidity-audit-7-stress-tests-for-your-startup-profit-sharing-a",
+        "published_at": "2026-08-13T20:33:30+00:00",
+        "word_count": 881,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2175022221391066686",
+        "title": "The 'Analog-Kitchen' Resilience Audit: 7 Stress-Tests for Your Cooking Routine Against Cloud-Dependent Appliances",
+        "url": "https://theomniview.blogspot.com/2026/08/the-analog-kitchen-resilience-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen security",
+          "analog cooking methods",
+          "kitchen appliance longevity"
+        ],
+        "slug": "the-analog-kitchen-resilience-audit-7-stress-tests-for-your-cooking-routine-agai",
+        "published_at": "2026-08-13T20:34:04+00:00",
+        "word_count": 1161,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
