@@ -52368,5 +52368,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-13T05:25:52.834614",
+    "run_end": "2026-08-13T05:28:09.142254",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5887580476995840287",
+        "title": "The 'Digital-Library' Reclamation Audit: 7 Stress-Tests for Your Purchased Movie Collection Against Cloud-Based Deletion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-library-reclamation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Latest News",
+          "digital movie ownership",
+          "streaming platform content removal",
+          "digital media rights"
+        ],
+        "slug": "the-digital-library-reclamation-audit-7-stress-tests-for-your-purchased-movie-co",
+        "published_at": "2026-08-13T05:32:00+00:00",
+        "word_count": 829,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2466059252312778256",
+        "title": "The 'Tiger-Return' Urbanism Audit: 7 Stress-Tests for Your City\u2019s Biodiversity Resilience Against Rapid AI-Driven Data Center Expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-tiger-return-urbanism-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Opinion & Analysis",
+          "biodiversity resilience",
+          "data center expansion",
+          "urban planning"
+        ],
+        "slug": "the-tiger-return-urbanism-audit-7-stress-tests-for-your-citys-biodiversity-resil",
+        "published_at": "2026-08-13T05:33:08+00:00",
+        "word_count": 821,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
