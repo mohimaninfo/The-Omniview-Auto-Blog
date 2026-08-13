@@ -44904,5 +44904,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7297397779178876934",
+    "title": "The 'Grid-Drain' Protocol: 7 Stress-Tests for Your Residential Solar Setup Against AI Data Center Energy Spikes \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-drain-protocol-7-stress-tests.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "renewable energy",
+      "solar grid resilience",
+      "AI data center energy consumption"
+    ],
+    "slug": "the-grid-drain-protocol-7-stress-tests-for-your-residential-solar-setup-against-",
+    "published_at": "2026-08-13T22:34:45+00:00",
+    "word_count": 999,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2200811941573123010",
+    "title": "The 'master-tape' sovereignty audit: 7 stress-tests for your independent music catalog against AI-training scrapes",
+    "url": "https://theomniview.blogspot.com/2026/08/the-master-tape-sovereignty-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Latest News",
+      "music copyright",
+      "AI training data",
+      "independent musicians"
+    ],
+    "slug": "the-master-tape-sovereignty-audit-7-stress-tests-for-your-independent-music-cata",
+    "published_at": "2026-08-13T22:35:23+00:00",
+    "word_count": 793,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
