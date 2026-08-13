@@ -52420,5 +52420,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-13T07:07:42.844445",
+    "run_end": "2026-08-13T07:08:27.514442",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7788039597883356309",
+        "title": "The 'Opt-Out' Paradox: 7 Stress-Tests for Your Streaming Privacy Against AI Training Scrapes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-opt-out-paradox-7-stress-tests-for.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "streaming privacy",
+          "AI training data",
+          "Twitch opt-out"
+        ],
+        "slug": "the-opt-out-paradox-7-stress-tests-for-your-streaming-privacy-against-ai-trainin",
+        "published_at": "2026-08-13T07:13:05+00:00",
+        "word_count": 836,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1791911858490838350",
+        "title": "The 'thermal-debt' circular audit: 7 stress-tests for your local water security against AI data center cooling requirements",
+        "url": "https://theomniview.blogspot.com/2026/08/the-thermal-debt-circular-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Research Articles",
+          "circular economy",
+          "data center water usage",
+          "AI environmental impact"
+        ],
+        "slug": "the-thermal-debt-circular-audit-7-stress-tests-for-your-local-water-security-aga",
+        "published_at": "2026-08-13T07:13:27+00:00",
+        "word_count": 937,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
