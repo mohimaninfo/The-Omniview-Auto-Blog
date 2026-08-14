@@ -45718,5 +45718,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "428537491620432309",
+    "title": "The 'silicon-guerilla' robotics audit: 7 stress-tests for your autonomous fleet against battlefield chip-salvaging",
+    "url": "https://theomniview.blogspot.com/2026/08/the-silicon-guerilla-robotics-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "autonomous robotics",
+      "military robotics",
+      "AI hardware security"
+    ],
+    "slug": "the-silicon-guerilla-robotics-audit-7-stress-tests-for-your-autonomous-fleet-aga",
+    "published_at": "2026-08-14T22:16:22+00:00",
+    "word_count": 847,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8743775142665761465",
+    "title": "the 'remote-surveillance' privacy audit: 7 stress-tests for your home-office data against ai-enhanced employer monitoring \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-remote-surveillance-privacy-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Research Articles",
+      "remote-work privacy",
+      "employee surveillance",
+      "work from home security"
+    ],
+    "slug": "the-remote-surveillance-privacy-audit-7-stress-tests-for-your-home-office-data-a",
+    "published_at": "2026-08-14T22:17:02+00:00",
+    "word_count": 965,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
