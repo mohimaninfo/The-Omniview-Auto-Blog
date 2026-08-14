@@ -53668,5 +53668,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-14T14:06:14.270984",
+    "run_end": "2026-08-14T14:07:40.313663",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1083319975663825405",
+        "title": "The 'In-Flight' Hijack Audit: 7 Stress-Tests for Your Cybersecurity Resilience Against Wireless Aircraft Vulnerabilities",
+        "url": "https://theomniview.blogspot.com/2026/08/the-in-flight-hijack-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Opinion & Analysis",
+          "aircraft cybersecurity",
+          "flight management system security",
+          "hardware vulnerability"
+        ],
+        "slug": "the-in-flight-hijack-audit-7-stress-tests-for-your-cybersecurity-resilience-agai",
+        "published_at": "2026-08-14T14:12:11+00:00",
+        "word_count": 797,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8496069905029504015",
+        "title": "The 'founder-debt' solvency audit: 7 stress-tests for your startup\u2019s equity against predatory clawback clauses \u2014 a latest news perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-founder-debt-solvency-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Latest News",
+          "startup equity",
+          "employment clawback",
+          "founder equity"
+        ],
+        "slug": "the-founder-debt-solvency-audit-7-stress-tests-for-your-startups-equity-against-",
+        "published_at": "2026-08-14T14:12:39+00:00",
+        "word_count": 852,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
