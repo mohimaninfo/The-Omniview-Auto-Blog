@@ -45520,5 +45520,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2326289199314638756",
+    "title": "The 'symptom-gaslight' diagnostic audit: 7 stress-tests for your medical care plan against dismissal bias",
+    "url": "https://theomniview.blogspot.com/2026/08/the-symptom-gaslight-diagnostic-audit-7.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Explainers",
+      "medical gaslighting",
+      "patient advocacy",
+      "diagnostic accuracy"
+    ],
+    "slug": "the-symptom-gaslight-diagnostic-audit-7-stress-tests-for-your-medical-care-plan-",
+    "published_at": "2026-08-14T17:48:43+00:00",
+    "word_count": 1084,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3731345641649051790",
+    "title": "The 'ad-supported' pivot audit: 7 stress-tests for your streaming habits against the rise of free, hybrid models",
+    "url": "https://theomniview.blogspot.com/2026/08/the-ad-supported-pivot-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Opinion & Analysis",
+      "ad-supported streaming",
+      "Netflix ad tier",
+      "Disney Plus ads"
+    ],
+    "slug": "the-ad-supported-pivot-audit-7-stress-tests-for-your-streaming-habits-against-th",
+    "published_at": "2026-08-14T17:49:19+00:00",
+    "word_count": 867,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
