@@ -53460,5 +53460,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-14T09:49:43.319255",
+    "run_end": "2026-08-14T09:51:07.866244",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4515801424215096010",
+        "title": "The 'Grid-Lock' Resilience Audit: 7 Stress-Tests for Your Community Solar Project Against AI Data Center Energy Spikes \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-grid-lock-resilience-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Case Studies",
+          "community solar",
+          "data center energy consumption",
+          "grid resilience"
+        ],
+        "slug": "the-grid-lock-resilience-audit-7-stress-tests-for-your-community-solar-project-a",
+        "published_at": "2026-08-14T09:55:16+00:00",
+        "word_count": 708,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3429037022601427715",
+        "title": "The 'Oligarch-Proof' Leadership Audit: 7 Stress-Tests for Your Corporate AI Strategy Against Centralized Vendor Dependency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-oligarch-proof-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Case Studies",
+          "corporate AI strategy",
+          "vendor lock-in",
+          "leadership resilience"
+        ],
+        "slug": "the-oligarch-proof-leadership-audit-7-stress-tests-for-your-corporate-ai-strateg",
+        "published_at": "2026-08-14T09:56:07+00:00",
+        "word_count": 748,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
