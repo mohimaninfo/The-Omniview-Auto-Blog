@@ -53876,5 +53876,39 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-14T18:37:49.101786",
+    "run_end": "2026-08-14T18:40:30.099707",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 1
+      },
+      {
+        "post_id": "3495318073944462132",
+        "title": "The 'Metabolic-Flexibility' Sprint Audit: 7 Stress-Tests for Your Fitness Routine Against Modern Sedentary Biology",
+        "url": "https://theomniview.blogspot.com/2026/08/the-metabolic-flexibility-sprint-audit.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "metabolic flexibility",
+          "sprint interval training",
+          "sedentary lifestyle"
+        ],
+        "slug": "the-metabolic-flexibility-sprint-audit-7-stress-tests-for-your-fitness-routine-a",
+        "published_at": "2026-08-14T18:45:28+00:00",
+        "word_count": 808,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
