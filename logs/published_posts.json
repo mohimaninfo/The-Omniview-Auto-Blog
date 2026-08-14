@@ -45300,5 +45300,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6338546951192853762",
+    "title": "The 'Bit-Rot' Streaming Audit: 7 Stress-Tests for Your Digital Movie Collection Against Platform-Mandated Cloud Deletion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-bit-rot-streaming-audit-7-stress_01026245050.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Listicles",
+      "digital movie collection",
+      "streaming ownership",
+      "cloud storage failure"
+    ],
+    "slug": "the-bit-rot-streaming-audit-7-stress-tests-for-your-digital-movie-collection-aga",
+    "published_at": "2026-08-14T11:40:40+00:00",
+    "word_count": 864,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7280440712909904633",
+    "title": "The 'Inheritance-Inflation' Audit: 7 Stress-Tests for Your Financial Independence Against Intergenerational Wealth Volatility",
+    "url": "https://theomniview.blogspot.com/2026/08/the-inheritance-inflation-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Explainers",
+      "inheritance financial planning",
+      "windfall management",
+      "inflation impact on savings"
+    ],
+    "slug": "the-inheritance-inflation-audit-7-stress-tests-for-your-financial-independence-a",
+    "published_at": "2026-08-14T11:41:07+00:00",
+    "word_count": 928,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
