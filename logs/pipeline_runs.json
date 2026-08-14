@@ -53720,5 +53720,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-14T15:39:37.933583",
+    "run_end": "2026-08-14T15:40:37.538006",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1863798213398356173",
+        "title": "The 'dendritic-computing' biological audit: 7 stress-tests for your mental focus against AI-driven multitasking \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dendritic-computing-biological.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Latest News",
+          "dendritic computing",
+          "neuroscience research",
+          "cognitive focus"
+        ],
+        "slug": "the-dendritic-computing-biological-audit-7-stress-tests-for-your-mental-focus-ag",
+        "published_at": "2026-08-14T15:45:07+00:00",
+        "word_count": 818,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "9129052584591767025",
+        "title": "The 'aquifer-drain' conservation audit: 7 stress-tests for your local water security against AI data center cooling requirements \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-aquifer-drain-conservation-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Case Studies",
+          "AI data center water consumption",
+          "water security conservation",
+          "sustainable data center cooling"
+        ],
+        "slug": "the-aquifer-drain-conservation-audit-7-stress-tests-for-your-local-water-securit",
+        "published_at": "2026-08-14T15:45:36+00:00",
+        "word_count": 750,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
