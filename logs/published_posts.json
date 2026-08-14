@@ -45476,5 +45476,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "309417262659883645",
+    "title": "The 'care-gap' insolvency audit: 7 stress-tests for your mental health strategy against rising medical costs",
+    "url": "https://theomniview.blogspot.com/2026/08/the-care-gap-insolvency-audit-7-stress.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "case-studies",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Case Studies",
+      "mental health costs",
+      "affordable therapy options",
+      "healthcare financial barriers"
+    ],
+    "slug": "the-care-gap-insolvency-audit-7-stress-tests-for-your-mental-health-strategy-aga",
+    "published_at": "2026-08-14T16:44:10+00:00",
+    "word_count": 819,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3523829503546983292",
+    "title": "The 'Right-to-Repair' Hardware Audit: 7 Stress-Tests for Your Enterprise AI Infrastructure Against Proprietary Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/08/the-right-to-repair-hardware-audit-7_0694380315.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Explainers",
+      "circular economy",
+      "enterprise AI hardware",
+      "right to repair"
+    ],
+    "slug": "the-right-to-repair-hardware-audit-7-stress-tests-for-your-enterprise-ai-infrast",
+    "published_at": "2026-08-14T16:44:48+00:00",
+    "word_count": 1000,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
