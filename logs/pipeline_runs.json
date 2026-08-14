@@ -53304,5 +53304,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-14T05:22:49.923024",
+    "run_end": "2026-08-14T05:23:39.589874",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4283754466586779431",
+        "title": "The 'Data-Exodus' Succession Audit: 7 Stress-Tests for Your Startup\u2019s IP Against Cloud-Vendor Insolvency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-exodus-succession-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Interviews",
+          "cloud vendor insolvency",
+          "startup intellectual property protection",
+          "SaaS continuity planning"
+        ],
+        "slug": "the-data-exodus-succession-audit-7-stress-tests-for-your-startups-ip-against-clo",
+        "published_at": "2026-08-14T05:28:16+00:00",
+        "word_count": 855,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5288154584742572733",
+        "title": "The 'Cloud-Collapse' Gaming Audit: 7 Stress-Tests for Your Digital Library Against Service Insolvency \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cloud-collapse-gaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "digital game ownership",
+          "gaming preservation",
+          "cloud gaming risks"
+        ],
+        "slug": "the-cloud-collapse-gaming-audit-7-stress-tests-for-your-digital-library-against-",
+        "published_at": "2026-08-14T05:28:38+00:00",
+        "word_count": 822,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
