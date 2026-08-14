@@ -45630,5 +45630,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1458032651659416266",
+    "title": "The 'browser-lock' remote-work audit: 7 stress-tests for your career privacy against forced browser tracking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-browser-lock-remote-work-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Listicles",
+      "remote-work privacy",
+      "browser tracking",
+      "corporate surveillance"
+    ],
+    "slug": "the-browser-lock-remote-work-audit-7-stress-tests-for-your-career-privacy-agains",
+    "published_at": "2026-08-14T20:25:22+00:00",
+    "word_count": 922,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1770670822403918944",
+    "title": "the 'founder-clawback' defense audit: 7 stress-tests for your startup equity against predatory employment contract clauses",
+    "url": "https://theomniview.blogspot.com/2026/08/the-founder-clawback-defense-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "interviews",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Interviews",
+      "startup equity protection",
+      "employment contract clawbacks",
+      "founder equity disputes"
+    ],
+    "slug": "the-founder-clawback-defense-audit-7-stress-tests-for-your-startup-equity-agains",
+    "published_at": "2026-08-14T20:25:54+00:00",
+    "word_count": 975,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
