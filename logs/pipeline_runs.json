@@ -53616,5 +53616,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-14T12:36:08.504171",
+    "run_end": "2026-08-14T12:37:57.542239",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1840888925123138862",
+        "title": "the 'out-of-pocket' wellness audit: 7 stress-tests for your preventive health plan against soaring medical costs",
+        "url": "https://theomniview.blogspot.com/2026/08/the-out-of-pocket-wellness-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "preventive health",
+          "medical costs",
+          "wellness strategy"
+        ],
+        "slug": "the-out-of-pocket-wellness-audit-7-stress-tests-for-your-preventive-health-plan-",
+        "published_at": "2026-08-14T12:42:23+00:00",
+        "word_count": 874,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3769983760948116910",
+        "title": "The 'obsolescence-proof' classroom audit: 7 stress-tests for your school\u2019s edtech stack against cloud-vendor insolvency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-obsolescence-proof-classroom-audit.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "reviews",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Reviews",
+          "edtech stack",
+          "cloud-vendor insolvency",
+          "school data security"
+        ],
+        "slug": "the-obsolescence-proof-classroom-audit-7-stress-tests-for-your-schools-edtech-st",
+        "published_at": "2026-08-14T12:42:56+00:00",
+        "word_count": 521,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
