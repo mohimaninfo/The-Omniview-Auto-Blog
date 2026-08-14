@@ -45762,5 +45762,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4704997080740460217",
+    "title": "The 'Black Hole Star' diagnostic audit: 7 stress-tests for your understanding of stellar evolution against the discovery of hybrid astrophysical objects",
+    "url": "https://theomniview.blogspot.com/2026/08/the-black-hole-star-diagnostic-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Research Articles",
+      "black hole star",
+      "astrophysical objects",
+      "stellar evolution"
+    ],
+    "slug": "the-black-hole-star-diagnostic-audit-7-stress-tests-for-your-understanding-of-st",
+    "published_at": "2026-08-14T23:16:10+00:00",
+    "word_count": 1238,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7395382805305155417",
+    "title": "The 'uBlock-Resilience' Browser Audit: 7 Stress-Tests for Your Digital Privacy Against Ad-Supported Streaming and Forced Tracking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-ublock-resilience-browser-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Reviews",
+      "uBlock Origin",
+      "browser privacy",
+      "digital sovereignty"
+    ],
+    "slug": "the-ublock-resilience-browser-audit-7-stress-tests-for-your-digital-privacy-agai",
+    "published_at": "2026-08-14T23:17:20+00:00",
+    "word_count": 584,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
