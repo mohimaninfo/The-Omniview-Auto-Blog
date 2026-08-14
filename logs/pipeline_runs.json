@@ -53356,5 +53356,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-14T07:04:05.125470",
+    "run_end": "2026-08-14T07:05:22.322335",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "481945593440857769",
+        "title": "The 'Cognitive-Friction' Syllabus Audit: 7 Stress-Tests for Your Classroom Resilience Against AI-Generated Content Loops",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-friction-syllabus-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "learning science",
+          "cognitive friction",
+          "AI in education"
+        ],
+        "slug": "the-cognitive-friction-syllabus-audit-7-stress-tests-for-your-classroom-resilien",
+        "published_at": "2026-08-14T07:09:41+00:00",
+        "word_count": 1034,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2761010431876542506",
+        "title": "The 'zero-click' conversion audit: 7 stress-tests for your SEO strategy against AI-generated search summaries",
+        "url": "https://theomniview.blogspot.com/2026/08/the-zero-click-conversion-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Opinion & Analysis",
+          "zero-click search",
+          "AI search optimization",
+          "search engine marketing strategy"
+        ],
+        "slug": "the-zero-click-conversion-audit-7-stress-tests-for-your-seo-strategy-against-ai-",
+        "published_at": "2026-08-14T07:10:21+00:00",
+        "word_count": 826,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
