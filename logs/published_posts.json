@@ -45850,5 +45850,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6262952425867226980",
+    "title": "the 'silicon-scavenger' conservation audit: 7 stress-tests for your local e-waste policy against military-grade chip repurposing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-silicon-scavenger-conservation.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Case Studies",
+      "e-waste management",
+      "conservation policy",
+      "military hardware recycling"
+    ],
+    "slug": "the-silicon-scavenger-conservation-audit-7-stress-tests-for-your-local-e-waste-p",
+    "published_at": "2026-08-15T02:11:58+00:00",
+    "word_count": 641,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "46092910278434776",
+    "title": "the 'stem-split' remix audit: 7 stress-tests for your producer workflow against ai-driven audio isolation tools",
+    "url": "https://theomniview.blogspot.com/2026/08/the-stem-split-remix-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Latest News",
+      "ai music production",
+      "audio stem separation",
+      "music copyright law"
+    ],
+    "slug": "the-stem-split-remix-audit-7-stress-tests-for-your-producer-workflow-against-ai-",
+    "published_at": "2026-08-15T02:12:41+00:00",
+    "word_count": 873,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
