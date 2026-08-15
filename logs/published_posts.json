@@ -46554,5 +46554,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1373615064764091695",
+    "title": "the 'drone-proxy' cultural audit: 7 stress-tests for your community\u2019s social fabric against localized aerial surveillance",
+    "url": "https://theomniview.blogspot.com/2026/08/the-drone-proxy-cultural-audit-7-stress.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "interviews",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Interviews",
+      "drone surveillance",
+      "social privacy",
+      "community safety"
+    ],
+    "slug": "the-drone-proxy-cultural-audit-7-stress-tests-for-your-communitys-social-fabric-",
+    "published_at": "2026-08-15T19:17:54+00:00",
+    "word_count": 971,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3171033994201486523",
+    "title": "the 'algorithmic-compatibility' audit: 7 stress-tests for your romantic partnership against data-driven matchmaking bias \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-compatibility-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Explainers",
+      "dating app algorithms",
+      "relationship compatibility",
+      "digital dating fatigue"
+    ],
+    "slug": "the-algorithmic-compatibility-audit-7-stress-tests-for-your-romantic-partnership",
+    "published_at": "2026-08-15T19:19:58+00:00",
+    "word_count": 1009,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
