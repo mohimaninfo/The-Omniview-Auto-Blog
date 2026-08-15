@@ -54482,5 +54482,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T07:20:14.793653",
+    "run_end": "2026-08-15T07:20:54.185645",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7315069315558217872",
+        "title": "the 'symptom-dismissal' advocacy audit: 7 stress-tests for your doctor-patient relationship against diagnostic gaslighting",
+        "url": "https://theomniview.blogspot.com/2026/08/the-symptom-dismissal-advocacy-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "diagnostic gaslighting",
+          "patient advocacy",
+          "medical dismissal"
+        ],
+        "slug": "the-symptom-dismissal-advocacy-audit-7-stress-tests-for-your-doctor-patient-rela",
+        "published_at": "2026-08-15T07:25:33+00:00",
+        "word_count": 616,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8785113841484483385",
+        "title": "The 'equity-vest' cliff audit: 7 stress-tests for your startup founder agreement against predatory acceleration clauses",
+        "url": "https://theomniview.blogspot.com/2026/08/the-equity-vest-cliff-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Opinion & Analysis",
+          "founder agreement",
+          "startup equity",
+          "vesting schedule"
+        ],
+        "slug": "the-equity-vest-cliff-audit-7-stress-tests-for-your-startup-founder-agreement-ag",
+        "published_at": "2026-08-15T07:25:53+00:00",
+        "word_count": 1006,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
