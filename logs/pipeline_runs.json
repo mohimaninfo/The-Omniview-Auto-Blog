@@ -54950,5 +54950,21 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T16:09:34.131998",
+    "run_end": "2026-08-15T16:12:26.241959",
+    "posts_attempted": 2,
+    "posts_succeeded": 0,
+    "results": [
+      {
+        "error": "<HttpError 503 when requesting https://blogger.googleapis.com/v3/blogs/1475086792050038552/posts?isDraft=false&fetchImages=false&alt=json returned \"The service is currently unavailable.\". Details: \"[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]\">",
+        "post_index": 1
+      },
+      {
+        "error": "<HttpError 503 when requesting https://blogger.googleapis.com/v3/blogs/1475086792050038552/posts?isDraft=false&fetchImages=false&alt=json returned \"The service is currently unavailable.\". Details: \"[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]\">",
+        "post_index": 2
+      }
+    ]
   }
 ]
