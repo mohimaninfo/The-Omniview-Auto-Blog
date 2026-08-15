@@ -46422,5 +46422,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7229695028360680985",
+    "title": "The 'Hack-Back' Sovereignty Audit: 7 Stress-Tests for Your Enterprise Security Perimeter Against Authorized Offensive Cyber Operations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-hack-back-sovereignty-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Reviews",
+      "hack-back operations",
+      "cybersecurity resilience",
+      "offensive cyber operations"
+    ],
+    "slug": "the-hack-back-sovereignty-audit-7-stress-tests-for-your-enterprise-security-peri",
+    "published_at": "2026-08-15T15:13:59+00:00",
+    "word_count": 551,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3627240428817157836",
+    "title": "The 'AI-Slop' Correction Audit: 7 Stress-Tests for Your Film-TV Watchlist Against Algorithmic False Positives",
+    "url": "https://theomniview.blogspot.com/2026/08/the-ai-slop-correction-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Latest News",
+      "AI-slop detector",
+      "film content moderation",
+      "algorithmic censorship"
+    ],
+    "slug": "the-ai-slop-correction-audit-7-stress-tests-for-your-film-tv-watchlist-against-a",
+    "published_at": "2026-08-15T15:14:19+00:00",
+    "word_count": 834,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
