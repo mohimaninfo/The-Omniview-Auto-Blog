@@ -46730,5 +46730,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5969842506782964213",
+    "title": "the 'offline-campus' resilience audit: 7 stress-tests for your k12 edtech stack against cloud-service outages",
+    "url": "https://theomniview.blogspot.com/2026/08/the-offline-campus-resilience-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "case-studies",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Case Studies",
+      "k12 edtech resilience",
+      "cloud service outage",
+      "instructional continuity"
+    ],
+    "slug": "the-offline-campus-resilience-audit-7-stress-tests-for-your-k12-edtech-stack-aga",
+    "published_at": "2026-08-15T23:15:03+00:00",
+    "word_count": 701,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "5141034022288992945",
+    "title": "The 'cosmic-consensus' audit: 7 stress-tests for your understanding of stellar physics against AI-driven particle discovery",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cosmic-consensus-audit-7-stress.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Research Articles",
+      "baryon asymmetry",
+      "AI consensus models",
+      "stellar physics"
+    ],
+    "slug": "the-cosmic-consensus-audit-7-stress-tests-for-your-understanding-of-stellar-phys",
+    "published_at": "2026-08-15T23:15:29+00:00",
+    "word_count": 1104,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
