@@ -54534,5 +54534,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T08:13:06.737285",
+    "run_end": "2026-08-15T08:13:49.507833",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1608769500779063966",
+        "title": "The 'Hard-Wired' Home Audit: 7 Stress-Tests for Your Privacy Against Ad-Supported Smart TVs",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hard-wired-home-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Explainers",
+          "smart tv privacy",
+          "ad-supported streaming",
+          "home network security"
+        ],
+        "slug": "the-hard-wired-home-audit-7-stress-tests-for-your-privacy-against-ad-supported-s",
+        "published_at": "2026-08-15T08:18:26+00:00",
+        "word_count": 889,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "303108507072547539",
+        "title": "the 'carbon-offset' integrity audit: 7 stress-tests for your corporate climate-policy against the emergence of high-frequency verification standards",
+        "url": "https://theomniview.blogspot.com/2026/08/the-carbon-offset-integrity-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Explainers",
+          "climate-policy",
+          "carbon-offset integrity",
+          "corporate sustainability"
+        ],
+        "slug": "the-carbon-offset-integrity-audit-7-stress-tests-for-your-corporate-climate-poli",
+        "published_at": "2026-08-15T08:18:49+00:00",
+        "word_count": 917,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
