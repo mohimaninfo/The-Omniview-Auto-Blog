@@ -54966,5 +54966,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T17:10:20.515813",
+    "run_end": "2026-08-15T17:11:42.057319",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3165226813552002784",
+        "title": "The 'Hack-Back' Enterprise Audit: 7 Stress-Tests for Your Startup\u2019s Cybersecurity Perimeter Against Government-Authorized Offensive Operations \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hack-back-enterprise-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Opinion & Analysis",
+          "hack-back cyberattacks",
+          "enterprise cybersecurity",
+          "startup risk management"
+        ],
+        "slug": "the-hack-back-enterprise-audit-7-stress-tests-for-your-startups-cybersecurity-pe",
+        "published_at": "2026-08-15T17:16:19+00:00",
+        "word_count": 976,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6960254916925059662",
+        "title": "The 'Hack-Back' Sovereignty Audit: 7 Stress-Tests for Your Enterprise Security Perimeter Against Government-Authorized Offensive Operations \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hack-back-sovereignty-audit-7_0417662268.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Opinion & Analysis",
+          "hack-back",
+          "offensive cyber operations",
+          "enterprise cybersecurity"
+        ],
+        "slug": "the-hack-back-sovereignty-audit-7-stress-tests-for-your-enterprise-security-peri",
+        "published_at": "2026-08-15T17:16:40+00:00",
+        "word_count": 965,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
