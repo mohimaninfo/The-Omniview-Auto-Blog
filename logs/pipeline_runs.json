@@ -54378,5 +54378,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T05:14:25.563689",
+    "run_end": "2026-08-15T05:15:07.912710",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5424727955758913933",
+        "title": "The 'Shadow-Skill' Proficiency Audit: 7 Stress-Tests for Your Career Against Corporate AI-Dependency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-skill-proficiency-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "How-To Guides",
+          "career resilience",
+          "AI dependency",
+          "skill atrophy"
+        ],
+        "slug": "the-shadow-skill-proficiency-audit-7-stress-tests-for-your-career-against-corpor",
+        "published_at": "2026-08-15T05:19:47+00:00",
+        "word_count": 1061,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3782144797110220989",
+        "title": "the 'neuro-divergent' assessment audit: 7 stress-tests for your k12 screening process against algorithmic bias",
+        "url": "https://theomniview.blogspot.com/2026/08/the-neuro-divergent-assessment-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "k12 neurodiversity",
+          "ai classroom bias",
+          "student assessment tools"
+        ],
+        "slug": "the-neuro-divergent-assessment-audit-7-stress-tests-for-your-k12-screening-proce",
+        "published_at": "2026-08-15T05:20:07+00:00",
+        "word_count": 1050,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
