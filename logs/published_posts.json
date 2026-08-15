@@ -46686,5 +46686,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "2483582271772070518",
+    "title": "The 'hack-back' collateral audit: 7 stress-tests for your network resilience against government-authorized offensive cyber operations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-hack-back-collateral-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Case Studies",
+      "hack-back",
+      "cybersecurity resilience",
+      "offensive cyber operations"
+    ],
+    "slug": "the-hack-back-collateral-audit-7-stress-tests-for-your-network-resilience-agains",
+    "published_at": "2026-08-15T22:13:38+00:00",
+    "word_count": 736,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6113376954312812",
+    "title": "the 'firmware-tether' audit: 7 stress-tests for your wearable health data against proprietary cloud-lockin",
+    "url": "https://theomniview.blogspot.com/2026/08/the-firmware-tether-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Latest News",
+      "wearable health data",
+      "data sovereignty",
+      "gadget privacy"
+    ],
+    "slug": "the-firmware-tether-audit-7-stress-tests-for-your-wearable-health-data-against-p",
+    "published_at": "2026-08-15T22:13:56+00:00",
+    "word_count": 720,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
