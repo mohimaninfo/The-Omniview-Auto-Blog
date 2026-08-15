@@ -55122,5 +55122,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T20:08:50.528948",
+    "run_end": "2026-08-15T20:10:44.666892",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4916820025062677787",
+        "title": "The 'smart-feeder' fail-safe audit: 7 stress-tests for your home\u2019s pet nutrition against cloud-service outages",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-feeder-fail-safe-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "smart pet feeder",
+          "home automation security",
+          "pet care technology"
+        ],
+        "slug": "the-smart-feeder-fail-safe-audit-7-stress-tests-for-your-homes-pet-nutrition-aga",
+        "published_at": "2026-08-15T20:14:27+00:00",
+        "word_count": 632,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7854249107278075110",
+        "title": "The 'career-gap' liquidity audit: 7 stress-tests for your investment portfolio against a 6-12 month employment break",
+        "url": "https://theomniview.blogspot.com/2026/08/the-career-gap-liquidity-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "investment portfolio",
+          "career break",
+          "financial planning"
+        ],
+        "slug": "the-career-gap-liquidity-audit-7-stress-tests-for-your-investment-portfolio-agai",
+        "published_at": "2026-08-15T20:15:43+00:00",
+        "word_count": 794,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
