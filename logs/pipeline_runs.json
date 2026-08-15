@@ -54690,5 +54690,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T11:08:39.382350",
+    "run_end": "2026-08-15T11:09:22.439639",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3547770950809636648",
+        "title": "the 'sovereign-cooling' policy audit: 7 stress-tests for your municipal climate-policy against ai data center water-usage mandates",
+        "url": "https://theomniview.blogspot.com/2026/08/the-sovereign-cooling-policy-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "climate-policy",
+          "ai data center water usage",
+          "municipal water security"
+        ],
+        "slug": "the-sovereign-cooling-policy-audit-7-stress-tests-for-your-municipal-climate-pol",
+        "published_at": "2026-08-15T11:14:00+00:00",
+        "word_count": 974,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3336770371822566207",
+        "title": "The 'Ad-Block' Fortress Audit: 7 Stress-Tests for Your Marketing Attribution Against the Last-Standing Browser Privacy Standards",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ad-block-fortress-audit-7-stress.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Listicles",
+          "marketing attribution",
+          "browser privacy",
+          "uBlock Origin"
+        ],
+        "slug": "the-ad-block-fortress-audit-7-stress-tests-for-your-marketing-attribution-agains",
+        "published_at": "2026-08-15T11:14:21+00:00",
+        "word_count": 846,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
