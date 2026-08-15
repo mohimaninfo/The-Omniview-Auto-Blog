@@ -46378,5 +46378,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6709977834045795217",
+    "title": "The 'analog-itinerary' sovereignty audit: 7 stress-tests for your travel planning against AI-driven predictive surveillance",
+    "url": "https://theomniview.blogspot.com/2026/08/the-analog-itinerary-sovereignty-audit.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Opinion & Analysis",
+      "travel privacy",
+      "AI travel planning",
+      "digital sovereignty"
+    ],
+    "slug": "the-analog-itinerary-sovereignty-audit-7-stress-tests-for-your-travel-planning-a",
+    "published_at": "2026-08-15T14:16:07+00:00",
+    "word_count": 920,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4503986504950942060",
+    "title": "The 'uBlock-Refugee' Browser Audit: 7 Stress-Tests for Your Digital Privacy Against Forced Ad-Injection",
+    "url": "https://theomniview.blogspot.com/2026/08/the-ublock-refugee-browser-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Listicles",
+      "uBlock Origin",
+      "browser privacy",
+      "ad-blocking"
+    ],
+    "slug": "the-ublock-refugee-browser-audit-7-stress-tests-for-your-digital-privacy-against",
+    "published_at": "2026-08-15T14:16:29+00:00",
+    "word_count": 843,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
