@@ -46290,5 +46290,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5685278765067436147",
+    "title": "The 'medical-gaslight' diagnostic audit: 7 stress-tests for your chronic symptom management against systemic medical dismissal",
+    "url": "https://theomniview.blogspot.com/2026/08/the-medical-gaslight-diagnostic-audit-7.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Research Articles",
+      "medical gaslighting",
+      "diagnostic error",
+      "chronic symptom management"
+    ],
+    "slug": "the-medical-gaslight-diagnostic-audit-7-stress-tests-for-your-chronic-symptom-ma",
+    "published_at": "2026-08-15T12:18:57+00:00",
+    "word_count": 1141,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4484521081117517791",
+    "title": "The 'peripheral-vision' wearable audit: 7 stress-tests for your augmented reality glasses against ambient data-harvesting",
+    "url": "https://theomniview.blogspot.com/2026/08/the-peripheral-vision-wearable-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "augmented reality glasses",
+      "wearable privacy",
+      "smart eyewear"
+    ],
+    "slug": "the-peripheral-vision-wearable-audit-7-stress-tests-for-your-augmented-reality-g",
+    "published_at": "2026-08-15T12:19:17+00:00",
+    "word_count": 807,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
