@@ -46334,5 +46334,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9052478425801617745",
+    "title": "The 'Baryon-Asymmetry' Audit: 7 Stress-Tests for Your Understanding of Matter-Antimatter Physics Against Recent Cosmic Mismatch Discoveries",
+    "url": "https://theomniview.blogspot.com/2026/08/the-baryon-asymmetry-audit-7-stress.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "baryon asymmetry",
+      "matter vs antimatter",
+      "particle physics"
+    ],
+    "slug": "the-baryon-asymmetry-audit-7-stress-tests-for-your-understanding-of-matter-antim",
+    "published_at": "2026-08-15T13:26:56+00:00",
+    "word_count": 1004,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4986959320583485993",
+    "title": "The 'Passive-Cooling' Architecture Audit: 7 Stress-Tests for Your Home\u2019s Climate Resilience Against Extreme Heatwaves",
+    "url": "https://theomniview.blogspot.com/2026/08/the-passive-cooling-architecture-audit.html",
+    "genre": "lifestyle",
+    "topic": "home-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Home & Living",
+      "How-To Guides",
+      "passive cooling architecture",
+      "home climate resilience",
+      "heatwave preparedness"
+    ],
+    "slug": "the-passive-cooling-architecture-audit-7-stress-tests-for-your-homes-climate-res",
+    "published_at": "2026-08-15T13:27:27+00:00",
+    "word_count": 1069,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
