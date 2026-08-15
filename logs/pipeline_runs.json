@@ -54326,5 +54326,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T04:17:46.635494",
+    "run_end": "2026-08-15T04:18:22.200793",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3108332144020181722",
+        "title": "The 'Platform-Risk' Gaming Audit: 7 Stress-Tests for Your Steam Library Against Emerging Ad-Injection Policies",
+        "url": "https://theomniview.blogspot.com/2026/08/the-platform-risk-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "gaming platform risk",
+          "Steam ad-injection",
+          "digital game ownership"
+        ],
+        "slug": "the-platform-risk-gaming-audit-7-stress-tests-for-your-steam-library-against-eme",
+        "published_at": "2026-08-15T04:23:03+00:00",
+        "word_count": 759,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7987400482733620096",
+        "title": "The 'Browser-Lock' Classroom Audit: 7 Stress-Tests for Your EdTech Stack Against Forced Tracking",
+        "url": "https://theomniview.blogspot.com/2026/08/the-browser-lock-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Latest News",
+          "edtech privacy",
+          "student data protection",
+          "browser tracking"
+        ],
+        "slug": "the-browser-lock-classroom-audit-7-stress-tests-for-your-edtech-stack-against-fo",
+        "published_at": "2026-08-15T04:23:21+00:00",
+        "word_count": 893,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
