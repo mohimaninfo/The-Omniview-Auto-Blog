@@ -54586,5 +54586,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-15T09:14:39.559013",
+    "run_end": "2026-08-15T09:15:19.854451",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4029582054483960648",
+        "title": "The 'Smart-Home' Exodus Audit: 7 Stress-Tests for Your Privacy Against Ad-Supported Appliance Integration",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-home-exodus-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "smart home privacy",
+          "data privacy for homeowners",
+          "ad-supported smart appliances"
+        ],
+        "slug": "the-smart-home-exodus-audit-7-stress-tests-for-your-privacy-against-ad-supported",
+        "published_at": "2026-08-15T09:20:00+00:00",
+        "word_count": 894,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5724536369168126977",
+        "title": "The 'Grid-Drain' Policy Audit: 7 Stress-Tests for Your Community\u2019s Climate-Policy Against AI Data Center Expansion \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-grid-drain-policy-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "climate-policy",
+          "data center energy consumption",
+          "municipal grid resilience"
+        ],
+        "slug": "the-grid-drain-policy-audit-7-stress-tests-for-your-communitys-climate-policy-ag",
+        "published_at": "2026-08-15T09:20:18+00:00",
+        "word_count": 992,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
