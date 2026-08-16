@@ -47434,5 +47434,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7462680338887745248",
+    "title": "The 'island-mode' energy audit: 7 stress-tests for your home solar system against AI-driven grid instability",
+    "url": "https://theomniview.blogspot.com/2026/08/the-island-mode-energy-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "How-To Guides",
+      "home solar system",
+      "grid instability",
+      "energy independence"
+    ],
+    "slug": "the-island-mode-energy-audit-7-stress-tests-for-your-home-solar-system-against-a",
+    "published_at": "2026-08-16T16:16:13+00:00",
+    "word_count": 948,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7780045699770796968",
+    "title": "The 'Cloud-Burn' Kitchen Audit: 7 Stress-Tests for Your Smart Oven Against Global Server Outages",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cloud-burn-kitchen-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Reviews",
+      "smart oven",
+      "kitchen technology",
+      "cloud outage"
+    ],
+    "slug": "the-cloud-burn-kitchen-audit-7-stress-tests-for-your-smart-oven-against-global-s",
+    "published_at": "2026-08-16T16:17:02+00:00",
+    "word_count": 652,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
