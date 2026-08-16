@@ -55642,5 +55642,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T07:21:41.168125",
+    "run_end": "2026-08-16T07:22:31.368620",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6879117743374572484",
+        "title": "The 'Smart-Kitchen' Fail-Safe Audit: 7 Stress-Tests for Your Cooking Routine Against Cloud-Service Outages",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-kitchen-fail-safe-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Listicles",
+          "smart kitchen",
+          "cooking resilience",
+          "manual cooking skills"
+        ],
+        "slug": "the-smart-kitchen-fail-safe-audit-7-stress-tests-for-your-cooking-routine-agains",
+        "published_at": "2026-08-16T07:27:11+00:00",
+        "word_count": 789,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "563297595483705520",
+        "title": "The 'Salmonella-Proof' Pantry Audit: 7 Stress-Tests for Your Kitchen Safety Against Modern Food Recalls \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-salmonella-proof-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "food safety tips",
+          "kitchen pantry organization",
+          "salmonella prevention"
+        ],
+        "slug": "the-salmonella-proof-pantry-audit-7-stress-tests-for-your-kitchen-safety-against",
+        "published_at": "2026-08-16T07:27:30+00:00",
+        "word_count": 916,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
