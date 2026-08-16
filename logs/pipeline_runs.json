@@ -56006,5 +56006,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T14:11:19.382971",
+    "run_end": "2026-08-16T14:12:39.508620",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1683297986214107765",
+        "title": "The 'flock-sock' hardware audit: 7 stress-tests for your circular-economy strategy against automated surveillance obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-flock-sock-hardware-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "How-To Guides",
+          "circular economy",
+          "hardware obsolescence",
+          "e-waste reduction"
+        ],
+        "slug": "the-flock-sock-hardware-audit-7-stress-tests-for-your-circular-economy-strategy-",
+        "published_at": "2026-08-16T14:17:11+00:00",
+        "word_count": 990,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4916767659756113407",
+        "title": "The 'vesting-cliff' solvency audit: 7 stress-tests for your startup equity against employer 401k clawback clauses",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vesting-cliff-solvency-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Case Studies",
+          "startup equity",
+          "401k clawback",
+          "employee compensation"
+        ],
+        "slug": "the-vesting-cliff-solvency-audit-7-stress-tests-for-your-startup-equity-against-",
+        "published_at": "2026-08-16T14:17:38+00:00",
+        "word_count": 771,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
