@@ -56422,5 +56422,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T22:08:22.493158",
+    "run_end": "2026-08-16T22:09:14.973829",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5338923892948480861",
+        "title": "The 'cognitive-tether' learning audit: 7 stress-tests for your student\u2019s critical thinking against AI-generated slop",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-tether-learning-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "How-To Guides",
+          "learning science",
+          "critical thinking",
+          "AI in education"
+        ],
+        "slug": "the-cognitive-tether-learning-audit-7-stress-tests-for-your-students-critical-th",
+        "published_at": "2026-08-16T22:13:49+00:00",
+        "word_count": 910,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7450901320149246295",
+        "title": "the 'neuro-plasticity' curriculum audit: 7 stress-tests for your student\u2019s memory retention against high-frequency digital switching",
+        "url": "https://theomniview.blogspot.com/2026/08/the-neuro-plasticity-curriculum-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "neuroplasticity in education",
+          "digital learning retention",
+          "cognitive load management"
+        ],
+        "slug": "the-neuro-plasticity-curriculum-audit-7-stress-tests-for-your-students-memory-re",
+        "published_at": "2026-08-16T22:14:14+00:00",
+        "word_count": 1116,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
