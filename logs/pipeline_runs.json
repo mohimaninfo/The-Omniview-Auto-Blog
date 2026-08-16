@@ -55590,5 +55590,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T06:18:29.180327",
+    "run_end": "2026-08-16T06:19:21.056600",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4771600598603377243",
+        "title": "The 'Nomad-Tax' Sovereignty Audit: 7 Stress-Tests for Your Remote Income Against Emerging Geopolitical Residency Laws",
+        "url": "https://theomniview.blogspot.com/2026/08/the-nomad-tax-sovereignty-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Opinion & Analysis",
+          "digital nomad taxes",
+          "tax residency laws",
+          "remote work economics"
+        ],
+        "slug": "the-nomad-tax-sovereignty-audit-7-stress-tests-for-your-remote-income-against-em",
+        "published_at": "2026-08-16T06:23:59+00:00",
+        "word_count": 1063,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7688696016052547886",
+        "title": "The 'Cold-Wallet' Succession Audit: 7 Stress-Tests for Your Cryptocurrency Inheritance Against Multi-Sig Entropy",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cold-wallet-succession-audit-7_01168845722.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Research Articles",
+          "crypto inheritance",
+          "cold wallet security",
+          "bitcoin succession planning"
+        ],
+        "slug": "the-cold-wallet-succession-audit-7-stress-tests-for-your-cryptocurrency-inherita",
+        "published_at": "2026-08-16T06:24:20+00:00",
+        "word_count": 1000,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
