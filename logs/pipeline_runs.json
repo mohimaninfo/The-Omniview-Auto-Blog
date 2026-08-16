@@ -55486,5 +55486,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T04:23:35.455781",
+    "run_end": "2026-08-16T04:24:25.096715",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1230354038855305850",
+        "title": "The 'Hack-Back' Sovereignty Audit: 7 Stress-Tests for Your Enterprise Security Perimeter Against Government-Authorized Offensive Operations \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hack-back-sovereignty-audit-7_01072269922.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Reviews",
+          "enterprise cybersecurity",
+          "offensive cyber operations",
+          "data sovereignty"
+        ],
+        "slug": "the-hack-back-sovereignty-audit-7-stress-tests-for-your-enterprise-security-peri",
+        "published_at": "2026-08-16T04:28:58+00:00",
+        "word_count": 578,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9181407525681631817",
+        "title": "The 'Majority-Force' Climate Audit: 7 Stress-Tests for Your Local Environmental Policy Against AI Consensus Loops",
+        "url": "https://theomniview.blogspot.com/2026/08/the-majority-force-climate-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "AI climate policy",
+          "algorithmic bias",
+          "environmental decision making"
+        ],
+        "slug": "the-majority-force-climate-audit-7-stress-tests-for-your-local-environmental-pol",
+        "published_at": "2026-08-16T04:29:24+00:00",
+        "word_count": 816,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
