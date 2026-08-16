@@ -47258,5 +47258,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8606387373290534281",
+    "title": "The 'flock-proof' robotics audit: 7 stress-tests for your autonomous delivery fleet against community-led hardware interference",
+    "url": "https://theomniview.blogspot.com/2026/08/the-flock-proof-robotics-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Latest News",
+      "autonomous delivery robots",
+      "robotics security",
+      "civilian hardware interference"
+    ],
+    "slug": "the-flock-proof-robotics-audit-7-stress-tests-for-your-autonomous-delivery-fleet",
+    "published_at": "2026-08-16T12:19:27+00:00",
+    "word_count": 709,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8034759901459330351",
+    "title": "The 'Longevity-Escape' Diagnostic Audit: 7 Stress-Tests for Your Biological Age Strategy Against Inconclusive Biomarker Research",
+    "url": "https://theomniview.blogspot.com/2026/08/the-longevity-escape-diagnostic-audit-7.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "latest-news",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Latest News",
+      "biological age",
+      "epigenetic testing",
+      "biomarker research"
+    ],
+    "slug": "the-longevity-escape-diagnostic-audit-7-stress-tests-for-your-biological-age-str",
+    "published_at": "2026-08-16T12:19:53+00:00",
+    "word_count": 782,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
