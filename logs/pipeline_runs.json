@@ -55798,5 +55798,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T10:10:59.335091",
+    "run_end": "2026-08-16T10:12:03.298958",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "992485716681970820",
+        "title": "The 'post-viral' performance audit: 7 stress-tests for your fitness routine against lingering covid-19 fatigue \u2014 a research articles perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-post-viral-performance-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "post-covid fitness recovery",
+          "long covid exercise intolerance",
+          "metabolic endurance training"
+        ],
+        "slug": "the-post-viral-performance-audit-7-stress-tests-for-your-fitness-routine-against",
+        "published_at": "2026-08-16T10:16:32+00:00",
+        "word_count": 951,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2873145895677052367",
+        "title": "The 'algorithmic-heartbreak' audit: 7 stress-tests for your romantic partnership against AI-driven matchmaking bias",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-heartbreak-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Opinion & Analysis",
+          "AI dating apps",
+          "algorithmic bias in relationships",
+          "modern dating trends"
+        ],
+        "slug": "the-algorithmic-heartbreak-audit-7-stress-tests-for-your-romantic-partnership-ag",
+        "published_at": "2026-08-16T10:17:02+00:00",
+        "word_count": 867,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
