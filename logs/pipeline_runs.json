@@ -56318,5 +56318,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T20:08:27.639711",
+    "run_end": "2026-08-16T20:10:50.781610",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1690398513102113188",
+        "title": "The 'Diamond-Melt' Astrophysical Audit: 7 Stress-Tests for Your Understanding of Planetary Interiors Against New Quantum-Mechanical Predictions",
+        "url": "https://theomniview.blogspot.com/2026/08/the-diamond-melt-astrophysical-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "planetary science",
+          "diamond melting point",
+          "exoplanet interior"
+        ],
+        "slug": "the-diamond-melt-astrophysical-audit-7-stress-tests-for-your-understanding-of-pl",
+        "published_at": "2026-08-16T20:14:52+00:00",
+        "word_count": 897,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8455291396613132390",
+        "title": "the 'thermal-plume' conservation audit: 7 stress-tests for your local watershed against ai-driven heat-island expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-thermal-plume-conservation-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Research Articles",
+          "data center water usage",
+          "aquatic ecosystem conservation",
+          "thermal pollution"
+        ],
+        "slug": "the-thermal-plume-conservation-audit-7-stress-tests-for-your-local-watershed-aga",
+        "published_at": "2026-08-16T20:15:49+00:00",
+        "word_count": 952,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
