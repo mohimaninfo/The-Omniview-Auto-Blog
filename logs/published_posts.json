@@ -47302,5 +47302,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "87865206147421723",
+    "title": "The 'flock-proof' travel audit: 7 stress-tests for your privacy against automated license plate recognition (ALPR) surveillance \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-flock-proof-travel-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Opinion & Analysis",
+      "travel privacy",
+      "automated license plate recognition",
+      "road trip security"
+    ],
+    "slug": "the-flock-proof-travel-audit-7-stress-tests-for-your-privacy-against-automated-l",
+    "published_at": "2026-08-16T13:27:50+00:00",
+    "word_count": 808,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1657828133732929388",
+    "title": "The 'async-stagnation' collaboration audit: 7 stress-tests for your remote-work productivity against real-time meeting creep \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-async-stagnation-collaboration.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "explainers",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Explainers",
+      "remote work productivity",
+      "asynchronous collaboration",
+      "remote team management"
+    ],
+    "slug": "the-async-stagnation-collaboration-audit-7-stress-tests-for-your-remote-work-pro",
+    "published_at": "2026-08-16T13:28:37+00:00",
+    "word_count": 1086,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
