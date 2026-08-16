@@ -55330,5 +55330,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T00:32:52.440278",
+    "run_end": "2026-08-16T00:35:04.882783",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1500715149400641367",
+        "title": "The 'stellar-alignment' consensus audit: 7 stress-tests for your understanding of astrophysics against spontaneous AI-driven pattern discovery \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-stellar-alignment-consensus-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "astrophysics",
+          "AI consensus",
+          "machine learning in astronomy"
+        ],
+        "slug": "the-stellar-alignment-consensus-audit-7-stress-tests-for-your-understanding-of-a",
+        "published_at": "2026-08-16T00:39:10+00:00",
+        "word_count": 816,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1886726013247082307",
+        "title": "The 'offline-campus' contingency audit: 7 stress-tests for your k12 edtech stack against global cloud outages \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-offline-campus-contingency-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Research Articles",
+          "k12 edtech",
+          "cloud outage",
+          "school IT infrastructure"
+        ],
+        "slug": "the-offline-campus-contingency-audit-7-stress-tests-for-your-k12-edtech-stack-ag",
+        "published_at": "2026-08-16T00:40:03+00:00",
+        "word_count": 1061,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
