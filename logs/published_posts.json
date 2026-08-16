@@ -46818,5 +46818,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4025670706332542671",
+    "title": "The 'Wearable-Dependence' Health Audit: 7 Stress-Tests for Your Fitness Data Against Proprietary Cloud-Lockin \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-wearable-dependence-health-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "reviews",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Reviews",
+      "fitness tracker privacy",
+      "wearable health data",
+      "data sovereignty"
+    ],
+    "slug": "the-wearable-dependence-health-audit-7-stress-tests-for-your-fitness-data-agains",
+    "published_at": "2026-08-16T02:19:27+00:00",
+    "word_count": 668,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1152742740582772068",
+    "title": "The 'proctor-drift' integrity audit: 7 stress-tests for your university\u2019s assessment strategy against AI-driven exam bypass tools",
+    "url": "https://theomniview.blogspot.com/2026/08/the-proctor-drift-integrity-audit-7_01841299710.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Opinion & Analysis",
+      "AI academic integrity",
+      "remote proctoring",
+      "assessment security"
+    ],
+    "slug": "the-proctor-drift-integrity-audit-7-stress-tests-for-your-universitys-assessment",
+    "published_at": "2026-08-16T02:19:50+00:00",
+    "word_count": 917,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
