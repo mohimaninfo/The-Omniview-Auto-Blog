@@ -47566,5 +47566,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8298463383732892310",
+    "title": "The 'Kill-Switch' Liability Audit: 7 Stress-Tests for Your Enterprise AI Strategy Against Cloud-Vendor Service Revocation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-kill-switch-liability-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Case Studies",
+      "enterprise AI strategy",
+      "cloud vendor risk",
+      "AI governance"
+    ],
+    "slug": "the-kill-switch-liability-audit-7-stress-tests-for-your-enterprise-ai-strategy-a",
+    "published_at": "2026-08-16T19:17:58+00:00",
+    "word_count": 667,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5781959363153038036",
+    "title": "the 'fractional-exit' liquidity audit: 7 stress-tests for your private equity portfolio against secondary market volatility \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-fractional-exit-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Research Articles",
+      "private equity liquidity",
+      "secondary market investing",
+      "portfolio exit strategy"
+    ],
+    "slug": "the-fractional-exit-liquidity-audit-7-stress-tests-for-your-private-equity-portf",
+    "published_at": "2026-08-16T19:18:31+00:00",
+    "word_count": 1068,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
