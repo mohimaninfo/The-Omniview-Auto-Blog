@@ -55694,5 +55694,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T08:14:10.280906",
+    "run_end": "2026-08-16T08:15:54.011937",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6370727816244595127",
+        "title": "The 'Profit-Share' Clawback Audit: 7 Stress-Tests for Your 401k Against Employer Insolvency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-profit-share-clawback-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "research-articles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Research Articles",
+          "401k profit sharing",
+          "retirement plan insolvency",
+          "401k vesting rules"
+        ],
+        "slug": "the-profit-share-clawback-audit-7-stress-tests-for-your-401k-against-employer-in",
+        "published_at": "2026-08-16T08:19:32+00:00",
+        "word_count": 986,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6508236153005037103",
+        "title": "The 'ultra-processed' pantry audit: 7 stress-tests for your metabolic health against modern food-label loopholes \u2014 a how to guides perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ultra-processed-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "metabolic health",
+          "ultra-processed foods",
+          "food label reading"
+        ],
+        "slug": "the-ultra-processed-pantry-audit-7-stress-tests-for-your-metabolic-health-agains",
+        "published_at": "2026-08-16T08:20:53+00:00",
+        "word_count": 980,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
