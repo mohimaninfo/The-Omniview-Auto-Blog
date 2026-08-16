@@ -47478,5 +47478,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5278126917050393990",
+    "title": "The 'Smart-Kitchen' Blackout Audit: 7 Stress-Tests for Your Meal Planning Against Cloud-Service Outages \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-kitchen-blackout-audit-7_0763481350.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Explainers",
+      "smart kitchen",
+      "meal planning",
+      "cloud outage"
+    ],
+    "slug": "the-smart-kitchen-blackout-audit-7-stress-tests-for-your-meal-planning-against-c",
+    "published_at": "2026-08-16T17:15:39+00:00",
+    "word_count": 1037,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2276462138913900753",
+    "title": "The 'Drone-Economy' Inequality Audit: 7 Stress-Tests for Your Local Property Rights Against Autonomous Aerial Surveillance",
+    "url": "https://theomniview.blogspot.com/2026/08/the-drone-economy-inequality-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Explainers",
+      "aerial surveillance privacy",
+      "drone economy inequality",
+      "property rights technology"
+    ],
+    "slug": "the-drone-economy-inequality-audit-7-stress-tests-for-your-local-property-rights",
+    "published_at": "2026-08-16T17:16:26+00:00",
+    "word_count": 1048,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
