@@ -56370,5 +56370,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T21:08:54.095721",
+    "run_end": "2026-08-16T21:10:36.283329",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9063663155133485399",
+        "title": "The 'flock-audit' privacy audit: 7 stress-tests for your personal data security against automated license plate recognition",
+        "url": "https://theomniview.blogspot.com/2026/08/the-flock-audit-privacy-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Listicles",
+          "AI surveillance",
+          "license plate recognition",
+          "privacy audit"
+        ],
+        "slug": "the-flock-audit-privacy-audit-7-stress-tests-for-your-personal-data-security-aga",
+        "published_at": "2026-08-16T21:14:59+00:00",
+        "word_count": 921,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2676786138533306557",
+        "title": "The 'post-pandemic' endurance audit: 7 stress-tests for your fitness routine against lingering COVID-19 inflammation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-post-pandemic-endurance-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "How-To Guides",
+          "post-COVID fitness",
+          "safe exercise recovery",
+          "exercise intolerance"
+        ],
+        "slug": "the-post-pandemic-endurance-audit-7-stress-tests-for-your-fitness-routine-agains",
+        "published_at": "2026-08-16T21:15:35+00:00",
+        "word_count": 1157,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
