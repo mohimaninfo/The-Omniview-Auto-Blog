@@ -47522,5 +47522,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8095983328377873602",
+    "title": "The 'European Legion' Sovereignty Audit: 7 Stress-Tests for Your National Security Assumptions Against the Rise of Transnational Volunteer Militaries",
+    "url": "https://theomniview.blogspot.com/2026/08/the-european-legion-sovereignty-audit-7.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Opinion & Analysis",
+      "European Legion",
+      "European military structure",
+      "national security"
+    ],
+    "slug": "the-european-legion-sovereignty-audit-7-stress-tests-for-your-national-security-",
+    "published_at": "2026-08-16T18:17:05+00:00",
+    "word_count": 945,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5549621855798701054",
+    "title": "The 'Biodiversity-Debt' Restoration Audit: 7 Stress-Tests for Your Local Conservation Strategy Against Slow-Recovery Ecosystems",
+    "url": "https://theomniview.blogspot.com/2026/08/the-biodiversity-debt-restoration-audit.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "case-studies",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Case Studies",
+      "biodiversity recovery",
+      "ecosystem restoration",
+      "conservation science"
+    ],
+    "slug": "the-biodiversity-debt-restoration-audit-7-stress-tests-for-your-local-conservati",
+    "published_at": "2026-08-16T18:18:07+00:00",
+    "word_count": 744,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
