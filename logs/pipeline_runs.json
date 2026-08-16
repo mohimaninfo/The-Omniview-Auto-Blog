@@ -56474,5 +56474,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T23:08:34.356168",
+    "run_end": "2026-08-16T23:09:35.359924",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7137384360298684009",
+        "title": "The 'symptom-gate' diagnostic audit: 7 stress-tests for your wellness tracking against modern medical gaslighting",
+        "url": "https://theomniview.blogspot.com/2026/08/the-symptom-gate-diagnostic-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "medical gaslighting",
+          "wellness tracking",
+          "patient advocacy"
+        ],
+        "slug": "the-symptom-gate-diagnostic-audit-7-stress-tests-for-your-wellness-tracking-agai",
+        "published_at": "2026-08-16T23:14:03+00:00",
+        "word_count": 624,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3874802259186668251",
+        "title": "The 'Inflammaging' Resilience Audit: 7 Stress-Tests for Your Brain Health Against Cellular Aging",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inflammaging-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "how-to-guides",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "How-To Guides",
+          "inflammaging",
+          "brain health",
+          "neuroscience"
+        ],
+        "slug": "the-inflammaging-resilience-audit-7-stress-tests-for-your-brain-health-against-c",
+        "published_at": "2026-08-16T23:14:34+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
