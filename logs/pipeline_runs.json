@@ -56058,5 +56058,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-16T15:09:44.916162",
+    "run_end": "2026-08-16T15:11:32.108025",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7734556049881662449",
+        "title": "The 'myelin-repair' neuro-audit: 7 stress-tests for your brain\u2019s recovery potential against modern chronic stress",
+        "url": "https://theomniview.blogspot.com/2026/08/the-myelin-repair-neuro-audit-7-stress.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "myelin repair",
+          "CRH hormone",
+          "brain injury recovery"
+        ],
+        "slug": "the-myelin-repair-neuro-audit-7-stress-tests-for-your-brains-recovery-potential-",
+        "published_at": "2026-08-16T15:15:50+00:00",
+        "word_count": 1102,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6332415465105271215",
+        "title": "The 'Islanding' Resilience Audit: 7 Stress-Tests for Your Community\u2019s Microgrid Against Data Center Power-Sucking",
+        "url": "https://theomniview.blogspot.com/2026/08/the-islanding-resilience-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Research Articles",
+          "renewable energy microgrids",
+          "data center power consumption",
+          "grid resilience"
+        ],
+        "slug": "the-islanding-resilience-audit-7-stress-tests-for-your-communitys-microgrid-agai",
+        "published_at": "2026-08-16T15:16:31+00:00",
+        "word_count": 869,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
