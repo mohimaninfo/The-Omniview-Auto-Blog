@@ -47874,5 +47874,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7920487860145623680",
+    "title": "The 'Silicon-Sovereignty' Audit: 7 Stress-Tests for Your Personal Data Privacy Against State-Sponsored AI Chip Repurposing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-silicon-sovereignty-audit-7-stress.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "digital privacy",
+      "AI chip repurposing",
+      "geopolitical surveillance"
+    ],
+    "slug": "the-silicon-sovereignty-audit-7-stress-tests-for-your-personal-data-privacy-agai",
+    "published_at": "2026-08-17T03:43:52+00:00",
+    "word_count": 1010,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6728946537683528151",
+    "title": "The 'async-culture' burnout audit: 7 stress-tests for your remote-work sanity against constant-availability expectations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-async-culture-burnout-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Opinion & Analysis",
+      "remote work burnout",
+      "asynchronous communication",
+      "work-life balance"
+    ],
+    "slug": "the-async-culture-burnout-audit-7-stress-tests-for-your-remote-work-sanity-again",
+    "published_at": "2026-08-17T03:44:16+00:00",
+    "word_count": 988,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
