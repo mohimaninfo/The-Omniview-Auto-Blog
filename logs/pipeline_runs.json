@@ -57358,5 +57358,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-17T17:15:24.909488",
+    "run_end": "2026-08-17T17:16:29.882878",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8336428224126592997",
+        "title": "The 'Inflammaging' Neuro-Audit: 7 Stress-Tests for Your Cognitive Longevity Against Chronic Systemic Inflammation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inflammaging-neuro-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Explainers",
+          "inflammaging",
+          "neurodegeneration",
+          "cognitive longevity"
+        ],
+        "slug": "the-inflammaging-neuro-audit-7-stress-tests-for-your-cognitive-longevity-against",
+        "published_at": "2026-08-17T17:21:02+00:00",
+        "word_count": 966,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8370192138498180180",
+        "title": "The 'Cultural-Espionage' Audit: 7 Stress-Tests for Your Community Institutions Against Geopolitical Weaponization",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cultural-espionage-audit-7-stress.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Explainers",
+          "cultural espionage",
+          "geopolitical soft power",
+          "institutional security"
+        ],
+        "slug": "the-cultural-espionage-audit-7-stress-tests-for-your-community-institutions-agai",
+        "published_at": "2026-08-17T17:21:29+00:00",
+        "word_count": 975,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
