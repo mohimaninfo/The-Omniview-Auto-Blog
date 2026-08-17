@@ -57566,5 +57566,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-17T21:14:20.640084",
+    "run_end": "2026-08-17T21:15:14.818328",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7271890279433607189",
+        "title": "The 'human-verified' curriculum audit: 7 stress-tests for your school\u2019s learning materials against AI-generated slop",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-verified-curriculum-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Research Articles",
+          "AI-generated content",
+          "edtech",
+          "curriculum integrity"
+        ],
+        "slug": "the-human-verified-curriculum-audit-7-stress-tests-for-your-schools-learning-mat",
+        "published_at": "2026-08-17T21:19:45+00:00",
+        "word_count": 1028,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3977100697277250657",
+        "title": "The 'aesthetic-drift' authenticity audit: 7 stress-tests for your personal brand against hyper-curated AI-style homogenization",
+        "url": "https://theomniview.blogspot.com/2026/08/the-aesthetic-drift-authenticity-audit.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Listicles",
+          "personal branding",
+          "AI-generated content",
+          "authentic identity"
+        ],
+        "slug": "the-aesthetic-drift-authenticity-audit-7-stress-tests-for-your-personal-brand-ag",
+        "published_at": "2026-08-17T21:20:13+00:00",
+        "word_count": 793,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
