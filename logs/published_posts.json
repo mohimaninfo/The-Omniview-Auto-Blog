@@ -48182,5 +48182,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3833336227080402047",
+    "title": "The 'Grid-Exodus' Policy Audit: 7 Stress-Tests for Your Municipal Climate-Policy Against AI Data Center Energy Hoarding",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-exodus-policy-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Research Articles",
+      "climate-policy",
+      "AI data centers",
+      "grid resilience"
+    ],
+    "slug": "the-grid-exodus-policy-audit-7-stress-tests-for-your-municipal-climate-policy-ag",
+    "published_at": "2026-08-17T10:24:54+00:00",
+    "word_count": 1051,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1071330624051416130",
+    "title": "The 'permafrost-thaw' infrastructure audit: 7 stress-tests for your northern community\u2019s climate-policy against rapid ground instability",
+    "url": "https://theomniview.blogspot.com/2026/08/the-permafrost-thaw-infrastructure_0817857098.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "case-studies",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Case Studies",
+      "permafrost thaw",
+      "climate adaptation",
+      "infrastructure resilience"
+    ],
+    "slug": "the-permafrost-thaw-infrastructure-audit-7-stress-tests-for-your-northern-commun",
+    "published_at": "2026-08-17T10:25:26+00:00",
+    "word_count": 696,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
