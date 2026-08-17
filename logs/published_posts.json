@@ -48050,5 +48050,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2318504616611063755",
+    "title": "The 'Water-Neutral' Data Audit: 7 Stress-Tests for Your Local Circular-Economy Strategy Against AI Data Center Expansion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-water-neutral-data-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "circular economy",
+      "data center water usage",
+      "AI environmental impact"
+    ],
+    "slug": "the-water-neutral-data-audit-7-stress-tests-for-your-local-circular-economy-stra",
+    "published_at": "2026-08-17T07:47:09+00:00",
+    "word_count": 1018,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "198845686786716009",
+    "title": "The 'Fan-Fiction' Copyright Audit: 7 Stress-Tests for Your Creative Projects Against AI-Training Data Scraping",
+    "url": "https://theomniview.blogspot.com/2026/08/the-fan-fiction-copyright-audit-7.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Listicles",
+      "AI copyright",
+      "fan fiction privacy",
+      "LLM data scraping"
+    ],
+    "slug": "the-fan-fiction-copyright-audit-7-stress-tests-for-your-creative-projects-agains",
+    "published_at": "2026-08-17T07:47:31+00:00",
+    "word_count": 848,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
