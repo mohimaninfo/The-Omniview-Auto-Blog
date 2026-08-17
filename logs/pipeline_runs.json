@@ -56578,5 +56578,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-17T02:11:53.146954",
+    "run_end": "2026-08-17T02:13:00.010171",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1639930593385422073",
+        "title": "The 'Analog-Kitchen' Sovereignty Audit: 7 Stress-Tests for Your Cooking Routine Against Cloud-Dependent Appliances \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-analog-kitchen-sovereignty-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "How-To Guides",
+          "smart kitchen reliability",
+          "analog cooking methods",
+          "kitchen appliance privacy"
+        ],
+        "slug": "the-analog-kitchen-sovereignty-audit-7-stress-tests-for-your-cooking-routine-aga",
+        "published_at": "2026-08-17T02:17:27+00:00",
+        "word_count": 1047,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1441321440642233430",
+        "title": "The 'Grid-Island' Resilience Audit: 7 Stress-Tests for Your Home Solar Setup Against AI Data Center Power Surges \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-grid-island-resilience-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "How-To Guides",
+          "home solar resilience",
+          "AI data center energy impact",
+          "battery storage optimization"
+        ],
+        "slug": "the-grid-island-resilience-audit-7-stress-tests-for-your-home-solar-setup-agains",
+        "published_at": "2026-08-17T02:17:58+00:00",
+        "word_count": 1022,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
