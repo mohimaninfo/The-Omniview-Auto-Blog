@@ -47786,5 +47786,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6850321603833926313",
+    "title": "The 'yield-trap' liquidity audit: 7 stress-tests for your HYSA and money market strategy against shifting federal rate cycles",
+    "url": "https://theomniview.blogspot.com/2026/08/the-yield-trap-liquidity-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Research Articles",
+      "high-yield savings account",
+      "money market fund",
+      "federal reserve interest rates"
+    ],
+    "slug": "the-yield-trap-liquidity-audit-7-stress-tests-for-your-hysa-and-money-market-str",
+    "published_at": "2026-08-17T00:36:49+00:00",
+    "word_count": 1015,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7821131569405347451",
+    "title": "The 'deep-fake' tenure audit: 7 stress-tests for your academic reputation against unauthorized ai-voice cloning in remote lectures",
+    "url": "https://theomniview.blogspot.com/2026/08/the-deep-fake-tenure-audit-7-stress.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Latest News",
+      "ai voice cloning",
+      "academic integrity",
+      "intellectual property rights"
+    ],
+    "slug": "the-deep-fake-tenure-audit-7-stress-tests-for-your-academic-reputation-against-u",
+    "published_at": "2026-08-17T00:37:16+00:00",
+    "word_count": 778,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
