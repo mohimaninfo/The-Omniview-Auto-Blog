@@ -48446,5 +48446,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1393630852251704082",
+    "title": "The 'DRM-Expiration' Streaming Audit: 7 Stress-Tests for Your Digital Library Against Cloud-Vendor Service Revocation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-drm-expiration-streaming-audit-7.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Listicles",
+      "digital ownership",
+      "streaming services",
+      "DRM expiration"
+    ],
+    "slug": "the-drm-expiration-streaming-audit-7-stress-tests-for-your-digital-library-again",
+    "published_at": "2026-08-17T16:18:10+00:00",
+    "word_count": 859,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7359468104083913335",
+    "title": "The 'doom-scrolling' recovery audit: 7 stress-tests for your mental health against high-frequency algorithmic engagement",
+    "url": "https://theomniview.blogspot.com/2026/08/the-doom-scrolling-recovery-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "How-To Guides",
+      "mental health",
+      "doomscrolling",
+      "digital detox"
+    ],
+    "slug": "the-doom-scrolling-recovery-audit-7-stress-tests-for-your-mental-health-against-",
+    "published_at": "2026-08-17T16:18:42+00:00",
+    "word_count": 903,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
