@@ -48754,5 +48754,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7196383635540007472",
+    "title": "The 'local-first' reliability audit: 7 stress-tests for your CI/CD pipeline against global cloud outages",
+    "url": "https://theomniview.blogspot.com/2026/08/the-local-first-reliability-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "CI/CD pipeline reliability",
+      "local-first development",
+      "DevOps resilience"
+    ],
+    "slug": "the-local-first-reliability-audit-7-stress-tests-for-your-cicd-pipeline-against-",
+    "published_at": "2026-08-17T23:16:43+00:00",
+    "word_count": 955,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1434346315292488323",
+    "title": "The 'fractional-utility' solvency audit: 7 stress-tests for your home equity against the rise of tokenized real estate liquidity",
+    "url": "https://theomniview.blogspot.com/2026/08/the-fractional-utility-solvency-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Latest News",
+      "tokenized real estate",
+      "home equity",
+      "fractional ownership"
+    ],
+    "slug": "the-fractional-utility-solvency-audit-7-stress-tests-for-your-home-equity-agains",
+    "published_at": "2026-08-17T23:17:07+00:00",
+    "word_count": 825,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
