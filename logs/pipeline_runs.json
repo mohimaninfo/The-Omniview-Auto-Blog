@@ -57098,5 +57098,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-17T12:17:50.993454",
+    "run_end": "2026-08-17T12:18:46.370132",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4898170981876226622",
+        "title": "The 'License-Plate' Privacy Audit: 7 Stress-Tests for Your Digital Footprint Against HaveIBeenFlocked Surveillance \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-license-plate-privacy-audit-7_01004048538.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Latest News",
+          "HaveIBeenFlocked",
+          "license plate privacy",
+          "ALPR surveillance"
+        ],
+        "slug": "the-license-plate-privacy-audit-7-stress-tests-for-your-digital-footprint-agains",
+        "published_at": "2026-08-17T12:23:15+00:00",
+        "word_count": 777,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2840239822878553947",
+        "title": "The 'Shadow-Productivity' Audit: 7 Stress-Tests for Your Remote-Work Output Against AI-Driven Monitoring \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-productivity-audit-7-stress.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "explainers",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Explainers",
+          "remote work productivity",
+          "AI employee monitoring",
+          "digital workplace privacy"
+        ],
+        "slug": "the-shadow-productivity-audit-7-stress-tests-for-your-remote-work-output-against",
+        "published_at": "2026-08-17T12:23:45+00:00",
+        "word_count": 1033,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
