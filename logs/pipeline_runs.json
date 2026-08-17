@@ -57462,5 +57462,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-17T19:19:08.040297",
+    "run_end": "2026-08-17T19:20:33.634019",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2140669150557495617",
+        "title": "The 'Geopolitical-Supply' Resilience Audit: 7 Stress-Tests for Your Household Inventory Against Global Trade Volatility \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-geopolitical-supply-resilience.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "supply chain resilience",
+          "geopolitical risk management",
+          "household inventory"
+        ],
+        "slug": "the-geopolitical-supply-resilience-audit-7-stress-tests-for-your-household-inven",
+        "published_at": "2026-08-17T19:24:43+00:00",
+        "word_count": 853,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8240185814809445924",
+        "title": "The 'rate-pivot' solvency audit: 7 stress-tests for your dividend growth portfolio against cooling inflationary tailwinds",
+        "url": "https://theomniview.blogspot.com/2026/08/the-rate-pivot-solvency-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Opinion & Analysis",
+          "dividend growth investing",
+          "interest rate risk",
+          "portfolio solvency"
+        ],
+        "slug": "the-rate-pivot-solvency-audit-7-stress-tests-for-your-dividend-growth-portfolio-",
+        "published_at": "2026-08-17T19:25:32+00:00",
+        "word_count": 934,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
