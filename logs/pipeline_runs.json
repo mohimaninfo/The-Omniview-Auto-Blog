@@ -56682,5 +56682,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-17T04:29:36.277663",
+    "run_end": "2026-08-17T04:30:19.356882",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4797416182889718622",
+        "title": "The 'Subscription-Creep' Audit: 7 Stress-Tests for Your Monthly Budget Against Stealth Price Hikes \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-subscription-creep-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "personal finance",
+          "subscription management",
+          "budgeting tips"
+        ],
+        "slug": "the-subscription-creep-audit-7-stress-tests-for-your-monthly-budget-against-stea",
+        "published_at": "2026-08-17T04:34:56+00:00",
+        "word_count": 798,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6315496080199395600",
+        "title": "The 'Glycemic-Index' Sovereignty Audit: 7 Stress-Tests for Your Metabolic Health Against CGM-Driven Data Overload",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glycemic-index-sovereignty-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "continuous glucose monitor",
+          "metabolic health",
+          "glucose tracking"
+        ],
+        "slug": "the-glycemic-index-sovereignty-audit-7-stress-tests-for-your-metabolic-health-ag",
+        "published_at": "2026-08-17T04:35:18+00:00",
+        "word_count": 1063,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
