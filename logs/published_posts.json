@@ -48314,5 +48314,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1656178621589072700",
+    "title": "The 'offline-mode' gaming audit: 7 stress-tests for your console library against cloud-tethered DRM and server-side authentication",
+    "url": "https://theomniview.blogspot.com/2026/08/the-offline-mode-gaming-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "digital game ownership",
+      "DRM-free gaming",
+      "offline gaming"
+    ],
+    "slug": "the-offline-mode-gaming-audit-7-stress-tests-for-your-console-library-against-cl",
+    "published_at": "2026-08-17T13:36:26+00:00",
+    "word_count": 1044,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8698220777189503953",
+    "title": "The 'Digital-Dependency' Divorce Audit: 7 Stress-Tests for Your Relationship Against AI-Driven Scheduling and Communication",
+    "url": "https://theomniview.blogspot.com/2026/08/the-digital-dependency-divorce-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Listicles",
+      "relationship advice",
+      "AI in relationships",
+      "digital intimacy"
+    ],
+    "slug": "the-digital-dependency-divorce-audit-7-stress-tests-for-your-relationship-agains",
+    "published_at": "2026-08-17T13:36:59+00:00",
+    "word_count": 900,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
