@@ -48402,5 +48402,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7992340629653746071",
+    "title": "The 'Data-Center' Blackout Audit: 7 Stress-Tests for Your Streaming Library Against Regional Grid Instability",
+    "url": "https://theomniview.blogspot.com/2026/08/the-data-center-blackout-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Explainers",
+      "streaming services",
+      "data center energy consumption",
+      "grid instability"
+    ],
+    "slug": "the-data-center-blackout-audit-7-stress-tests-for-your-streaming-library-against",
+    "published_at": "2026-08-17T15:19:21+00:00",
+    "word_count": 1181,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1260191429380384265",
+    "title": "The 'Robotaxi-Tariff' Resilience Audit: 7 Stress-Tests for Your Logistics Supply Chain Against Protectionist Trade Barriers",
+    "url": "https://theomniview.blogspot.com/2026/08/the-robotaxi-tariff-resilience-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Research Articles",
+      "robotics supply chain",
+      "autonomous vehicle tariffs",
+      "robotaxi fleet management"
+    ],
+    "slug": "the-robotaxi-tariff-resilience-audit-7-stress-tests-for-your-logistics-supply-ch",
+    "published_at": "2026-08-17T15:19:55+00:00",
+    "word_count": 987,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
