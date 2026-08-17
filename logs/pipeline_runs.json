@@ -56890,5 +56890,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-17T08:28:47.621027",
+    "run_end": "2026-08-17T08:29:32.222929",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9116084654563205834",
+        "title": "The 'Stream-Swapping' Fatigue Audit: 7 Stress-Tests for Your Streaming Library Against AI-Driven Content Personalization",
+        "url": "https://theomniview.blogspot.com/2026/08/the-stream-swapping-fatigue-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "streaming service fatigue",
+          "AI recommendation algorithms",
+          "content discovery"
+        ],
+        "slug": "the-stream-swapping-fatigue-audit-7-stress-tests-for-your-streaming-library-agai",
+        "published_at": "2026-08-17T08:34:09+00:00",
+        "word_count": 911,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2335640560839183943",
+        "title": "The 'kinetic-sovereignty' audit: 7 stress-tests for your local property rights against the rise of privatized drone-logistics corridors \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kinetic-sovereignty-audit-7-stress_01673906160.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Explainers",
+          "drone logistics",
+          "property rights",
+          "spatial inequality"
+        ],
+        "slug": "the-kinetic-sovereignty-audit-7-stress-tests-for-your-local-property-rights-agai",
+        "published_at": "2026-08-17T08:34:31+00:00",
+        "word_count": 1086,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
