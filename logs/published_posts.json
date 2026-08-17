@@ -48226,5 +48226,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "8860161465622679525",
+    "title": "The 'WiFi-Fingerprint' Privacy Audit: 7 Stress-Tests for Your Personal Anonymity Against Ambient Radio-Wave Tracking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-wifi-fingerprint-privacy-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Explainers",
+      "WiFi privacy",
+      "ambient sensing",
+      "digital footprint"
+    ],
+    "slug": "the-wifi-fingerprint-privacy-audit-7-stress-tests-for-your-personal-anonymity-ag",
+    "published_at": "2026-08-17T11:20:01+00:00",
+    "word_count": 912,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1749326030148294421",
+    "title": "The 'Data-Center' Migration Audit: 7 Stress-Tests for Your Local Wildlife Corridors Against AI-Compute Expansion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-data-center-migration-audit-7.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Explainers",
+      "wildlife corridors",
+      "data center environmental impact",
+      "biodiversity conservation"
+    ],
+    "slug": "the-data-center-migration-audit-7-stress-tests-for-your-local-wildlife-corridors",
+    "published_at": "2026-08-17T11:20:28+00:00",
+    "word_count": 990,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
