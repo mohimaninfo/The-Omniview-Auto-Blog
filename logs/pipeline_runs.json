@@ -58138,5 +58138,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T09:20:09.253625",
+    "run_end": "2026-08-18T09:21:02.931695",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8505006378845476058",
+        "title": "The 'Hyperscale-Proof' Watershed Audit: 7 Stress-Tests for Your Local Water Security Against AI Data Center Expansion \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hyperscale-proof-watershed-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "water security",
+          "sustainable living",
+          "data center water consumption"
+        ],
+        "slug": "the-hyperscale-proof-watershed-audit-7-stress-tests-for-your-local-water-securit",
+        "published_at": "2026-08-18T09:25:38+00:00",
+        "word_count": 1015,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "408400636506343488",
+        "title": "The 'Dependency-Hell' Resilience Audit: 7 Stress-Tests for Your Open-Source Supply Chain Against Manifest Poisoning",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dependency-hell-resilience-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Opinion & Analysis",
+          "software supply chain security",
+          "dependency management",
+          "CI/CD pipeline security"
+        ],
+        "slug": "the-dependency-hell-resilience-audit-7-stress-tests-for-your-open-source-supply-",
+        "published_at": "2026-08-18T09:26:01+00:00",
+        "word_count": 873,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
