@@ -58346,5 +58346,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T13:33:31.337719",
+    "run_end": "2026-08-18T13:34:20.787301",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3320963428836342578",
+        "title": "The 'Decompiled-Trust' Audit: 7 Stress-Tests for Your Retro-Tech Security Against Modern Malware Injection",
+        "url": "https://theomniview.blogspot.com/2026/08/the-decompiled-trust-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Research Articles",
+          "retro-tech cybersecurity",
+          "software decompilation risks",
+          "malware injection"
+        ],
+        "slug": "the-decompiled-trust-audit-7-stress-tests-for-your-retro-tech-security-against-m",
+        "published_at": "2026-08-18T13:38:56+00:00",
+        "word_count": 1058,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "1037749645332918072",
+        "title": "The 'myco-remediation' soil audit: 7 stress-tests for your home garden\u2019s health against legacy chemical runoff",
+        "url": "https://theomniview.blogspot.com/2026/08/the-myco-remediation-soil-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Explainers",
+          "mycoremediation",
+          "soil health",
+          "chemical runoff"
+        ],
+        "slug": "the-myco-remediation-soil-audit-7-stress-tests-for-your-home-gardens-health-agai",
+        "published_at": "2026-08-18T13:39:20+00:00",
+        "word_count": 1013,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
