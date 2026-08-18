@@ -58398,5 +58398,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T14:20:48.418117",
+    "run_end": "2026-08-18T14:22:11.087707",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "526361877061494334",
+        "title": "The 'Hyperscale-Drain' Energy Audit: 7 Stress-Tests for Your Renewable Portfolio Against AI Data Center Expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hyperscale-drain-energy-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Explainers",
+          "renewable energy",
+          "AI data center energy consumption",
+          "grid stability"
+        ],
+        "slug": "the-hyperscale-drain-energy-audit-7-stress-tests-for-your-renewable-portfolio-ag",
+        "published_at": "2026-08-18T14:26:31+00:00",
+        "word_count": 1111,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "297492640259450474",
+        "title": "The GoldenEye 007 Decompilation Audit: 7 Stress-Tests for Your Retro Gaming Legacy Against Modern Hardware Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-goldeneye-007-decompilation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "GoldenEye 007 decompilation",
+          "retro gaming preservation",
+          "video game source code"
+        ],
+        "slug": "the-goldeneye-007-decompilation-audit-7-stress-tests-for-your-retro-gaming-legac",
+        "published_at": "2026-08-18T14:27:10+00:00",
+        "word_count": 697,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
