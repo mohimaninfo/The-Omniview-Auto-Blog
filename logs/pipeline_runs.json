@@ -58588,5 +58588,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T18:18:43.903664",
+    "run_end": "2026-08-18T18:19:50.775775",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "109567181605001753",
+        "title": "The 'digital-exile' streaming audit: 7 stress-tests for your personal media library against platform liquidation \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-exile-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "digital media library",
+          "streaming platform liquidation",
+          "media ownership"
+        ],
+        "slug": "the-digital-exile-streaming-audit-7-stress-tests-for-your-personal-media-library",
+        "published_at": "2026-08-18T18:24:17+00:00",
+        "word_count": 870,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1445452481883825039",
+        "title": "The 'Cosmic-Radiation' Flight Audit: 7 Stress-Tests for Your Long-Haul Travel Safety Against Occupational Exposure",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cosmic-radiation-flight-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "cosmic radiation exposure",
+          "flight crew cancer risk",
+          "ionizing radiation physics"
+        ],
+        "slug": "the-cosmic-radiation-flight-audit-7-stress-tests-for-your-long-haul-travel-safet",
+        "published_at": "2026-08-18T18:24:50+00:00",
+        "word_count": 1002,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
