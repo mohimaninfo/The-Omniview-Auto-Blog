@@ -58086,5 +58086,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T08:20:51.708269",
+    "run_end": "2026-08-18T08:22:42.928436",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1470377074454449632",
+        "title": "The 'Archival-Rescue' Streaming Audit: 7 Stress-Tests for Your Digital Media Library Against Platform Liquidation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-archival-rescue-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Latest News",
+          "digital media library",
+          "streaming content ownership",
+          "archival data recovery"
+        ],
+        "slug": "the-archival-rescue-streaming-audit-7-stress-tests-for-your-digital-media-librar",
+        "published_at": "2026-08-18T08:27:06+00:00",
+        "word_count": 949,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8991592162653890714",
+        "title": "The 'on-chain' inheritance audit: 7 stress-tests for your cryptocurrency legacy against probate court delays",
+        "url": "https://theomniview.blogspot.com/2026/08/the-on-chain-inheritance-audit-7-stress_0467319534.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "cryptocurrency inheritance",
+          "crypto estate planning",
+          "probate and crypto"
+        ],
+        "slug": "the-on-chain-inheritance-audit-7-stress-tests-for-your-cryptocurrency-legacy-aga",
+        "published_at": "2026-08-18T08:27:42+00:00",
+        "word_count": 788,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
