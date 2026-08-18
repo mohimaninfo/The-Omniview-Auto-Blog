@@ -58796,5 +58796,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T22:09:42.700306",
+    "run_end": "2026-08-18T22:11:35.267908",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1530071143537712409",
+        "title": "The 'Value-Collapse' Marketing Audit: 7 Stress-Tests for Your Brand Strategy Against the AI-Content Glut \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-value-collapse-marketing-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Case Studies",
+          "brand strategy",
+          "AI content marketing",
+          "customer trust"
+        ],
+        "slug": "the-value-collapse-marketing-audit-7-stress-tests-for-your-brand-strategy-agains",
+        "published_at": "2026-08-18T22:15:41+00:00",
+        "word_count": 740,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2833750680370286766",
+        "title": "The 'Router-Motion' Privacy Audit: 7 Stress-Tests for Your Home-Office Security Against Comcast\u2019s Wi-Fi Sensing Expansion \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-router-motion-privacy-audit-7_02011333510.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "home office security",
+          "wifi sensing privacy",
+          "comcast router motion detection"
+        ],
+        "slug": "the-router-motion-privacy-audit-7-stress-tests-for-your-home-office-security-aga",
+        "published_at": "2026-08-18T22:16:34+00:00",
+        "word_count": 836,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
