@@ -49414,5 +49414,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4185687707914917507",
+    "title": "The 'Telehealth-Dependency' Audit: 7 Stress-Tests for Your Mental Health Routine Against Pill-Mill Burnout",
+    "url": "https://theomniview.blogspot.com/2026/08/the-telehealth-dependency-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Opinion & Analysis",
+      "telehealth mental health",
+      "mental health burnout",
+      "digital psychiatric care"
+    ],
+    "slug": "the-telehealth-dependency-audit-7-stress-tests-for-your-mental-health-routine-ag",
+    "published_at": "2026-08-18T15:25:03+00:00",
+    "word_count": 1038,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "948938867876171669",
+    "title": "The 'Index-Concentration' Risk Audit: 7 Stress-Tests for Your Retirement Portfolio Against Single-Fund Overexposure",
+    "url": "https://theomniview.blogspot.com/2026/08/the-index-concentration-risk-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Explainers",
+      "retirement portfolio diversification",
+      "index fund risk",
+      "investment strategy"
+    ],
+    "slug": "the-index-concentration-risk-audit-7-stress-tests-for-your-retirement-portfolio-",
+    "published_at": "2026-08-18T15:26:17+00:00",
+    "word_count": 1018,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
