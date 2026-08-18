@@ -49194,5 +49194,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5439951599241902107",
+    "title": "The 'Human-Trust' Leadership Audit: 7 Stress-Tests for Your Executive Brand Against AI-Generated Slop",
+    "url": "https://theomniview.blogspot.com/2026/08/the-human-trust-leadership-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Opinion & Analysis",
+      "executive brand",
+      "AI-generated content",
+      "authentic leadership"
+    ],
+    "slug": "the-human-trust-leadership-audit-7-stress-tests-for-your-executive-brand-against",
+    "published_at": "2026-08-18T10:21:06+00:00",
+    "word_count": 869,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6606266738189762014",
+    "title": "the 'algorithmic-devaluation' audit: 7 stress-tests for your creative portfolio against the ai-content glut",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-devaluation-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Opinion & Analysis",
+      "ai-generated content",
+      "content marketing strategy",
+      "creator economy"
+    ],
+    "slug": "the-algorithmic-devaluation-audit-7-stress-tests-for-your-creative-portfolio-aga",
+    "published_at": "2026-08-18T10:21:33+00:00",
+    "word_count": 830,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
