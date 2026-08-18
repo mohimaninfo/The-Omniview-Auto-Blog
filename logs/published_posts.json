@@ -49656,5 +49656,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "3696653691268897512",
+    "title": "The 'Router-Motion' Privacy Audit: 7 Stress-Tests for Your Home Security Against Comcast\u2019s Wi-Fi Sensing Expansion",
+    "url": "https://theomniview.blogspot.com/2026/08/the-router-motion-privacy-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Reviews",
+      "wi-fi sensing privacy",
+      "comcast router security",
+      "home surveillance technology"
+    ],
+    "slug": "the-router-motion-privacy-audit-7-stress-tests-for-your-home-security-against-co",
+    "published_at": "2026-08-18T21:18:03+00:00",
+    "word_count": 551,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8973635038108981806",
+    "title": "The 'Neuro-Apathy' Resilience Audit: 7 Stress-Tests for Your Emotional Baseline Against Childhood Trauma",
+    "url": "https://theomniview.blogspot.com/2026/08/the-neuro-apathy-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Research Articles",
+      "childhood trauma",
+      "neuroplasticity",
+      "emotional apathy"
+    ],
+    "slug": "the-neuro-apathy-resilience-audit-7-stress-tests-for-your-emotional-baseline-aga",
+    "published_at": "2026-08-18T21:18:53+00:00",
+    "word_count": 901,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
