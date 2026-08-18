@@ -58294,5 +58294,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T12:19:33.643994",
+    "run_end": "2026-08-18T12:20:57.283460",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4553818061918150782",
+        "title": "the 'sovereign-supply' resilience audit: 7 stress-tests for your household preparedness against global trade-war volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-sovereign-supply-resilience-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "household preparedness",
+          "global trade war",
+          "supply chain resilience"
+        ],
+        "slug": "the-sovereign-supply-resilience-audit-7-stress-tests-for-your-household-prepared",
+        "published_at": "2026-08-18T12:25:31+00:00",
+        "word_count": 1163,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3401887717027827844",
+        "title": "The 'Heat-Stress' Resilience Audit: 7 Stress-Tests for Your Fitness Routine Against Declining Heat Tolerance in Adults Over 60",
+        "url": "https://theomniview.blogspot.com/2026/08/the-heat-stress-resilience-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "heat tolerance in seniors",
+          "fitness for over 60",
+          "heat exhaustion prevention"
+        ],
+        "slug": "the-heat-stress-resilience-audit-7-stress-tests-for-your-fitness-routine-against",
+        "published_at": "2026-08-18T12:25:56+00:00",
+        "word_count": 1036,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
