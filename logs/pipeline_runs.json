@@ -57826,5 +57826,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T03:33:52.342531",
+    "run_end": "2026-08-18T03:34:36.952159",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1132615703290409608",
+        "title": "The 'microglia-purge' neuro-audit: 7 stress-tests for your cognitive longevity against waste-processing failure",
+        "url": "https://theomniview.blogspot.com/2026/08/the-microglia-purge-neuro-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "microglia",
+          "neurodegeneration",
+          "cognitive longevity"
+        ],
+        "slug": "the-microglia-purge-neuro-audit-7-stress-tests-for-your-cognitive-longevity-agai",
+        "published_at": "2026-08-18T03:39:12+00:00",
+        "word_count": 998,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8867050102355912780",
+        "title": "The 'Data-Center' Drought Audit: 7 Stress-Tests for Your Local Water Security Against AI-Compute Expansion \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-drought-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Explainers",
+          "sustainable living",
+          "data center water consumption",
+          "local water security"
+        ],
+        "slug": "the-data-center-drought-audit-7-stress-tests-for-your-local-water-security-again",
+        "published_at": "2026-08-18T03:39:36+00:00",
+        "word_count": 961,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
