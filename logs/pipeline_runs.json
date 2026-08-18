@@ -58640,5 +58640,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T19:19:39.198524",
+    "run_end": "2026-08-18T19:21:16.029839",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4956997973311518916",
+        "title": "the 'campus-surveillance' privacy audit: 7 stress-tests for your school\u2019s safety policy against AI-integrated camera networks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-campus-surveillance-privacy-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "How-To Guides",
+          "k12 school security",
+          "student data privacy",
+          "AI surveillance in schools"
+        ],
+        "slug": "the-campus-surveillance-privacy-audit-7-stress-tests-for-your-schools-safety-pol",
+        "published_at": "2026-08-18T19:25:34+00:00",
+        "word_count": 1216,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5850920395784537972",
+        "title": "The 'Eco-Surveillance' Collision Audit: 7 Stress-Tests for Your Local Wildlife Corridors Against Automated License Plate Recognition",
+        "url": "https://theomniview.blogspot.com/2026/08/the-eco-surveillance-collision-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Opinion & Analysis",
+          "wildlife corridors",
+          "automated license plate recognition",
+          "conservation technology"
+        ],
+        "slug": "the-eco-surveillance-collision-audit-7-stress-tests-for-your-local-wildlife-corr",
+        "published_at": "2026-08-18T19:26:15+00:00",
+        "word_count": 1058,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
