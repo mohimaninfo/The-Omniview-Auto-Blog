@@ -58242,5 +58242,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T11:14:00.945001",
+    "run_end": "2026-08-18T11:14:49.892300",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5561535548043938823",
+        "title": "the 'cold-storage' custody audit: 7 stress-tests for your cryptocurrency inheritance against probate court gridlock \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cold-storage-custody-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Explainers",
+          "cryptocurrency inheritance",
+          "crypto estate planning",
+          "cold storage security"
+        ],
+        "slug": "the-cold-storage-custody-audit-7-stress-tests-for-your-cryptocurrency-inheritanc",
+        "published_at": "2026-08-18T11:19:24+00:00",
+        "word_count": 1059,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1492764759828327972",
+        "title": "The 'bit-rot' streaming audit: 7 stress-tests for your high-definition library against lossy compression and remastering bias",
+        "url": "https://theomniview.blogspot.com/2026/08/the-bit-rot-streaming-audit-7-stress_01664760811.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "streaming quality",
+          "bitrate analysis",
+          "digital remastering"
+        ],
+        "slug": "the-bit-rot-streaming-audit-7-stress-tests-for-your-high-definition-library-agai",
+        "published_at": "2026-08-18T11:19:49+00:00",
+        "word_count": 843,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
