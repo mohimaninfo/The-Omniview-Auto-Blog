@@ -58034,5 +58034,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T07:27:46.664385",
+    "run_end": "2026-08-18T07:29:20.510599",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1643571654580513214",
+        "title": "The 'Decompile-Ready' Hardware Audit: 7 Stress-Tests for Your Retro Gadgets Against Planned Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-decompile-ready-hardware-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "retro gaming",
+          "planned obsolescence",
+          "right to repair"
+        ],
+        "slug": "the-decompile-ready-hardware-audit-7-stress-tests-for-your-retro-gadgets-against",
+        "published_at": "2026-08-18T07:33:42+00:00",
+        "word_count": 858,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2034553673011219428",
+        "title": "The 'Source-Code' Preservation Audit: 7 Stress-Tests for Your Retro Gaming Collection Against Server-Side Obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-source-code-preservation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Listicles",
+          "retro gaming preservation",
+          "GoldenEye 007 decompilation",
+          "game source code"
+        ],
+        "slug": "the-source-code-preservation-audit-7-stress-tests-for-your-retro-gaming-collecti",
+        "published_at": "2026-08-18T07:34:19+00:00",
+        "word_count": 849,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
