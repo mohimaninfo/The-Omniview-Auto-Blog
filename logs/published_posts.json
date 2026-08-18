@@ -49744,5 +49744,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4334476417538974585",
+    "title": "The 'snow-eater' infrastructure audit: 7 stress-tests for your local watershed against early-season heat waves",
+    "url": "https://theomniview.blogspot.com/2026/08/the-snow-eater-infrastructure-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "case-studies",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Case Studies",
+      "snow-eater heat waves",
+      "watershed management",
+      "climate resilience"
+    ],
+    "slug": "the-snow-eater-infrastructure-audit-7-stress-tests-for-your-local-watershed-agai",
+    "published_at": "2026-08-18T23:16:02+00:00",
+    "word_count": 725,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "9133562035111242673",
+    "title": "The 'Physical-First' Home Audit: 7 Stress-Tests for Your Sustainable Living Strategy Against Cloud-Dependent Smart Tech",
+    "url": "https://theomniview.blogspot.com/2026/08/the-physical-first-home-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "How-To Guides",
+      "sustainable living",
+      "smart home privacy",
+      "planned obsolescence"
+    ],
+    "slug": "the-physical-first-home-audit-7-stress-tests-for-your-sustainable-living-strateg",
+    "published_at": "2026-08-18T23:16:24+00:00",
+    "word_count": 1061,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
