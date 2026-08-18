@@ -57774,5 +57774,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-18T02:08:02.725235",
+    "run_end": "2026-08-18T02:09:17.337057",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1554903539174715776",
+        "title": "The 'Gut-Brain' Longevity Audit: 7 Stress-Tests for Your Microbiome Against Alzheimer\u2019s Risk",
+        "url": "https://theomniview.blogspot.com/2026/08/the-gut-brain-longevity-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "gut health and Alzheimer\u2019s",
+          "microbiome longevity",
+          "brain-gut axis"
+        ],
+        "slug": "the-gut-brain-longevity-audit-7-stress-tests-for-your-microbiome-against-alzheim",
+        "published_at": "2026-08-18T02:13:47+00:00",
+        "word_count": 961,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8652315850706309392",
+        "title": "the 'carbon-offset' integrity audit: 7 stress-tests for your corporate climate-policy against satellite-verified leak detection",
+        "url": "https://theomniview.blogspot.com/2026/08/the-carbon-offset-integrity-audit-7_0642367413.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "climate-policy",
+          "carbon-offset integrity",
+          "satellite environmental monitoring"
+        ],
+        "slug": "the-carbon-offset-integrity-audit-7-stress-tests-for-your-corporate-climate-poli",
+        "published_at": "2026-08-18T02:14:16+00:00",
+        "word_count": 1005,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
