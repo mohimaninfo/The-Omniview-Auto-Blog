@@ -59992,5 +59992,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T22:12:02.185531",
+    "run_end": "2026-08-19T22:12:43.366064",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7034152324689734675",
+        "title": "The 'Kessler-Syndrome' Logistics Audit: 7 Stress-Tests for Your Starlink Connectivity Against Rising Orbital Debris Density",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kessler-syndrome-logistics-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "orbital debris",
+          "Starlink",
+          "Kessler syndrome"
+        ],
+        "slug": "the-kessler-syndrome-logistics-audit-7-stress-tests-for-your-starlink-connectivi",
+        "published_at": "2026-08-19T22:17:23+00:00",
+        "word_count": 990,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7489604373103771228",
+        "title": "the 'acoustic-pollution' migration audit: 7 stress-tests for your local bird sanctuary against urban drone-delivery noise",
+        "url": "https://theomniview.blogspot.com/2026/08/the-acoustic-pollution-migration-audit.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Latest News",
+          "acoustic pollution",
+          "wildlife conservation",
+          "drone delivery impact"
+        ],
+        "slug": "the-acoustic-pollution-migration-audit-7-stress-tests-for-your-local-bird-sanctu",
+        "published_at": "2026-08-19T22:17:43+00:00",
+        "word_count": 641,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
