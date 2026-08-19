@@ -59784,5 +59784,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T18:15:47.535848",
+    "run_end": "2026-08-19T18:16:48.962490",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7941648297925662911",
+        "title": "The 'digital-only' gaming audit: 7 stress-tests for your GTA 6 pre-order against platform-wide licensing revocation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-only-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Listicles",
+          "GTA 6",
+          "digital-only games",
+          "gaming ownership"
+        ],
+        "slug": "the-digital-only-gaming-audit-7-stress-tests-for-your-gta-6-pre-order-against-pl",
+        "published_at": "2026-08-19T18:21:14+00:00",
+        "word_count": 830,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5348432265991502285",
+        "title": "The 'asynchronous-latency' remote-work audit: 7 stress-tests for your team\u2019s communication against ai-hallucinated calendar scheduling",
+        "url": "https://theomniview.blogspot.com/2026/08/the-asynchronous-latency-remote-work.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Listicles",
+          "remote work productivity",
+          "asynchronous communication",
+          "ai scheduling failures"
+        ],
+        "slug": "the-asynchronous-latency-remote-work-audit-7-stress-tests-for-your-teams-communi",
+        "published_at": "2026-08-19T18:21:48+00:00",
+        "word_count": 786,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
