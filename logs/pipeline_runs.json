@@ -59160,5 +59160,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T06:22:04.581694",
+    "run_end": "2026-08-19T06:23:42.040123",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1034156077050626652",
+        "title": "The 'circular-repair' hardware audit: 7 stress-tests for your smartphone longevity against planned obsolescence and cloud-tethered DRM \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-circular-repair-hardware-audit-7_0785548867.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "How-To Guides",
+          "circular economy",
+          "right to repair",
+          "sustainable smartphone"
+        ],
+        "slug": "the-circular-repair-hardware-audit-7-stress-tests-for-your-smartphone-longevity-",
+        "published_at": "2026-08-19T06:27:49+00:00",
+        "word_count": 931,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "8206279466285781853",
+        "title": "The 'Passive-Cooling' Architecture Audit: 7 Stress-Tests for Your Home\u2019s Heat Resilience Against Rising Urban Temperatures \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-passive-cooling-architecture-audit_01937038783.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "passive cooling",
+          "home heat resilience",
+          "sustainable architecture"
+        ],
+        "slug": "the-passive-cooling-architecture-audit-7-stress-tests-for-your-homes-heat-resili",
+        "published_at": "2026-08-19T06:28:40+00:00",
+        "word_count": 638,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
