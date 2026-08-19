@@ -50756,5 +50756,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7224344015893159494",
+    "title": "The 'triple-tax' benefit audit: 7 stress-tests for your HSA, FSA, and 401k strategy against IRS contribution limits",
+    "url": "https://theomniview.blogspot.com/2026/08/the-triple-tax-benefit-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Explainers",
+      "HSA vs FSA rules",
+      "maxing 401k contributions",
+      "tax-advantaged accounts"
+    ],
+    "slug": "the-triple-tax-benefit-audit-7-stress-tests-for-your-hsa-fsa-and-401k-strategy-a",
+    "published_at": "2026-08-19T23:18:20+00:00",
+    "word_count": 970,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1223515068373825951",
+    "title": "the 'thermal-inertia' storage audit: 7 stress-tests for your local grid against sand battery integration",
+    "url": "https://theomniview.blogspot.com/2026/08/the-thermal-inertia-storage-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Research Articles",
+      "sand battery",
+      "renewable energy storage",
+      "thermal energy storage"
+    ],
+    "slug": "the-thermal-inertia-storage-audit-7-stress-tests-for-your-local-grid-against-san",
+    "published_at": "2026-08-19T23:19:44+00:00",
+    "word_count": 1017,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
