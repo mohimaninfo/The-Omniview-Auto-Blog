@@ -59732,5 +59732,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T17:15:35.762599",
+    "run_end": "2026-08-19T17:16:34.550501",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8004984349749741628",
+        "title": "The 'Time-Blindness' Productivity Audit: 7 Stress-Tests for Your Schedule Against AI-Generated Calendar Inefficiency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-time-blindness-productivity-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Reviews",
+          "time blindness",
+          "AI calendar management",
+          "productivity audit"
+        ],
+        "slug": "the-time-blindness-productivity-audit-7-stress-tests-for-your-schedule-against-a",
+        "published_at": "2026-08-19T17:21:03+00:00",
+        "word_count": 571,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9199295125313187901",
+        "title": "The 'local-only' save audit: 7 stress-tests for your offline gaming library against digital-only platform mandates",
+        "url": "https://theomniview.blogspot.com/2026/08/the-local-only-save-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "offline gaming",
+          "game preservation",
+          "DRM-free gaming"
+        ],
+        "slug": "the-local-only-save-audit-7-stress-tests-for-your-offline-gaming-library-against",
+        "published_at": "2026-08-19T17:21:34+00:00",
+        "word_count": 959,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
