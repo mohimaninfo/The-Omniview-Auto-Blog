@@ -59316,5 +59316,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T09:21:12.420150",
+    "run_end": "2026-08-19T09:22:04.660395",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6387852824266974034",
+        "title": "The 'Quantum-Damping' Resilience Audit: 7 Stress-Tests for Your Wearable Health Data Against Environmental Radiation Interference",
+        "url": "https://theomniview.blogspot.com/2026/08/the-quantum-damping-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Physics",
+          "Research Articles",
+          "cosmic radiation",
+          "semiconductor physics",
+          "wearable health data"
+        ],
+        "slug": "the-quantum-damping-resilience-audit-7-stress-tests-for-your-wearable-health-dat",
+        "published_at": "2026-08-19T09:26:36+00:00",
+        "word_count": 1092,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4341612570302844167",
+        "title": "The 'circadian-sync' audit: 7 stress-tests for your metabolic health against blue-light-blocking wearable data \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-circadian-sync-audit-7-stress-tests.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Opinion & Analysis",
+          "circadian rhythm",
+          "metabolic health",
+          "wearable health data"
+        ],
+        "slug": "the-circadian-sync-audit-7-stress-tests-for-your-metabolic-health-against-blue-l",
+        "published_at": "2026-08-19T09:27:03+00:00",
+        "word_count": 989,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
