@@ -50096,5 +50096,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1272827040655638403",
+    "title": "The 'mercenary-drain' inequality audit: 7 stress-tests for your local labor market against state-sponsored volunteer recruitment",
+    "url": "https://theomniview.blogspot.com/2026/08/the-mercenary-drain-inequality-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Research Articles",
+      "labor market inequality",
+      "mercenary recruitment",
+      "socio-economic impact"
+    ],
+    "slug": "the-mercenary-drain-inequality-audit-7-stress-tests-for-your-local-labor-market-",
+    "published_at": "2026-08-19T08:26:49+00:00",
+    "word_count": 991,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "345701957719088824",
+    "title": "The 'Degree-Verification' Blockchain Audit: 7 Stress-Tests for Your University Credentials Against AI-Generated Diploma Fraud \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-degree-verification-blockchain.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Research Articles",
+      "degree verification",
+      "blockchain in higher education",
+      "diploma fraud"
+    ],
+    "slug": "the-degree-verification-blockchain-audit-7-stress-tests-for-your-university-cred",
+    "published_at": "2026-08-19T08:27:11+00:00",
+    "word_count": 911,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
