@@ -59836,5 +59836,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T19:16:26.863224",
+    "run_end": "2026-08-19T19:17:37.844461",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7979489256780240286",
+        "title": "The 'algorithmic-bias' logistics audit: 7 stress-tests for your ecommerce shipping strategy against AI-driven delivery route discrimination",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-bias-logistics-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Listicles",
+          "ecommerce logistics",
+          "algorithmic bias",
+          "AI shipping optimization"
+        ],
+        "slug": "the-algorithmic-bias-logistics-audit-7-stress-tests-for-your-ecommerce-shipping-",
+        "published_at": "2026-08-19T19:22:04+00:00",
+        "word_count": 769,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4488806577046554362",
+        "title": "The 'digital-only' gaming audit: 7 stress-tests for your GTA 6 pre-order against platform-wide licensing revocation \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-only-gaming-audit-7-stress_041568334.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "GTA 6",
+          "digital-only gaming",
+          "video game preservation"
+        ],
+        "slug": "the-digital-only-gaming-audit-7-stress-tests-for-your-gta-6-pre-order-against-pl",
+        "published_at": "2026-08-19T19:22:36+00:00",
+        "word_count": 997,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
