@@ -50404,5 +50404,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8147750659061058207",
+    "title": "The 'Exchange-Collapse' Custody Audit: 7 Stress-Tests for Your Cryptocurrency Reserves Against Platform Insolvency",
+    "url": "https://theomniview.blogspot.com/2026/08/the-exchange-collapse-custody-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "reviews",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Reviews",
+      "cryptocurrency custody",
+      "exchange insolvency",
+      "proof of reserves"
+    ],
+    "slug": "the-exchange-collapse-custody-audit-7-stress-tests-for-your-cryptocurrency-reser",
+    "published_at": "2026-08-19T15:24:54+00:00",
+    "word_count": 618,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2621994605995097195",
+    "title": "The 'synthetic-conflict' intelligence audit: 7 stress-tests for your news literacy against AI-generated battlefield propaganda",
+    "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-conflict-intelligence.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Research Articles",
+      "AI-generated propaganda",
+      "digital information literacy",
+      "Ukraine conflict news"
+    ],
+    "slug": "the-synthetic-conflict-intelligence-audit-7-stress-tests-for-your-news-literacy-",
+    "published_at": "2026-08-19T15:25:40+00:00",
+    "word_count": 1014,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
