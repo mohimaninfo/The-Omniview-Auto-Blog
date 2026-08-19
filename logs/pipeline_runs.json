@@ -59940,5 +59940,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T21:14:35.711636",
+    "run_end": "2026-08-19T21:15:32.271151",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6536472381333345551",
+        "title": "The 'Exercise-Mimetic' Metabolic Audit: 7 Stress-Tests for Your Natural Muscle Maintenance Against Weight-Loss Drug Side Effects \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-exercise-mimetic-metabolic-audit-7_0258329956.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Explainers",
+          "GLP-1 side effects",
+          "muscle mass preservation",
+          "exercise-mimetic drugs"
+        ],
+        "slug": "the-exercise-mimetic-metabolic-audit-7-stress-tests-for-your-natural-muscle-main",
+        "published_at": "2026-08-19T21:20:07+00:00",
+        "word_count": 1001,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6325260388514170834",
+        "title": "The 'Digital-Only' Gaming Audit: 7 Stress-Tests for Your GTA 6 Pre-Order Against Platform-Wide Licensing Revocation \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-only-gaming-audit-7-stress_0679425732.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "digital-only gaming",
+          "GTA 6",
+          "streaming license revocation"
+        ],
+        "slug": "the-digital-only-gaming-audit-7-stress-tests-for-your-gta-6-pre-order-against-pl",
+        "published_at": "2026-08-19T21:20:31+00:00",
+        "word_count": 926,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
