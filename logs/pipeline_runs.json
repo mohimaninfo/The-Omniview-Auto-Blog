@@ -59680,5 +59680,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T16:16:58.081647",
+    "run_end": "2026-08-19T16:18:17.453678",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1905188512222565242",
+        "title": "The 'Human-Verified' Surveillance Audit: 7 Stress-Tests for Your Corporate Ethics Against Flock-Style AI Policing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-verified-surveillance-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "corporate ethics",
+          "surveillance technology",
+          "Flock Safety"
+        ],
+        "slug": "the-human-verified-surveillance-audit-7-stress-tests-for-your-corporate-ethics-a",
+        "published_at": "2026-08-19T16:22:34+00:00",
+        "word_count": 1005,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 8
+      },
+      {
+        "post_id": "3060267199855685960",
+        "title": "The 'shock-glove' transition audit: 7 stress-tests for your school\u2019s safety protocol against non-lethal de-escalation standards",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shock-glove-transition-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "How-To Guides",
+          "school safety protocols",
+          "k12 security policies",
+          "non-lethal restraint"
+        ],
+        "slug": "the-shock-glove-transition-audit-7-stress-tests-for-your-schools-safety-protocol",
+        "published_at": "2026-08-19T16:23:16+00:00",
+        "word_count": 896,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
