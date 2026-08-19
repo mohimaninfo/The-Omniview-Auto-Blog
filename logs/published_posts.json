@@ -49964,5 +49964,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4689392412117913806",
+    "title": "The 'circular-repair' hardware audit: 7 stress-tests for your smartphone longevity against planned obsolescence and cloud-tethered DRM",
+    "url": "https://theomniview.blogspot.com/2026/08/the-circular-repair-hardware-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "circular economy",
+      "right to repair",
+      "sustainable smartphone"
+    ],
+    "slug": "the-circular-repair-hardware-audit-7-stress-tests-for-your-smartphone-longevity-",
+    "published_at": "2026-08-19T05:23:43+00:00",
+    "word_count": 971,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "769437717266162910",
+    "title": "The 'algorithmic-redlining' housing audit: 7 stress-tests for your mortgage application against automated bias \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-redlining-housing-audit.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Opinion & Analysis",
+      "algorithmic redlining",
+      "housing inequality",
+      "AI bias in finance"
+    ],
+    "slug": "the-algorithmic-redlining-housing-audit-7-stress-tests-for-your-mortgage-applica",
+    "published_at": "2026-08-19T05:24:02+00:00",
+    "word_count": 958,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
