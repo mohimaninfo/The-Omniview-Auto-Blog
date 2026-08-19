@@ -59888,5 +59888,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T20:12:47.475549",
+    "run_end": "2026-08-19T20:13:42.962926",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3828177526237362496",
+        "title": "The 'orbital-debris' navigation audit: 7 stress-tests for your satellite data reliability against rising space junk density",
+        "url": "https://theomniview.blogspot.com/2026/08/the-orbital-debris-navigation-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "orbital debris",
+          "space junk",
+          "satellite reliability"
+        ],
+        "slug": "the-orbital-debris-navigation-audit-7-stress-tests-for-your-satellite-data-relia",
+        "published_at": "2026-08-19T20:18:11+00:00",
+        "word_count": 746,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1984078836829247175",
+        "title": "The 'algorithmic-heartbreak' audit: 7 stress-tests for your relationship health against rage-bait engagement loops",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-heartbreak-audit-7_0208236738.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Opinion & Analysis",
+          "relationship health",
+          "rage-bait algorithms",
+          "social media impact on relationships"
+        ],
+        "slug": "the-algorithmic-heartbreak-audit-7-stress-tests-for-your-relationship-health-aga",
+        "published_at": "2026-08-19T20:18:42+00:00",
+        "word_count": 835,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
