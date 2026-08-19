@@ -59004,5 +59004,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T03:36:16.524165",
+    "run_end": "2026-08-19T03:37:21.337699",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4589934471930209402",
+        "title": "The 'Smart-Kitchen' Surveillance Audit: 7 Stress-Tests for Your Privacy Against AI-Powered Appliance Monitoring",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-kitchen-surveillance-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen privacy",
+          "AI kitchen appliances",
+          "data privacy in cooking"
+        ],
+        "slug": "the-smart-kitchen-surveillance-audit-7-stress-tests-for-your-privacy-against-ai-",
+        "published_at": "2026-08-19T03:41:44+00:00",
+        "word_count": 914,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5958016315070822981",
+        "title": "The 'founder-equity' dilution audit: 7 stress-tests for your cap table against aggressive AI-compute financing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-founder-equity-dilution-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup cap table",
+          "founder equity dilution",
+          "AI startup financing"
+        ],
+        "slug": "the-founder-equity-dilution-audit-7-stress-tests-for-your-cap-table-against-aggr",
+        "published_at": "2026-08-19T03:42:20+00:00",
+        "word_count": 1022,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
