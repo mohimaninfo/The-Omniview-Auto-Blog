@@ -59472,5 +59472,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T12:19:31.249772",
+    "run_end": "2026-08-19T12:21:34.015206",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2482523777442416543",
+        "title": "The 'Router-Sensing' Privacy Audit: 7 Stress-Tests for Your Home-Office Security Against Comcast\u2019s Wi-Fi Sensing Expansion \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-router-sensing-privacy-audit-7_01412444844.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "Wi-Fi sensing privacy",
+          "Comcast motion detection",
+          "home office security"
+        ],
+        "slug": "the-router-sensing-privacy-audit-7-stress-tests-for-your-home-office-security-ag",
+        "published_at": "2026-08-19T12:25:25+00:00",
+        "word_count": 861,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "981274605344087470",
+        "title": "The 'exercise-mimetic' metabolic audit: 7 stress-tests for your natural muscle maintenance against weight-loss drug side effects",
+        "url": "https://theomniview.blogspot.com/2026/08/the-exercise-mimetic-metabolic-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "exercise mimetics",
+          "muscle preservation",
+          "metabolic health"
+        ],
+        "slug": "the-exercise-mimetic-metabolic-audit-7-stress-tests-for-your-natural-muscle-main",
+        "published_at": "2026-08-19T12:26:33+00:00",
+        "word_count": 1079,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
