@@ -50360,5 +50360,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5267296030882912056",
+    "title": "The 'Travel-Privacy' Surveillance Audit: 7 Stress-Tests for Your Hotel Room Security Against ISP-Level Wi-Fi Motion Detection",
+    "url": "https://theomniview.blogspot.com/2026/08/the-travel-privacy-surveillance-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Explainers",
+      "travel privacy",
+      "hotel room security",
+      "Wi-Fi motion detection"
+    ],
+    "slug": "the-travel-privacy-surveillance-audit-7-stress-tests-for-your-hotel-room-securit",
+    "published_at": "2026-08-19T14:26:26+00:00",
+    "word_count": 911,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6628281889426092321",
+    "title": "The 'Shadow-Credential' Identity Audit: 7 Stress-Tests for Your SSO Security Against Account-Takeover Chains",
+    "url": "https://theomniview.blogspot.com/2026/08/the-shadow-credential-identity-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Opinion & Analysis",
+      "SSO security",
+      "session hijacking",
+      "account takeover"
+    ],
+    "slug": "the-shadow-credential-identity-audit-7-stress-tests-for-your-sso-security-agains",
+    "published_at": "2026-08-19T14:27:07+00:00",
+    "word_count": 977,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
