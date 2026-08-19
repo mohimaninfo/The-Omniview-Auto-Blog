@@ -59524,5 +59524,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T13:35:01.063722",
+    "run_end": "2026-08-19T13:36:55.899095",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2703743875313902976",
+        "title": "The 'Climate-Ghost' Surveillance Audit: 7 Stress-Tests for Your Local Conservation Policy Against AI-Powered ISP Motion Detection",
+        "url": "https://theomniview.blogspot.com/2026/08/the-climate-ghost-surveillance-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Opinion & Analysis",
+          "climate policy",
+          "ISP motion detection",
+          "wildlife habitat conservation"
+        ],
+        "slug": "the-climate-ghost-surveillance-audit-7-stress-tests-for-your-local-conservation-",
+        "published_at": "2026-08-19T13:41:09+00:00",
+        "word_count": 1052,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "27801661487050456",
+        "title": "The 'Analog-Resilience' Career Audit: 7 Stress-Tests for Your Professional Skill Set Against AI-Driven Automation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-analog-resilience-career-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "career resilience",
+          "future of work",
+          "AI automation"
+        ],
+        "slug": "the-analog-resilience-career-audit-7-stress-tests-for-your-professional-skill-se",
+        "published_at": "2026-08-19T13:41:55+00:00",
+        "word_count": 974,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
