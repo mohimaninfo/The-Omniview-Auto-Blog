@@ -59212,5 +59212,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T07:28:41.042527",
+    "run_end": "2026-08-19T07:30:32.360428",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6794258546932937342",
+        "title": "The 'Lossless-Archive' Resilience Audit: 7 Stress-Tests for Your Physical Music Collection Against Cloud-Vendor Service Revocation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-lossless-archive-resilience-audit-7.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Reviews",
+          "physical media music",
+          "digital music ownership",
+          "cloud DRM"
+        ],
+        "slug": "the-lossless-archive-resilience-audit-7-stress-tests-for-your-physical-music-col",
+        "published_at": "2026-08-19T07:34:50+00:00",
+        "word_count": 589,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4760629966887109463",
+        "title": "The 'Smart-Home' Vulnerability Audit: 7 Stress-Tests for Your Privacy Against ISP-Level Motion Detection \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-home-vulnerability-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Explainers",
+          "smart home privacy",
+          "wi-fi sensing",
+          "home network security"
+        ],
+        "slug": "the-smart-home-vulnerability-audit-7-stress-tests-for-your-privacy-against-isp-l",
+        "published_at": "2026-08-19T07:35:31+00:00",
+        "word_count": 952,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
