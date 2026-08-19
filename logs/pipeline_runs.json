@@ -59368,5 +59368,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-19T10:15:57.298198",
+    "run_end": "2026-08-19T10:17:12.428793",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8531526456122569111",
+        "title": "The 'Deepfake-Diplomacy' Audit: 7 Stress-Tests for Your Information Literacy Against Synthetic State-Propaganda",
+        "url": "https://theomniview.blogspot.com/2026/08/the-deepfake-diplomacy-audit-7-stress.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Research Articles",
+          "deepfake propaganda",
+          "information literacy",
+          "AI-generated disinformation"
+        ],
+        "slug": "the-deepfake-diplomacy-audit-7-stress-tests-for-your-information-literacy-agains",
+        "published_at": "2026-08-19T10:21:41+00:00",
+        "word_count": 936,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7684784219848844128",
+        "title": "The 'Wi-Fi Sensing' Privacy Audit: 7 Stress-Tests for Your Application\u2019s Data Security Against ISP-Level Motion Detection",
+        "url": "https://theomniview.blogspot.com/2026/08/the-wi-fi-sensing-privacy-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Reviews",
+          "Wi-Fi sensing privacy",
+          "ISP motion detection security",
+          "developer privacy protocols"
+        ],
+        "slug": "the-wi-fi-sensing-privacy-audit-7-stress-tests-for-your-applications-data-securi",
+        "published_at": "2026-08-19T10:22:11+00:00",
+        "word_count": 580,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
