@@ -60356,5 +60356,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T06:23:01.365047",
+    "run_end": "2026-08-20T06:24:05.403621",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5718307684712922451",
+        "title": "The 'neuro-immune' crosstalk audit: 7 stress-tests for your cognitive recovery against post-injury bladder infections",
+        "url": "https://theomniview.blogspot.com/2026/08/the-neuro-immune-crosstalk-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Latest News",
+          "neuro-immune crosstalk",
+          "traumatic brain injury recovery",
+          "cognitive decline"
+        ],
+        "slug": "the-neuro-immune-crosstalk-audit-7-stress-tests-for-your-cognitive-recovery-agai",
+        "published_at": "2026-08-20T06:28:36+00:00",
+        "word_count": 711,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "436009328945569761",
+        "title": "The 'algorithmic-wealth' inheritance audit: 7 stress-tests for your family estate against AI-driven predictive probate \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-wealth-inheritance.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Research Articles",
+          "wealth inequality",
+          "estate planning",
+          "algorithmic bias"
+        ],
+        "slug": "the-algorithmic-wealth-inheritance-audit-7-stress-tests-for-your-family-estate-a",
+        "published_at": "2026-08-20T06:29:04+00:00",
+        "word_count": 1026,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
