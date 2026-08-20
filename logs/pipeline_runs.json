@@ -60980,5 +60980,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T18:19:53.318747",
+    "run_end": "2026-08-20T18:20:36.595514",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4792277527937802832",
+        "title": "The 'API-Exclusivity' Architecture Audit: 7 stress-tests for your SaaS infrastructure against platform-mandated content siloing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-api-exclusivity-architecture-audit.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Listicles",
+          "SaaS architecture",
+          "API exclusivity",
+          "platform dependency"
+        ],
+        "slug": "the-api-exclusivity-architecture-audit-7-stress-tests-for-your-saas-infrastructu",
+        "published_at": "2026-08-20T18:25:13+00:00",
+        "word_count": 770,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5158169653414513747",
+        "title": "The 'Smart-Pool' Privacy Audit: 7 Stress-Tests for Your Backyard Security Against AI-Powered Drone Delivery Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-pool-privacy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "smart home privacy",
+          "drone surveillance",
+          "backyard security"
+        ],
+        "slug": "the-smart-pool-privacy-audit-7-stress-tests-for-your-backyard-security-against-a",
+        "published_at": "2026-08-20T18:25:36+00:00",
+        "word_count": 542,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
