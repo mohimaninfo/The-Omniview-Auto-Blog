@@ -60772,5 +60772,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T14:23:52.213777",
+    "run_end": "2026-08-20T14:24:45.125485",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8891609413893516047",
+        "title": "the 'nuclear-deterrence' volatility audit: 7 stress-tests for your geopolitical risk assessment against rising warhead proliferation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-nuclear-deterrence-volatility-audit.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Research Articles",
+          "nuclear deterrence",
+          "geopolitical risk",
+          "nuclear proliferation"
+        ],
+        "slug": "the-nuclear-deterrence-volatility-audit-7-stress-tests-for-your-geopolitical-ris",
+        "published_at": "2026-08-20T14:29:16+00:00",
+        "word_count": 1003,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4366477355648379143",
+        "title": "The 'data-center' cooling audit: 7 stress-tests for your local watershed against liquid-cooled ai server expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-cooling-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Latest News",
+          "AI data center water consumption",
+          "water conservation",
+          "sustainable AI infrastructure"
+        ],
+        "slug": "the-data-center-cooling-audit-7-stress-tests-for-your-local-watershed-against-li",
+        "published_at": "2026-08-20T14:29:44+00:00",
+        "word_count": 726,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
