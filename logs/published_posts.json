@@ -51504,5 +51504,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8792784005366067492",
+    "title": "the 'synthetic-dissent' propaganda audit: 7 stress-tests for your social media feed against ai-generated protest astroturfing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-dissent-propaganda-audit.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Explainers",
+      "synthetic dissent",
+      "ai propaganda",
+      "astroturfing detection"
+    ],
+    "slug": "the-synthetic-dissent-propaganda-audit-7-stress-tests-for-your-social-media-feed",
+    "published_at": "2026-08-20T17:22:52+00:00",
+    "word_count": 932,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "976091553468295886",
+    "title": "The 'synthetic-peer' vulnerability audit: 7 stress-tests for your school\u2019s social-emotional learning curriculum against ai-generated social anxiety",
+    "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-peer-vulnerability-audit.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Research Articles",
+      "social-emotional learning",
+      "AI in schools",
+      "student mental health"
+    ],
+    "slug": "the-synthetic-peer-vulnerability-audit-7-stress-tests-for-your-schools-social-em",
+    "published_at": "2026-08-20T17:23:24+00:00",
+    "word_count": 995,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
