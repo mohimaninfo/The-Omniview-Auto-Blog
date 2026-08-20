@@ -60252,5 +60252,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T04:24:43.404541",
+    "run_end": "2026-08-20T04:26:54.178588",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4836076668530953106",
+        "title": "The 'forever-chemical' legacy audit: 7 stress-tests for your local water security against PFAS contamination \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-forever-chemical-legacy-audit-7_0725907406.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Explainers",
+          "PFAS contamination",
+          "water quality testing",
+          "forever chemicals"
+        ],
+        "slug": "the-forever-chemical-legacy-audit-7-stress-tests-for-your-local-water-security-a",
+        "published_at": "2026-08-20T04:30:36+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2054160618360719654",
+        "title": "The 'melanoma-vaccine' efficacy audit: 7 stress-tests for your cancer-prevention strategy against late-stage mRNA clinical trial results",
+        "url": "https://theomniview.blogspot.com/2026/08/the-melanoma-vaccine-efficacy-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Latest News",
+          "melanoma vaccine",
+          "mRNA cancer treatment",
+          "Moderna Merck clinical trial"
+        ],
+        "slug": "the-melanoma-vaccine-efficacy-audit-7-stress-tests-for-your-cancer-prevention-st",
+        "published_at": "2026-08-20T04:31:53+00:00",
+        "word_count": 835,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
