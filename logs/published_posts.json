@@ -51416,5 +51416,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4922849894285111341",
+    "title": "The 'Flash-Drought' Physics Audit: 7 Stress-Tests for Your Local Water Security Against Hybrid Evaporation Modeling",
+    "url": "https://theomniview.blogspot.com/2026/08/the-flash-drought-physics-audit-7.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Physics",
+      "Research Articles",
+      "flash drought",
+      "evaporation modeling",
+      "water security"
+    ],
+    "slug": "the-flash-drought-physics-audit-7-stress-tests-for-your-local-water-security-aga",
+    "published_at": "2026-08-20T15:27:14+00:00",
+    "word_count": 1114,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2721426508228589279",
+    "title": "The 'algorithmic-pantry' audit: 7 stress-tests for your home cooking independence against ai-integrated smart appliance surveillance",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-pantry-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Opinion & Analysis",
+      "smart kitchen privacy",
+      "ai food tracking",
+      "home cooking autonomy"
+    ],
+    "slug": "the-algorithmic-pantry-audit-7-stress-tests-for-your-home-cooking-independence-a",
+    "published_at": "2026-08-20T15:27:37+00:00",
+    "word_count": 932,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
