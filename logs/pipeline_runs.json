@@ -60616,5 +60616,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T11:15:22.171310",
+    "run_end": "2026-08-20T11:20:11.810462",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7858274346701235784",
+        "title": "The 'Ozempic-Brain' Anxiety Audit: 7 Stress-Tests for Your Mental Health Against GLP-1 Metabolic Shifts \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ozempic-brain-anxiety-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Latest News",
+          "Ozempic mental health side effects",
+          "GLP-1 receptor agonists anxiety",
+          "metabolic psychiatry"
+        ],
+        "slug": "the-ozempic-brain-anxiety-audit-7-stress-tests-for-your-mental-health-against-gl",
+        "published_at": "2026-08-20T11:21:10+00:00",
+        "word_count": 848,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2702985951656899023",
+        "title": "the 'exclusivity-trap' career audit: 7 stress-tests for your creative portfolio against platform-mandated content siloing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-exclusivity-trap-career-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "creator economy",
+          "content creator career",
+          "platform risk management"
+        ],
+        "slug": "the-exclusivity-trap-career-audit-7-stress-tests-for-your-creative-portfolio-aga",
+        "published_at": "2026-08-20T11:25:10+00:00",
+        "word_count": 931,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
