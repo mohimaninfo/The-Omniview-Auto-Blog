@@ -51768,5 +51768,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "3304152718892549929",
+    "title": "The 'Data-Center' NIMBY audit: 7 stress-tests for your corporate site selection strategy against local political backlash",
+    "url": "https://theomniview.blogspot.com/2026/08/the-data-center-nimby-audit-7-stress.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Case Studies",
+      "data center site selection",
+      "corporate social responsibility",
+      "leadership risk management"
+    ],
+    "slug": "the-data-center-nimby-audit-7-stress-tests-for-your-corporate-site-selection-str",
+    "published_at": "2026-08-20T23:19:51+00:00",
+    "word_count": 770,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8820797622038154145",
+    "title": "The 'fractional-equity' risk audit: 7 stress-tests for your startup investment portfolio against secondary-market liquidity traps \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-fractional-equity-risk-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Listicles",
+      "fractional equity investing",
+      "startup investment risks",
+      "secondary market liquidity"
+    ],
+    "slug": "the-fractional-equity-risk-audit-7-stress-tests-for-your-startup-investment-port",
+    "published_at": "2026-08-20T23:20:29+00:00",
+    "word_count": 761,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
