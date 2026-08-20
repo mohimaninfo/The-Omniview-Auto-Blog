@@ -60304,5 +60304,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T05:20:12.973750",
+    "run_end": "2026-08-20T05:21:38.186848",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3469367354541774961",
+        "title": "The 'smart-kitchen' surveillance audit: 7 stress-tests for your culinary privacy against wearable ai cameras",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-kitchen-surveillance-audit-7_0506146441.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Opinion & Analysis",
+          "smart kitchen privacy",
+          "AI cooking wearables",
+          "kitchen data security"
+        ],
+        "slug": "the-smart-kitchen-surveillance-audit-7-stress-tests-for-your-culinary-privacy-ag",
+        "published_at": "2026-08-20T05:25:56+00:00",
+        "word_count": 756,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4841722115720278616",
+        "title": "the 'content-fade' streaming audit: 7 stress-tests for your digital media library against silent film-tv de-listing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-content-fade-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Explainers",
+          "streaming media de-listing",
+          "digital media ownership",
+          "film and tv archival"
+        ],
+        "slug": "the-content-fade-streaming-audit-7-stress-tests-for-your-digital-media-library-a",
+        "published_at": "2026-08-20T05:26:37+00:00",
+        "word_count": 1034,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
