@@ -60876,5 +60876,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T16:19:50.922036",
+    "run_end": "2026-08-20T16:21:20.908899",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7868510941065732350",
+        "title": "The 'Data-Dumping' Marketing Audit: 7 Stress-Tests for Your Brand Loyalty Against AI-Driven Environmental Backlash",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-dumping-marketing-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Reviews",
+          "brand loyalty",
+          "AI data center sustainability",
+          "marketing crisis management"
+        ],
+        "slug": "the-data-dumping-marketing-audit-7-stress-tests-for-your-brand-loyalty-against-a",
+        "published_at": "2026-08-20T16:25:22+00:00",
+        "word_count": 633,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7240679454961536967",
+        "title": "The 'Robotoid-Humanness' Cognitive Audit: 7 Stress-Tests for Your Social Boundaries Against Synthetic Empathy",
+        "url": "https://theomniview.blogspot.com/2026/08/the-robotoid-humanness-cognitive-audit.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Opinion & Analysis",
+          "robotoid humanness",
+          "human-robot interaction",
+          "neuroplasticity"
+        ],
+        "slug": "the-robotoid-humanness-cognitive-audit-7-stress-tests-for-your-social-boundaries",
+        "published_at": "2026-08-20T16:26:20+00:00",
+        "word_count": 844,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
