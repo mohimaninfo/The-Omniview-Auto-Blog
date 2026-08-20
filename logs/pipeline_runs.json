@@ -61136,5 +61136,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T21:16:25.823988",
+    "run_end": "2026-08-20T21:18:10.043997",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1150992035467142775",
+        "title": "The 'Hepatotoxin-Exposure' Audit: 7 Stress-Tests for Your Medication Routine Against the Rise of Non-Alcoholic Liver Injury",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hepatotoxin-exposure-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Latest News",
+          "non-alcoholic liver injury",
+          "hepatotoxic medications",
+          "liver health research"
+        ],
+        "slug": "the-hepatotoxin-exposure-audit-7-stress-tests-for-your-medication-routine-agains",
+        "published_at": "2026-08-20T21:22:17+00:00",
+        "word_count": 739,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "1005069528176766604",
+        "title": "the 'cold-storage' inheritance audit: 7 stress-tests for your cryptocurrency recovery against sudden incapacitation \u2014 a opinion analysis perspective \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cold-storage-inheritance-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "crypto estate planning",
+          "bitcoin inheritance",
+          "cold storage recovery"
+        ],
+        "slug": "the-cold-storage-inheritance-audit-7-stress-tests-for-your-cryptocurrency-recove",
+        "published_at": "2026-08-20T21:23:09+00:00",
+        "word_count": 877,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
