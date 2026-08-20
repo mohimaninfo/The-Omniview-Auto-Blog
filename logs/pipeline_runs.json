@@ -60668,5 +60668,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T12:21:17.800427",
+    "run_end": "2026-08-20T12:23:11.741343",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2507718233541167508",
+        "title": "The 'Platform-Silo' Marketing Audit: 7 Stress-Tests for Your Brand Strategy Against YouTube\u2019s Exclusivity Mandates",
+        "url": "https://theomniview.blogspot.com/2026/08/the-platform-silo-marketing-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Case Studies",
+          "creator economy",
+          "content marketing strategy",
+          "YouTube exclusivity"
+        ],
+        "slug": "the-platform-silo-marketing-audit-7-stress-tests-for-your-brand-strategy-against",
+        "published_at": "2026-08-20T12:27:43+00:00",
+        "word_count": 733,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1390748329999810448",
+        "title": "the 'platform-hostage' monetization audit: 7 stress-tests for your creator business against forced exclusivity clauses",
+        "url": "https://theomniview.blogspot.com/2026/08/the-platform-hostage-monetization-audit.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "creator economy",
+          "platform risk",
+          "content monetization"
+        ],
+        "slug": "the-platform-hostage-monetization-audit-7-stress-tests-for-your-creator-business",
+        "published_at": "2026-08-20T12:28:11+00:00",
+        "word_count": 802,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
