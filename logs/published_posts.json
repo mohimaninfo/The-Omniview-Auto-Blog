@@ -51064,5 +51064,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2772090644627878093",
+    "title": "The 'urban-shade' equity audit: 7 stress-tests for your neighborhood\u2019s heat resilience against public safety gaps",
+    "url": "https://theomniview.blogspot.com/2026/08/the-urban-shade-equity-audit-7-stress.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Explainers",
+      "urban heat inequality",
+      "climate adaptation equity",
+      "public safety infrastructure"
+    ],
+    "slug": "the-urban-shade-equity-audit-7-stress-tests-for-your-neighborhoods-heat-resilien",
+    "published_at": "2026-08-20T07:39:32+00:00",
+    "word_count": 943,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "209169501228934031",
+    "title": "The 'Oral-Fitness' Microbiome Audit: 7 Stress-Tests for Your Training Performance Against Poor Dental Health",
+    "url": "https://theomniview.blogspot.com/2026/08/the-oral-fitness-microbiome-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Explainers",
+      "oral health and fitness",
+      "athletic performance",
+      "systemic inflammation"
+    ],
+    "slug": "the-oral-fitness-microbiome-audit-7-stress-tests-for-your-training-performance-a",
+    "published_at": "2026-08-20T07:41:33+00:00",
+    "word_count": 929,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
