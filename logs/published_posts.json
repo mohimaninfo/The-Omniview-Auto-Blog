@@ -51152,5 +51152,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "5143287454392668477",
+    "title": "The 'legal-waiver' classroom audit: 7 stress-tests for your school\u2019s liability policy against Roblox-style platform overreach",
+    "url": "https://theomniview.blogspot.com/2026/08/the-legal-waiver-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "How-To Guides",
+      "k12 data privacy",
+      "school liability policy",
+      "student digital rights"
+    ],
+    "slug": "the-legal-waiver-classroom-audit-7-stress-tests-for-your-schools-liability-polic",
+    "published_at": "2026-08-20T09:27:28+00:00",
+    "word_count": 937,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "3014001463877854630",
+    "title": "The 'thermal-inertia' storage audit: 7 stress-tests for your local grid against zinc-iodine battery integration \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-thermal-inertia-storage-audit-7_0546361699.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Explainers",
+      "zinc-iodine battery",
+      "renewable energy storage",
+      "grid resilience"
+    ],
+    "slug": "the-thermal-inertia-storage-audit-7-stress-tests-for-your-local-grid-against-zin",
+    "published_at": "2026-08-20T09:28:08+00:00",
+    "word_count": 988,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
