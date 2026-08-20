@@ -60200,5 +60200,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T03:36:00.628058",
+    "run_end": "2026-08-20T03:37:45.186235",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1536043312855664807",
+        "title": "The 'forever-chemical' legacy audit: 7 stress-tests for your local water security against PFAS contamination",
+        "url": "https://theomniview.blogspot.com/2026/08/the-forever-chemical-legacy-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "PFAS contamination",
+          "water security",
+          "forever chemicals"
+        ],
+        "slug": "the-forever-chemical-legacy-audit-7-stress-tests-for-your-local-water-security-a",
+        "published_at": "2026-08-20T03:41:53+00:00",
+        "word_count": 831,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4953247032234985816",
+        "title": "The 'biometric-drift' recovery audit: 7 stress-tests for your metabolic health against long-term wearable data fatigue",
+        "url": "https://theomniview.blogspot.com/2026/08/the-biometric-drift-recovery-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "metabolic health",
+          "wearable health data",
+          "health anxiety"
+        ],
+        "slug": "the-biometric-drift-recovery-audit-7-stress-tests-for-your-metabolic-health-agai",
+        "published_at": "2026-08-20T03:42:44+00:00",
+        "word_count": 879,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
