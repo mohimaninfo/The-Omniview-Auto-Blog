@@ -50844,5 +50844,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "8439058730799126488",
+    "title": "The 'Flock-Effect' Privacy Audit: 7 Stress-Tests for Your Neighborhood\u2019s Autonomy Against AI-Integrated Drone Policing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-flock-effect-privacy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "AI drone policing",
+      "Flock Safety cameras",
+      "public surveillance privacy"
+    ],
+    "slug": "the-flock-effect-privacy-audit-7-stress-tests-for-your-neighborhoods-autonomy-ag",
+    "published_at": "2026-08-20T02:15:07+00:00",
+    "word_count": 716,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4097131256875824186",
+    "title": "The 'End-User' Liability Audit: 7 Stress-Tests for Your Digital Gaming Rights Against Roblox-Style Legal Precedents",
+    "url": "https://theomniview.blogspot.com/2026/08/the-end-user-liability-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Explainers",
+      "Roblox lawsuit",
+      "digital gaming rights",
+      "Terms of Service"
+    ],
+    "slug": "the-end-user-liability-audit-7-stress-tests-for-your-digital-gaming-rights-again",
+    "published_at": "2026-08-20T02:15:48+00:00",
+    "word_count": 1042,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
