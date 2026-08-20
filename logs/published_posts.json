@@ -51328,5 +51328,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "286608313887158626",
+    "title": "the 'smart-glass' leadership audit: 7 stress-tests for your office culture against invasive ai-powered recording",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-glass-leadership-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Interviews",
+      "workplace privacy",
+      "AI leadership",
+      "office culture"
+    ],
+    "slug": "the-smart-glass-leadership-audit-7-stress-tests-for-your-office-culture-against-",
+    "published_at": "2026-08-20T13:42:19+00:00",
+    "word_count": 935,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6088105270794363638",
+    "title": "The 'autonomous-policing' liability audit: 7 stress-tests for your neighborhood safety against AI-integrated drone surveillance",
+    "url": "https://theomniview.blogspot.com/2026/08/the-autonomous-policing-liability-audit.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Explainers",
+      "AI drone surveillance",
+      "automated license plate recognition",
+      "neighborhood privacy laws"
+    ],
+    "slug": "the-autonomous-policing-liability-audit-7-stress-tests-for-your-neighborhood-saf",
+    "published_at": "2026-08-20T13:43:45+00:00",
+    "word_count": 919,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
