@@ -51724,5 +51724,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1924749756480750545",
+    "title": "The 'Smart-Lens' Privacy Audit: 7 Stress-Tests for Your Workplace Boundaries Against AI-Powered Smart Glasses",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-lens-privacy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "How-To Guides",
+      "smart glasses privacy",
+      "AI wearable security",
+      "workplace surveillance"
+    ],
+    "slug": "the-smart-lens-privacy-audit-7-stress-tests-for-your-workplace-boundaries-agains",
+    "published_at": "2026-08-20T22:19:51+00:00",
+    "word_count": 952,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4232789286435759994",
+    "title": "The 'mycelium-brick' construction audit: 7 stress-tests for your home\u2019s carbon footprint against industrial concrete alternatives",
+    "url": "https://theomniview.blogspot.com/2026/08/the-mycelium-brick-construction-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Explainers",
+      "mycelium construction",
+      "sustainable building materials",
+      "carbon footprint reduction"
+    ],
+    "slug": "the-mycelium-brick-construction-audit-7-stress-tests-for-your-homes-carbon-footp",
+    "published_at": "2026-08-20T22:20:23+00:00",
+    "word_count": 937,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
