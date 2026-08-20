@@ -51592,5 +51592,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7230932552561826329",
+    "title": "The 'energy-poverty' infrastructure audit: 7 stress-tests for your local utility grid against rising fuel-import dependence",
+    "url": "https://theomniview.blogspot.com/2026/08/the-energy-poverty-infrastructure-audit.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Research Articles",
+      "energy poverty",
+      "utility grid inequality",
+      "fuel crisis"
+    ],
+    "slug": "the-energy-poverty-infrastructure-audit-7-stress-tests-for-your-local-utility-gr",
+    "published_at": "2026-08-20T19:27:39+00:00",
+    "word_count": 974,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8154930546298533069",
+    "title": "The 'fan-funding' volatility audit: 7 stress-tests for your favorite indie artist\u2019s career against platform-wide subscription fatigue",
+    "url": "https://theomniview.blogspot.com/2026/08/the-fan-funding-volatility-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Listicles",
+      "music industry trends",
+      "fan funding",
+      "independent artists"
+    ],
+    "slug": "the-fan-funding-volatility-audit-7-stress-tests-for-your-favorite-indie-artists-",
+    "published_at": "2026-08-20T19:28:38+00:00",
+    "word_count": 882,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
