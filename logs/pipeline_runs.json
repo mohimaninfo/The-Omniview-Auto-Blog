@@ -60564,5 +60564,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-08-20T10:17:20.851499",
+    "run_end": "2026-08-20T10:18:14.913483",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8112409796149555454",
+        "title": "The 'creator-lock' contract audit: 7 stress-tests for your career longevity against YouTube\u2019s new exclusivity demands",
+        "url": "https://theomniview.blogspot.com/2026/08/the-creator-lock-contract-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "interviews",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Interviews",
+          "creator economy",
+          "YouTube exclusivity",
+          "career strategy"
+        ],
+        "slug": "the-creator-lock-contract-audit-7-stress-tests-for-your-career-longevity-against",
+        "published_at": "2026-08-20T10:22:51+00:00",
+        "word_count": 989,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "3334459105582372590",
+        "title": "the 'shadow-promotion' leadership audit: 7 stress-tests for your management succession plan against quiet-hiring bias",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-promotion-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Listicles",
+          "quiet hiring",
+          "leadership succession planning",
+          "management retention"
+        ],
+        "slug": "the-shadow-promotion-leadership-audit-7-stress-tests-for-your-management-success",
+        "published_at": "2026-08-20T10:23:14+00:00",
+        "word_count": 931,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
