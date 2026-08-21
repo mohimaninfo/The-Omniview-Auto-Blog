@@ -62280,5 +62280,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-21T20:12:01.165723",
+    "run_end": "2026-08-21T20:13:13.860323",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2266102938653988404",
+        "title": "The '1099-Conversion' contract audit: 7 stress-tests for your W2 benefits against sudden independent contractor reclassification",
+        "url": "https://theomniview.blogspot.com/2026/08/the-1099-conversion-contract-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Explainers",
+          "1099 vs W2",
+          "independent contractor tax",
+          "employment contract audit"
+        ],
+        "slug": "the-1099-conversion-contract-audit-7-stress-tests-for-your-w2-benefits-against-s",
+        "published_at": "2026-08-21T20:17:35+00:00",
+        "word_count": 1028,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8532694414430107733",
+        "title": "The 'circadian-sync' recovery audit: 7 stress-tests for your sleep hygiene against blue-light-blocking medical research \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-circadian-sync-recovery-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "circadian rhythm research",
+          "sleep hygiene science",
+          "spectral light therapy"
+        ],
+        "slug": "the-circadian-sync-recovery-audit-7-stress-tests-for-your-sleep-hygiene-against-",
+        "published_at": "2026-08-21T20:18:13+00:00",
+        "word_count": 1069,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
