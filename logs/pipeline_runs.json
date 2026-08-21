@@ -61552,5 +61552,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-21T06:23:07.917985",
+    "run_end": "2026-08-21T06:25:28.070775",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2954770982527607618",
+        "title": "The 'Dynamic-Pricing' Leadership Audit: 7 Stress-Tests for Your Pricing Strategy Against AI-Driven Revenue Management",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dynamic-pricing-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "dynamic pricing strategy",
+          "AI revenue management",
+          "leadership ethics"
+        ],
+        "slug": "the-dynamic-pricing-leadership-audit-7-stress-tests-for-your-pricing-strategy-ag",
+        "published_at": "2026-08-21T06:29:43+00:00",
+        "word_count": 936,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4853415377772037362",
+        "title": "The 'founder-exit' probate audit: 7 stress-tests for your startup equity against unexpected beneficiary disputes",
+        "url": "https://theomniview.blogspot.com/2026/08/the-founder-exit-probate-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup equity",
+          "probate planning",
+          "founder estate planning"
+        ],
+        "slug": "the-founder-exit-probate-audit-7-stress-tests-for-your-startup-equity-against-un",
+        "published_at": "2026-08-21T06:30:26+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
