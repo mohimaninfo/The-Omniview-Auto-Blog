@@ -52164,5 +52164,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1160201912310213473",
+    "title": "The 'remote-surveillance' culture audit: 7 stress-tests for your home-office privacy against ai-powered manager-bot monitoring \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-remote-surveillance-culture-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Research Articles",
+      "remote work privacy",
+      "employee monitoring software",
+      "workplace AI ethics"
+    ],
+    "slug": "the-remote-surveillance-culture-audit-7-stress-tests-for-your-home-office-privac",
+    "published_at": "2026-08-21T09:29:16+00:00",
+    "word_count": 972,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3575656331069293490",
+    "title": "the 'synthetic-attention' cognitive audit: 7 stress-tests for your student\u2019s focus against ai-generated study gamification",
+    "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-attention-cognitive-audit.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Explainers",
+      "learning science",
+      "cognitive load theory",
+      "AI in education"
+    ],
+    "slug": "the-synthetic-attention-cognitive-audit-7-stress-tests-for-your-students-focus-a",
+    "published_at": "2026-08-21T09:30:03+00:00",
+    "word_count": 1244,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
