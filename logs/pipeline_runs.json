@@ -62384,5 +62384,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-08-21T22:11:00.798424",
+    "run_end": "2026-08-21T22:12:30.917047",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5987638440178932905",
+        "title": "The 'Vampire-Load' Grid Audit: 7 Stress-Tests for Your Home Energy Independence Against AI Data Center Surges \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vampire-load-grid-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Explainers",
+          "home energy independence",
+          "renewable energy grid",
+          "AI data center energy consumption"
+        ],
+        "slug": "the-vampire-load-grid-audit-7-stress-tests-for-your-home-energy-independence-aga",
+        "published_at": "2026-08-21T22:16:42+00:00",
+        "word_count": 1027,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "969861693157127112",
+        "title": "The 'reorg-risk' staking audit: 7 stress-tests for your cryptocurrency yield strategy against chain reorganization volatility \u2014 a explainers perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-reorg-risk-staking-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Explainers",
+          "cryptocurrency staking",
+          "chain reorganization",
+          "crypto yield farming"
+        ],
+        "slug": "the-reorg-risk-staking-audit-7-stress-tests-for-your-cryptocurrency-yield-strate",
+        "published_at": "2026-08-21T22:17:30+00:00",
+        "word_count": 865,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
