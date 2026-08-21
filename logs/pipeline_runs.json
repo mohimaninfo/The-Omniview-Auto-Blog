@@ -62124,5 +62124,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-21T17:17:46.756901",
+    "run_end": "2026-08-21T17:19:20.930918",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1695358981206499896",
+        "title": "The 'Grid-Load' Independence Audit: 7 Stress-Tests for Your Home\u2019s Renewable-Energy Setup Against Massive Data-Center Power Surges \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-grid-load-independence-audit-7_01528010645.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Explainers",
+          "renewable energy grid stability",
+          "home solar battery backup",
+          "data center energy consumption"
+        ],
+        "slug": "the-grid-load-independence-audit-7-stress-tests-for-your-homes-renewable-energy-",
+        "published_at": "2026-08-21T17:23:47+00:00",
+        "word_count": 1016,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8886127059357117326",
+        "title": "The 'GLP-1' nutrition audit: 7 stress-tests for your dietary intake against rapid metabolic shifts",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glp-1-nutrition-audit-7-stress_01188062760.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "GLP-1 nutrition",
+          "Ozempic side effects",
+          "muscle mass preservation"
+        ],
+        "slug": "the-glp-1-nutrition-audit-7-stress-tests-for-your-dietary-intake-against-rapid-m",
+        "published_at": "2026-08-21T17:24:20+00:00",
+        "word_count": 1050,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
