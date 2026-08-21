@@ -52340,5 +52340,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2556025901936216249",
+    "title": "The 'dynamic-fare' travel audit: 7 stress-tests for your vacation budget against AI-optimized airline pricing \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-dynamic-fare-travel-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "How-To Guides",
+      "travel budget tips",
+      "AI airline pricing",
+      "dynamic flight pricing"
+    ],
+    "slug": "the-dynamic-fare-travel-audit-7-stress-tests-for-your-vacation-budget-against-ai",
+    "published_at": "2026-08-21T13:41:38+00:00",
+    "word_count": 1061,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6392207916779161783",
+    "title": "The 'Shadow-Update' Firmware Audit: 7 Stress-Tests for Your IoT Security Against Unsigned Over-The-Air Patching",
+    "url": "https://theomniview.blogspot.com/2026/08/the-shadow-update-firmware-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Opinion & Analysis",
+      "IoT security",
+      "firmware vulnerability",
+      "network segmentation"
+    ],
+    "slug": "the-shadow-update-firmware-audit-7-stress-tests-for-your-iot-security-against-un",
+    "published_at": "2026-08-21T13:45:29+00:00",
+    "word_count": 881,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
