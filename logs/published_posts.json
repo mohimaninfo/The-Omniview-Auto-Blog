@@ -51856,5 +51856,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4048592018437163426",
+    "title": "The 'Cognitive-Lock' Curriculum Audit: 7 Stress-Tests for Your Student\u2019s Critical Thinking Against AI-Generated Learning Materials \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-lock-curriculum-audit-7.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "How-To Guides",
+      "AI in education",
+      "cognitive science learning",
+      "critical thinking skills"
+    ],
+    "slug": "the-cognitive-lock-curriculum-audit-7-stress-tests-for-your-students-critical-th",
+    "published_at": "2026-08-21T02:21:34+00:00",
+    "word_count": 989,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1112195920081125903",
+    "title": "The 'self-custody' estate audit: 7 stress-tests for your cryptocurrency inheritance plan against probate-court complexity",
+    "url": "https://theomniview.blogspot.com/2026/08/the-self-custody-estate-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "cryptocurrency inheritance",
+      "crypto estate planning",
+      "self-custody security"
+    ],
+    "slug": "the-self-custody-estate-audit-7-stress-tests-for-your-cryptocurrency-inheritance",
+    "published_at": "2026-08-21T02:22:07+00:00",
+    "word_count": 1062,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
