@@ -62436,5 +62436,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-21T23:12:23.959502",
+    "run_end": "2026-08-21T23:13:37.127871",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2416484890282575973",
+        "title": "The 'mercenary-labor' inequality audit: 7 stress-tests for your local workforce stability against global recruitment of foreign military labor",
+        "url": "https://theomniview.blogspot.com/2026/08/the-mercenary-labor-inequality-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "workforce stability",
+          "global inequality",
+          "mercenary recruitment"
+        ],
+        "slug": "the-mercenary-labor-inequality-audit-7-stress-tests-for-your-local-workforce-sta",
+        "published_at": "2026-08-21T23:17:57+00:00",
+        "word_count": 879,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2020787722985947949",
+        "title": "The 'FAST-channel' fatigue audit: 7 stress-tests for your streaming subscription budget against the rise of ad-supported linear loops",
+        "url": "https://theomniview.blogspot.com/2026/08/the-fast-channel-fatigue-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "FAST channels",
+          "streaming subscription",
+          "ad-supported streaming"
+        ],
+        "slug": "the-fast-channel-fatigue-audit-7-stress-tests-for-your-streaming-subscription-bu",
+        "published_at": "2026-08-21T23:18:36+00:00",
+        "word_count": 926,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
