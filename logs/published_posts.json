@@ -52692,5 +52692,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1160288041398689423",
+    "title": "The 'Phenotype-Shift' Autism Audit: 7 Stress-Tests for Your Neurodivergent Support Strategy Against Evolving Diagnostic Criteria",
+    "url": "https://theomniview.blogspot.com/2026/08/the-phenotype-shift-autism-audit-7.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Research Articles",
+      "autism spectrum disorder",
+      "neurodivergence",
+      "diagnostic criteria"
+    ],
+    "slug": "the-phenotype-shift-autism-audit-7-stress-tests-for-your-neurodivergent-support-",
+    "published_at": "2026-08-21T21:17:40+00:00",
+    "word_count": 1067,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6575456414769813929",
+    "title": "The 'Dependency-Hell' Audit: 7 Stress-Tests for Your Node.js Security Against Malicious Package Injection",
+    "url": "https://theomniview.blogspot.com/2026/08/the-dependency-hell-audit-7-stress_01720968942.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "Node.js security",
+      "supply chain security",
+      "dependency auditing"
+    ],
+    "slug": "the-dependency-hell-audit-7-stress-tests-for-your-nodejs-security-against-malici",
+    "published_at": "2026-08-21T21:18:53+00:00",
+    "word_count": 885,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
