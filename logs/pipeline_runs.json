@@ -62176,5 +62176,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-21T18:19:22.213022",
+    "run_end": "2026-08-21T18:21:41.946298",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "246389999595168329",
+        "title": "The 'Data-Center' Proximity Audit: 7 Stress-Tests for Your School\u2019s Local Grid Resilience Against AI Infrastructure Expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-proximity-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "How-To Guides",
+          "k12 school infrastructure",
+          "data center energy impact",
+          "school grid resilience"
+        ],
+        "slug": "the-data-center-proximity-audit-7-stress-tests-for-your-schools-local-grid-resil",
+        "published_at": "2026-08-21T18:25:42+00:00",
+        "word_count": 1154,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "9050705572491259295",
+        "title": "The 'Dynamic-Ticket' Music Audit: 7 Stress-Tests for Your Concert Budget Against AI-Driven Passenger-Style Pricing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dynamic-ticket-music-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "interviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Interviews",
+          "dynamic ticket pricing",
+          "concert ticket costs",
+          "music industry AI"
+        ],
+        "slug": "the-dynamic-ticket-music-audit-7-stress-tests-for-your-concert-budget-against-ai",
+        "published_at": "2026-08-21T18:26:40+00:00",
+        "word_count": 895,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
