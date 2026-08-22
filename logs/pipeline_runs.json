@@ -63580,5 +63580,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T22:09:09.461711",
+    "run_end": "2026-08-22T22:11:03.655009",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1526395241411207227",
+        "title": "The 'staking-slashing' custody audit: 7 stress-tests for your cryptocurrency yield strategy against sudden validator downtime",
+        "url": "https://theomniview.blogspot.com/2026/08/the-staking-slashing-custody-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Latest News",
+          "cryptocurrency staking",
+          "slashing risk",
+          "crypto yield"
+        ],
+        "slug": "the-staking-slashing-custody-audit-7-stress-tests-for-your-cryptocurrency-yield-",
+        "published_at": "2026-08-22T22:15:36+00:00",
+        "word_count": 801,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7851870659777182431",
+        "title": "The 'content-deletion' archival audit: 7 stress-tests for your favorite streaming series against studio-led tax write-offs",
+        "url": "https://theomniview.blogspot.com/2026/08/the-content-deletion-archival-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Opinion & Analysis",
+          "streaming service content removal",
+          "digital media preservation",
+          "tax write-off streaming"
+        ],
+        "slug": "the-content-deletion-archival-audit-7-stress-tests-for-your-favorite-streaming-s",
+        "published_at": "2026-08-22T22:16:02+00:00",
+        "word_count": 930,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
