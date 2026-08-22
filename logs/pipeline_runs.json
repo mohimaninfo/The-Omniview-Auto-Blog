@@ -63216,5 +63216,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T15:08:43.353108",
+    "run_end": "2026-08-22T15:16:53.669442",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4300694265788942190",
+        "title": "The 'mRNA-Cancer' Clinical Audit: 7 Stress-Tests for Your Oncology Prevention Strategy Against Breakthrough Vaccine Trials \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-mrna-cancer-clinical-audit-7-stress_01883732163.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "mRNA cancer vaccine",
+          "personalized oncology",
+          "melanoma clinical trials"
+        ],
+        "slug": "the-mrna-cancer-clinical-audit-7-stress-tests-for-your-oncology-prevention-strat",
+        "published_at": "2026-08-22T15:16:35+00:00",
+        "word_count": 984,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7951227683061135485",
+        "title": "The 'dynamic-loyalty' pricing audit: 7 stress-tests for your customer retention strategy against FTC personalized-pricing crackdowns",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dynamic-loyalty-pricing-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Reviews",
+          "personalized pricing",
+          "customer retention strategy",
+          "FTC marketing regulations"
+        ],
+        "slug": "the-dynamic-loyalty-pricing-audit-7-stress-tests-for-your-customer-retention-str",
+        "published_at": "2026-08-22T15:21:53+00:00",
+        "word_count": 580,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
