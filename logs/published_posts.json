@@ -53616,5 +53616,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4560926044984723515",
+    "title": "The 'Data-Center' Sovereignty Audit: 7 Stress-Tests for Your Community\u2019s Local Power Grid Against AI Infrastructure Expansion \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-data-center-sovereignty-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Research Articles",
+      "AI data centers",
+      "grid resilience",
+      "energy infrastructure"
+    ],
+    "slug": "the-data-center-sovereignty-audit-7-stress-tests-for-your-communitys-local-power",
+    "published_at": "2026-08-22T19:22:39+00:00",
+    "word_count": 995,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7412618421134788719",
+    "title": "The 'scraping-war' architecture audit: 7 stress-tests for your API security against DDR5-style scalper bot swarms",
+    "url": "https://theomniview.blogspot.com/2026/08/the-scraping-war-architecture-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Opinion & Analysis",
+      "API security",
+      "bot mitigation",
+      "rate limiting"
+    ],
+    "slug": "the-scraping-war-architecture-audit-7-stress-tests-for-your-api-security-against",
+    "published_at": "2026-08-22T19:23:47+00:00",
+    "word_count": 881,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
