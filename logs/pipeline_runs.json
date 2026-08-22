@@ -63476,5 +63476,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T20:09:11.780665",
+    "run_end": "2026-08-22T20:09:53.310075",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1610634378741984475",
+        "title": "The 'intrusive-thought' resilience audit: 7 stress-tests for your mental health against escalating sensory triggers",
+        "url": "https://theomniview.blogspot.com/2026/08/the-intrusive-thought-resilience-audit.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Explainers",
+          "intrusive thoughts",
+          "mental health resilience",
+          "cognitive behavioral techniques"
+        ],
+        "slug": "the-intrusive-thought-resilience-audit-7-stress-tests-for-your-mental-health-aga",
+        "published_at": "2026-08-22T20:14:34+00:00",
+        "word_count": 1072,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5696782345905559539",
+        "title": "The 'lossless-streaming' integrity audit: 7 stress-tests for your high-fidelity music collection against silent bit-depth downsampling",
+        "url": "https://theomniview.blogspot.com/2026/08/the-lossless-streaming-integrity-audit.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Reviews",
+          "high-fidelity music",
+          "lossless streaming",
+          "audio bit-depth"
+        ],
+        "slug": "the-lossless-streaming-integrity-audit-7-stress-tests-for-your-high-fidelity-mus",
+        "published_at": "2026-08-22T20:14:52+00:00",
+        "word_count": 561,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
