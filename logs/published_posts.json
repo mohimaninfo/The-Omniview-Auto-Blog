@@ -53176,5 +53176,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9050513139606857721",
+    "title": "the 'algorithmic-negativity' classroom audit: 7 stress-tests for your school\u2019s digital culture against rising online toxicity",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-negativity-classroom.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Research Articles",
+      "k12 digital culture",
+      "online toxicity in schools",
+      "EdTech moderation"
+    ],
+    "slug": "the-algorithmic-negativity-classroom-audit-7-stress-tests-for-your-schools-digit",
+    "published_at": "2026-08-22T09:20:55+00:00",
+    "word_count": 944,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5766304343225945107",
+    "title": "The 'cobot-ergonomics' workplace audit: 7 stress-tests for your manufacturing floor against collaborative robot integration",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cobot-ergonomics-workplace-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "cobot ergonomics",
+      "collaborative robotics",
+      "workplace safety"
+    ],
+    "slug": "the-cobot-ergonomics-workplace-audit-7-stress-tests-for-your-manufacturing-floor",
+    "published_at": "2026-08-22T09:21:17+00:00",
+    "word_count": 879,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
