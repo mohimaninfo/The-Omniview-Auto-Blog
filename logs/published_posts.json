@@ -53132,5 +53132,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "361520245069877843",
+    "title": "The 'streaming-dark-age' preservation audit: 7 stress-tests for your digital media library against platform-mandated content de-listing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-streaming-dark-age-preservation.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Latest News",
+      "streaming media preservation",
+      "digital content de-listing",
+      "physical media comeback"
+    ],
+    "slug": "the-streaming-dark-age-preservation-audit-7-stress-tests-for-your-digital-media-",
+    "published_at": "2026-08-22T08:22:14+00:00",
+    "word_count": 882,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8133000299173556943",
+    "title": "the 'muscle-dysmorphia' diagnostic audit: 7 stress-tests for your mental health against evolving body-image standards",
+    "url": "https://theomniview.blogspot.com/2026/08/the-muscle-dysmorphia-diagnostic-audit.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Opinion & Analysis",
+      "muscle dysmorphia",
+      "body image disorders",
+      "men's mental health"
+    ],
+    "slug": "the-muscle-dysmorphia-diagnostic-audit-7-stress-tests-for-your-mental-health-aga",
+    "published_at": "2026-08-22T08:22:57+00:00",
+    "word_count": 909,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
