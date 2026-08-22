@@ -62644,5 +62644,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T04:20:16.199933",
+    "run_end": "2026-08-22T04:21:00.298785",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2344545031909829970",
+        "title": "The 'contract-pivot' compensation audit: 7 stress-tests for your W2 benefits against forced 1099 independent contractor reclassification \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-contract-pivot-compensation-audit-7_0334790407.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "1099 vs W2",
+          "independent contractor tax",
+          "job reclassification"
+        ],
+        "slug": "the-contract-pivot-compensation-audit-7-stress-tests-for-your-w2-benefits-agains",
+        "published_at": "2026-08-22T04:25:37+00:00",
+        "word_count": 892,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3462671402697181711",
+        "title": "The 'save-file' corruption audit: 7 stress-tests for your cloud-synced game progress against platform-wide server outages",
+        "url": "https://theomniview.blogspot.com/2026/08/the-save-file-corruption-audit-7-stress_0425306064.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Listicles",
+          "gaming cloud saves",
+          "save file corruption",
+          "data redundancy for gamers"
+        ],
+        "slug": "the-save-file-corruption-audit-7-stress-tests-for-your-cloud-synced-game-progres",
+        "published_at": "2026-08-22T04:25:59+00:00",
+        "word_count": 831,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
