@@ -62800,5 +62800,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T07:21:33.959952",
+    "run_end": "2026-08-22T07:22:25.775590",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8058071772071241101",
+        "title": "the 'reverse-logistics' infrastructure audit: 7 stress-tests for your local retail ecosystem against the rise of circular-economy returns",
+        "url": "https://theomniview.blogspot.com/2026/08/the-reverse-logistics-infrastructure.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "reverse logistics",
+          "retail waste reduction"
+        ],
+        "slug": "the-reverse-logistics-infrastructure-audit-7-stress-tests-for-your-local-retail-",
+        "published_at": "2026-08-22T07:27:00+00:00",
+        "word_count": 954,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8858669060296791549",
+        "title": "the 'campus-grid' resilience audit: 7 stress-tests for your university\u2019s electrical autonomy against ai data center power surges",
+        "url": "https://theomniview.blogspot.com/2026/08/the-campus-grid-resilience-audit-7.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Explainers",
+          "campus energy resilience",
+          "higher education infrastructure",
+          "data center power demand"
+        ],
+        "slug": "the-campus-grid-resilience-audit-7-stress-tests-for-your-universitys-electrical-",
+        "published_at": "2026-08-22T07:27:25+00:00",
+        "word_count": 1098,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
