@@ -63320,5 +63320,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T17:10:00.455133",
+    "run_end": "2026-08-22T17:11:39.260688",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2873935626892573235",
+        "title": "The 'remote-equity' compensation audit: 7 stress-tests for your home-office budget against corporate dynamic-pricing volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-remote-equity-compensation-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Opinion & Analysis",
+          "remote work compensation",
+          "dynamic pricing",
+          "work from home stipends"
+        ],
+        "slug": "the-remote-equity-compensation-audit-7-stress-tests-for-your-home-office-budget-",
+        "published_at": "2026-08-22T17:15:46+00:00",
+        "word_count": 905,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3155186771742206974",
+        "title": "the 'asynchronous-latency' collaboration audit: 7 stress-tests for your remote-work productivity against global time-zone fragmentation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-asynchronous-latency-collaboration.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "research-articles",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Research Articles",
+          "remote work productivity",
+          "asynchronous collaboration",
+          "operational efficiency"
+        ],
+        "slug": "the-asynchronous-latency-collaboration-audit-7-stress-tests-for-your-remote-work",
+        "published_at": "2026-08-22T17:16:38+00:00",
+        "word_count": 935,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
