@@ -63164,5 +63164,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T14:09:20.811951",
+    "run_end": "2026-08-22T14:10:07.018139",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "354941238030937813",
+        "title": "The 'pathogen-shield' pantry audit: 7 stress-tests for your produce safety against modern sprout and jalape\u00f1o outbreak patterns \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-pathogen-shield-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "How-To Guides",
+          "food safety tips",
+          "produce contamination prevention",
+          "kitchen sanitation guide"
+        ],
+        "slug": "the-pathogen-shield-pantry-audit-7-stress-tests-for-your-produce-safety-against-",
+        "published_at": "2026-08-22T14:14:45+00:00",
+        "word_count": 951,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8882880957332454012",
+        "title": "the 'offline-first' hardware audit: 7 stress-tests for your smart home reliability against cloud-server outages",
+        "url": "https://theomniview.blogspot.com/2026/08/the-offline-first-hardware-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Reviews",
+          "smart home reliability",
+          "offline-first gadgets",
+          "IoT local control"
+        ],
+        "slug": "the-offline-first-hardware-audit-7-stress-tests-for-your-smart-home-reliability-",
+        "published_at": "2026-08-22T14:15:06+00:00",
+        "word_count": 688,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
