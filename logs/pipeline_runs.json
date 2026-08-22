@@ -62696,5 +62696,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T05:15:37.641440",
+    "run_end": "2026-08-22T05:16:47.835503",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3248524243250608073",
+        "title": "The 'mRNA-Cancer' Clinical Audit: 7 Stress-Tests for Your Oncology Prevention Strategy Against Breakthrough Vaccine Trials",
+        "url": "https://theomniview.blogspot.com/2026/08/the-mrna-cancer-clinical-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Research Articles",
+          "mRNA cancer vaccine",
+          "melanoma research",
+          "personalized cancer therapy"
+        ],
+        "slug": "the-mrna-cancer-clinical-audit-7-stress-tests-for-your-oncology-prevention-strat",
+        "published_at": "2026-08-22T05:21:13+00:00",
+        "word_count": 1087,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1005605507498403218",
+        "title": "The 'Last-Mile' Delivery Audit: 7 Stress-Tests for Your Neighborhood\u2019s Curb Rights Against Autonomous Delivery Robots",
+        "url": "https://theomniview.blogspot.com/2026/08/the-last-mile-delivery-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Explainers",
+          "autonomous delivery robots",
+          "sidewalk robotics",
+          "curb rights"
+        ],
+        "slug": "the-last-mile-delivery-audit-7-stress-tests-for-your-neighborhoods-curb-rights-a",
+        "published_at": "2026-08-22T05:21:46+00:00",
+        "word_count": 978,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
