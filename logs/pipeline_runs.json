@@ -62748,5 +62748,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T06:18:27.467947",
+    "run_end": "2026-08-22T06:19:13.543168",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "701953044773448997",
+        "title": "The 'Seed-Dispersal' Symbiosis Audit: 7 Stress-Tests for Your Local Biodiversity Strategy Against Invasive Habitat Shifts",
+        "url": "https://theomniview.blogspot.com/2026/08/the-seed-dispersal-symbiosis-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Opinion & Analysis",
+          "biodiversity conservation",
+          "seed dispersal ecology",
+          "hermit crab biology"
+        ],
+        "slug": "the-seed-dispersal-symbiosis-audit-7-stress-tests-for-your-local-biodiversity-st",
+        "published_at": "2026-08-22T06:23:49+00:00",
+        "word_count": 929,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3306496321780920479",
+        "title": "The 'digital-kinship' severance audit: 7 stress-tests for your family legacy against decentralized AI-agent inheritance",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-kinship-severance-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "digital inheritance",
+          "AI estate planning",
+          "algorithmic executor"
+        ],
+        "slug": "the-digital-kinship-severance-audit-7-stress-tests-for-your-family-legacy-agains",
+        "published_at": "2026-08-22T06:24:13+00:00",
+        "word_count": 612,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
