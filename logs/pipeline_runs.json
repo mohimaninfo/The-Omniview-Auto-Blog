@@ -62488,5 +62488,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T00:31:03.063631",
+    "run_end": "2026-08-22T00:32:39.143993",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9055387800783157942",
+        "title": "the 'algorithmic-grief' fandom audit: 7 stress-tests for your parasocial bond against ai-generated influencer resurrection",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-grief-fandom-audit-7.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Explainers",
+          "parasocial relationships",
+          "digital immortality",
+          "synthetic media"
+        ],
+        "slug": "the-algorithmic-grief-fandom-audit-7-stress-tests-for-your-parasocial-bond-again",
+        "published_at": "2026-08-22T00:37:01+00:00",
+        "word_count": 1059,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4310737844571262648",
+        "title": "the 'nutrient-density' transparency audit: 7 stress-tests for your grocery budget against industry-influenced dietary guidelines",
+        "url": "https://theomniview.blogspot.com/2026/08/the-nutrient-density-transparency-audit.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Research Articles",
+          "dietary guidelines",
+          "nutrient density",
+          "food industry influence"
+        ],
+        "slug": "the-nutrient-density-transparency-audit-7-stress-tests-for-your-grocery-budget-a",
+        "published_at": "2026-08-22T00:37:38+00:00",
+        "word_count": 1018,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
