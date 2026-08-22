@@ -63632,5 +63632,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T23:09:11.803432",
+    "run_end": "2026-08-22T23:09:51.770652",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5913864817030493557",
+        "title": "The 'algorithmic-price' deception audit: 7 stress-tests for your personal finances against AI-driven dynamic pricing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-price-deception-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "AI dynamic pricing",
+          "personalized pricing",
+          "algorithmic price discrimination"
+        ],
+        "slug": "the-algorithmic-price-deception-audit-7-stress-tests-for-your-personal-finances-",
+        "published_at": "2026-08-22T23:14:32+00:00",
+        "word_count": 901,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7898518101969692291",
+        "title": "the 'shadow-ban' accountability audit: 7 stress-tests for your creator income against platform-wide visibility throttling",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-ban-accountability-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Latest News",
+          "shadow-ban",
+          "creator economy",
+          "algorithmic bias"
+        ],
+        "slug": "the-shadow-ban-accountability-audit-7-stress-tests-for-your-creator-income-again",
+        "published_at": "2026-08-22T23:14:51+00:00",
+        "word_count": 760,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
