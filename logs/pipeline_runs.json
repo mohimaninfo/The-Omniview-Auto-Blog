@@ -62592,5 +62592,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-22T03:32:18.790415",
+    "run_end": "2026-08-22T03:33:09.173957",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1438011029404496883",
+        "title": "The 'cognitive-decay' curriculum audit: 7 stress-tests for your student\u2019s foundational logic against AI-assisted coding dependency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-decay-curriculum-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Opinion & Analysis",
+          "AI coding assistants",
+          "cognitive offloading",
+          "learning science"
+        ],
+        "slug": "the-cognitive-decay-curriculum-audit-7-stress-tests-for-your-students-foundation",
+        "published_at": "2026-08-22T03:37:47+00:00",
+        "word_count": 1017,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4831685149551127889",
+        "title": "the 'curtailment-risk' dispatch audit: 7 stress-tests for your utility-scale solar investment against negative pricing volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-curtailment-risk-dispatch-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Latest News",
+          "renewable energy investment",
+          "solar curtailment",
+          "negative electricity pricing"
+        ],
+        "slug": "the-curtailment-risk-dispatch-audit-7-stress-tests-for-your-utility-scale-solar-",
+        "published_at": "2026-08-22T03:38:08+00:00",
+        "word_count": 700,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
