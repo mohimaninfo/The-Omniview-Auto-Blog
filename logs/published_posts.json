@@ -53220,5 +53220,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8323475165239705890",
+    "title": "The 'orbital-debris' collision audit: 7 stress-tests for your satellite communications against the rising kessler syndrome risk \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-orbital-debris-collision-audit-7_042082892.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "listicles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Listicles",
+      "orbital debris",
+      "Kessler syndrome",
+      "satellite communication"
+    ],
+    "slug": "the-orbital-debris-collision-audit-7-stress-tests-for-your-satellite-communicati",
+    "published_at": "2026-08-22T10:16:44+00:00",
+    "word_count": 859,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "3443931585346913840",
+    "title": "The 'Game-Preservation' Liability Audit: 7 Stress-Tests for Your Digital Library Against Publisher-Induced Server Shutdowns",
+    "url": "https://theomniview.blogspot.com/2026/08/the-game-preservation-liability-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Explainers",
+      "digital game preservation",
+      "live-service gaming",
+      "digital ownership rights"
+    ],
+    "slug": "the-game-preservation-liability-audit-7-stress-tests-for-your-digital-library-ag",
+    "published_at": "2026-08-22T10:22:12+00:00",
+    "word_count": 1223,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
