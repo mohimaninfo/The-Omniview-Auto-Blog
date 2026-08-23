@@ -54276,5 +54276,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4903587876302343423",
+    "title": "The 'byop' connectivity audit: 7 stress-tests for your remote-work setup against grid-constrained data centers",
+    "url": "https://theomniview.blogspot.com/2026/08/the-byop-connectivity-audit-7-stress.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Opinion & Analysis",
+      "remote work infrastructure",
+      "home office power stability",
+      "ISP bandwidth throttling"
+    ],
+    "slug": "the-byop-connectivity-audit-7-stress-tests-for-your-remote-work-setup-against-gr",
+    "published_at": "2026-08-23T11:16:01+00:00",
+    "word_count": 991,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1679781830270664531",
+    "title": "The 'smart-glass' privacy audit: 7 stress-tests for your household boundaries against AI-integrated wearable surveillance \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-glass-privacy-audit-7-stress_01202230788.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Opinion & Analysis",
+      "smart glasses privacy",
+      "AI surveillance ethics",
+      "sustainable technology"
+    ],
+    "slug": "the-smart-glass-privacy-audit-7-stress-tests-for-your-household-boundaries-again",
+    "published_at": "2026-08-23T11:16:27+00:00",
+    "word_count": 996,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
