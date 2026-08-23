@@ -54804,5 +54804,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "433959744915597721",
+    "title": "The 'byop' classroom audit: 7 stress-tests for your school's digital continuity against grid-constrained data center surges",
+    "url": "https://theomniview.blogspot.com/2026/08/the-byop-classroom-audit-7-stress-tests.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Opinion & Analysis",
+      "edtech infrastructure",
+      "school grid resilience",
+      "AI data center impact"
+    ],
+    "slug": "the-byop-classroom-audit-7-stress-tests-for-your-schools-digital-continuity-agai",
+    "published_at": "2026-08-23T23:15:01+00:00",
+    "word_count": 897,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7030870037499850197",
+    "title": "The 'grid-lock' checkout audit: 7 stress-tests for your ecommerce site against utility-mandated power curtailment",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-lock-checkout-audit-7-stress.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "How-To Guides",
+      "ecommerce site reliability",
+      "grid load shedding",
+      "ecommerce uptime"
+    ],
+    "slug": "the-grid-lock-checkout-audit-7-stress-tests-for-your-ecommerce-site-against-util",
+    "published_at": "2026-08-23T23:15:23+00:00",
+    "word_count": 977,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
