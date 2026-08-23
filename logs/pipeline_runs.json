@@ -64620,5 +64620,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T19:13:27.293619",
+    "run_end": "2026-08-23T19:14:13.002258",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "940752407762010380",
+        "title": "The 'Data-Center' Sovereignty Audit: 7 Stress-Tests for Your Community\u2019s Local Power Grid Against AI Infrastructure Expansion \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-sovereignty-audit-7_0246547952.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "AI data centers",
+          "grid resilience",
+          "sustainable living"
+        ],
+        "slug": "the-data-center-sovereignty-audit-7-stress-tests-for-your-communitys-local-power",
+        "published_at": "2026-08-23T19:18:46+00:00",
+        "word_count": 945,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2477959864090890267",
+        "title": "The 'E-Ink' distraction audit: 7 stress-tests for your productivity hardware against dopamine-loop notification triggers",
+        "url": "https://theomniview.blogspot.com/2026/08/the-e-ink-distraction-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "e-ink monitors",
+          "digital minimalism",
+          "focus gadgets"
+        ],
+        "slug": "the-e-ink-distraction-audit-7-stress-tests-for-your-productivity-hardware-agains",
+        "published_at": "2026-08-23T19:19:11+00:00",
+        "word_count": 924,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
