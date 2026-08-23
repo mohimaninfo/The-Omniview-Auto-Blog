@@ -54100,5 +54100,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6830965984600352838",
+    "title": "The 'clean-label' protein audit: 7 stress-tests for your muscle-building supplements against hidden heavy metal and filler contamination",
+    "url": "https://theomniview.blogspot.com/2026/08/the-clean-label-protein-audit-7-stress.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "reviews",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Reviews",
+      "protein powder safety",
+      "supplement purity testing",
+      "heavy metals in supplements"
+    ],
+    "slug": "the-clean-label-protein-audit-7-stress-tests-for-your-muscle-building-supplement",
+    "published_at": "2026-08-23T07:29:04+00:00",
+    "word_count": 658,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5465383910812718387",
+    "title": "The 'Yield-Gap' Arbitrage Audit: 7 Stress-Tests for Your Stablecoin Staking Strategy Against Rising Treasury Yields",
+    "url": "https://theomniview.blogspot.com/2026/08/the-yield-gap-arbitrage-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Research Articles",
+      "stablecoin staking",
+      "DeFi vs Treasury bonds",
+      "crypto yield strategy"
+    ],
+    "slug": "the-yield-gap-arbitrage-audit-7-stress-tests-for-your-stablecoin-staking-strateg",
+    "published_at": "2026-08-23T07:29:48+00:00",
+    "word_count": 967,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
