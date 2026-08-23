@@ -64256,5 +64256,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T12:15:12.895151",
+    "run_end": "2026-08-23T12:16:50.755956",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "332008101656687589",
+        "title": "The 'Hormonal-Baseline' Assessment Audit: 7 Stress-Tests for Your Testosterone Levels Against Modern Endocrine Disruptors \u2014 An Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hormonal-baseline-assessment-audit.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Explainers",
+          "testosterone levels",
+          "endocrine disruptors",
+          "hormonal health"
+        ],
+        "slug": "the-hormonal-baseline-assessment-audit-7-stress-tests-for-your-testosterone-leve",
+        "published_at": "2026-08-23T12:20:57+00:00",
+        "word_count": 890,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4671398532929444239",
+        "title": "The 'Epigenetic-Clock' Aging Audit: 7 Stress-Tests for Your Biological Age Against Modern Environmental Stressors \u2014 An Explainers Perspective \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-epigenetic-clock-aging-audit-7_0465231697.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Explainers",
+          "epigenetic clock",
+          "biological age",
+          "DNA methylation"
+        ],
+        "slug": "the-epigenetic-clock-aging-audit-7-stress-tests-for-your-biological-age-against-",
+        "published_at": "2026-08-23T12:21:50+00:00",
+        "word_count": 918,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
