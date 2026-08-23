@@ -54056,5 +54056,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1261542189671539273",
+    "title": "The 'human-in-the-loop' robotics audit: 7 stress-tests for your warehouse automation against the rise of autonomous deactivation liability",
+    "url": "https://theomniview.blogspot.com/2026/08/the-human-in-loop-robotics-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "robotics automation",
+      "warehouse liability",
+      "human-in-the-loop"
+    ],
+    "slug": "the-human-in-the-loop-robotics-audit-7-stress-tests-for-your-warehouse-automatio",
+    "published_at": "2026-08-23T06:25:19+00:00",
+    "word_count": 690,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "9116193142635250954",
+    "title": "The 'bond-yield' trap audit: 7 stress-tests for your retirement portfolio against rising 30-year treasury rates \u2014 a how to guides perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-bond-yield-trap-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "how-to-guides",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "How-To Guides",
+      "retirement portfolio strategy",
+      "30-year treasury bonds",
+      "bond yield vs inflation"
+    ],
+    "slug": "the-bond-yield-trap-audit-7-stress-tests-for-your-retirement-portfolio-against-r",
+    "published_at": "2026-08-23T06:25:49+00:00",
+    "word_count": 1083,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
