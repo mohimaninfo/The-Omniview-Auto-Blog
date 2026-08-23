@@ -53968,5 +53968,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5078175550140316047",
+    "title": "The 'trade-war' digital-sovereignty audit: 7 stress-tests for your corporate data infrastructure against retaliatory cross-border blocking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-trade-war-digital-sovereignty-audit.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "research-articles",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Research Articles",
+      "digital sovereignty",
+      "trade war",
+      "data infrastructure"
+    ],
+    "slug": "the-trade-war-digital-sovereignty-audit-7-stress-tests-for-your-corporate-data-i",
+    "published_at": "2026-08-23T04:30:52+00:00",
+    "word_count": 1035,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6241769419824332390",
+    "title": "the 'vector-drift' retrieval audit: 7 stress-tests for your RAG pipeline against semantic search decay \u2014 a reviews perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-vector-drift-retrieval-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "RAG pipeline",
+      "vector database",
+      "semantic search"
+    ],
+    "slug": "the-vector-drift-retrieval-audit-7-stress-tests-for-your-rag-pipeline-against-se",
+    "published_at": "2026-08-23T04:31:10+00:00",
+    "word_count": 623,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
