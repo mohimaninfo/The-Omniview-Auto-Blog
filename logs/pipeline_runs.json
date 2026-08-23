@@ -64672,5 +64672,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T20:08:37.732698",
+    "run_end": "2026-08-23T20:09:19.086494",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1490791383051941727",
+        "title": "The 'drone-turret' escalation audit: 7 stress-tests for your urban security logic against autonomous counter-UAS deployment",
+        "url": "https://theomniview.blogspot.com/2026/08/the-drone-turret-escalation-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Research Articles",
+          "autonomous drone defense",
+          "counter-UAS technology",
+          "robotics security ethics"
+        ],
+        "slug": "the-drone-turret-escalation-audit-7-stress-tests-for-your-urban-security-logic-a",
+        "published_at": "2026-08-23T20:13:57+00:00",
+        "word_count": 1003,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "682895320433731634",
+        "title": "the 'spatial-audio' fidelity audit: 7 stress-tests for your home theater setup against Dolby Atmos upmixing artifacts",
+        "url": "https://theomniview.blogspot.com/2026/08/the-spatial-audio-fidelity-audit-7.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Listicles",
+          "spatial audio",
+          "Dolby Atmos music",
+          "audiophile home theater"
+        ],
+        "slug": "the-spatial-audio-fidelity-audit-7-stress-tests-for-your-home-theater-setup-agai",
+        "published_at": "2026-08-23T20:14:17+00:00",
+        "word_count": 860,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
