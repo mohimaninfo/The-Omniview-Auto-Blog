@@ -63684,5 +63684,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T00:34:15.674633",
+    "run_end": "2026-08-23T00:35:53.343797",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6165119632674419949",
+        "title": "The 'cognitive-offload' habit audit: 7 stress-tests for your long-term memory against generative-ai search dependency \u2014 a explainers perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-offload-habit-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Explainers",
+          "cognitive offload",
+          "generative ai learning",
+          "long-term memory retention"
+        ],
+        "slug": "the-cognitive-offload-habit-audit-7-stress-tests-for-your-long-term-memory-again",
+        "published_at": "2026-08-23T00:40:10+00:00",
+        "word_count": 1037,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "957441864439076591",
+        "title": "The 'stablecoin-peg' liquidity audit: 7 stress-tests for your cryptocurrency portfolio against sudden de-pegging volatility \u2014 a explainers perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-stablecoin-peg-liquidity-audit-7_0152189739.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Latest News",
+          "stablecoin de-pegging",
+          "cryptocurrency liquidity risk",
+          "proof of reserves"
+        ],
+        "slug": "the-stablecoin-peg-liquidity-audit-7-stress-tests-for-your-cryptocurrency-portfo",
+        "published_at": "2026-08-23T00:40:52+00:00",
+        "word_count": 655,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
