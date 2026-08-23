@@ -64724,5 +64724,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T21:09:51.695028",
+    "run_end": "2026-08-23T21:10:31.619620",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1610135791742905100",
+        "title": "The 'sonic-provenance' verification audit: 7 stress-tests for your high-fidelity music library against AI-generated deepfake injection",
+        "url": "https://theomniview.blogspot.com/2026/08/the-sonic-provenance-verification-audit.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Opinion & Analysis",
+          "AI music detection",
+          "digital music provenance",
+          "high-fidelity audio"
+        ],
+        "slug": "the-sonic-provenance-verification-audit-7-stress-tests-for-your-high-fidelity-mu",
+        "published_at": "2026-08-23T21:15:12+00:00",
+        "word_count": 849,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3590918211160685639",
+        "title": "The 'Data-Center' Proximity Audit: 7 Stress-Tests for Your School\u2019s Digital Equity Against AI Infrastructure Expansion \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-proximity-audit-7_0968639969.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "digital equity in schools",
+          "K12 infrastructure",
+          "data center power grid"
+        ],
+        "slug": "the-data-center-proximity-audit-7-stress-tests-for-your-schools-digital-equity-a",
+        "published_at": "2026-08-23T21:15:31+00:00",
+        "word_count": 999,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
