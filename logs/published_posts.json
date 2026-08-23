@@ -54540,5 +54540,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3836211793688015434",
+    "title": "the 'byop' infrastructure audit: 7 stress-tests for your startup\u2019s scalability against utility-mandated grid prioritization",
+    "url": "https://theomniview.blogspot.com/2026/08/the-byop-infrastructure-audit-7-stress.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Listicles",
+      "startup infrastructure",
+      "grid resilience",
+      "energy independence"
+    ],
+    "slug": "the-byop-infrastructure-audit-7-stress-tests-for-your-startups-scalability-again",
+    "published_at": "2026-08-23T17:16:01+00:00",
+    "word_count": 759,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2518625378374080439",
+    "title": "The 'consent-aware' lead-gen audit: 7 stress-tests for your marketing funnel against neighborhood surveillance backlash",
+    "url": "https://theomniview.blogspot.com/2026/08/the-consent-aware-lead-gen-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "How-To Guides",
+      "privacy-first marketing",
+      "lead generation strategy",
+      "consent-based marketing"
+    ],
+    "slug": "the-consent-aware-lead-gen-audit-7-stress-tests-for-your-marketing-funnel-agains",
+    "published_at": "2026-08-23T17:16:30+00:00",
+    "word_count": 1025,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
