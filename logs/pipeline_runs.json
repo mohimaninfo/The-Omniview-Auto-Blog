@@ -64100,5 +64100,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T09:15:52.525211",
+    "run_end": "2026-08-23T09:16:39.310880",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1885922321347102058",
+        "title": "The 'fan-data' sovereignty audit: 7 stress-tests for your artist-to-fan relationship against platform-driven data harvesting",
+        "url": "https://theomniview.blogspot.com/2026/08/the-fan-data-sovereignty-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Opinion & Analysis",
+          "music marketing strategy",
+          "fan data ownership",
+          "independent artist growth"
+        ],
+        "slug": "the-fan-data-sovereignty-audit-7-stress-tests-for-your-artist-to-fan-relationshi",
+        "published_at": "2026-08-23T09:21:16+00:00",
+        "word_count": 903,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "1143824518379985828",
+        "title": "The 'Bring-Your-Own-Power' Grid Audit: 7 Stress-Tests for Your Startup\u2019s Infrastructure Against Data Center Load Shedding",
+        "url": "https://theomniview.blogspot.com/2026/08/the-bring-your-own-power-grid-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "How-To Guides",
+          "startup infrastructure resilience",
+          "data center power surges",
+          "grid load shedding"
+        ],
+        "slug": "the-bring-your-own-power-grid-audit-7-stress-tests-for-your-startups-infrastruct",
+        "published_at": "2026-08-23T09:21:38+00:00",
+        "word_count": 985,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
