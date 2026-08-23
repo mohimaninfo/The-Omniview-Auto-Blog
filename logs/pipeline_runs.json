@@ -64776,5 +64776,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T22:08:54.252073",
+    "run_end": "2026-08-23T22:09:39.181553",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "767311114116165321",
+        "title": "The 'analog-mind' oscillation audit: 7 stress-tests for your cognitive focus against brain-wave-steered neural dynamics \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-analog-mind-oscillation-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Latest News",
+          "neural dynamics",
+          "brain waves",
+          "cognitive focus"
+        ],
+        "slug": "the-analog-mind-oscillation-audit-7-stress-tests-for-your-cognitive-focus-agains",
+        "published_at": "2026-08-23T22:14:17+00:00",
+        "word_count": 753,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "184839163217460069",
+        "title": "The 'Gender-Gap' Clinical Audit: 7 Stress-Tests for Your Healthcare Outcomes Against Physician Gender Bias",
+        "url": "https://theomniview.blogspot.com/2026/08/the-gender-gap-clinical-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "physician gender bias",
+          "patient mortality rates",
+          "clinical outcomes research"
+        ],
+        "slug": "the-gender-gap-clinical-audit-7-stress-tests-for-your-healthcare-outcomes-agains",
+        "published_at": "2026-08-23T22:14:38+00:00",
+        "word_count": 1009,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
