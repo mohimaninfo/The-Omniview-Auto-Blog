@@ -64152,5 +64152,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T10:11:06.519246",
+    "run_end": "2026-08-23T10:11:47.650150",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8305088526011499063",
+        "title": "The 'load-shedding' protocol audit: 7 stress-tests for your residential solar storage against utility-mandated data center curtailment",
+        "url": "https://theomniview.blogspot.com/2026/08/the-load-shedding-protocol-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Research Articles",
+          "residential solar storage",
+          "grid load shedding",
+          "data center power demand"
+        ],
+        "slug": "the-load-shedding-protocol-audit-7-stress-tests-for-your-residential-solar-stora",
+        "published_at": "2026-08-23T10:16:24+00:00",
+        "word_count": 1071,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6690367275036060686",
+        "title": "the 'closed-loop' repair audit: 7 stress-tests for your modular electronics against right-to-repair legislative shifts \u2014 a case studies perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-closed-loop-repair-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Case Studies",
+          "circular economy",
+          "right to repair",
+          "modular electronics"
+        ],
+        "slug": "the-closed-loop-repair-audit-7-stress-tests-for-your-modular-electronics-against",
+        "published_at": "2026-08-23T10:16:46+00:00",
+        "word_count": 651,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
