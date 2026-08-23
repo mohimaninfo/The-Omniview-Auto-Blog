@@ -63736,5 +63736,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T02:16:38.962015",
+    "run_end": "2026-08-23T02:18:04.196950",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3060895401566532785",
+        "title": "The 'tariff-war' household audit: 7 stress-tests for your retirement portfolio against retaliatory trade volatility \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-tariff-war-household-audit-7-stress.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "retaliatory tariffs",
+          "trade war volatility",
+          "portfolio diversification"
+        ],
+        "slug": "the-tariff-war-household-audit-7-stress-tests-for-your-retirement-portfolio-agai",
+        "published_at": "2026-08-23T02:22:35+00:00",
+        "word_count": 637,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7151718567754218129",
+        "title": "The 'behind-the-meter' storage audit: 7 stress-tests for your home\u2019s energy independence against utility-mandated data center load shedding",
+        "url": "https://theomniview.blogspot.com/2026/08/the-behind-meter-storage-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Explainers",
+          "behind-the-meter storage",
+          "grid independence",
+          "data center power demand"
+        ],
+        "slug": "the-behind-the-meter-storage-audit-7-stress-tests-for-your-homes-energy-independ",
+        "published_at": "2026-08-23T02:23:03+00:00",
+        "word_count": 1041,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
