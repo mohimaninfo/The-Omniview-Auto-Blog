@@ -64360,5 +64360,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T14:12:05.628233",
+    "run_end": "2026-08-23T14:12:59.578589",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "912909683987932784",
+        "title": "The 'bond-ladder' resilience audit: 7 stress-tests for your retirement portfolio against rising 30-year treasury yields \u2014 a how to guides perspective \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-bond-ladder-resilience-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "how-to-guides",
+        "labels": [
+          "Finance",
+          "Investing",
+          "How-To Guides",
+          "retirement portfolio",
+          "bond ladder strategy",
+          "treasury yields"
+        ],
+        "slug": "the-bond-ladder-resilience-audit-7-stress-tests-for-your-retirement-portfolio-ag",
+        "published_at": "2026-08-23T14:17:37+00:00",
+        "word_count": 1056,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4025843761050122473",
+        "title": "The 'haptic-feedback' immersion audit: 7 stress-tests for your gaming peripherals against latency-induced sensory desync",
+        "url": "https://theomniview.blogspot.com/2026/08/the-haptic-feedback-immersion-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Reviews",
+          "gaming peripherals",
+          "haptic feedback",
+          "input latency"
+        ],
+        "slug": "the-haptic-feedback-immersion-audit-7-stress-tests-for-your-gaming-peripherals-a",
+        "published_at": "2026-08-23T14:17:58+00:00",
+        "word_count": 545,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
