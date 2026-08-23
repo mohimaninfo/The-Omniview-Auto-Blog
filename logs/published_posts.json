@@ -54496,5 +54496,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1746126723630580528",
+    "title": "The 'smart-wearable' classroom audit: 7 stress-tests for your school\u2019s privacy policy against student-worn AI recording devices",
+    "url": "https://theomniview.blogspot.com/2026/08/the-smart-wearable-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Research Articles",
+      "edtech privacy",
+      "student surveillance",
+      "classroom AI policy"
+    ],
+    "slug": "the-smart-wearable-classroom-audit-7-stress-tests-for-your-schools-privacy-polic",
+    "published_at": "2026-08-23T16:16:08+00:00",
+    "word_count": 1023,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5588872332909407692",
+    "title": "The 'mycotoxin-load' pantry audit: 7 stress-tests for your plant-based diet against hidden fungal contaminants",
+    "url": "https://theomniview.blogspot.com/2026/08/the-mycotoxin-load-pantry-audit-7.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "explainers",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Explainers",
+      "mycotoxins in plant-based meat",
+      "dietary fungal toxins",
+      "food safety research"
+    ],
+    "slug": "the-mycotoxin-load-pantry-audit-7-stress-tests-for-your-plant-based-diet-against",
+    "published_at": "2026-08-23T16:16:35+00:00",
+    "word_count": 921,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
