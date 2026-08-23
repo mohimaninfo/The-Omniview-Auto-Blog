@@ -64412,5 +64412,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-23T15:09:50.752439",
+    "run_end": "2026-08-23T15:10:36.487455",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "428956815513825798",
+        "title": "The 'human-in-the-loop' career audit: 7 stress-tests for your specialized skill-set against autonomous deactivation protocols \u2014 an interviews perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-in-loop-career-audit-7-stress_01057098674.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "interviews",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Interviews",
+          "career resilience",
+          "autonomous deactivation",
+          "labor rights"
+        ],
+        "slug": "the-human-in-the-loop-career-audit-7-stress-tests-for-your-specialized-skill-set",
+        "published_at": "2026-08-23T15:15:15+00:00",
+        "word_count": 913,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5624977611620762005",
+        "title": "The 'Endocrine-Disruptor' Grocery Audit: 7 Stress-Tests for Your Family\u2019s Hormone Health Against Modern Chemical Exposure",
+        "url": "https://theomniview.blogspot.com/2026/08/the-endocrine-disruptor-grocery-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "endocrine disruptors",
+          "hormone health",
+          "food safety research"
+        ],
+        "slug": "the-endocrine-disruptor-grocery-audit-7-stress-tests-for-your-familys-hormone-he",
+        "published_at": "2026-08-23T15:15:35+00:00",
+        "word_count": 1121,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
