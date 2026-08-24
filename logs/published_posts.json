@@ -55552,5 +55552,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "56420255017813855",
+    "title": "The 'silent-audio' privacy audit: 7 stress-tests for your browser security against AliExpress-style fingerprinting",
+    "url": "https://theomniview.blogspot.com/2026/08/the-silent-audio-privacy-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "browser fingerprinting",
+      "device privacy",
+      "silent audio tracking"
+    ],
+    "slug": "the-silent-audio-privacy-audit-7-stress-tests-for-your-browser-security-against-",
+    "published_at": "2026-08-24T17:26:05+00:00",
+    "word_count": 837,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4526610325847639314",
+    "title": "The 'Grid-Priority' Household Audit: 7 Stress-Tests for Your Home Solar Storage Against AI Data Center Energy Demand",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-priority-household-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "How-To Guides",
+      "home solar storage",
+      "grid-tied solar",
+      "data center energy demand"
+    ],
+    "slug": "the-grid-priority-household-audit-7-stress-tests-for-your-home-solar-storage-aga",
+    "published_at": "2026-08-24T17:26:29+00:00",
+    "word_count": 940,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
