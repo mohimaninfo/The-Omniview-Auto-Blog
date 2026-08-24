@@ -55024,5 +55024,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2852493943065414129",
+    "title": "The 'synthetic-hallucination' assessment audit: 7 stress-tests for your student\u2019s information literacy against AI-slop search results",
+    "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-hallucination-assessment.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Research Articles",
+      "information literacy",
+      "AI slop",
+      "learning science"
+    ],
+    "slug": "the-synthetic-hallucination-assessment-audit-7-stress-tests-for-your-students-in",
+    "published_at": "2026-08-24T05:33:02+00:00",
+    "word_count": 1043,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3091168074810531154",
+    "title": "The 'stellar-noise' interference audit: 7 stress-tests for your radio astronomy data against the rising megaconstellation interference",
+    "url": "https://theomniview.blogspot.com/2026/08/the-stellar-noise-interference-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Opinion & Analysis",
+      "radio astronomy",
+      "satellite interference",
+      "Starlink"
+    ],
+    "slug": "the-stellar-noise-interference-audit-7-stress-tests-for-your-radio-astronomy-dat",
+    "published_at": "2026-08-24T05:33:23+00:00",
+    "word_count": 760,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
