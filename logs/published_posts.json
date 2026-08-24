@@ -55244,5 +55244,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "715536292019691454",
+    "title": "The 'Grid-Dependency' Leadership Audit: 7 Stress-Tests for Your Enterprise Continuity Against AI Data Center Power Surges",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-dependency-leadership-audit-7.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Case Studies",
+      "enterprise continuity",
+      "AI data center energy",
+      "leadership resilience"
+    ],
+    "slug": "the-grid-dependency-leadership-audit-7-stress-tests-for-your-enterprise-continui",
+    "published_at": "2026-08-24T10:31:06+00:00",
+    "word_count": 792,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2420208674088835286",
+    "title": "The 'Yield-Migration' Custody Audit: 7 Stress-Tests for Your Crypto Portfolio Against Rising Treasury-Bond Arbitrage",
+    "url": "https://theomniview.blogspot.com/2026/08/the-yield-migration-custody-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "crypto portfolio management",
+      "DeFi vs treasury yields",
+      "crypto staking risks"
+    ],
+    "slug": "the-yield-migration-custody-audit-7-stress-tests-for-your-crypto-portfolio-again",
+    "published_at": "2026-08-24T10:31:39+00:00",
+    "word_count": 712,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
