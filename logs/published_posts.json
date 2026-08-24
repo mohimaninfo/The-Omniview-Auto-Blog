@@ -55288,5 +55288,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6992263753582082394",
+    "title": "The 'circular-compute' hardware audit: 7 stress-tests for your corporate server lifecycle against AI-driven planned obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/08/the-circular-compute-hardware-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Opinion & Analysis",
+      "circular economy",
+      "server lifecycle management",
+      "AI hardware waste"
+    ],
+    "slug": "the-circular-compute-hardware-audit-7-stress-tests-for-your-corporate-server-lif",
+    "published_at": "2026-08-24T11:22:01+00:00",
+    "word_count": 758,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7229289655221376943",
+    "title": "The '1099-transition' tax audit: 7 stress-tests for your freelance investment strategy against unexpected income volatility",
+    "url": "https://theomniview.blogspot.com/2026/08/the-1099-transition-tax-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Latest News",
+      "1099 tax planning",
+      "freelance investing strategy",
+      "estimated tax payments"
+    ],
+    "slug": "the-1099-transition-tax-audit-7-stress-tests-for-your-freelance-investment-strat",
+    "published_at": "2026-08-24T11:22:27+00:00",
+    "word_count": 752,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
