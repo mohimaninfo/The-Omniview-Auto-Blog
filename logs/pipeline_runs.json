@@ -65868,5 +65868,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T20:16:14.974703",
+    "run_end": "2026-08-24T20:19:12.402373",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8248019732658417932",
+        "title": "the 'food-safety' surveillance audit: 7 stress-tests for your grocery habits against rising foodborne pathogen outbreaks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-food-safety-surveillance-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "food safety",
+          "foodborne illness outbreaks",
+          "grocery shopping tips"
+        ],
+        "slug": "the-food-safety-surveillance-audit-7-stress-tests-for-your-grocery-habits-agains",
+        "published_at": "2026-08-24T20:23:07+00:00",
+        "word_count": 1066,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1360015875974090764",
+        "title": "The 'autonomous-kill-chain' accountability audit: 7 stress-tests for your ethical framework against AI-guided drone weaponry",
+        "url": "https://theomniview.blogspot.com/2026/08/the-autonomous-kill-chain.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "AI weaponry",
+          "autonomous drone strikes",
+          "AI ethics in warfare"
+        ],
+        "slug": "the-autonomous-kill-chain-accountability-audit-7-stress-tests-for-your-ethical-f",
+        "published_at": "2026-08-24T20:24:11+00:00",
+        "word_count": 1095,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
