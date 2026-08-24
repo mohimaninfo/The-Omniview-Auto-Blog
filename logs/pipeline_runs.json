@@ -64984,5 +64984,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T03:42:32.161896",
+    "run_end": "2026-08-24T03:43:32.314977",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2358882595434283267",
+        "title": "The 'Wit-Evolution' Brain Audit: 7 Stress-Tests for Your Social Intelligence Against the Rise of Verbal Competition",
+        "url": "https://theomniview.blogspot.com/2026/08/the-wit-evolution-brain-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Latest News",
+          "neuroscience of humor",
+          "verbal agility",
+          "evolutionary psychology"
+        ],
+        "slug": "the-wit-evolution-brain-audit-7-stress-tests-for-your-social-intelligence-agains",
+        "published_at": "2026-08-24T03:48:11+00:00",
+        "word_count": 793,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4889458371315252953",
+        "title": "The 'Digital-Detox' Sovereignty Audit: 7 Stress-Tests for Your Vacation Privacy Against Parked Waymo Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-detox-sovereignty-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "case-studies",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Case Studies",
+          "travel privacy",
+          "autonomous vehicle surveillance",
+          "digital detox travel"
+        ],
+        "slug": "the-digital-detox-sovereignty-audit-7-stress-tests-for-your-vacation-privacy-aga",
+        "published_at": "2026-08-24T03:48:31+00:00",
+        "word_count": 761,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
