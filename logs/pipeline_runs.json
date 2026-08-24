@@ -65556,5 +65556,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T14:30:02.143190",
+    "run_end": "2026-08-24T14:31:01.208639",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2687689984713121451",
+        "title": "The 'Quantum-Stochastic' Depression Audit: 7 Stress-Tests for Your Neural Resilience Against Analog Brain-Wave Dynamics",
+        "url": "https://theomniview.blogspot.com/2026/08/the-quantum-stochastic-depression-audit.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Physics",
+          "Opinion & Analysis",
+          "neural dynamics",
+          "brain waves",
+          "mental health physics"
+        ],
+        "slug": "the-quantum-stochastic-depression-audit-7-stress-tests-for-your-neural-resilienc",
+        "published_at": "2026-08-24T14:35:27+00:00",
+        "word_count": 842,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1768865062263246382",
+        "title": "the 'reverse-logistics' battery audit: 7 stress-tests for your ev fleet lifecycle against raw material scarcity",
+        "url": "https://theomniview.blogspot.com/2026/08/the-reverse-logistics-battery-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Case Studies",
+          "circular economy",
+          "EV battery recycling",
+          "reverse logistics"
+        ],
+        "slug": "the-reverse-logistics-battery-audit-7-stress-tests-for-your-ev-fleet-lifecycle-a",
+        "published_at": "2026-08-24T14:36:00+00:00",
+        "word_count": 710,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
