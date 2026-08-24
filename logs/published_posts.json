@@ -54980,5 +54980,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "1949109010923908832",
+    "title": "The 'browser-fingerprint' exfiltration audit: 7 stress-tests for your privacy against silent audio-based tracking",
+    "url": "https://theomniview.blogspot.com/2026/08/the-browser-fingerprint-exfiltration.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Latest News",
+      "browser fingerprinting",
+      "device tracking",
+      "cybersecurity privacy"
+    ],
+    "slug": "the-browser-fingerprint-exfiltration-audit-7-stress-tests-for-your-privacy-again",
+    "published_at": "2026-08-24T04:38:37+00:00",
+    "word_count": 789,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3323562003084882388",
+    "title": "The 'ultra-processed' metabolic audit: 7 stress-tests for your gut microbiome against emulsifier-induced inflammation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-ultra-processed-metabolic-audit-7.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "listicles",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Listicles",
+      "gut microbiome health",
+      "ultra-processed foods",
+      "food emulsifiers"
+    ],
+    "slug": "the-ultra-processed-metabolic-audit-7-stress-tests-for-your-gut-microbiome-again",
+    "published_at": "2026-08-24T04:39:01+00:00",
+    "word_count": 898,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
