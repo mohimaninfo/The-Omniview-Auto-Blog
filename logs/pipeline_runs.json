@@ -65660,5 +65660,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T16:21:20.287561",
+    "run_end": "2026-08-24T16:22:06.873855",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4216392343368967607",
+        "title": "the 'cognitive-offload' retention audit: 7 stress-tests for your student\u2019s long-term memory against ai-driven search dependency",
+        "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-offload-retention-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "cognitive offloading",
+          "learning science",
+          "generative AI in education"
+        ],
+        "slug": "the-cognitive-offload-retention-audit-7-stress-tests-for-your-students-long-term",
+        "published_at": "2026-08-24T16:26:41+00:00",
+        "word_count": 1116,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "304309061025512822",
+        "title": "the 'reshoring-tax' manufacturing audit: 7 stress-tests for your dividend portfolio against domestic automation mandates",
+        "url": "https://theomniview.blogspot.com/2026/08/the-reshoring-tax-manufacturing-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Latest News",
+          "reshoring economics",
+          "dividend sustainability",
+          "industrial automation"
+        ],
+        "slug": "the-reshoring-tax-manufacturing-audit-7-stress-tests-for-your-dividend-portfolio",
+        "published_at": "2026-08-24T16:27:05+00:00",
+        "word_count": 728,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
