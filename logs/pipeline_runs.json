@@ -65608,5 +65608,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T15:27:30.999560",
+    "run_end": "2026-08-24T15:28:29.109579",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3494533631419292721",
+        "title": "The 'trade-war' energy audit: 7 stress-tests for your household budget against retaliatory electricity and mineral tariffs",
+        "url": "https://theomniview.blogspot.com/2026/08/the-trade-war-energy-audit-7-stress.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "trade war",
+          "energy security",
+          "household budget"
+        ],
+        "slug": "the-trade-war-energy-audit-7-stress-tests-for-your-household-budget-against-reta",
+        "published_at": "2026-08-24T15:32:57+00:00",
+        "word_count": 814,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5386675752173803161",
+        "title": "The 'human-verification' social audit: 7 stress-tests for your online identity against the rise of bot-polluted comment sections",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-verification-social-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Opinion & Analysis",
+          "online identity verification",
+          "synthetic engagement",
+          "bot pollution"
+        ],
+        "slug": "the-human-verification-social-audit-7-stress-tests-for-your-online-identity-agai",
+        "published_at": "2026-08-24T15:33:28+00:00",
+        "word_count": 908,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
