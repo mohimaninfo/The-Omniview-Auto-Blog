@@ -65244,5 +65244,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T08:33:50.369977",
+    "run_end": "2026-08-24T08:34:55.849214",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "744677231364747134",
+        "title": "the 'energy-arbitrage' equity audit: 7 stress-tests for your local neighborhood\u2019s power access against industrial ai data center expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-energy-arbitrage-equity-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Research Articles",
+          "energy inequality",
+          "data center expansion",
+          "grid reliability"
+        ],
+        "slug": "the-energy-arbitrage-equity-audit-7-stress-tests-for-your-local-neighborhoods-po",
+        "published_at": "2026-08-24T08:39:24+00:00",
+        "word_count": 993,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6200702042309399838",
+        "title": "the 'turbine-backlog' resilience audit: 7 stress-tests for your microgrid strategy against the ai-driven energy crunch",
+        "url": "https://theomniview.blogspot.com/2026/08/the-turbine-backlog-resilience-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "renewable energy",
+          "gas turbine shortage",
+          "microgrid resilience"
+        ],
+        "slug": "the-turbine-backlog-resilience-audit-7-stress-tests-for-your-microgrid-strategy-",
+        "published_at": "2026-08-24T08:39:54+00:00",
+        "word_count": 892,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
