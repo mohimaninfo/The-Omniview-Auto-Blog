@@ -65296,5 +65296,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T09:34:19.853470",
+    "run_end": "2026-08-24T09:35:10.268106",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2930435782903495369",
+        "title": "The 'glycemic-spike' cancer audit: 7 stress-tests for your daily diet against the hidden risks of sugary drinks and metabolic inflammation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glycemic-spike-cancer-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Listicles",
+          "sugary drinks",
+          "cancer risk",
+          "metabolic health"
+        ],
+        "slug": "the-glycemic-spike-cancer-audit-7-stress-tests-for-your-daily-diet-against-the-h",
+        "published_at": "2026-08-24T09:39:39+00:00",
+        "word_count": 896,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "6493298134383445785",
+        "title": "the 'authenticity-deficit' influence audit: 7 stress-tests for your personal brand against the rise of synthetic micro-influencers",
+        "url": "https://theomniview.blogspot.com/2026/08/the-authenticity-deficit-influence.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "personal brand authenticity",
+          "synthetic influencers",
+          "social media trust"
+        ],
+        "slug": "the-authenticity-deficit-influence-audit-7-stress-tests-for-your-personal-brand-",
+        "published_at": "2026-08-24T09:40:09+00:00",
+        "word_count": 939,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
