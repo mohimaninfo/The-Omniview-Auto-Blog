@@ -65452,5 +65452,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T12:21:30.585514",
+    "run_end": "2026-08-24T12:22:26.458059",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "923912747652716913",
+        "title": "The 'Client-Side' Privacy Audit: 7 Stress-Tests for Your Gaming PC Against Browser-Based Fingerprinting",
+        "url": "https://theomniview.blogspot.com/2026/08/the-client-side-privacy-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "browser fingerprinting",
+          "gaming PC privacy",
+          "audio tracking"
+        ],
+        "slug": "the-client-side-privacy-audit-7-stress-tests-for-your-gaming-pc-against-browser-",
+        "published_at": "2026-08-24T12:27:00+00:00",
+        "word_count": 959,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3225171891785636527",
+        "title": "The 'Server-Lifespan' Circular Audit: 7 Stress-Tests for Your Enterprise IT Strategy Against AI-Driven Hardware Obsolescence \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-server-lifespan-circular-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "How-To Guides",
+          "circular economy IT",
+          "enterprise hardware lifecycle",
+          "data center sustainability"
+        ],
+        "slug": "the-server-lifespan-circular-audit-7-stress-tests-for-your-enterprise-it-strateg",
+        "published_at": "2026-08-24T12:27:26+00:00",
+        "word_count": 986,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
