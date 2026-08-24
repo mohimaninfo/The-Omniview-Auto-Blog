@@ -64932,5 +64932,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T02:14:46.786648",
+    "run_end": "2026-08-24T02:15:27.984942",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8751405469831030311",
+        "title": "The 'Data-Center' Latency Audit: 7 Stress-Tests for Your API Reliability Against Grid-Constrained Power Surges",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-latency-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Research Articles",
+          "API reliability",
+          "data center power surge",
+          "load shedding"
+        ],
+        "slug": "the-data-center-latency-audit-7-stress-tests-for-your-api-reliability-against-gr",
+        "published_at": "2026-08-24T02:20:06+00:00",
+        "word_count": 1029,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5422972970183776647",
+        "title": "The 'human-verification' lifestyle audit: 7 stress-tests for your personal brand against the rise of 'AI slop' fatigue",
+        "url": "https://theomniview.blogspot.com/2026/08/the-human-verification-lifestyle-audit.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "AI slop",
+          "personal branding",
+          "authentic content"
+        ],
+        "slug": "the-human-verification-lifestyle-audit-7-stress-tests-for-your-personal-brand-ag",
+        "published_at": "2026-08-24T02:20:27+00:00",
+        "word_count": 798,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
