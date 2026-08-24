@@ -55728,5 +55728,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3100475685230929716",
+    "title": "The 'Platform-Dependency' Exit Audit: 7 Stress-Tests for Your Creator Income Against Algorithmic Deactivation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-platform-dependency-exit-audit-7_01546017311.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Explainers",
+      "algorithmic deactivation",
+      "creator economy risk",
+      "platform dependency"
+    ],
+    "slug": "the-platform-dependency-exit-audit-7-stress-tests-for-your-creator-income-agains",
+    "published_at": "2026-08-24T21:22:41+00:00",
+    "word_count": 1140,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "8854546025248843141",
+    "title": "the 'open-source' curriculum audit: 7 stress-tests for your school district\u2019s pedagogy against the rising risk of AI-generated misinformation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-open-source-curriculum-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Research Articles",
+      "k12 curriculum security",
+      "ai in education",
+      "educational misinformation"
+    ],
+    "slug": "the-open-source-curriculum-audit-7-stress-tests-for-your-school-districts-pedago",
+    "published_at": "2026-08-24T21:23:01+00:00",
+    "word_count": 1005,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
