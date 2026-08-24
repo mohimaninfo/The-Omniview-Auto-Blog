@@ -65192,5 +65192,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T07:48:11.471258",
+    "run_end": "2026-08-24T07:48:49.779074",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8482668355097406957",
+        "title": "The 'Inference-Cost' Bankruptcy Audit: 7 Stress-Tests for Your SaaS Architecture Against AI-Driven Margin Erosion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inference-cost-bankruptcy-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Opinion & Analysis",
+          "AI inference costs",
+          "SaaS architecture",
+          "LLM profitability"
+        ],
+        "slug": "the-inference-cost-bankruptcy-audit-7-stress-tests-for-your-saas-architecture-ag",
+        "published_at": "2026-08-24T07:53:29+00:00",
+        "word_count": 885,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6811803010723190119",
+        "title": "the 'attribution-gap' marketing audit: 7 stress-tests for your ad spend efficiency against cookieless browser privacy shifts",
+        "url": "https://theomniview.blogspot.com/2026/08/the-attribution-gap-marketing-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Listicles",
+          "marketing attribution",
+          "cookieless marketing",
+          "ad spend efficiency"
+        ],
+        "slug": "the-attribution-gap-marketing-audit-7-stress-tests-for-your-ad-spend-efficiency-",
+        "published_at": "2026-08-24T07:53:48+00:00",
+        "word_count": 771,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
