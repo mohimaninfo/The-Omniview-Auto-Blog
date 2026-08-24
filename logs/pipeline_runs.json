@@ -65504,5 +65504,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T13:40:28.174471",
+    "run_end": "2026-08-24T13:41:36.399734",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6297175721623506948",
+        "title": "The 'algorithmic-bias' admissions audit: 7 stress-tests for your university\u2019s enrollment software against AI-driven demographic filtering",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-bias-admissions-audit-7.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Research Articles",
+          "AI in higher education",
+          "university admissions bias",
+          "algorithmic accountability"
+        ],
+        "slug": "the-algorithmic-bias-admissions-audit-7-stress-tests-for-your-universitys-enroll",
+        "published_at": "2026-08-24T13:45:58+00:00",
+        "word_count": 1150,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1018085150705033951",
+        "title": "The 'ai-slop' literacy audit: 7 stress-tests for your classroom\u2019s research integrity against automated search pollution",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ai-slop-literacy-audit-7-stress.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "How-To Guides",
+          "ai slop",
+          "information literacy",
+          "educational technology"
+        ],
+        "slug": "the-ai-slop-literacy-audit-7-stress-tests-for-your-classrooms-research-integrity",
+        "published_at": "2026-08-24T13:46:35+00:00",
+        "word_count": 1113,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
