@@ -65140,5 +65140,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T06:32:25.491170",
+    "run_end": "2026-08-24T06:33:07.334602",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "670344580273948251",
+        "title": "The 'E-Waste' Infrastructure Audit: 7 Stress-Tests for Your Enterprise IT Lifecycle Against AI-Driven Server Obsolescence \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-e-waste-infrastructure-audit-7.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "e-waste management",
+          "enterprise IT lifecycle"
+        ],
+        "slug": "the-e-waste-infrastructure-audit-7-stress-tests-for-your-enterprise-it-lifecycle",
+        "published_at": "2026-08-24T06:37:47+00:00",
+        "word_count": 1032,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2117856332754636254",
+        "title": "The 'bit-rate' degradation audit: 7 stress-tests for your 4K streaming quality against ISP-level traffic shaping",
+        "url": "https://theomniview.blogspot.com/2026/08/the-bit-rate-degradation-audit-7-stress_0171065487.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "4K streaming quality",
+          "ISP throttling",
+          "traffic shaping"
+        ],
+        "slug": "the-bit-rate-degradation-audit-7-stress-tests-for-your-4k-streaming-quality-agai",
+        "published_at": "2026-08-24T06:38:06+00:00",
+        "word_count": 986,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
