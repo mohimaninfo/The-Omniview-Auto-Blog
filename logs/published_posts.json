@@ -54848,5 +54848,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3366675084462633532",
+    "title": "The 'unplugged-luxury' travel audit: 7 stress-tests for your vacation budget against the rise of surveillance-heavy smart destinations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-unplugged-luxury-travel-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Opinion & Analysis",
+      "smart tourism",
+      "travel privacy",
+      "surveillance travel"
+    ],
+    "slug": "the-unplugged-luxury-travel-audit-7-stress-tests-for-your-vacation-budget-agains",
+    "published_at": "2026-08-24T00:38:25+00:00",
+    "word_count": 870,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6787182592254699941",
+    "title": "The 'zero-party' compliance audit: 7 stress-tests for your CRM strategy against the death of third-party tracking pixels \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-zero-party-compliance-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Listicles",
+      "zero-party data",
+      "marketing compliance",
+      "CRM strategy"
+    ],
+    "slug": "the-zero-party-compliance-audit-7-stress-tests-for-your-crm-strategy-against-the",
+    "published_at": "2026-08-24T00:38:56+00:00",
+    "word_count": 850,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
