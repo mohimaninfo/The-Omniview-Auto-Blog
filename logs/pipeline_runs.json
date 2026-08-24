@@ -65816,5 +65816,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T19:20:18.147236",
+    "run_end": "2026-08-24T19:21:37.155947",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2293065010666226820",
+        "title": "The 'Data-Center' Grid-Tax Audit: 7 Stress-Tests for Your Local Renewable Energy Access Against Industrial AI Power Demand",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-grid-tax-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "data center energy consumption",
+          "renewable energy grid",
+          "AI infrastructure impact"
+        ],
+        "slug": "the-data-center-grid-tax-audit-7-stress-tests-for-your-local-renewable-energy-ac",
+        "published_at": "2026-08-24T19:25:47+00:00",
+        "word_count": 858,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "891576761873767372",
+        "title": "The 'circadian-disruption' sleep audit: 7 stress-tests for your metabolic health against blue-light-enriched LED environments \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-circadian-disruption-sleep-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Research Articles",
+          "circadian rhythm health",
+          "metabolic health",
+          "blue light exposure"
+        ],
+        "slug": "the-circadian-disruption-sleep-audit-7-stress-tests-for-your-metabolic-health-ag",
+        "published_at": "2026-08-24T19:26:36+00:00",
+        "word_count": 1114,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
