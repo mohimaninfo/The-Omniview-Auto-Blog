@@ -55596,5 +55596,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8650669168796380252",
+    "title": "The 'Grid-Priority' Household Audit: 7 Stress-Tests for Your Home Solar Storage Against AI Data Center Energy Demand \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-priority-household-audit-7_01700142672.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Latest News",
+      "energy inequality",
+      "AI data center energy demand",
+      "residential solar storage"
+    ],
+    "slug": "the-grid-priority-household-audit-7-stress-tests-for-your-home-solar-storage-aga",
+    "published_at": "2026-08-24T18:27:28+00:00",
+    "word_count": 728,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3487006494609969711",
+    "title": "The 'Algorithm-Suspension' Liability Audit: 7 Stress-Tests for Your Gig-Economy Income Against Automated Deactivation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithm-suspension-liability.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Latest News",
+      "gig economy AI",
+      "algorithmic management",
+      "Uber driver suspension"
+    ],
+    "slug": "the-algorithm-suspension-liability-audit-7-stress-tests-for-your-gig-economy-inc",
+    "published_at": "2026-08-24T18:27:54+00:00",
+    "word_count": 806,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
