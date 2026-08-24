@@ -65972,5 +65972,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-24T22:13:18.526431",
+    "run_end": "2026-08-24T22:14:02.582303",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8118694207588929113",
+        "title": "The 'Smart-Destination' Surveillance Audit: 7 Stress-Tests for Your Privacy Against AI-Integrated Tourism Infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-destination-surveillance.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Opinion & Analysis",
+          "travel privacy",
+          "AI surveillance",
+          "smart tourism"
+        ],
+        "slug": "the-smart-destination-surveillance-audit-7-stress-tests-for-your-privacy-against",
+        "published_at": "2026-08-24T22:18:43+00:00",
+        "word_count": 913,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4755935433936563627",
+        "title": "the 'glycogen-depletion' performance audit: 7 stress-tests for your endurance training against ultra-processed fuel dependence \u2014 a research articles perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-glycogen-depletion-performance.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "research-articles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Research Articles",
+          "metabolic flexibility",
+          "endurance training",
+          "sports nutrition science"
+        ],
+        "slug": "the-glycogen-depletion-performance-audit-7-stress-tests-for-your-endurance-train",
+        "published_at": "2026-08-24T22:19:02+00:00",
+        "word_count": 970,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
