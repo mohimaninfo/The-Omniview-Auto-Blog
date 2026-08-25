@@ -66804,5 +66804,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T15:31:27.718767",
+    "run_end": "2026-08-25T15:32:30.133963",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4596766849255703814",
+        "title": "The 'Smart-Home' Privacy Audit: 7 Stress-Tests for Your Domestic Security Against Browser-Based Fingerprinting",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-home-privacy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Explainers",
+          "smart home privacy",
+          "browser fingerprinting",
+          "home security audit"
+        ],
+        "slug": "the-smart-home-privacy-audit-7-stress-tests-for-your-domestic-security-against-b",
+        "published_at": "2026-08-25T15:36:58+00:00",
+        "word_count": 803,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6754639055028519236",
+        "title": "The 'async-parity' communication audit: 7 stress-tests for your remote-work culture against real-time meeting fatigue",
+        "url": "https://theomniview.blogspot.com/2026/08/the-async-parity-communication-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Opinion & Analysis",
+          "remote work culture",
+          "asynchronous communication",
+          "meeting fatigue"
+        ],
+        "slug": "the-async-parity-communication-audit-7-stress-tests-for-your-remote-work-culture",
+        "published_at": "2026-08-25T15:37:29+00:00",
+        "word_count": 992,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
