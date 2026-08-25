@@ -66596,5 +66596,57 @@
         "reference_count": 7
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T11:15:26.529810",
+    "run_end": "2026-08-25T11:16:19.675663",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4510910078918461814",
+        "title": "The 'Productivity-Debt' Enterprise Audit: 7 Stress-Tests for Your AI Tooling Against Stagnating ROI",
+        "url": "https://theomniview.blogspot.com/2026/08/the-productivity-debt-enterprise-audit.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Reviews",
+          "AI productivity",
+          "enterprise AI ROI",
+          "AI software audit"
+        ],
+        "slug": "the-productivity-debt-enterprise-audit-7-stress-tests-for-your-ai-tooling-agains",
+        "published_at": "2026-08-25T11:20:56+00:00",
+        "word_count": 592,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7674265250820306783",
+        "title": "the 'skill-obsolescence' velocity audit: 7 stress-tests for your career trajectory against the rise of 'just-in-time' credentialing \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-skill-obsolescence-velocity-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Opinion & Analysis",
+          "career resilience",
+          "skill obsolescence",
+          "micro-credentialing"
+        ],
+        "slug": "the-skill-obsolescence-velocity-audit-7-stress-tests-for-your-career-trajectory-",
+        "published_at": "2026-08-25T11:21:18+00:00",
+        "word_count": 908,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
