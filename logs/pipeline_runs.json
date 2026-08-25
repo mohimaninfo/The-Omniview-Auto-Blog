@@ -66128,5 +66128,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T02:10:49.876380",
+    "run_end": "2026-08-25T02:12:04.857917",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "498783335669635034",
+        "title": "The 'divorce-equity' settlement audit: 7 stress-tests for your retirement portfolio against un-divided IRA assets \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-divorce-equity-settlement-audit-7.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Explainers",
+          "divorce retirement assets",
+          "IRA division rules",
+          "unclaimed 401k"
+        ],
+        "slug": "the-divorce-equity-settlement-audit-7-stress-tests-for-your-retirement-portfolio",
+        "published_at": "2026-08-25T02:16:18+00:00",
+        "word_count": 960,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2536409443875446154",
+        "title": "The 'monitor-tracking' surveillance audit: 7 stress-tests for your privacy against ad-injected display firmware",
+        "url": "https://theomniview.blogspot.com/2026/08/the-monitor-tracking-surveillance-audit.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Listicles",
+          "monitor privacy",
+          "display firmware tracking",
+          "ad-injected monitors"
+        ],
+        "slug": "the-monitor-tracking-surveillance-audit-7-stress-tests-for-your-privacy-against-",
+        "published_at": "2026-08-25T02:17:03+00:00",
+        "word_count": 766,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
