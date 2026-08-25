@@ -67168,5 +67168,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T22:13:25.088967",
+    "run_end": "2026-08-25T22:14:25.601034",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2885770894028143629",
+        "title": "The 'Data-Center' Biodiversity Audit: 7 Stress-Tests for Your Local Ecosystem Against AI Infrastructure Expansion \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-biodiversity-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Explainers",
+          "data center environmental impact",
+          "AI infrastructure conservation",
+          "ecological footprint of AI"
+        ],
+        "slug": "the-data-center-biodiversity-audit-7-stress-tests-for-your-local-ecosystem-again",
+        "published_at": "2026-08-25T22:18:52+00:00",
+        "word_count": 907,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "851630688958565222",
+        "title": "the 'burn-rate' venture audit: 7 stress-tests for your startup\u2019s runway against high-interest debt refinancing",
+        "url": "https://theomniview.blogspot.com/2026/08/the-burn-rate-venture-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Case Studies",
+          "startup runway",
+          "venture debt",
+          "burn rate management"
+        ],
+        "slug": "the-burn-rate-venture-audit-7-stress-tests-for-your-startups-runway-against-high",
+        "published_at": "2026-08-25T22:19:25+00:00",
+        "word_count": 642,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
