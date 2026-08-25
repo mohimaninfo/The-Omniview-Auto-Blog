@@ -56828,5 +56828,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "78486425732918198",
+    "title": "the 'digital-tenancy' ownership audit: 7 stress-tests for your steam library against sony-style license revocation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-digital-tenancy-ownership-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "digital game ownership",
+      "Steam library",
+      "EULA"
+    ],
+    "slug": "the-digital-tenancy-ownership-audit-7-stress-tests-for-your-steam-library-agains",
+    "published_at": "2026-08-25T23:20:20+00:00",
+    "word_count": 972,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "1821903779108041894",
+    "title": "The 'Right-to-Repair' Ownership Audit: 7 Stress-Tests for Your Smart Home Ecosystem Against Remote Deactivation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-right-to-repair-ownership-audit-7.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "reviews",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Reviews",
+      "right to repair",
+      "smart home privacy",
+      "digital ownership"
+    ],
+    "slug": "the-right-to-repair-ownership-audit-7-stress-tests-for-your-smart-home-ecosystem",
+    "published_at": "2026-08-25T23:20:46+00:00",
+    "word_count": 560,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
