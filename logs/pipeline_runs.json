@@ -66440,5 +66440,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T08:27:08.086763",
+    "run_end": "2026-08-25T08:29:26.643377",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4485736930951966624",
+        "title": "The 'thermal-scavenger' efficiency audit: 7 stress-tests for your solar-plus-storage ROI against the rise of waste-heat-to-fertilizer technology",
+        "url": "https://theomniview.blogspot.com/2026/08/the-thermal-scavenger-efficiency-audit.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Latest News",
+          "solar panel efficiency",
+          "renewable energy innovation",
+          "waste heat recovery"
+        ],
+        "slug": "the-thermal-scavenger-efficiency-audit-7-stress-tests-for-your-solar-plus-storag",
+        "published_at": "2026-08-25T08:32:33+00:00",
+        "word_count": 722,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4934683608876956439",
+        "title": "The 'Over-Tourism' Resilience Audit: 7 Stress-Tests for Your Travel Itinerary Against Climate-Driven Destination Closures \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-over-tourism-resilience-audit-7_01682729965.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Listicles",
+          "travel risk assessment",
+          "sustainable travel planning",
+          "over-tourism impact"
+        ],
+        "slug": "the-over-tourism-resilience-audit-7-stress-tests-for-your-travel-itinerary-again",
+        "published_at": "2026-08-25T08:34:25+00:00",
+        "word_count": 788,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
