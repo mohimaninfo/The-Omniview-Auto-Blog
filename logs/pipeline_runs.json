@@ -66232,5 +66232,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T04:26:29.299420",
+    "run_end": "2026-08-25T04:27:10.061470",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2905314802817346650",
+        "title": "The 'clean-protein' verification audit: 7 stress-tests for your muscle-building supplements against mycotoxin and heavy metal contamination \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-clean-protein-verification-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Reviews",
+          "clean protein supplements",
+          "supplement contamination audit",
+          "heavy metal in protein powder"
+        ],
+        "slug": "the-clean-protein-verification-audit-7-stress-tests-for-your-muscle-building-sup",
+        "published_at": "2026-08-25T04:31:48+00:00",
+        "word_count": 677,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "495366314734133856",
+        "title": "the 'textile-to-textile' recycling audit: 7 stress-tests for your fashion brand\u2019s supply chain against incoming eu eco-design regulations",
+        "url": "https://theomniview.blogspot.com/2026/08/the-textile-to-textile-recycling-audit.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Case Studies",
+          "textile-to-textile recycling",
+          "circular economy fashion",
+          "EU eco-design regulation"
+        ],
+        "slug": "the-textile-to-textile-recycling-audit-7-stress-tests-for-your-fashion-brands-su",
+        "published_at": "2026-08-25T04:32:09+00:00",
+        "word_count": 756,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
