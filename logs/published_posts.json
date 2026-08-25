@@ -56520,5 +56520,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "5270228898692727314",
+    "title": "The 'Chief AI Officer' credential audit: 7 stress-tests for your university\u2019s professional certification against the $28,000 executive training bubble",
+    "url": "https://theomniview.blogspot.com/2026/08/the-chief-ai-officer-credential-audit-7.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Research Articles",
+      "higher education AI certification",
+      "executive AI training ROI",
+      "university digital transformation"
+    ],
+    "slug": "the-chief-ai-officer-credential-audit-7-stress-tests-for-your-universitys-profes",
+    "published_at": "2026-08-25T16:28:11+00:00",
+    "word_count": 1070,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4775451378392165609",
+    "title": "The 'thermal-scavenger' hardware audit: 7 stress-tests for your home energy setup against the rise of waste-heat-to-fertilizer technology",
+    "url": "https://theomniview.blogspot.com/2026/08/the-thermal-scavenger-hardware-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "circular economy",
+      "waste heat recovery",
+      "home energy efficiency"
+    ],
+    "slug": "the-thermal-scavenger-hardware-audit-7-stress-tests-for-your-home-energy-setup-a",
+    "published_at": "2026-08-25T16:29:19+00:00",
+    "word_count": 983,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
