@@ -66388,5 +66388,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T07:34:26.185850",
+    "run_end": "2026-08-25T07:35:11.043437",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4205771552427694169",
+        "title": "The 'Ad-Insertion' Firmware Audit: 7 Stress-Tests for Your Brand's Reputation Against In-Monitor Tracking",
+        "url": "https://theomniview.blogspot.com/2026/08/the-ad-insertion-firmware-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Opinion & Analysis",
+          "ad-tech privacy",
+          "monitor firmware tracking",
+          "cross-device marketing"
+        ],
+        "slug": "the-ad-insertion-firmware-audit-7-stress-tests-for-your-brands-reputation-agains",
+        "published_at": "2026-08-25T07:39:45+00:00",
+        "word_count": 857,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8261630435628787829",
+        "title": "The 'shadow-compute' exfiltration audit: 7 stress-tests for your corporate air-gapped network against ultrasonic side-channel attacks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-compute-exfiltration-audit-7.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Research Articles",
+          "air-gap security",
+          "ultrasonic exfiltration",
+          "side-channel attacks"
+        ],
+        "slug": "the-shadow-compute-exfiltration-audit-7-stress-tests-for-your-corporate-air-gapp",
+        "published_at": "2026-08-25T07:40:09+00:00",
+        "word_count": 1132,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
