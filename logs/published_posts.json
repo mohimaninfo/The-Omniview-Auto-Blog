@@ -56256,5 +56256,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7843628950423104968",
+    "title": "The 'Productivity-Paradox' Leadership Audit: 7 Stress-Tests for Your Management Style Against AI-Driven Workforce Stagnation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-productivity-paradox-leadership.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Opinion & Analysis",
+      "AI productivity paradox",
+      "leadership strategy",
+      "workforce management"
+    ],
+    "slug": "the-productivity-paradox-leadership-audit-7-stress-tests-for-your-management-sty",
+    "published_at": "2026-08-25T10:24:57+00:00",
+    "word_count": 995,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3132649264029284127",
+    "title": "The 'Fan-Fiction' Copyright Audit: 7 Stress-Tests for Your Creative Fandom Against AI-Generated Intellectual Property Claims",
+    "url": "https://theomniview.blogspot.com/2026/08/the-fan-fiction-copyright-audit-7_0198569415.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Listicles",
+      "fan fiction copyright",
+      "generative AI legal issues",
+      "fandom intellectual property"
+    ],
+    "slug": "the-fan-fiction-copyright-audit-7-stress-tests-for-your-creative-fandom-against-",
+    "published_at": "2026-08-25T10:25:31+00:00",
+    "word_count": 804,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 7
   }
 ]
