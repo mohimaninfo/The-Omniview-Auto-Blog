@@ -67064,5 +67064,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T20:14:47.283138",
+    "run_end": "2026-08-25T20:16:53.439945",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1468971485123012156",
+        "title": "the 'robotic-patrol' surveillance audit: 7 stress-tests for your neighborhood privacy against flock-style autonomous security systems",
+        "url": "https://theomniview.blogspot.com/2026/08/the-robotic-patrol-surveillance-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "autonomous security robots",
+          "neighborhood surveillance",
+          "privacy rights"
+        ],
+        "slug": "the-robotic-patrol-surveillance-audit-7-stress-tests-for-your-neighborhood-priva",
+        "published_at": "2026-08-25T20:21:28+00:00",
+        "word_count": 777,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "972142833293135470",
+        "title": "the 'layoff-resilience' liquidity audit: 7 stress-tests for your emergency fund against sudden income volatility \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-layoff-resilience-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "emergency fund strategy",
+          "income volatility",
+          "financial resilience"
+        ],
+        "slug": "the-layoff-resilience-liquidity-audit-7-stress-tests-for-your-emergency-fund-aga",
+        "published_at": "2026-08-25T20:21:52+00:00",
+        "word_count": 903,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
