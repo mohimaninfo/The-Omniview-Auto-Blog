@@ -66180,5 +66180,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T03:37:58.544126",
+    "run_end": "2026-08-25T03:38:43.335753",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4206517358942183331",
+        "title": "The 'Digital-Legacy' Separation Audit: 7 Stress-Tests for Your Shared Relationship Accounts Against Automated Deactivation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-legacy-separation-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "How-To Guides",
+          "digital estate planning",
+          "relationship digital security",
+          "shared account management"
+        ],
+        "slug": "the-digital-legacy-separation-audit-7-stress-tests-for-your-shared-relationship-",
+        "published_at": "2026-08-25T03:43:20+00:00",
+        "word_count": 911,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "820136041067630082",
+        "title": "The 'Relationship-Algorithm' Breakup Audit: 7 Stress-Tests for Your Couple\u2019s Digital Footprint Against AI-Driven Platform Deactivation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-relationship-algorithm-breakup.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Explainers",
+          "digital relationship audit",
+          "shared account security",
+          "algorithmic deactivation"
+        ],
+        "slug": "the-relationship-algorithm-breakup-audit-7-stress-tests-for-your-couples-digital",
+        "published_at": "2026-08-25T03:43:42+00:00",
+        "word_count": 1173,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
