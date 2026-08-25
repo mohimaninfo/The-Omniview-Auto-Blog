@@ -66908,5 +66908,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-25T17:21:20.141918",
+    "run_end": "2026-08-25T17:22:27.323485",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6789049225305154747",
+        "title": "The 'sonic-sovereignty' ownership audit: 7 stress-tests for your digital music collection against platform-mandated licensing revocation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-sonic-sovereignty-ownership-audit-7.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Listicles",
+          "digital music ownership",
+          "music streaming rights",
+          "platform deactivation"
+        ],
+        "slug": "the-sonic-sovereignty-ownership-audit-7-stress-tests-for-your-digital-music-coll",
+        "published_at": "2026-08-25T17:26:44+00:00",
+        "word_count": 777,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3209867830353477079",
+        "title": "the 'shadow-resume' verification audit: 7 stress-tests for your career longevity against AI-driven background screening",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-resume-verification-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "interviews",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Interviews",
+          "career longevity",
+          "automated hiring",
+          "AI background screening"
+        ],
+        "slug": "the-shadow-resume-verification-audit-7-stress-tests-for-your-career-longevity-ag",
+        "published_at": "2026-08-25T17:27:26+00:00",
+        "word_count": 981,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
