@@ -56344,5 +56344,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7534625127102904123",
+    "title": "The 'Home-Chef' Energy Audit: 7 Stress-Tests for Your Kitchen Workflow Against Grid-Constrained Power Surges",
+    "url": "https://theomniview.blogspot.com/2026/08/the-home-chef-energy-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Opinion & Analysis",
+      "energy-efficient cooking",
+      "kitchen power management",
+      "AI data center energy impact"
+    ],
+    "slug": "the-home-chef-energy-audit-7-stress-tests-for-your-kitchen-workflow-against-grid",
+    "published_at": "2026-08-25T12:27:38+00:00",
+    "word_count": 974,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4456786661238374084",
+    "title": "The 'orbital-debris' liability audit: 7 stress-tests for your satellite-based business model against the rising Kessler Syndrome risk",
+    "url": "https://theomniview.blogspot.com/2026/08/the-orbital-debris-liability-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Opinion & Analysis",
+      "orbital debris",
+      "Kessler Syndrome",
+      "space economy"
+    ],
+    "slug": "the-orbital-debris-liability-audit-7-stress-tests-for-your-satellite-based-busin",
+    "published_at": "2026-08-25T12:28:08+00:00",
+    "word_count": 928,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
