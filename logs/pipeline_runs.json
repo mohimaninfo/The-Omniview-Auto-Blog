@@ -67532,5 +67532,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T06:25:34.286735",
+    "run_end": "2026-08-26T06:26:26.771319",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5591396091926032670",
+        "title": "The 'Digital-Nomad' Residency Audit: 7 Stress-Tests for Your Global Travel Freedom Against Rising Data-Center Water-Taxation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-nomad-residency-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Opinion & Analysis",
+          "digital nomad travel",
+          "data center water usage",
+          "sustainable remote work"
+        ],
+        "slug": "the-digital-nomad-residency-audit-7-stress-tests-for-your-global-travel-freedom-",
+        "published_at": "2026-08-26T06:31:04+00:00",
+        "word_count": 955,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1906848464320316942",
+        "title": "The 'campus-compute' water audit: 7 stress-tests for your university\u2019s sustainability pledge against AI data center expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-campus-compute-water-audit-7-stress.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Opinion & Analysis",
+          "higher education sustainability",
+          "AI data center water usage",
+          "campus climate goals"
+        ],
+        "slug": "the-campus-compute-water-audit-7-stress-tests-for-your-universitys-sustainabilit",
+        "published_at": "2026-08-26T06:31:26+00:00",
+        "word_count": 1005,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
