@@ -67896,5 +67896,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T13:43:37.421198",
+    "run_end": "2026-08-26T13:45:13.482404",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1026091200417083942",
+        "title": "The 'Offline-First' Pedagogy Audit: 7 Stress-Tests for Your Classroom\u2019s EdTech Stack Against Cloud-Only License Revocation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-offline-first-pedagogy-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "reviews",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Reviews",
+          "edtech",
+          "license revocation",
+          "classroom technology"
+        ],
+        "slug": "the-offline-first-pedagogy-audit-7-stress-tests-for-your-classrooms-edtech-stack",
+        "published_at": "2026-08-26T13:49:01+00:00",
+        "word_count": 501,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4669231301884348013",
+        "title": "The 'biometric-baseline' fitness audit: 7 stress-tests for your metabolic health against post-viral inflammation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-biometric-baseline-fitness-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "How-To Guides",
+          "metabolic health",
+          "post-viral recovery",
+          "fitness training"
+        ],
+        "slug": "the-biometric-baseline-fitness-audit-7-stress-tests-for-your-metabolic-health-ag",
+        "published_at": "2026-08-26T13:50:12+00:00",
+        "word_count": 1132,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
