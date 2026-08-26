@@ -67272,5 +67272,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T00:33:26.626123",
+    "run_end": "2026-08-26T00:34:26.819486",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "755620529990760753",
+        "title": "The 'license-revocation' pedagogy audit: 7 stress-tests for your school\u2019s digital curriculum against sudden software deactivation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-license-revocation-pedagogy-audit-7.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "edtech ownership",
+          "digital curriculum security",
+          "software licensing in education"
+        ],
+        "slug": "the-license-revocation-pedagogy-audit-7-stress-tests-for-your-schools-digital-cu",
+        "published_at": "2026-08-26T00:38:57+00:00",
+        "word_count": 1035,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8638195691701125566",
+        "title": "The 'biometric-drift' wearable audit: 7 stress-tests for your fitness tracker against skin-tone and tattoo interference",
+        "url": "https://theomniview.blogspot.com/2026/08/the-biometric-drift-wearable-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Reviews",
+          "fitness tracker accuracy",
+          "heart rate monitor testing",
+          "wearable technology"
+        ],
+        "slug": "the-biometric-drift-wearable-audit-7-stress-tests-for-your-fitness-tracker-again",
+        "published_at": "2026-08-26T00:39:26+00:00",
+        "word_count": 644,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
