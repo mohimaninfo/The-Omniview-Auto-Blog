@@ -67428,5 +67428,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T04:28:00.547286",
+    "run_end": "2026-08-26T04:29:35.457897",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2734629347770442900",
+        "title": "The 'Geopolitical-Hedge' Asset Audit: 7 Stress-Tests for Your Personal Portfolio Against Escalating Trade-War Volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-geopolitical-hedge-asset-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Opinion & Analysis",
+          "trade-war volatility",
+          "personal portfolio strategy",
+          "geopolitical risk assessment"
+        ],
+        "slug": "the-geopolitical-hedge-asset-audit-7-stress-tests-for-your-personal-portfolio-ag",
+        "published_at": "2026-08-26T04:34:04+00:00",
+        "word_count": 1034,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5908337770787178024",
+        "title": "The 'digital-tenancy' library audit: 7 stress-tests for your streaming movie collection against platform license revocation \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-tenancy-library-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Reviews",
+          "digital movie ownership",
+          "streaming license revocation",
+          "platform deactivation"
+        ],
+        "slug": "the-digital-tenancy-library-audit-7-stress-tests-for-your-streaming-movie-collec",
+        "published_at": "2026-08-26T04:34:34+00:00",
+        "word_count": 573,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
