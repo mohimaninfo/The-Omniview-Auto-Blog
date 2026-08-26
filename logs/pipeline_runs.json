@@ -67740,5 +67740,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T10:22:37.633242",
+    "run_end": "2026-08-26T10:23:15.202953",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8770710425040375805",
+        "title": "The 'license-revocation' legacy audit: 7 stress-tests for your offline-first software architecture against cloud-only platform obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/08/the-license-revocation-legacy-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Opinion & Analysis",
+          "software architecture",
+          "license revocation",
+          "offline-first development"
+        ],
+        "slug": "the-license-revocation-legacy-audit-7-stress-tests-for-your-offline-first-softwa",
+        "published_at": "2026-08-26T10:27:55+00:00",
+        "word_count": 815,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3734741351734246252",
+        "title": "The 'Vector-Database' Latency Audit: 7 Stress-Tests for Your RAG Architecture Against Real-Time Retrieval Bottlenecks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-vector-database-latency-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "RAG architecture",
+          "vector database performance",
+          "AI latency optimization"
+        ],
+        "slug": "the-vector-database-latency-audit-7-stress-tests-for-your-rag-architecture-again",
+        "published_at": "2026-08-26T10:28:14+00:00",
+        "word_count": 731,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
