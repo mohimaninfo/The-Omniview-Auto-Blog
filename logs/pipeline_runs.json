@@ -67844,5 +67844,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T12:24:27.310996",
+    "run_end": "2026-08-26T12:25:22.952586",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2508240804059160816",
+        "title": "The 'license-revocation' pedagogy audit: 7 stress-tests for your school\u2019s digital curriculum against sudden software deactivation \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-license-revocation-pedagogy-audit-7_0196754506.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Research Articles",
+          "edtech infrastructure",
+          "digital curriculum stability",
+          "software license revocation"
+        ],
+        "slug": "the-license-revocation-pedagogy-audit-7-stress-tests-for-your-schools-digital-cu",
+        "published_at": "2026-08-26T12:29:49+00:00",
+        "word_count": 990,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "8222421117353050511",
+        "title": "The 'kinematic-drift' calibration audit: 7 stress-tests for your cobot\u2019s precision against industrial vibration interference \u2014 a explainers perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kinematic-drift-calibration-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Explainers",
+          "collaborative robots",
+          "cobot calibration",
+          "industrial robotics"
+        ],
+        "slug": "the-kinematic-drift-calibration-audit-7-stress-tests-for-your-cobots-precision-a",
+        "published_at": "2026-08-26T12:30:21+00:00",
+        "word_count": 956,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
