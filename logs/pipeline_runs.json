@@ -67324,5 +67324,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T02:16:49.455459",
+    "run_end": "2026-08-26T02:18:05.071228",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1503637058682874679",
+        "title": "The 'Neuro-Restoration' Recovery Audit: 7 Stress-Tests for Your Sleep-Deprived Brain Against Modern Fatigue",
+        "url": "https://theomniview.blogspot.com/2026/08/the-neuro-restoration-recovery-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Opinion & Analysis",
+          "neuroscience of sleep",
+          "cognitive restoration",
+          "sleep deprivation"
+        ],
+        "slug": "the-neuro-restoration-recovery-audit-7-stress-tests-for-your-sleep-deprived-brai",
+        "published_at": "2026-08-26T02:22:26+00:00",
+        "word_count": 890,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4349514405935311983",
+        "title": "The 'gap-insurance' vulnerability audit: 7 stress-tests for your auto financing against total-loss depreciation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-gap-insurance-vulnerability-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Opinion & Analysis",
+          "gap insurance",
+          "auto loan depreciation",
+          "upside down car loan"
+        ],
+        "slug": "the-gap-insurance-vulnerability-audit-7-stress-tests-for-your-auto-financing-aga",
+        "published_at": "2026-08-26T02:23:03+00:00",
+        "word_count": 910,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
