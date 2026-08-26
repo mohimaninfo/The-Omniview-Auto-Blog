@@ -57444,5 +57444,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3124725656078274854",
+    "title": "The 'Hydric-Flight' Tourism Audit: 7 Stress-Tests for Your Next Vacation Against AI Data Center Water Scarcity",
+    "url": "https://theomniview.blogspot.com/2026/08/the-hydric-flight-tourism-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Opinion & Analysis",
+      "sustainable travel",
+      "data center water usage",
+      "responsible tourism"
+    ],
+    "slug": "the-hydric-flight-tourism-audit-7-stress-tests-for-your-next-vacation-against-ai",
+    "published_at": "2026-08-26T14:38:11+00:00",
+    "word_count": 938,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6856359842645735772",
+    "title": "The 'Analog-Parenting' Lifestyle Audit: 7 Stress-Tests for Your Family\u2019s Tech Habits Against Silicon Valley\u2019s 'Low-Tech' Reality",
+    "url": "https://theomniview.blogspot.com/2026/08/the-analog-parenting-lifestyle-audit-7.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Listicles",
+      "analog parenting",
+      "digital detox for families",
+      "tech-free childhood"
+    ],
+    "slug": "the-analog-parenting-lifestyle-audit-7-stress-tests-for-your-familys-tech-habits",
+    "published_at": "2026-08-26T14:38:41+00:00",
+    "word_count": 795,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
