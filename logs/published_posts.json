@@ -57488,5 +57488,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7022778835194583773",
+    "title": "The 'Cognitive-Friction' Classroom Audit: 7 Stress-Tests for Your Curriculum Against AI-Driven Search Dependency \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-cognitive-friction-classroom-audit.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Explainers",
+      "learning science",
+      "cognitive friction",
+      "AI in education"
+    ],
+    "slug": "the-cognitive-friction-classroom-audit-7-stress-tests-for-your-curriculum-agains",
+    "published_at": "2026-08-26T16:13:10+00:00",
+    "word_count": 956,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6325449862837349300",
+    "title": "The 'aquifer-sovereignty' cooling audit: 7 stress-tests for your local utility grid against hyper-scale data center water consumption",
+    "url": "https://theomniview.blogspot.com/2026/08/the-aquifer-sovereignty-cooling-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Research Articles",
+      "data center water usage",
+      "renewable energy grid",
+      "sustainable infrastructure"
+    ],
+    "slug": "the-aquifer-sovereignty-cooling-audit-7-stress-tests-for-your-local-utility-grid",
+    "published_at": "2026-08-26T16:13:38+00:00",
+    "word_count": 1058,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
