@@ -67688,5 +67688,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T09:28:34.195094",
+    "run_end": "2026-08-26T09:29:14.289707",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1521351218369633226",
+        "title": "the 'digital-tenancy' reclamation audit: 7 stress-tests for your streaming movie library against platform license revocation \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-tenancy-reclamation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "digital ownership",
+          "streaming services",
+          "content licensing"
+        ],
+        "slug": "the-digital-tenancy-reclamation-audit-7-stress-tests-for-your-streaming-movie-li",
+        "published_at": "2026-08-26T09:33:53+00:00",
+        "word_count": 959,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8380162303293950242",
+        "title": "The 'Subscription-Creep' Budget Audit: 7 Stress-Tests for Your Monthly Cash Flow Against Hidden SaaS Price Hikes \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-subscription-creep-budget-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "how-to-guides",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "How-To Guides",
+          "personal finance",
+          "budgeting tips",
+          "subscription management"
+        ],
+        "slug": "the-subscription-creep-budget-audit-7-stress-tests-for-your-monthly-cash-flow-ag",
+        "published_at": "2026-08-26T09:34:13+00:00",
+        "word_count": 1017,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 2
+      }
+    ]
   }
 ]
