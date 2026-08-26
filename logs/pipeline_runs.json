@@ -67792,5 +67792,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T11:18:30.482375",
+    "run_end": "2026-08-26T11:19:13.589782",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2415072374249166004",
+        "title": "The 'Pathogen-Pantry' Nutrition Audit: 7 Stress-Tests for Your Grocery Staples Against Rising Foodborne Outbreaks \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-pathogen-pantry-nutrition-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "food safety tips",
+          "nutrition safety",
+          "foodborne illness prevention"
+        ],
+        "slug": "the-pathogen-pantry-nutrition-audit-7-stress-tests-for-your-grocery-staples-agai",
+        "published_at": "2026-08-26T11:23:50+00:00",
+        "word_count": 973,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2230447146721426154",
+        "title": "The 'Smart-Meter' Privacy Audit: 7 Stress-Tests for Your Household Energy Data Against AI-Driven Behavioral Profiling",
+        "url": "https://theomniview.blogspot.com/2026/08/the-smart-meter-privacy-audit-7-stress.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Case Studies",
+          "smart meter privacy",
+          "energy usage data",
+          "behavioral profiling"
+        ],
+        "slug": "the-smart-meter-privacy-audit-7-stress-tests-for-your-household-energy-data-agai",
+        "published_at": "2026-08-26T11:24:13+00:00",
+        "word_count": 755,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
