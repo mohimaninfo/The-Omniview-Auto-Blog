@@ -67584,5 +67584,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T07:35:46.368862",
+    "run_end": "2026-08-26T07:36:24.442894",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4674144003495269412",
+        "title": "The 'robotic-patrol' liability audit: 7 stress-tests for your neighborhood privacy against autonomous security systems \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-robotic-patrol-liability-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Research Articles",
+          "autonomous security robots",
+          "neighborhood privacy",
+          "surveillance robotics"
+        ],
+        "slug": "the-robotic-patrol-liability-audit-7-stress-tests-for-your-neighborhood-privacy-",
+        "published_at": "2026-08-26T07:41:04+00:00",
+        "word_count": 1005,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8354793997518200640",
+        "title": "The 'founder-exit' liquidity audit: 7 stress-tests for your startup equity against divorce-induced asset division \u2014 A Interviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-founder-exit-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup founder divorce",
+          "equity asset division",
+          "vested stock liquidity"
+        ],
+        "slug": "the-founder-exit-liquidity-audit-7-stress-tests-for-your-startup-equity-against-",
+        "published_at": "2026-08-26T07:41:23+00:00",
+        "word_count": 992,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
