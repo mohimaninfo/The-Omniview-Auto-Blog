@@ -68104,5 +68104,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T21:24:19.087511",
+    "run_end": "2026-08-26T21:25:12.261874",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7519604834063587286",
+        "title": "The 'algorithmic-erasure' film audit: 7 stress-tests for your favorite streaming libraries against AI-driven content scrubbing \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-erasure-film-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Listicles",
+          "streaming services",
+          "AI film editing",
+          "content moderation"
+        ],
+        "slug": "the-algorithmic-erasure-film-audit-7-stress-tests-for-your-favorite-streaming-li",
+        "published_at": "2026-08-26T21:29:45+00:00",
+        "word_count": 862,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4321057723294445114",
+        "title": "the 'mycelium-insulation' building audit: 7 stress-tests for your home\u2019s energy efficiency against volatile synthetic foam costs",
+        "url": "https://theomniview.blogspot.com/2026/08/the-mycelium-insulation-building-audit.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "case-studies",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Case Studies",
+          "circular economy construction",
+          "mycelium insulation",
+          "sustainable building materials"
+        ],
+        "slug": "the-mycelium-insulation-building-audit-7-stress-tests-for-your-homes-energy-effi",
+        "published_at": "2026-08-26T21:30:11+00:00",
+        "word_count": 787,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
