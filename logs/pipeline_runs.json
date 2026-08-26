@@ -68052,5 +68052,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T18:45:39.041296",
+    "run_end": "2026-08-26T18:46:40.136866",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1844525648481483851",
+        "title": "The 'Shadow-Code' Sovereignty Audit: 7 Stress-Tests for Your Open-Source Project Against AI-Generated Pollution",
+        "url": "https://theomniview.blogspot.com/2026/08/the-shadow-code-sovereignty-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Opinion & Analysis",
+          "open-source security",
+          "AI-generated code",
+          "software supply chain"
+        ],
+        "slug": "the-shadow-code-sovereignty-audit-7-stress-tests-for-your-open-source-project-ag",
+        "published_at": "2026-08-26T18:51:08+00:00",
+        "word_count": 932,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3531512608949404578",
+        "title": "The 'Digital-Diplomacy' Sovereignty Audit: 7 Stress-Tests for Your National Identity Against AI-Driven Propaganda Campaigns",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-diplomacy-sovereignty-audit.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "digital diplomacy",
+          "ai propaganda",
+          "national identity"
+        ],
+        "slug": "the-digital-diplomacy-sovereignty-audit-7-stress-tests-for-your-national-identit",
+        "published_at": "2026-08-26T18:51:39+00:00",
+        "word_count": 896,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
