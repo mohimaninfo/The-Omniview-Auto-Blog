@@ -67376,5 +67376,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T03:42:22.443415",
+    "run_end": "2026-08-26T03:43:00.024790",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7344455585977893103",
+        "title": "The 'License-Revocation' Asset Audit: 7 Stress-Tests for Your Digital Business Model Against Subscription-Only Platform Deactivation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-license-revocation-asset-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "digital asset ownership",
+          "business continuity planning",
+          "SaaS risk management"
+        ],
+        "slug": "the-license-revocation-asset-audit-7-stress-tests-for-your-digital-business-mode",
+        "published_at": "2026-08-26T03:47:39+00:00",
+        "word_count": 908,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7390878213127413592",
+        "title": "The 'GPU-mortgage' liquidity audit: 7 stress-tests for your startup\u2019s cloud-compute runway against enterprise demand spikes \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-gpu-mortgage-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Listicles",
+          "startup liquidity",
+          "GPU shortage",
+          "cloud compute costs"
+        ],
+        "slug": "the-gpu-mortgage-liquidity-audit-7-stress-tests-for-your-startups-cloud-compute-",
+        "published_at": "2026-08-26T03:47:59+00:00",
+        "word_count": 859,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
