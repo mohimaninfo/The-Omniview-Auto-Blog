@@ -67480,5 +67480,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-26T05:21:39.654832",
+    "run_end": "2026-08-26T05:22:46.632235",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5865111206084757658",
+        "title": "The 'Hydraulic-Sovereignty' Data Audit: 7 Stress-Tests for Your Local Water Security Against Industrial AI Expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-hydraulic-sovereignty-data-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Opinion & Analysis",
+          "data center water usage",
+          "sustainable living",
+          "AI environmental impact"
+        ],
+        "slug": "the-hydraulic-sovereignty-data-audit-7-stress-tests-for-your-local-water-securit",
+        "published_at": "2026-08-26T05:27:03+00:00",
+        "word_count": 789,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1286301904219945363",
+        "title": "The 'Voter-Data' Extraction Audit: 7 Stress-Tests for Your Civic Privacy Against ICE\u2019s Federal Data-Mining Expansion",
+        "url": "https://theomniview.blogspot.com/2026/08/the-voter-data-extraction-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Latest News",
+          "voter privacy",
+          "data mining",
+          "climate policy"
+        ],
+        "slug": "the-voter-data-extraction-audit-7-stress-tests-for-your-civic-privacy-against-ic",
+        "published_at": "2026-08-26T05:27:46+00:00",
+        "word_count": 721,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
