@@ -57620,5 +57620,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6442512238380298441",
+    "title": "the 'server-heat' circular-economy audit: 7 stress-tests for your home heating system against industrial data center waste-heat recovery",
+    "url": "https://theomniview.blogspot.com/2026/08/the-server-heat-circular-economy-audit.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "circular economy",
+      "data center waste heat",
+      "district heating"
+    ],
+    "slug": "the-server-heat-circular-economy-audit-7-stress-tests-for-your-home-heating-syst",
+    "published_at": "2026-08-27T02:26:01+00:00",
+    "word_count": 1057,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5267993799534775526",
+    "title": "The 'biometric-bias' wellness audit: 7 stress-tests for your metabolic health tracking against skin-tone and hardware limitations",
+    "url": "https://theomniview.blogspot.com/2026/08/the-biometric-bias-wellness-audit-7.html",
+    "genre": "health",
+    "topic": "wellness",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Wellness & Lifestyle",
+      "How-To Guides",
+      "metabolic health tracking",
+      "wearable sensor accuracy",
+      "biometric bias"
+    ],
+    "slug": "the-biometric-bias-wellness-audit-7-stress-tests-for-your-metabolic-health-track",
+    "published_at": "2026-08-27T02:26:22+00:00",
+    "word_count": 1170,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
