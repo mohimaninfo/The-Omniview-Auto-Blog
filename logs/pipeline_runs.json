@@ -68260,5 +68260,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-27T23:18:06.584128",
+    "run_end": "2026-08-27T23:20:37.804447",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8529076340466539861",
+        "title": "The 'Dependency-Hell' Audit: 7 Stress-Tests for Your Production Codebase Against AI-Generated 'Ghost' Dependencies",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dependency-hell-audit-7-stress_01254896479.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Research Articles",
+          "software supply chain security",
+          "AI-generated code risks",
+          "dependency management"
+        ],
+        "slug": "the-dependency-hell-audit-7-stress-tests-for-your-production-codebase-against-ai",
+        "published_at": "2026-08-27T23:23:41+00:00",
+        "word_count": 1000,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6419577978118384172",
+        "title": "The 'dynamic-pricing' grocery audit: 7 stress-tests for your household budget against ai-driven price volatility \u2014 a explainers perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-dynamic-pricing-grocery-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Explainers",
+          "dynamic pricing",
+          "grocery budget",
+          "personal finance"
+        ],
+        "slug": "the-dynamic-pricing-grocery-audit-7-stress-tests-for-your-household-budget-again",
+        "published_at": "2026-08-27T23:25:36+00:00",
+        "word_count": 978,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
