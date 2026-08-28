@@ -68312,5 +68312,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-28T07:22:10.342423",
+    "run_end": "2026-08-28T07:25:19.605790",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4975092754928406940",
+        "title": "The 'Earth-Hum' Resonance Audit: 7 Physics Stress-Tests for Your Local Infrastructure Against Global Ocean-Swell Vibrations",
+        "url": "https://theomniview.blogspot.com/2026/08/the-earth-hum-resonance-audit-7-physics.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "Earth's hum",
+          "geophysics",
+          "seismic noise"
+        ],
+        "slug": "the-earth-hum-resonance-audit-7-physics-stress-tests-for-your-local-infrastructu",
+        "published_at": "2026-08-28T07:28:23+00:00",
+        "word_count": 1076,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "621302927135511931",
+        "title": "The 'strategic-reserve' food audit: 7 stress-tests for your household pantry against global trade-war inflation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-strategic-reserve-food-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Case Studies",
+          "food inflation",
+          "trade war impacts",
+          "household budget"
+        ],
+        "slug": "the-strategic-reserve-food-audit-7-stress-tests-for-your-household-pantry-agains",
+        "published_at": "2026-08-28T07:30:19+00:00",
+        "word_count": 724,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
