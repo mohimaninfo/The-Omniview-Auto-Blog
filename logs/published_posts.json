@@ -57994,5 +57994,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7416323727704333850",
+    "title": "The 'AI-Ghost' Copyright Audit: 7 stress-tests for your independent music catalog against unauthorized AI-model training",
+    "url": "https://theomniview.blogspot.com/2026/08/the-ai-ghost-copyright-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "interviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Interviews",
+      "AI music copyright",
+      "music industry AI",
+      "digital music rights"
+    ],
+    "slug": "the-ai-ghost-copyright-audit-7-stress-tests-for-your-independent-music-catalog-a",
+    "published_at": "2026-08-29T20:25:18+00:00",
+    "word_count": 926,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "2418098186937486625",
+    "title": "The 'founder-furlough' liquidity audit: 7 stress-tests for your startup equity against long-term income volatility \u2014 a opinion analysis perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-founder-furlough-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Opinion & Analysis",
+      "startup founder equity",
+      "founder liquidity",
+      "startup burn rate"
+    ],
+    "slug": "the-founder-furlough-liquidity-audit-7-stress-tests-for-your-startup-equity-agai",
+    "published_at": "2026-08-29T20:25:46+00:00",
+    "word_count": 819,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
