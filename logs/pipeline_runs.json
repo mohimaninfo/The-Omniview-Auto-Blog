@@ -68502,5 +68502,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-08-29T14:44:58.486213",
+    "run_end": "2026-08-29T14:45:55.086655",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4253367335541322496",
+        "title": "The 'passive-index' volatility audit: 7 stress-tests for your S&P 500 retirement portfolio against systemic liquidity risks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-passive-index-volatility-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "S&P 500 index funds",
+          "passive investing risks",
+          "retirement portfolio strategy"
+        ],
+        "slug": "the-passive-index-volatility-audit-7-stress-tests-for-your-sp-500-retirement-por",
+        "published_at": "2026-08-29T14:50:24+00:00",
+        "word_count": 826,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "8843126382338440681",
+        "title": "The 'conscription-ready' digital audit: 7 stress-tests for your personal data privacy against state-level mobilization \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-conscription-ready-digital-audit-7_0404184830.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Listicles",
+          "digital privacy",
+          "data sovereignty",
+          "conscription"
+        ],
+        "slug": "the-conscription-ready-digital-audit-7-stress-tests-for-your-personal-data-priva",
+        "published_at": "2026-08-29T14:50:54+00:00",
+        "word_count": 782,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
