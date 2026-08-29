@@ -57840,5 +57840,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2558349479738068578",
+    "title": "the 'startup-burn' liquidity audit: 7 stress-tests for your founder equity against high-interest debt refinancing",
+    "url": "https://theomniview.blogspot.com/2026/08/the-startup-burn-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "listicles",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Listicles",
+      "startup liquidity",
+      "founder equity",
+      "debt refinancing"
+    ],
+    "slug": "the-startup-burn-liquidity-audit-7-stress-tests-for-your-founder-equity-against-",
+    "published_at": "2026-08-29T02:37:19+00:00",
+    "word_count": 875,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5276749961796976802",
+    "title": "The 'expertise-recession' diploma audit: 7 stress-tests for your university degree against the rise of AI-driven credential devaluation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-expertise-recession-diploma-audit-7.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Explainers",
+      "expertise recession",
+      "credential devaluation",
+      "higher education trends"
+    ],
+    "slug": "the-expertise-recession-diploma-audit-7-stress-tests-for-your-university-degree-",
+    "published_at": "2026-08-29T02:37:41+00:00",
+    "word_count": 976,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
