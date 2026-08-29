@@ -68554,5 +68554,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-29T17:58:06.782870",
+    "run_end": "2026-08-29T17:58:49.821818",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7367772484979883653",
+        "title": "The 'Data-Center Backlash' Leadership Audit: 7 Stress-Tests for Your Corporate Expansion Strategy Against Local Community Resistance \u2014 A Interviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-backlash-leadership.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "data center backlash",
+          "leadership strategy",
+          "community relations"
+        ],
+        "slug": "the-data-center-backlash-leadership-audit-7-stress-tests-for-your-corporate-expa",
+        "published_at": "2026-08-29T18:03:28+00:00",
+        "word_count": 1017,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7445346055612057710",
+        "title": "the 'server-side' preservation audit: 7 stress-tests for your gaming collection against live-service sunsetting",
+        "url": "https://theomniview.blogspot.com/2026/08/the-server-side-preservation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Listicles",
+          "gaming preservation",
+          "live service games",
+          "digital game ownership"
+        ],
+        "slug": "the-server-side-preservation-audit-7-stress-tests-for-your-gaming-collection-aga",
+        "published_at": "2026-08-29T18:03:48+00:00",
+        "word_count": 805,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
