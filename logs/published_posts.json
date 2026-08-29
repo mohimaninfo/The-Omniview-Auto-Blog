@@ -58038,5 +58038,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7959829404644169353",
+    "title": "The 'Offline-First' Pedagogy Audit: 7 Stress-Tests for Your Classroom Curriculum Against Cloud-Only License Revocation \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-offline-first-pedagogy-audit-7_0913880318.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Opinion & Analysis",
+      "K12 digital curriculum",
+      "offline-first learning",
+      "edtech license revocation"
+    ],
+    "slug": "the-offline-first-pedagogy-audit-7-stress-tests-for-your-classroom-curriculum-ag",
+    "published_at": "2026-08-29T22:58:08+00:00",
+    "word_count": 898,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "48332549858864845",
+    "title": "the 'sovereign-node' infrastructure audit: 7 stress-tests for your home-server data against state-level internet kill-switches",
+    "url": "https://theomniview.blogspot.com/2026/08/the-sovereign-node-infrastructure-audit.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "internet kill-switch",
+      "data sovereignty",
+      "home server security"
+    ],
+    "slug": "the-sovereign-node-infrastructure-audit-7-stress-tests-for-your-home-server-data",
+    "published_at": "2026-08-29T22:58:48+00:00",
+    "word_count": 975,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
