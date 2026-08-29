@@ -68468,5 +68468,39 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-29T09:28:54.284634",
+    "run_end": "2026-08-29T09:29:38.858478",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "post_id": "3110500089831476958",
+        "title": "the 'thermal-sovereignty' infrastructure audit: 7 stress-tests for your community heating grid against industrial ai data center heat-dumping",
+        "url": "https://theomniview.blogspot.com/2026/08/the-thermal-sovereignty-infrastructure.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "waste-heat recovery",
+          "data center sustainability"
+        ],
+        "slug": "the-thermal-sovereignty-infrastructure-audit-7-stress-tests-for-your-community-h",
+        "published_at": "2026-08-29T09:34:15+00:00",
+        "word_count": 939,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "error": "<HttpError 503 when requesting https://blogger.googleapis.com/v3/blogs/1475086792050038552/posts?isDraft=false&fetchImages=false&alt=json returned \"The service is currently unavailable.\". Details: \"[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]\">",
+        "post_index": 2
+      }
+    ]
   }
 ]
