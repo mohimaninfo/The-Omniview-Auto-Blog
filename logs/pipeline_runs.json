@@ -68970,5 +68970,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-30T22:58:07.526302",
+    "run_end": "2026-08-30T22:58:54.233493",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7789040134685279019",
+        "title": "The 'grid-sovereignty' cooling audit: 7 stress-tests for your local utility grid against hyper-scale AI data center water consumption \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-grid-sovereignty-cooling-audit-7.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Research Articles",
+          "data center water consumption",
+          "renewable energy grid",
+          "AI energy demand"
+        ],
+        "slug": "the-grid-sovereignty-cooling-audit-7-stress-tests-for-your-local-utility-grid-ag",
+        "published_at": "2026-08-30T23:03:31+00:00",
+        "word_count": 1069,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5456930785327245752",
+        "title": "the 'neuro-divergence' curriculum audit: 7 stress-tests for your classroom\u2019s cognitive load against hyper-personalized ai-tutors",
+        "url": "https://theomniview.blogspot.com/2026/08/the-neuro-divergence-curriculum-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Opinion & Analysis",
+          "learning science",
+          "ai in education",
+          "cognitive load theory"
+        ],
+        "slug": "the-neuro-divergence-curriculum-audit-7-stress-tests-for-your-classrooms-cogniti",
+        "published_at": "2026-08-30T23:03:53+00:00",
+        "word_count": 912,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
