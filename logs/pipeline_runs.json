@@ -68710,5 +68710,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-08-30T00:51:01.243473",
+    "run_end": "2026-08-30T00:51:43.847724",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4203428981608672589",
+        "title": "The 'algorithmic-camouflage' wardrobe audit: 7 stress-tests for your personal privacy against AI-driven facial recognition",
+        "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-camouflage-wardrobe.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Opinion & Analysis",
+          "AI surveillance",
+          "facial recognition privacy",
+          "adversarial fashion"
+        ],
+        "slug": "the-algorithmic-camouflage-wardrobe-audit-7-stress-tests-for-your-personal-priva",
+        "published_at": "2026-08-30T00:56:22+00:00",
+        "word_count": 812,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2361515927401847524",
+        "title": "The 'Indoor-Air' Pollutant Audit: 7 Stress-Tests for Your Home\u2019s Air Quality Against Modern VOC-Emitting Smart Furniture",
+        "url": "https://theomniview.blogspot.com/2026/08/the-indoor-air-pollutant-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "indoor air quality",
+          "VOC off-gassing",
+          "home health audit"
+        ],
+        "slug": "the-indoor-air-pollutant-audit-7-stress-tests-for-your-homes-air-quality-against",
+        "published_at": "2026-08-30T00:56:43+00:00",
+        "word_count": 744,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
