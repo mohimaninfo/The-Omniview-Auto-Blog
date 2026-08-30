@@ -58126,5 +58126,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "7605339130567343221",
+    "title": "The 'Digital Camouflage' Wardrobe Audit: 7 Stress-Tests for Your Personal Privacy Against AI-Driven Surveillance Cameras",
+    "url": "https://theomniview.blogspot.com/2026/08/the-digital-camouflage-wardrobe-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Reviews",
+      "AI surveillance",
+      "facial recognition privacy",
+      "anti-surveillance clothing"
+    ],
+    "slug": "the-digital-camouflage-wardrobe-audit-7-stress-tests-for-your-personal-privacy-a",
+    "published_at": "2026-08-30T06:05:55+00:00",
+    "word_count": 570,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "2559655709899327266",
+    "title": "The 'algorithmic-redlining' mortgage audit: 7 stress-tests for your home loan application against automated bias \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-algorithmic-redlining-mortgage_01594782957.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Explainers",
+      "algorithmic bias",
+      "housing inequality",
+      "automated mortgage underwriting"
+    ],
+    "slug": "the-algorithmic-redlining-mortgage-audit-7-stress-tests-for-your-home-loan-appli",
+    "published_at": "2026-08-30T06:06:19+00:00",
+    "word_count": 1045,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
