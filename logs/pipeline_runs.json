@@ -68814,5 +68814,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-08-30T12:21:37.372588",
+    "run_end": "2026-08-30T12:22:40.549134",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3239732582608980609",
+        "title": "The 'Data-Center' Proximity Audit: 7 Stress-Tests for Your Property Value Against Hyper-Scale AI Infrastructure Expansion \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-data-center-proximity-audit-7_01351209863.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "data center property value",
+          "home real estate trends",
+          "AI infrastructure impact"
+        ],
+        "slug": "the-data-center-proximity-audit-7-stress-tests-for-your-property-value-against-h",
+        "published_at": "2026-08-30T12:26:56+00:00",
+        "word_count": 883,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6913377885555977828",
+        "title": "the 'synthetic-surplus' liquidity audit: 7 stress-tests for your personal savings against ai-driven deflationary shocks",
+        "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-surplus-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Case Studies",
+          "personal finance",
+          "liquidity management",
+          "deflationary risks"
+        ],
+        "slug": "the-synthetic-surplus-liquidity-audit-7-stress-tests-for-your-personal-savings-a",
+        "published_at": "2026-08-30T12:27:39+00:00",
+        "word_count": 851,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
