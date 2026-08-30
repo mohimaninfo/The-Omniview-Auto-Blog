@@ -58214,5 +58214,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4614786356056465684",
+    "title": "The 'license-plate' privacy audit: 7 stress-tests for your vehicle data against predatory surveillance software",
+    "url": "https://theomniview.blogspot.com/2026/08/the-license-plate-privacy-audit-7_0150821097.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "How-To Guides",
+      "vehicle data privacy",
+      "license plate tracking",
+      "surveillance software"
+    ],
+    "slug": "the-license-plate-privacy-audit-7-stress-tests-for-your-vehicle-data-against-pre",
+    "published_at": "2026-08-30T17:06:22+00:00",
+    "word_count": 1045,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "8307120043167083954",
+    "title": "the 'synthetic-identity' vetting audit: 7 stress-tests for your hiring process against ai-generated deepfake candidates \u2014 a opinion analysis perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-synthetic-identity-vetting-audit-7.html",
+    "genre": "society",
+    "topic": "social-trends",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Social Trends",
+      "Opinion & Analysis",
+      "ai hiring fraud",
+      "deepfake job interview",
+      "synthetic identity verification"
+    ],
+    "slug": "the-synthetic-identity-vetting-audit-7-stress-tests-for-your-hiring-process-agai",
+    "published_at": "2026-08-30T17:06:49+00:00",
+    "word_count": 927,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
