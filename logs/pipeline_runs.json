@@ -68918,5 +68918,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-30T20:10:40.038804",
+    "run_end": "2026-08-30T20:11:46.211980",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "137781961935523280",
+        "title": "The 'digital-sovereignty' mapping audit: 7 stress-tests for your navigation data against geopolitical boundary volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-sovereignty-mapping-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Explainers",
+          "digital sovereignty",
+          "geopolitical mapping",
+          "location data privacy"
+        ],
+        "slug": "the-digital-sovereignty-mapping-audit-7-stress-tests-for-your-navigation-data-ag",
+        "published_at": "2026-08-30T20:16:19+00:00",
+        "word_count": 1078,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4039569651054678764",
+        "title": "The 'brand-trust' surveillance audit: 7 stress-tests for your customer loyalty strategy against the Flock-style privacy backlash",
+        "url": "https://theomniview.blogspot.com/2026/08/the-brand-trust-surveillance-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Opinion & Analysis",
+          "brand trust",
+          "customer loyalty",
+          "surveillance marketing"
+        ],
+        "slug": "the-brand-trust-surveillance-audit-7-stress-tests-for-your-customer-loyalty-stra",
+        "published_at": "2026-08-30T20:16:45+00:00",
+        "word_count": 939,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
