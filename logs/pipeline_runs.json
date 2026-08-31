@@ -69074,5 +69074,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-08-31T07:47:42.736252",
+    "run_end": "2026-08-31T07:49:21.534772",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7466175717335482518",
+        "title": "The 'Loneliness-Epidemic' Resilience Audit: 7 Stress-Tests for Your Mental Health Against Modern Social Fragmentation",
+        "url": "https://theomniview.blogspot.com/2026/08/the-loneliness-epidemic-resilience.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "loneliness epidemic",
+          "mental health resilience",
+          "social fragmentation"
+        ],
+        "slug": "the-loneliness-epidemic-resilience-audit-7-stress-tests-for-your-mental-health-a",
+        "published_at": "2026-08-31T07:53:31+00:00",
+        "word_count": 738,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1996342324062587205",
+        "title": "The 'kinetic-sovereignty' supply audit: 7 stress-tests for your manufacturing resilience against global trade-war blockades",
+        "url": "https://theomniview.blogspot.com/2026/08/the-kinetic-sovereignty-supply-audit-7.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "supply chain resilience",
+          "trade war",
+          "manufacturing strategy"
+        ],
+        "slug": "the-kinetic-sovereignty-supply-audit-7-stress-tests-for-your-manufacturing-resil",
+        "published_at": "2026-08-31T07:54:21+00:00",
+        "word_count": 818,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
