@@ -58434,5 +58434,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6802128972839127671",
+    "title": "The 'Grid-Backlash' Resilience Audit: 7 Stress-Tests for Your Renewable Energy Setup Against Industrial AI Data Center Expansion \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-grid-backlash-resilience-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Latest News",
+      "renewable energy resilience",
+      "data center power demand",
+      "grid stability"
+    ],
+    "slug": "the-grid-backlash-resilience-audit-7-stress-tests-for-your-renewable-energy-setu",
+    "published_at": "2026-08-31T15:40:43+00:00",
+    "word_count": 700,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1916510992413119428",
+    "title": "The 'deepfake-realism' casting audit: 7 stress-tests for your film production workflow against synthetic actor integration",
+    "url": "https://theomniview.blogspot.com/2026/08/the-deepfake-realism-casting-audit-7.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Explainers",
+      "synthetic actors",
+      "film production workflow",
+      "AI casting"
+    ],
+    "slug": "the-deepfake-realism-casting-audit-7-stress-tests-for-your-film-production-workf",
+    "published_at": "2026-08-31T15:41:13+00:00",
+    "word_count": 962,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
