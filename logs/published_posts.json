@@ -58566,5 +58566,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8019951217286044481",
+    "title": "The 'license-lockout' career audit: 7 stress-tests for your professional software skills against sudden platform deactivation",
+    "url": "https://theomniview.blogspot.com/2026/09/the-license-lockout-career-audit-7.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Explainers",
+      "digital platform lockout",
+      "career resilience",
+      "software skill portability"
+    ],
+    "slug": "the-license-lockout-career-audit-7-stress-tests-for-your-professional-software-s",
+    "published_at": "2026-09-01T10:43:50+00:00",
+    "word_count": 977,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6676194742059688984",
+    "title": "The 'Game-Preservation' Latency Audit: 7 Stress-Tests for Your Retro Library Against Modern Cloud-Streaming De-Optimization",
+    "url": "https://theomniview.blogspot.com/2026/09/the-game-preservation-latency-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Latest News",
+      "game preservation",
+      "cloud gaming latency",
+      "retro gaming"
+    ],
+    "slug": "the-game-preservation-latency-audit-7-stress-tests-for-your-retro-library-agains",
+    "published_at": "2026-09-01T10:44:13+00:00",
+    "word_count": 765,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
