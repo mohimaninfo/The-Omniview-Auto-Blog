@@ -58654,5 +58654,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4989564979054027994",
+    "title": "The 'diploma-denial' ownership audit: 7 stress-tests for your university degree against digital-only credential revocation",
+    "url": "https://theomniview.blogspot.com/2026/09/the-diploma-denial-ownership-audit-7.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Opinion & Analysis",
+      "digital degree verification",
+      "higher education credentials",
+      "blockchain diplomas"
+    ],
+    "slug": "the-diploma-denial-ownership-audit-7-stress-tests-for-your-university-degree-aga",
+    "published_at": "2026-09-01T19:01:10+00:00",
+    "word_count": 960,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "4992071206068070229",
+    "title": "The 'FKBP5-Stress' Audit: 7 Neurobiological Stress-Tests for Your Mental Health Against Chronic Genetic Priming",
+    "url": "https://theomniview.blogspot.com/2026/09/the-fkbp5-stress-audit-7.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Explainers",
+      "FKBP5 gene",
+      "neuroscience of stress",
+      "schizophrenia research"
+    ],
+    "slug": "the-fkbp5-stress-audit-7-neurobiological-stress-tests-for-your-mental-health-aga",
+    "published_at": "2026-09-01T19:01:42+00:00",
+    "word_count": 993,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
