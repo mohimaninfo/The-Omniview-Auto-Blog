@@ -69506,5 +69506,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-01T23:37:29.482568",
+    "run_end": "2026-09-01T23:38:13.048836",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3890149933387512932",
+        "title": "the 'offline-homestead' resilience audit: 7 stress-tests for your smart-home devices against cloud-server sunsetting",
+        "url": "https://theomniview.blogspot.com/2026/09/the-offline-homestead-resilience-audit.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "listicles",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Listicles",
+          "smart home resilience",
+          "sustainable living technology",
+          "offline-first home"
+        ],
+        "slug": "the-offline-homestead-resilience-audit-7-stress-tests-for-your-smart-home-device",
+        "published_at": "2026-09-01T23:42:51+00:00",
+        "word_count": 890,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "3226174032307585965",
+        "title": "The 'circadian-alignment' recovery audit: 7 stress-tests for your fitness progress against modern blue-light saturation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-circadian-alignment-recovery-audit.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Explainers",
+          "circadian rhythm fitness",
+          "muscle recovery optimization",
+          "blue light sleep hygiene"
+        ],
+        "slug": "the-circadian-alignment-recovery-audit-7-stress-tests-for-your-fitness-progress-",
+        "published_at": "2026-09-01T23:43:12+00:00",
+        "word_count": 1140,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
