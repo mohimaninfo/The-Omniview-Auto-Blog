@@ -58478,5 +58478,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "5907348250066505774",
+    "title": "The 'GLP-1' psychological audit: 7 stress-tests for your mental health against rapid weight-loss medication \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/08/the-glp-1-psychological-audit-7-stress.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "How-To Guides",
+      "GLP-1 mental health",
+      "weight loss medication side effects",
+      "mental health during weight loss"
+    ],
+    "slug": "the-glp-1-psychological-audit-7-stress-tests-for-your-mental-health-against-rapi",
+    "published_at": "2026-09-01T00:57:30+00:00",
+    "word_count": 1126,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5866259216935538558",
+    "title": "The 'license-lockout' classroom audit: 7 stress-tests for your school\u2019s offline-first contingency plan against cloud-only software revocation",
+    "url": "https://theomniview.blogspot.com/2026/08/the-license-lockout-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "How-To Guides",
+      "K-12 contingency planning",
+      "digital curriculum ownership",
+      "offline-first classroom"
+    ],
+    "slug": "the-license-lockout-classroom-audit-7-stress-tests-for-your-schools-offline-firs",
+    "published_at": "2026-09-01T00:58:32+00:00",
+    "word_count": 963,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
