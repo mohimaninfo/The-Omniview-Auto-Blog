@@ -69246,5 +69246,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-01T05:48:26.667153",
+    "run_end": "2026-09-01T05:49:08.968564",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3269320427256012582",
+        "title": "The 'Digital-Tenant' Streaming Audit: 7 Stress-Tests for Your Movie Collection Against Platform License Revocation \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/08/the-digital-tenant-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Explainers",
+          "digital movie ownership",
+          "streaming license revocation",
+          "streaming platform terms of service"
+        ],
+        "slug": "the-digital-tenant-streaming-audit-7-stress-tests-for-your-movie-collection-agai",
+        "published_at": "2026-09-01T05:53:49+00:00",
+        "word_count": 972,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9158465495523922146",
+        "title": "The 'Inference-Cost' Profitability Audit: 7 Stress-Tests for Your SaaS Pricing Model Against GPU-Compute Volatility",
+        "url": "https://theomniview.blogspot.com/2026/08/the-inference-cost-profitability-audit_0320272827.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Latest News",
+          "AI inference costs",
+          "SaaS profitability",
+          "GPU compute pricing"
+        ],
+        "slug": "the-inference-cost-profitability-audit-7-stress-tests-for-your-saas-pricing-mode",
+        "published_at": "2026-09-01T05:54:08+00:00",
+        "word_count": 712,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
