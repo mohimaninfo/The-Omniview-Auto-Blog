@@ -58698,5 +58698,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "60176517479016146",
+    "title": "The 'cognitive-offloading' curriculum audit: 7 stress-tests for your student\u2019s critical thinking against AI-generated search summaries",
+    "url": "https://theomniview.blogspot.com/2026/09/the-cognitive-offloading-curriculum.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "Research Articles",
+      "cognitive offloading",
+      "learning science",
+      "critical thinking"
+    ],
+    "slug": "the-cognitive-offloading-curriculum-audit-7-stress-tests-for-your-students-criti",
+    "published_at": "2026-09-01T21:34:44+00:00",
+    "word_count": 979,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5735590303010017010",
+    "title": "the 'model-collapse' integrity audit: 7 stress-tests for your proprietary training datasets against synthetic data poisoning",
+    "url": "https://theomniview.blogspot.com/2026/09/the-model-collapse-integrity-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "How-To Guides",
+      "model collapse",
+      "synthetic data poisoning",
+      "AI training data"
+    ],
+    "slug": "the-model-collapse-integrity-audit-7-stress-tests-for-your-proprietary-training-",
+    "published_at": "2026-09-01T21:35:14+00:00",
+    "word_count": 1165,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
