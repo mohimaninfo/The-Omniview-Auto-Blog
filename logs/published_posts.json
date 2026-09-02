@@ -58786,5 +58786,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3533607780094253299",
+    "title": "The 'thermal-sovereignty' mapping audit: 7 stress-tests for your local climate policy against AI data center heat-dumping",
+    "url": "https://theomniview.blogspot.com/2026/09/the-thermal-sovereignty-mapping-audit-7.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Explainers",
+      "climate policy",
+      "AI data center",
+      "thermal pollution"
+    ],
+    "slug": "the-thermal-sovereignty-mapping-audit-7-stress-tests-for-your-local-climate-poli",
+    "published_at": "2026-09-02T01:46:56+00:00",
+    "word_count": 1074,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "898839256152758440",
+    "title": "The 'Memory-Debt' Legacy Audit: 7 Stress-Tests for Your Digital Estate Against Post-Mortem Account Access \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-memory-debt-legacy-audit-7-stress.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "listicles",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Listicles",
+      "digital estate planning",
+      "digital inheritance",
+      "post-mortem data access"
+    ],
+    "slug": "the-memory-debt-legacy-audit-7-stress-tests-for-your-digital-estate-against-post",
+    "published_at": "2026-09-02T01:47:18+00:00",
+    "word_count": 804,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
