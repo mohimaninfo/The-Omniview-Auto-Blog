@@ -58918,5 +58918,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "8704798448609843110",
+    "title": "The 'equity-vesting' volatility audit: 7 stress-tests for your startup compensation package against sudden cliff-date liquidity freezes \u2014 an opinion analysis perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-equity-vesting-volatility-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Opinion & Analysis",
+      "startup equity",
+      "vesting schedule",
+      "liquidity crisis"
+    ],
+    "slug": "the-equity-vesting-volatility-audit-7-stress-tests-for-your-startup-compensation",
+    "published_at": "2026-09-02T15:33:59+00:00",
+    "word_count": 889,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5335515017430208152",
+    "title": "The 'Plug-and-Play' Solar Audit: 7 Stress-Tests for Your Home Grid Against California\u2019s New Rapid-Installation Mandates",
+    "url": "https://theomniview.blogspot.com/2026/09/the-plug-and-play-solar-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Latest News",
+      "plug-in solar systems",
+      "renewable energy grid",
+      "California solar mandate"
+    ],
+    "slug": "the-plug-and-play-solar-audit-7-stress-tests-for-your-home-grid-against-californ",
+    "published_at": "2026-09-02T15:34:22+00:00",
+    "word_count": 763,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
