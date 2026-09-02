@@ -69800,5 +69800,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-02T22:04:30.727273",
+    "run_end": "2026-09-02T22:05:41.653222",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8203499651819536078",
+        "title": "The 'kinetic-sovereignty' mobility audit: 7 stress-tests for your personal travel freedom against escalating geopolitical border closures",
+        "url": "https://theomniview.blogspot.com/2026/09/the-kinetic-sovereignty-mobility-audit.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "geopolitical mobility",
+          "travel security",
+          "border volatility"
+        ],
+        "slug": "the-kinetic-sovereignty-mobility-audit-7-stress-tests-for-your-personal-travel-f",
+        "published_at": "2026-09-02T22:10:06+00:00",
+        "word_count": 810,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6809167302327735328",
+        "title": "The 'founder-emergency' liquidity audit: 7 stress-tests for your startup\u2019s cash runway against personal debt-trap volatility",
+        "url": "https://theomniview.blogspot.com/2026/09/the-founder-emergency-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Latest News",
+          "startup liquidity",
+          "founder personal finance",
+          "startup runway management"
+        ],
+        "slug": "the-founder-emergency-liquidity-audit-7-stress-tests-for-your-startups-cash-runw",
+        "published_at": "2026-09-02T22:10:40+00:00",
+        "word_count": 871,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
