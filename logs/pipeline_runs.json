@@ -69904,5 +69904,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-03T05:15:51.025289",
+    "run_end": "2026-09-03T05:17:05.937282",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9189200815017398417",
+        "title": "The 'Neuro-Algorithm' Resilience Audit: 7 Stress-Tests for Your Mental Health Against AI-Driven Behavioral Profiling",
+        "url": "https://theomniview.blogspot.com/2026/09/the-neuro-algorithm-resilience-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Opinion & Analysis",
+          "mental health",
+          "algorithmic bias",
+          "cognitive autonomy"
+        ],
+        "slug": "the-neuro-algorithm-resilience-audit-7-stress-tests-for-your-mental-health-again",
+        "published_at": "2026-09-03T05:21:19+00:00",
+        "word_count": 897,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5844298369568345008",
+        "title": "The 'Post-Viral' Recovery Audit: 7 Stress-Tests for Your Metabolic Health Against Persistent Respiratory Inflammation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-post-viral-recovery-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "metabolic health",
+          "post-viral inflammation",
+          "respiratory illness recovery"
+        ],
+        "slug": "the-post-viral-recovery-audit-7-stress-tests-for-your-metabolic-health-against-p",
+        "published_at": "2026-09-03T05:22:04+00:00",
+        "word_count": 707,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
