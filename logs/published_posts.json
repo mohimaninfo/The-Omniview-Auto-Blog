@@ -59292,5 +59292,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3399330729215521011",
+    "title": "The 'Cloud-Tax' Latency Audit: 7 Stress-Tests for Your Xbox Subscription Against Rising Infrastructure Costs",
+    "url": "https://theomniview.blogspot.com/2026/09/the-cloud-tax-latency-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Latest News",
+      "Xbox cloud gaming",
+      "game subscription services",
+      "cloud gaming latency"
+    ],
+    "slug": "the-cloud-tax-latency-audit-7-stress-tests-for-your-xbox-subscription-against-ri",
+    "published_at": "2026-09-03T23:42:48+00:00",
+    "word_count": 811,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7023742746656642146",
+    "title": "the 'proctor-bias' integrity audit: 7 stress-tests for your school\u2019s ai-proctoring software against algorithmic discrimination \u2014 an opinion analysis perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-proctor-bias-integrity-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Opinion & Analysis",
+      "ai proctoring",
+      "algorithmic bias in education",
+      "edtech ethics"
+    ],
+    "slug": "the-proctor-bias-integrity-audit-7-stress-tests-for-your-schools-ai-proctoring-s",
+    "published_at": "2026-09-03T23:43:17+00:00",
+    "word_count": 979,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
