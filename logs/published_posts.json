@@ -59204,5 +59204,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "9095624827974967301",
+    "title": "The 'Blight-Score' Surveillance Audit: 7 Stress-Tests for Your Neighborhood\u2019s Privacy Against AI-Driven Code Enforcement",
+    "url": "https://theomniview.blogspot.com/2026/09/the-blight-score-surveillance-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Latest News",
+      "AI surveillance",
+      "algorithmic code enforcement",
+      "neighborhood privacy"
+    ],
+    "slug": "the-blight-score-surveillance-audit-7-stress-tests-for-your-neighborhoods-privac",
+    "published_at": "2026-09-03T18:15:30+00:00",
+    "word_count": 735,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4624971118704295562",
+    "title": "The 'orbital-debris' collision audit: 7 stress-tests for your satellite internet connection against Kessler Syndrome \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-orbital-debris-collision-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Explainers",
+      "orbital debris",
+      "Kessler Syndrome",
+      "satellite internet"
+    ],
+    "slug": "the-orbital-debris-collision-audit-7-stress-tests-for-your-satellite-internet-co",
+    "published_at": "2026-09-03T18:16:10+00:00",
+    "word_count": 853,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
