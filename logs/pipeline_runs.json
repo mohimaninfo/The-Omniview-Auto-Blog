@@ -70008,5 +70008,57 @@
         "reference_count": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-09-03T14:45:43.982070",
+    "run_end": "2026-09-03T14:46:53.707537",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "280184591988324137",
+        "title": "The 'Blight-Score' Privacy Audit: 7 Stress-Tests for Your Neighborhood\u2019s AI Surveillance Resilience",
+        "url": "https://theomniview.blogspot.com/2026/09/the-blight-score-privacy-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Research Articles",
+          "AI surveillance",
+          "municipal AI",
+          "privacy rights"
+        ],
+        "slug": "the-blight-score-privacy-audit-7-stress-tests-for-your-neighborhoods-ai-surveill",
+        "published_at": "2026-09-03T14:51:23+00:00",
+        "word_count": 1003,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1811960685924568598",
+        "title": "The 'license-revocation' library audit: 7 stress-tests for your streaming subscription against regional tariff volatility \u2014 an opinion analysis perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-license-revocation-library-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "streaming subscription",
+          "license revocation",
+          "digital media rights"
+        ],
+        "slug": "the-license-revocation-library-audit-7-stress-tests-for-your-streaming-subscript",
+        "published_at": "2026-09-03T14:51:53+00:00",
+        "word_count": 938,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
