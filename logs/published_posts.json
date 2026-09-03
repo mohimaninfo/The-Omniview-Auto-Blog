@@ -59116,5 +59116,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4896763955671351464",
+    "title": "The 'Platform-Dependency' Marketing Audit: 7 Stress-Tests for Your Ad Spend Against Amazon\u2019s $20B Overcharge Risk",
+    "url": "https://theomniview.blogspot.com/2026/09/the-platform-dependency-marketing-audit.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Reviews",
+      "marketing audit",
+      "ad spend optimization",
+      "Amazon advertising fees"
+    ],
+    "slug": "the-platform-dependency-marketing-audit-7-stress-tests-for-your-ad-spend-against",
+    "published_at": "2026-09-03T10:20:13+00:00",
+    "word_count": 648,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "5437883923006258476",
+    "title": "The Biphasic Aging Audit: 7 Biological Stress-Tests for Your Healthspan in Your 30s and 50s",
+    "url": "https://theomniview.blogspot.com/2026/09/the-biphasic-aging-audit-7-biological.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Explainers",
+      "biphasic aging",
+      "biological aging",
+      "healthspan"
+    ],
+    "slug": "the-biphasic-aging-audit-7-biological-stress-tests-for-your-healthspan-in-your-3",
+    "published_at": "2026-09-03T10:20:44+00:00",
+    "word_count": 974,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
