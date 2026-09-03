@@ -59028,5 +59028,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5506122050800096770",
+    "title": "The 'digital-tenancy' hardware audit: 7 stress-tests for your gaming console against remote kill-switch vulnerability",
+    "url": "https://theomniview.blogspot.com/2026/09/the-digital-tenancy-hardware-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Latest News",
+      "digital game ownership",
+      "PlayStation Store lawsuit",
+      "gaming console security"
+    ],
+    "slug": "the-digital-tenancy-hardware-audit-7-stress-tests-for-your-gaming-console-agains",
+    "published_at": "2026-09-03T00:52:43+00:00",
+    "word_count": 799,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3871631596628404026",
+    "title": "The 'Subsea-Cable' resilience audit: 7 stress-tests for your global business continuity against undersea infrastructure sabotage",
+    "url": "https://theomniview.blogspot.com/2026/09/the-subsea-cable-resilience-audit-7.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "explainers",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Explainers",
+      "subsea cable security",
+      "business continuity planning",
+      "digital infrastructure resilience"
+    ],
+    "slug": "the-subsea-cable-resilience-audit-7-stress-tests-for-your-global-business-contin",
+    "published_at": "2026-09-03T00:53:14+00:00",
+    "word_count": 1108,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
