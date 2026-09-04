@@ -70216,5 +70216,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-04T01:41:25.432555",
+    "run_end": "2026-09-04T01:43:12.257709",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 1
+      },
+      {
+        "post_id": "8267750759772076943",
+        "title": "The 'age-gating' surveillance audit: 7 stress-tests for your VPN privacy against state-level identity mandates",
+        "url": "https://theomniview.blogspot.com/2026/09/the-age-gating-surveillance-audit-7.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Opinion & Analysis",
+          "VPN privacy",
+          "digital age verification",
+          "online anonymity"
+        ],
+        "slug": "the-age-gating-surveillance-audit-7-stress-tests-for-your-vpn-privacy-against-st",
+        "published_at": "2026-09-04T01:48:11+00:00",
+        "word_count": 875,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
