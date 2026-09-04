@@ -70510,5 +70510,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-04T23:29:59.578271",
+    "run_end": "2026-09-04T23:30:53.838157",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5900661501376414368",
+        "title": "the 'remote-sovereignty' audit: 7 stress-tests for your home-office network against ai-driven corporate surveillance \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-remote-sovereignty-audit-7-stress.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote work surveillance",
+          "home office privacy",
+          "employee monitoring software"
+        ],
+        "slug": "the-remote-sovereignty-audit-7-stress-tests-for-your-home-office-network-against",
+        "published_at": "2026-09-04T23:35:30+00:00",
+        "word_count": 987,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4120190220997300204",
+        "title": "The 'dynamic-bitrate' streaming audit: 7 stress-tests for your 4K experience against ISP-enforced bandwidth throttling",
+        "url": "https://theomniview.blogspot.com/2026/09/the-dynamic-bitrate-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Latest News",
+          "streaming quality",
+          "bandwidth throttling",
+          "ISP traffic shaping"
+        ],
+        "slug": "the-dynamic-bitrate-streaming-audit-7-stress-tests-for-your-4k-experience-agains",
+        "published_at": "2026-09-04T23:35:53+00:00",
+        "word_count": 802,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
