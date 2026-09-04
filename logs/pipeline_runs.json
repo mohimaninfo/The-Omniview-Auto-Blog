@@ -70458,5 +70458,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-04T21:07:01.256889",
+    "run_end": "2026-09-04T21:07:50.284614",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6892990284821788186",
+        "title": "the 'autonomous-steering' liability audit: 7 stress-tests for your codebase against nhtsa-grade safety compliance",
+        "url": "https://theomniview.blogspot.com/2026/09/the-autonomous-steering-liability-audit.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Explainers",
+          "autonomous systems",
+          "software safety compliance",
+          "codebase liability"
+        ],
+        "slug": "the-autonomous-steering-liability-audit-7-stress-tests-for-your-codebase-against",
+        "published_at": "2026-09-04T21:12:23+00:00",
+        "word_count": 1030,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "7562664133787044106",
+        "title": "The 'permafrost-thaw' infrastructure audit: 7 stress-tests for your northern property investment against accelerating ground-subsidence \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-permafrost-thaw-infrastructure.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Latest News",
+          "permafrost thaw",
+          "ground subsidence",
+          "climate-resilient infrastructure"
+        ],
+        "slug": "the-permafrost-thaw-infrastructure-audit-7-stress-tests-for-your-northern-proper",
+        "published_at": "2026-09-04T21:12:49+00:00",
+        "word_count": 730,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
