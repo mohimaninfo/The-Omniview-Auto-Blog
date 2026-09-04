@@ -59490,5 +59490,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "8301847768066335854",
+    "title": "The 'equity-trap' homeownership audit: 7 stress-tests for your under-30 property investment against stagnant wage-to-rent volatility \u2014 a research articles perspective \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-equity-trap-homeownership-audit-7_01683644404.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "research-articles",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Research Articles",
+      "first-time homebuyer risks",
+      "wage-to-rent ratio",
+      "housing market volatility"
+    ],
+    "slug": "the-equity-trap-homeownership-audit-7-stress-tests-for-your-under-30-property-in",
+    "published_at": "2026-09-04T18:43:47+00:00",
+    "word_count": 1043,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7274543818625462340",
+    "title": "The 'entropy-leak' cooling audit: 7 physics stress-tests for your home\u2019s thermal insulation against extreme heat-wave volatility \u2014 a explainers perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-entropy-leak-cooling-audit-7.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "thermodynamics of heat transfer",
+      "thermal insulation physics",
+      "extreme heat wave resilience"
+    ],
+    "slug": "the-entropy-leak-cooling-audit-7-physics-stress-tests-for-your-homes-thermal-ins",
+    "published_at": "2026-09-04T18:44:26+00:00",
+    "word_count": 1014,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
