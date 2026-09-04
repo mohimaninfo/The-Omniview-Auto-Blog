@@ -70250,5 +70250,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-04T06:38:43.815058",
+    "run_end": "2026-09-04T06:39:34.295224",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "878949036946697174",
+        "title": "The 'hourly-cap' gaming audit: 7 stress-tests for your Xbox Cloud Gaming library against subscription-based usage limits",
+        "url": "https://theomniview.blogspot.com/2026/09/the-hourly-cap-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "Xbox Cloud Gaming",
+          "cloud gaming limits",
+          "game streaming subscription"
+        ],
+        "slug": "the-hourly-cap-gaming-audit-7-stress-tests-for-your-xbox-cloud-gaming-library-ag",
+        "published_at": "2026-09-04T06:44:12+00:00",
+        "word_count": 938,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3559563094662019035",
+        "title": "The 'Data-Harvest' Breach Audit: 7 Stress-Tests for Your Personal Identity Against IDScan-Style Dark Web Exposure",
+        "url": "https://theomniview.blogspot.com/2026/09/the-data-harvest-breach-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Reviews",
+          "data breach protection",
+          "identity theft prevention",
+          "dark web monitoring"
+        ],
+        "slug": "the-data-harvest-breach-audit-7-stress-tests-for-your-personal-identity-against-",
+        "published_at": "2026-09-04T06:44:33+00:00",
+        "word_count": 605,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
