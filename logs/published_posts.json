@@ -59402,5 +59402,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "1094334425729996096",
+    "title": "The 'equity-trap' homeownership audit: 7 stress-tests for your under-30 property investment against stagnant wage-to-rent volatility \u2014 an opinion analysis perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-equity-trap-homeownership-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Opinion & Analysis",
+      "first-time homebuyer",
+      "housing market analysis",
+      "financial independence"
+    ],
+    "slug": "the-equity-trap-homeownership-audit-7-stress-tests-for-your-under-30-property-in",
+    "published_at": "2026-09-04T11:55:45+00:00",
+    "word_count": 978,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "4183410715211398443",
+    "title": "the 'cold-storage' custody audit: 7 stress-tests for your cryptocurrency portfolio against exchange-level insolvency risks \u2014 a explainers perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-cold-storage-custody-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Latest News",
+      "cryptocurrency self-custody",
+      "cold storage security",
+      "crypto exchange risk"
+    ],
+    "slug": "the-cold-storage-custody-audit-7-stress-tests-for-your-cryptocurrency-portfolio-",
+    "published_at": "2026-09-04T11:56:12+00:00",
+    "word_count": 827,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
