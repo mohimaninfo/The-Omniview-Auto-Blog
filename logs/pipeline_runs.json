@@ -70614,5 +70614,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-05T06:24:57.664561",
+    "run_end": "2026-09-05T06:26:09.675560",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4945436832383473948",
+        "title": "The 'Offline-Passport' Travel Audit: 7 Stress-Tests for Your Vacation Privacy Against AI-Driven Border Surveillance \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-offline-passport-travel-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "How-To Guides",
+          "travel privacy",
+          "digital border security",
+          "AI surveillance"
+        ],
+        "slug": "the-offline-passport-travel-audit-7-stress-tests-for-your-vacation-privacy-again",
+        "published_at": "2026-09-05T06:30:29+00:00",
+        "word_count": 1136,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7351440963272677044",
+        "title": "The 'border-friction' mobility audit: 7 stress-tests for your international travel plans against escalating geopolitical border closures",
+        "url": "https://theomniview.blogspot.com/2026/09/the-border-friction-mobility-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Opinion & Analysis",
+          "geopolitical border closures",
+          "travel restrictions 2024",
+          "visa policy changes"
+        ],
+        "slug": "the-border-friction-mobility-audit-7-stress-tests-for-your-international-travel-",
+        "published_at": "2026-09-05T06:31:09+00:00",
+        "word_count": 1166,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
