@@ -70874,5 +70874,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-05T20:46:57.357750",
+    "run_end": "2026-09-05T20:47:46.847195",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8069152906110705260",
+        "title": "The 'Subscription-Cap' Gaming Audit: 7 Stress-Tests for Your Cloud Library Against Usage-Based Throttling \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-subscription-cap-gaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Opinion & Analysis",
+          "Xbox cloud gaming",
+          "subscription gaming",
+          "digital ownership"
+        ],
+        "slug": "the-subscription-cap-gaming-audit-7-stress-tests-for-your-cloud-library-against-",
+        "published_at": "2026-09-05T20:52:21+00:00",
+        "word_count": 812,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2151543321662966625",
+        "title": "The 'Platform-Dependency' Liquidity Audit: 7 Stress-Tests for Your Ecommerce Cash Flow Against Sudden API Restrictions",
+        "url": "https://theomniview.blogspot.com/2026/09/the-platform-dependency-liquidity-audit.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Listicles",
+          "ecommerce liquidity",
+          "platform dependency",
+          "API risk management"
+        ],
+        "slug": "the-platform-dependency-liquidity-audit-7-stress-tests-for-your-ecommerce-cash-f",
+        "published_at": "2026-09-05T20:52:46+00:00",
+        "word_count": 813,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
