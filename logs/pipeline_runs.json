@@ -70926,5 +70926,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-05T22:25:22.669547",
+    "run_end": "2026-09-05T22:26:07.283908",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1482162301836364433",
+        "title": "The 'synthetic-empathy' therapy audit: 7 stress-tests for your mental health against ai-companion chatbots",
+        "url": "https://theomniview.blogspot.com/2026/09/the-synthetic-empathy-therapy-audit-7.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "case-studies",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Case Studies",
+          "AI mental health",
+          "synthetic empathy",
+          "chatbot therapy risks"
+        ],
+        "slug": "the-synthetic-empathy-therapy-audit-7-stress-tests-for-your-mental-health-agains",
+        "published_at": "2026-09-05T22:30:44+00:00",
+        "word_count": 952,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5046873469722389695",
+        "title": "The 'starlight-interference' connectivity audit: 7 stress-tests for your ground-based telescope data against the mega-constellation light-pollution surge",
+        "url": "https://theomniview.blogspot.com/2026/09/the-starlight-interference-connectivity.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "astronomy light pollution",
+          "satellite constellations",
+          "astrophotography interference"
+        ],
+        "slug": "the-starlight-interference-connectivity-audit-7-stress-tests-for-your-ground-bas",
+        "published_at": "2026-09-05T22:31:06+00:00",
+        "word_count": 712,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
