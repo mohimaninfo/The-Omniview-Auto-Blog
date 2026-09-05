@@ -70718,5 +70718,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-05T13:40:36.118761",
+    "run_end": "2026-09-05T13:44:40.795920",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7828825265038039583",
+        "title": "The 'Quantum-Sleep' Resonance Audit: 7 Physics Stress-Tests for Your Circadian Rhythm Against Gentle Rocking Bed Technology",
+        "url": "https://theomniview.blogspot.com/2026/09/the-quantum-sleep-resonance-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Physics",
+          "Opinion & Analysis",
+          "circadian rhythm",
+          "harmonic resonance",
+          "sleep physics"
+        ],
+        "slug": "the-quantum-sleep-resonance-audit-7-physics-stress-tests-for-your-circadian-rhyt",
+        "published_at": "2026-09-05T13:47:40+00:00",
+        "word_count": 912,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2176048332718532589",
+        "title": "The 'Inconsistent-Income' Budgeting Audit: 7 Stress-Tests for Your Startup Founder Salary Against Volatile Monthly Revenue \u2014 A How-To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-inconsistent-income-budgeting-audit.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Latest News",
+          "startup founder budgeting",
+          "inconsistent income strategies",
+          "founder personal finance"
+        ],
+        "slug": "the-inconsistent-income-budgeting-audit-7-stress-tests-for-your-startup-founder-",
+        "published_at": "2026-09-05T13:49:39+00:00",
+        "word_count": 856,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
