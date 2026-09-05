@@ -59842,5 +59842,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5718163343377965223",
+    "title": "The 'Hardware-Sovereignty' Audit: 7 Stress-Tests for Your Startup\u2019s AI Infrastructure Against Cloud-Provider 'Kill-Switch' Risks",
+    "url": "https://theomniview.blogspot.com/2026/09/the-hardware-sovereignty-audit-7-stress.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "interviews",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Interviews",
+      "ai infrastructure",
+      "startup sovereignty",
+      "cloud provider risk"
+    ],
+    "slug": "the-hardware-sovereignty-audit-7-stress-tests-for-your-startups-ai-infrastructur",
+    "published_at": "2026-09-05T18:44:31+00:00",
+    "word_count": 1001,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5905851017356845245",
+    "title": "The 'Synthetic-Engagement' Audit: 7 Stress-Tests for Your Marketing ROI Against AI-Generated Ad Fraud",
+    "url": "https://theomniview.blogspot.com/2026/09/the-synthetic-engagement-audit-7-stress.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "reviews",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Reviews",
+      "marketing ROI",
+      "ad fraud",
+      "bot traffic"
+    ],
+    "slug": "the-synthetic-engagement-audit-7-stress-tests-for-your-marketing-roi-against-ai-",
+    "published_at": "2026-09-05T18:44:53+00:00",
+    "word_count": 581,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
