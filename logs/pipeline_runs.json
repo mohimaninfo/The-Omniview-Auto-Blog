@@ -71082,5 +71082,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-06T09:48:16.279642",
+    "run_end": "2026-09-06T09:49:05.003403",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2196453902358704908",
+        "title": "The 'algorithmic-exile' connectivity audit: 7 stress-tests for your social media presence against mandatory algorithm opt-out policies",
+        "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-exile-connectivity.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "algorithm opt-out",
+          "digital-society",
+          "social media regulation"
+        ],
+        "slug": "the-algorithmic-exile-connectivity-audit-7-stress-tests-for-your-social-media-pr",
+        "published_at": "2026-09-06T09:53:38+00:00",
+        "word_count": 1010,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3305754231871367217",
+        "title": "The 'cognitive-friction' curriculum audit: 7 stress-tests for your student\u2019s deep work against AI-prompted dependency",
+        "url": "https://theomniview.blogspot.com/2026/09/the-cognitive-friction-curriculum-audit.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "How-To Guides",
+          "learning science",
+          "cognitive friction",
+          "educational technology"
+        ],
+        "slug": "the-cognitive-friction-curriculum-audit-7-stress-tests-for-your-students-deep-wo",
+        "published_at": "2026-09-06T09:54:04+00:00",
+        "word_count": 1048,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
