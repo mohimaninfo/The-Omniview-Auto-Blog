@@ -60106,5 +60106,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1570990876458191152",
+    "title": "The 'Post-Vaccination' Immunity Audit: 7 Stress-Tests for Your Long-Term Health Against Declining Public Health Infrastructure",
+    "url": "https://theomniview.blogspot.com/2026/09/the-post-vaccination-immunity-audit-7.html",
+    "genre": "health",
+    "topic": "wellness",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Wellness & Lifestyle",
+      "Opinion & Analysis",
+      "public health infrastructure",
+      "measles outbreak",
+      "preventative health"
+    ],
+    "slug": "the-post-vaccination-immunity-audit-7-stress-tests-for-your-long-term-health-aga",
+    "published_at": "2026-09-06T13:20:04+00:00",
+    "word_count": 914,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "943932079263813152",
+    "title": "The 'Model-Fatigue' Efficiency Audit: 7 Stress-Tests for Your Enterprise AI Workflow Against Rapid-Release Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/09/the-model-fatigue-efficiency-audit-7.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Reviews",
+      "model fatigue",
+      "enterprise AI workflow",
+      "AI infrastructure"
+    ],
+    "slug": "the-model-fatigue-efficiency-audit-7-stress-tests-for-your-enterprise-ai-workflo",
+    "published_at": "2026-09-06T13:21:41+00:00",
+    "word_count": 550,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
