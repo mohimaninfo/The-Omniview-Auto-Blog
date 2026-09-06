@@ -71290,5 +71290,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-06T20:55:08.170743",
+    "run_end": "2026-09-06T20:56:32.961146",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8582254518122505380",
+        "title": "The 'NPC-fidelity' gaming audit: 7 stress-tests for your open-world immersion against the GTA 6 behavioral shift",
+        "url": "https://theomniview.blogspot.com/2026/09/the-npc-fidelity-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "GTA 6",
+          "NPC behavior",
+          "gaming immersion"
+        ],
+        "slug": "the-npc-fidelity-gaming-audit-7-stress-tests-for-your-open-world-immersion-again",
+        "published_at": "2026-09-06T21:00:49+00:00",
+        "word_count": 898,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "9121575848379515378",
+        "title": "The 'Shadow-Leadership' Resilience Audit: 7 Stress-Tests for Your Management Style Against AI-Driven Peer-Review Platforms",
+        "url": "https://theomniview.blogspot.com/2026/09/the-shadow-leadership-resilience-audit.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Listicles",
+          "leadership management",
+          "AI in the workplace",
+          "employee sentiment analysis"
+        ],
+        "slug": "the-shadow-leadership-resilience-audit-7-stress-tests-for-your-management-style-",
+        "published_at": "2026-09-06T21:01:32+00:00",
+        "word_count": 740,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
