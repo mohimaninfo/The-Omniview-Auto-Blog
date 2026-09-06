@@ -71186,5 +71186,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-06T16:31:36.655756",
+    "run_end": "2026-09-06T16:39:13.844865",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2982633756523434503",
+        "title": "The 'kinetic-sovereignty' travel audit: 7 stress-tests for your international vacation plans against escalating geopolitical border closures \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-kinetic-sovereignty-travel-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "reviews",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Reviews",
+          "geopolitical travel risks",
+          "international travel safety",
+          "border closure contingency planning"
+        ],
+        "slug": "the-kinetic-sovereignty-travel-audit-7-stress-tests-for-your-international-vacat",
+        "published_at": "2026-09-06T16:39:39+00:00",
+        "word_count": 633,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "208541323849439904",
+        "title": "The 'Synthetic-Legacy' Estate Audit: 7 Stress-Tests for Your Favorite Celebrity\u2019s Digital Ghost Against AI Reanimation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-synthetic-legacy-estate-audit-7.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "AI celebrity likeness",
+          "digital legacy rights",
+          "synthetic media ethics"
+        ],
+        "slug": "the-synthetic-legacy-estate-audit-7-stress-tests-for-your-favorite-celebritys-di",
+        "published_at": "2026-09-06T16:44:12+00:00",
+        "word_count": 969,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
