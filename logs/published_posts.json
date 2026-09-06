@@ -60194,5 +60194,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6068721907914280200",
+    "title": "The 'inventory-poisoning' audit: 7 stress-tests for your ecommerce storefront against AI-generated return fraud",
+    "url": "https://theomniview.blogspot.com/2026/09/the-inventory-poisoning-audit-7-stress.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Opinion & Analysis",
+      "ecommerce return fraud",
+      "ai-generated fraud",
+      "inventory management"
+    ],
+    "slug": "the-inventory-poisoning-audit-7-stress-tests-for-your-ecommerce-storefront-again",
+    "published_at": "2026-09-06T18:48:07+00:00",
+    "word_count": 787,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "4206200320412925072",
+    "title": "The 'synthetic-intimacy' audit: 7 stress-tests for your romantic relationship against AI-generated partner behavior \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-synthetic-intimacy-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Listicles",
+      "AI relationships",
+      "digital intimacy",
+      "relationship advice"
+    ],
+    "slug": "the-synthetic-intimacy-audit-7-stress-tests-for-your-romantic-relationship-again",
+    "published_at": "2026-09-06T18:48:34+00:00",
+    "word_count": 800,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
