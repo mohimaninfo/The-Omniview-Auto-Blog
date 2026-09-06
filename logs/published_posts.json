@@ -59974,5 +59974,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2384154897003867185",
+    "title": "The 'Membrane-Free' Filtration Audit: 7 Stress-Tests for Your Local Water Supply Against Microplastic Infiltration",
+    "url": "https://theomniview.blogspot.com/2026/09/the-membrane-free-filtration-audit-7.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Explainers",
+      "microplastic filtration",
+      "water conservation technology",
+      "environmental engineering"
+    ],
+    "slug": "the-membrane-free-filtration-audit-7-stress-tests-for-your-local-water-supply-ag",
+    "published_at": "2026-09-06T00:25:01+00:00",
+    "word_count": 890,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "990003945007731274",
+    "title": "The 'Shadow-Productivity' Surveillance Audit: 7 Stress-Tests for Your Remote-Work Privacy Against AI-Driven Behavioral Monitoring",
+    "url": "https://theomniview.blogspot.com/2026/09/the-shadow-productivity-surveillance.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "explainers",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Explainers",
+      "remote work privacy",
+      "employee surveillance",
+      "AI productivity tracking"
+    ],
+    "slug": "the-shadow-productivity-surveillance-audit-7-stress-tests-for-your-remote-work-p",
+    "published_at": "2026-09-06T00:25:23+00:00",
+    "word_count": 889,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
