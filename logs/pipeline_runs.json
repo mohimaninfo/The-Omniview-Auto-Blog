@@ -71030,5 +71030,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-06T05:14:17.040299",
+    "run_end": "2026-09-06T05:15:04.370163",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "286243268886524504",
+        "title": "The 'GLP-1' Muscle-Preservation Audit: 7 Stress-Tests for Your Metabolic Health Against Rapid Weight-Loss Medication",
+        "url": "https://theomniview.blogspot.com/2026/09/the-glp-1-muscle-preservation-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "GLP-1 side effects",
+          "metabolic health",
+          "sarcopenia prevention"
+        ],
+        "slug": "the-glp-1-muscle-preservation-audit-7-stress-tests-for-your-metabolic-health-aga",
+        "published_at": "2026-09-06T05:19:39+00:00",
+        "word_count": 931,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2620265625941499072",
+        "title": "The 'fractional-asset' liquidity audit: 7 stress-tests for your alternative investment portfolio against secondary market volatility \u2014 a explainers perspective \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-fractional-asset-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "fractional investing",
+          "alternative assets",
+          "liquidity risk"
+        ],
+        "slug": "the-fractional-asset-liquidity-audit-7-stress-tests-for-your-alternative-investm",
+        "published_at": "2026-09-06T05:20:03+00:00",
+        "word_count": 744,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
