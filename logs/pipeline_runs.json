@@ -71602,5 +71602,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-07T20:14:09.647325",
+    "run_end": "2026-09-07T20:14:52.951105",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4125156911074637281",
+        "title": "the 'infrastructure-sabotage' resilience audit: 7 stress-tests for your local smart-city grid against state-sponsored kinetic cyberwarfare \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-infrastructure-sabotage-resilience.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "case-studies",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Case Studies",
+          "smart city security",
+          "critical infrastructure protection",
+          "kinetic cyberwarfare"
+        ],
+        "slug": "the-infrastructure-sabotage-resilience-audit-7-stress-tests-for-your-local-smart",
+        "published_at": "2026-09-07T20:19:30+00:00",
+        "word_count": 791,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6334310633510956513",
+        "title": "The 'V2G-Vulnerability' audit: 7 stress-tests for your home energy resilience against vehicle-to-grid cyber-penetration \u2014 an opinion analysis perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-v2g-vulnerability-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "vehicle-to-grid security",
+          "EV energy resilience",
+          "renewable energy cybersecurity"
+        ],
+        "slug": "the-v2g-vulnerability-audit-7-stress-tests-for-your-home-energy-resilience-again",
+        "published_at": "2026-09-07T20:19:52+00:00",
+        "word_count": 779,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
