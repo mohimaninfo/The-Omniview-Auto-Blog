@@ -60414,5 +60414,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6988220474299557643",
+    "title": "The 'microbial-syntax' gut audit: 7 biological stress-tests for your microbiome against ultra-processed diet-induced dysbiosis",
+    "url": "https://theomniview.blogspot.com/2026/09/the-microbial-syntax-gut-audit-7.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Opinion & Analysis",
+      "microbiome health",
+      "colibactin",
+      "gut dysbiosis"
+    ],
+    "slug": "the-microbial-syntax-gut-audit-7-biological-stress-tests-for-your-microbiome-aga",
+    "published_at": "2026-09-07T10:59:23+00:00",
+    "word_count": 887,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "3536310503216619785",
+    "title": "The 'exoplanet-biosignature' detection audit: 7 physics stress-tests for your JWST data against false-positive atmospheric noise",
+    "url": "https://theomniview.blogspot.com/2026/09/the-exoplanet-biosignature-detection.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Research Articles",
+      "exoplanet biosignatures",
+      "JWST research",
+      "astronomy data analysis"
+    ],
+    "slug": "the-exoplanet-biosignature-detection-audit-7-physics-stress-tests-for-your-jwst-",
+    "published_at": "2026-09-07T11:00:01+00:00",
+    "word_count": 989,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
