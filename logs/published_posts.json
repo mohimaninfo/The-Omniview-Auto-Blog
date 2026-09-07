@@ -60458,5 +60458,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "285033230164310443",
+    "title": "The 'Smart-Home' Eavesdropping Audit: 7 Stress-Tests for Your Privacy Against Hidden Audio-Logging Gadgets",
+    "url": "https://theomniview.blogspot.com/2026/09/the-smart-home-eavesdropping-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "How-To Guides",
+      "smart home privacy",
+      "smart TV audio logging",
+      "connected device security"
+    ],
+    "slug": "the-smart-home-eavesdropping-audit-7-stress-tests-for-your-privacy-against-hidde",
+    "published_at": "2026-09-07T16:15:21+00:00",
+    "word_count": 1248,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5072121649306552977",
+    "title": "The 'dryland-shift' resilience audit: 7 stress-tests for your local water security against 2100 climate-driven aridification",
+    "url": "https://theomniview.blogspot.com/2026/09/the-dryland-shift-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "case-studies",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Case Studies",
+      "dryland expansion",
+      "water security",
+      "climate resilience"
+    ],
+    "slug": "the-dryland-shift-resilience-audit-7-stress-tests-for-your-local-water-security-",
+    "published_at": "2026-09-07T16:15:54+00:00",
+    "word_count": 737,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
