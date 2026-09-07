@@ -60546,5 +60546,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2606796049575718020",
+    "title": "The 'analog-rebound' gadget audit: 7 stress-tests for your digital-minimalist setup against cloud-service sunsetting",
+    "url": "https://theomniview.blogspot.com/2026/09/the-analog-rebound-gadget-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "digital minimalism",
+      "offline-first gadgets",
+      "hardware longevity"
+    ],
+    "slug": "the-analog-rebound-gadget-audit-7-stress-tests-for-your-digital-minimalist-setup",
+    "published_at": "2026-09-07T23:12:02+00:00",
+    "word_count": 720,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "711785561617251250",
+    "title": "The 'Digital-Legacy' Relationship Audit: 7 stress-tests for your romantic connection against AI-generated ghostwriting",
+    "url": "https://theomniview.blogspot.com/2026/09/the-digital-legacy-relationship-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Opinion & Analysis",
+      "relationship advice",
+      "AI in dating",
+      "digital intimacy"
+    ],
+    "slug": "the-digital-legacy-relationship-audit-7-stress-tests-for-your-romantic-connectio",
+    "published_at": "2026-09-07T23:12:26+00:00",
+    "word_count": 735,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
