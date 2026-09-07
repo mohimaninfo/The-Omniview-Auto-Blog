@@ -71394,5 +71394,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-07T00:26:10.991393",
+    "run_end": "2026-09-07T00:27:00.779327",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4366637727680670509",
+        "title": "The 'AI-Ghostwriting' Credibility Audit: 7 Stress-Tests for Your Career Portfolio Against Synthetic Speech Detection",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ai-ghostwriting-credibility-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "AI speech detection",
+          "career portfolio integrity",
+          "synthetic content verification"
+        ],
+        "slug": "the-ai-ghostwriting-credibility-audit-7-stress-tests-for-your-career-portfolio-a",
+        "published_at": "2026-09-07T00:31:32+00:00",
+        "word_count": 817,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4761887165712283478",
+        "title": "the 'nonce-collision' security audit: 7 stress-tests for your hardware wallet against quantum-resistant signature migration",
+        "url": "https://theomniview.blogspot.com/2026/09/the-nonce-collision-security-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "reviews",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Reviews",
+          "hardware wallet security",
+          "quantum-resistant cryptography",
+          "cold storage audit"
+        ],
+        "slug": "the-nonce-collision-security-audit-7-stress-tests-for-your-hardware-wallet-again",
+        "published_at": "2026-09-07T00:31:59+00:00",
+        "word_count": 673,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
