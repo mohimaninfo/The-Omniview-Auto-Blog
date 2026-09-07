@@ -71446,5 +71446,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-07T05:22:43.017356",
+    "run_end": "2026-09-07T05:23:52.367671",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8909284852800848654",
+        "title": "the 'fuel-poverty' mobility audit: 7 stress-tests for your household budget against escalating energy-sector trade-war volatility",
+        "url": "https://theomniview.blogspot.com/2026/09/the-fuel-poverty-mobility-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Research Articles",
+          "fuel poverty",
+          "energy inequality",
+          "household budget"
+        ],
+        "slug": "the-fuel-poverty-mobility-audit-7-stress-tests-for-your-household-budget-against",
+        "published_at": "2026-09-07T05:28:18+00:00",
+        "word_count": 989,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2454010732219937631",
+        "title": "The 'algorithmic-speech' leadership audit: 7 stress-tests for your executive communication against AI-generated ghostwriting",
+        "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-speech-leadership-audit.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "AI executive communication",
+          "authentic leadership",
+          "AI policy writing"
+        ],
+        "slug": "the-algorithmic-speech-leadership-audit-7-stress-tests-for-your-executive-commun",
+        "published_at": "2026-09-07T05:28:51+00:00",
+        "word_count": 852,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
