@@ -71914,5 +71914,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-08T19:03:47.233649",
+    "run_end": "2026-09-08T19:04:53.873482",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7282187840969773632",
+        "title": "the 'smart-glass' privacy audit: 7 stress-tests for your personal boundaries against the rise of wearable recording tech \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-glass-privacy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "How-To Guides",
+          "smart glasses privacy",
+          "wearable recording devices",
+          "digital privacy boundaries"
+        ],
+        "slug": "the-smart-glass-privacy-audit-7-stress-tests-for-your-personal-boundaries-agains",
+        "published_at": "2026-09-08T19:09:22+00:00",
+        "word_count": 1111,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1407366358364880435",
+        "title": "the 'astroturf-detection' marketing audit: 7 stress-tests for your brand reputation against ai-generated fake consensus",
+        "url": "https://theomniview.blogspot.com/2026/09/the-astroturf-detection-marketing-audit.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Listicles",
+          "astroturfing detection",
+          "brand reputation management",
+          "ai generated fake reviews"
+        ],
+        "slug": "the-astroturf-detection-marketing-audit-7-stress-tests-for-your-brand-reputation",
+        "published_at": "2026-09-08T19:09:52+00:00",
+        "word_count": 729,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
