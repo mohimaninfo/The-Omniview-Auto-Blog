@@ -60590,5 +60590,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "9198261602618063046",
+    "title": "The 'Symbiotic-Shield' Gut Audit: 7 Biological Stress-Tests for Your Immunity Against Radiation and Aging",
+    "url": "https://theomniview.blogspot.com/2026/09/the-symbiotic-shield-gut-audit-7.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Opinion & Analysis",
+      "gut microbiome",
+      "M. racemosus",
+      "radiation protection"
+    ],
+    "slug": "the-symbiotic-shield-gut-audit-7-biological-stress-tests-for-your-immunity-again",
+    "published_at": "2026-09-08T01:50:53+00:00",
+    "word_count": 865,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7108517690459921929",
+    "title": "The 'context-window' retention audit: 7 stress-tests for your student\u2019s long-term memory against LLM-powered summarization",
+    "url": "https://theomniview.blogspot.com/2026/09/the-context-window-retention-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Research Articles",
+      "ai in education",
+      "cognitive science",
+      "edtech"
+    ],
+    "slug": "the-context-window-retention-audit-7-stress-tests-for-your-students-long-term-me",
+    "published_at": "2026-09-08T01:51:17+00:00",
+    "word_count": 1051,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
