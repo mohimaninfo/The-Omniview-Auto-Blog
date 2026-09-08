@@ -60722,5 +60722,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "4789448335473778478",
+    "title": "The 'Auto-Loan' Fragility Audit: 7 Stress-Tests for Your Monthly Car Payment Against Rising Interest Rate Volatility \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-auto-loan-fragility-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Explainers",
+      "auto loan payoff",
+      "personal finance budget",
+      "car payment stress test"
+    ],
+    "slug": "the-auto-loan-fragility-audit-7-stress-tests-for-your-monthly-car-payment-agains",
+    "published_at": "2026-09-08T15:36:59+00:00",
+    "word_count": 1075,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "7507660697222124051",
+    "title": "The 'AI-Proficiency' Career Audit: 7 Stress-Tests for Your Remote-Work Value Against Mandatory Corporate Upskilling",
+    "url": "https://theomniview.blogspot.com/2026/09/the-ai-proficiency-career-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "explainers",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Explainers",
+      "ai proficiency",
+      "remote work career",
+      "future of work"
+    ],
+    "slug": "the-ai-proficiency-career-audit-7-stress-tests-for-your-remote-work-value-agains",
+    "published_at": "2026-09-08T15:37:33+00:00",
+    "word_count": 871,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
