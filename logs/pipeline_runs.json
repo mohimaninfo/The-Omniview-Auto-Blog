@@ -71758,5 +71758,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-08T06:39:02.315198",
+    "run_end": "2026-09-08T06:40:14.303487",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2252184947522765953",
+        "title": "The 'Analog-Rebound' Gadget Audit: 7 Stress-Tests for Your Offline Tech Collection Against Digital Enshittification",
+        "url": "https://theomniview.blogspot.com/2026/09/the-analog-rebound-gadget-audit-7_0414364153.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "listicles",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Listicles",
+          "digital minimalism",
+          "analog technology",
+          "media ownership"
+        ],
+        "slug": "the-analog-rebound-gadget-audit-7-stress-tests-for-your-offline-tech-collection-",
+        "published_at": "2026-09-08T06:44:24+00:00",
+        "word_count": 795,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2854174451118977118",
+        "title": "The 'Repair-to-Resell' Audit: 7 Stress-Tests for Your Gadget Lifecycle Against Manufacturer Parts-Pairing",
+        "url": "https://theomniview.blogspot.com/2026/09/the-repair-to-resell-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Latest News",
+          "gadget repairability",
+          "parts pairing",
+          "right to repair"
+        ],
+        "slug": "the-repair-to-resell-audit-7-stress-tests-for-your-gadget-lifecycle-against-manu",
+        "published_at": "2026-09-08T06:45:13+00:00",
+        "word_count": 747,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
