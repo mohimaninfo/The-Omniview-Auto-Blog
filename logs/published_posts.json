@@ -60810,5 +60810,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8057014190581305760",
+    "title": "The 'ultra-processed' pantry audit: 7 stress-tests for your home cooking against hidden industrial additives",
+    "url": "https://theomniview.blogspot.com/2026/09/the-ultra-processed-pantry-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Explainers",
+      "home cooking",
+      "ultra-processed foods",
+      "pantry audit"
+    ],
+    "slug": "the-ultra-processed-pantry-audit-7-stress-tests-for-your-home-cooking-against-hi",
+    "published_at": "2026-09-08T22:11:37+00:00",
+    "word_count": 977,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1514526417817856280",
+    "title": "The 'Dependency-Hell' Migration Audit: 7 Stress-Tests for Your Legacy Monolith Against Modern Runtime Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/09/the-dependency-hell-migration-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Listicles",
+      "legacy code migration",
+      "dependency hell",
+      "runtime obsolescence"
+    ],
+    "slug": "the-dependency-hell-migration-audit-7-stress-tests-for-your-legacy-monolith-agai",
+    "published_at": "2026-09-08T22:12:09+00:00",
+    "word_count": 778,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
