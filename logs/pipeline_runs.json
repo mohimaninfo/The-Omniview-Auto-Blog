@@ -72226,5 +72226,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-09T18:05:49.627036",
+    "run_end": "2026-09-09T18:07:44.347815",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3897296811067817407",
+        "title": "The 'Smart-City' Transit Audit: 7 Stress-Tests for Your Privacy Against Flock Camera Tracking While Traveling",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-city-transit-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Explainers",
+          "Flock camera privacy",
+          "travel surveillance",
+          "license plate tracking"
+        ],
+        "slug": "the-smart-city-transit-audit-7-stress-tests-for-your-privacy-against-flock-camer",
+        "published_at": "2026-09-09T18:11:26+00:00",
+        "word_count": 939,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "8538264758221743077",
+        "title": "The 'Smart-TV' Eavesdropping Audit: 7 Stress-Tests for Your Privacy Against AI-Driven Audio-Logging in Streaming Apps \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-tv-eavesdropping-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Reviews",
+          "smart TV privacy",
+          "streaming app data collection",
+          "audio logging"
+        ],
+        "slug": "the-smart-tv-eavesdropping-audit-7-stress-tests-for-your-privacy-against-ai-driv",
+        "published_at": "2026-09-09T18:12:43+00:00",
+        "word_count": 601,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
