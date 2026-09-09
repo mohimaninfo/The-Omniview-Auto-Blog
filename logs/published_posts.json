@@ -60898,5 +60898,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "869602194031905167",
+    "title": "The 'Lifestyle-Creep' Deflation Audit: 7 Stress-Tests for Your Monthly Budget Against Wage-to-Cost Volatility",
+    "url": "https://theomniview.blogspot.com/2026/09/the-lifestyle-creep-deflation-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Explainers",
+      "lifestyle creep",
+      "personal budget audit",
+      "cost of living adjustment"
+    ],
+    "slug": "the-lifestyle-creep-deflation-audit-7-stress-tests-for-your-monthly-budget-again",
+    "published_at": "2026-09-09T05:33:39+00:00",
+    "word_count": 1010,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1734834285698663232",
+    "title": "The 'synaptic-pruning' focus audit: 7 stress-tests for your attention span against high-frequency notification loops",
+    "url": "https://theomniview.blogspot.com/2026/09/the-synaptic-pruning-focus-audit-7.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Research Articles",
+      "synaptic pruning",
+      "attention span",
+      "neuroplasticity"
+    ],
+    "slug": "the-synaptic-pruning-focus-audit-7-stress-tests-for-your-attention-span-against-",
+    "published_at": "2026-09-09T05:34:11+00:00",
+    "word_count": 1008,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
