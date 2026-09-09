@@ -72278,5 +72278,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-09T21:19:39.572282",
+    "run_end": "2026-09-09T21:25:54.941839",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 1
+      },
+      {
+        "post_id": "1707208520388370968",
+        "title": "The 'state-actor' connectivity audit: 7 stress-tests for your home network against cross-border kinetic cyberwarfare",
+        "url": "https://theomniview.blogspot.com/2026/09/the-state-actor-connectivity-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "kinetic cyberwarfare",
+          "home network security",
+          "digital society resilience"
+        ],
+        "slug": "the-state-actor-connectivity-audit-7-stress-tests-for-your-home-network-against-",
+        "published_at": "2026-09-09T21:30:53+00:00",
+        "word_count": 964,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
