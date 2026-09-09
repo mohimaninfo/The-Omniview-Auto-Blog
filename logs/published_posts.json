@@ -60942,5 +60942,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8637525562104853335",
+    "title": "The 'Data-Sovereignty' Classroom Audit: 7 Stress-Tests for Your School's AI-Proctoring Software Against Biometric Privacy Leaks",
+    "url": "https://theomniview.blogspot.com/2026/09/the-data-sovereignty-classroom-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "How-To Guides",
+      "AI proctoring software",
+      "K12 student privacy",
+      "biometric data security"
+    ],
+    "slug": "the-data-sovereignty-classroom-audit-7-stress-tests-for-your-schools-ai-proctori",
+    "published_at": "2026-09-09T10:20:52+00:00",
+    "word_count": 987,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5090734690163198175",
+    "title": "The 'Lossless-Playback' Fidelity Audit: 7 Stress-Tests for Your High-Res Music Collection Against Streaming-Service Bitrate Compression",
+    "url": "https://theomniview.blogspot.com/2026/09/the-lossless-playback-fidelity-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "high-fidelity music",
+      "lossless audio",
+      "streaming bitrate"
+    ],
+    "slug": "the-lossless-playback-fidelity-audit-7-stress-tests-for-your-high-res-music-coll",
+    "published_at": "2026-09-09T10:21:35+00:00",
+    "word_count": 654,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
