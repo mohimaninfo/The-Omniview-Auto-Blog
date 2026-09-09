@@ -72174,5 +72174,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-09-09T14:51:52.215599",
+    "run_end": "2026-09-09T14:53:55.127668",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3986889546685824259",
+        "title": "The 'space-debris' collision audit: 7 stress-tests for your satellite-based internet connection against Kessler Syndrome \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-space-debris-collision-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "space debris",
+          "Kessler Syndrome",
+          "satellite internet"
+        ],
+        "slug": "the-space-debris-collision-audit-7-stress-tests-for-your-satellite-based-interne",
+        "published_at": "2026-09-09T14:58:06+00:00",
+        "word_count": 893,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5755453829273046187",
+        "title": "The 'planetary-protection' contamination audit: 7 stress-tests for your space-mission data against microbial hitchhikers",
+        "url": "https://theomniview.blogspot.com/2026/09/the-planetary-protection-contamination.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "planetary protection",
+          "forward contamination",
+          "Mars life detection"
+        ],
+        "slug": "the-planetary-protection-contamination-audit-7-stress-tests-for-your-space-missi",
+        "published_at": "2026-09-09T14:58:54+00:00",
+        "word_count": 886,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
