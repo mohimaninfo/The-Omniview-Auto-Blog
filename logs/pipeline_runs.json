@@ -72468,5 +72468,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-10T11:55:19.926320",
+    "run_end": "2026-09-10T11:56:23.491017",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8092856253595511758",
+        "title": "The 'remote-surveillance' audit: 7 stress-tests for your home-office privacy against AI-powered employee monitoring \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-remote-surveillance-audit-7-stress.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote work privacy",
+          "employee monitoring software",
+          "digital surveillance"
+        ],
+        "slug": "the-remote-surveillance-audit-7-stress-tests-for-your-home-office-privacy-agains",
+        "published_at": "2026-09-10T12:00:54+00:00",
+        "word_count": 1083,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "636892182354706905",
+        "title": "The 'biometric-fatigue' wellness audit: 7 stress-tests for your wearable health tracker against data-harvesting vulnerabilities \u2014 a reviews perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-biometric-fatigue-wellness-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Reviews",
+          "wearable health tracker privacy",
+          "biometric data security",
+          "wellness tech reviews"
+        ],
+        "slug": "the-biometric-fatigue-wellness-audit-7-stress-tests-for-your-wearable-health-tra",
+        "published_at": "2026-09-10T12:01:23+00:00",
+        "word_count": 608,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
