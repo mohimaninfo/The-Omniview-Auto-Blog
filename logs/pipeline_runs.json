@@ -72416,5 +72416,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-09-10T06:45:14.264331",
+    "run_end": "2026-09-10T06:46:09.327506",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3947943524298207885",
+        "title": "The 'Smart-Kitchen' Surveillance Audit: 7 Stress-Tests for Your Privacy Against AI-Powered Cooking Appliances \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-kitchen-surveillance-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Listicles",
+          "smart kitchen security",
+          "smart appliance privacy",
+          "IoT kitchen surveillance"
+        ],
+        "slug": "the-smart-kitchen-surveillance-audit-7-stress-tests-for-your-privacy-against-ai-",
+        "published_at": "2026-09-10T06:50:40+00:00",
+        "word_count": 765,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7571126302723539702",
+        "title": "The 'Deepfake-Diplomacy' integrity audit: 7 stress-tests for your government\u2019s democratic discourse against synthetic state-actor misinformation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-deepfake-diplomacy-integrity-audit.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "deepfake diplomacy",
+          "synthetic misinformation",
+          "democratic discourse"
+        ],
+        "slug": "the-deepfake-diplomacy-integrity-audit-7-stress-tests-for-your-governments-democ",
+        "published_at": "2026-09-10T06:51:08+00:00",
+        "word_count": 793,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
