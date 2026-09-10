@@ -61140,5 +61140,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7456274528335223003",
+    "title": "The 'Smart-TV' Eavesdropping Audit: 7 Stress-Tests for Your Privacy Against AI-Driven Audio-Logging in Streaming Apps \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-smart-tv-eavesdropping-audit-7_01852600281.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Opinion & Analysis",
+      "smart TV privacy",
+      "streaming app data collection",
+      "AI audio logging"
+    ],
+    "slug": "the-smart-tv-eavesdropping-audit-7-stress-tests-for-your-privacy-against-ai-driv",
+    "published_at": "2026-09-10T01:54:14+00:00",
+    "word_count": 1021,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3161900969391816632",
+    "title": "the 'climate-surveillance' policy audit: 7 stress-tests for your local carbon-tracking against smart-city ai monitoring",
+    "url": "https://theomniview.blogspot.com/2026/09/the-climate-surveillance-policy-audit-7.html",
+    "genre": "environment",
+    "topic": "climate-policy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Climate Policy",
+      "Explainers",
+      "climate policy",
+      "smart city surveillance",
+      "carbon tracking"
+    ],
+    "slug": "the-climate-surveillance-policy-audit-7-stress-tests-for-your-local-carbon-track",
+    "published_at": "2026-09-10T01:54:43+00:00",
+    "word_count": 971,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
