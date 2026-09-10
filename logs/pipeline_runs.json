@@ -72676,5 +72676,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-10T23:30:04.700403",
+    "run_end": "2026-09-10T23:33:01.715086",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4780901716362456068",
+        "title": "The 'feedback-loop' climate audit: 7 stress-tests for your local ecological resilience against runaway warming",
+        "url": "https://theomniview.blogspot.com/2026/09/the-feedback-loop-climate-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Research Articles",
+          "climate feedback loops",
+          "ecological resilience",
+          "climate change adaptation"
+        ],
+        "slug": "the-feedback-loop-climate-audit-7-stress-tests-for-your-local-ecological-resilie",
+        "published_at": "2026-09-10T23:37:32+00:00",
+        "word_count": 999,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4767923102910584989",
+        "title": "The 'hollow-resume' pivot audit: 7 stress-tests for your career longevity against AI-driven talent replacement",
+        "url": "https://theomniview.blogspot.com/2026/09/the-hollow-resume-pivot-audit-7-stress.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "AI career replacement",
+          "future of work",
+          "upskilling strategy"
+        ],
+        "slug": "the-hollow-resume-pivot-audit-7-stress-tests-for-your-career-longevity-against-a",
+        "published_at": "2026-09-10T23:38:00+00:00",
+        "word_count": 838,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
