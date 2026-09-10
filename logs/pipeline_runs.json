@@ -72624,5 +72624,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-10T21:16:06.890544",
+    "run_end": "2026-09-10T21:17:46.381296",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6416227073675160450",
+        "title": "The 'subsea-resilience' connectivity audit: 7 stress-tests for your home network against state-sponsored subsea cable sabotage",
+        "url": "https://theomniview.blogspot.com/2026/09/the-subsea-resilience-connectivity.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "subsea cable sabotage",
+          "digital infrastructure resilience",
+          "home network security"
+        ],
+        "slug": "the-subsea-resilience-connectivity-audit-7-stress-tests-for-your-home-network-ag",
+        "published_at": "2026-09-10T21:21:50+00:00",
+        "word_count": 762,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2778785046295090523",
+        "title": "The 'Dependency-Hell' Migration Audit: 7 Stress-Tests for Your Legacy Monolith Against Modern Runtime Obsolescence \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-dependency-hell-migration-audit-7_01835890314.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Programming",
+          "How-To Guides",
+          "legacy code migration",
+          "technical debt",
+          "runtime obsolescence"
+        ],
+        "slug": "the-dependency-hell-migration-audit-7-stress-tests-for-your-legacy-monolith-agai",
+        "published_at": "2026-09-10T21:22:45+00:00",
+        "word_count": 1042,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
