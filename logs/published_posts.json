@@ -61624,5 +61624,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6057911240596939406",
+    "title": "The 'debt-trap' auto-repair audit: 7 stress-tests for your household budget against rising vehicle maintenance costs",
+    "url": "https://theomniview.blogspot.com/2026/09/the-debt-trap-auto-repair-audit-7.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Latest News",
+      "car repair vs buying a new car",
+      "household budget management",
+      "auto loan interest rates"
+    ],
+    "slug": "the-debt-trap-auto-repair-audit-7-stress-tests-for-your-household-budget-against",
+    "published_at": "2026-09-11T18:54:34+00:00",
+    "word_count": 778,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "6690929703969115915",
+    "title": "the 'master-tape' provenance audit: 7 stress-tests for your favorite vinyl reissue against AI-generated audio upscaling",
+    "url": "https://theomniview.blogspot.com/2026/09/the-master-tape-provenance-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "interviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Interviews",
+      "vinyl record authenticity",
+      "AI audio upscaling",
+      "audiophile music production"
+    ],
+    "slug": "the-master-tape-provenance-audit-7-stress-tests-for-your-favorite-vinyl-reissue-",
+    "published_at": "2026-09-11T18:55:13+00:00",
+    "word_count": 893,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
