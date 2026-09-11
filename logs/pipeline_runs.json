@@ -72988,5 +72988,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-11T21:24:08.369384",
+    "run_end": "2026-09-11T21:24:54.585087",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1311118818453409710",
+        "title": "The 'Data-Center-Backlash' Leadership Audit: 7 Stress-Tests for Your Corporate Expansion Strategy Against Local Community Resistance \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-data-center-backlash-leadership.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Case Studies",
+          "corporate social responsibility",
+          "community engagement strategy",
+          "AI data center development"
+        ],
+        "slug": "the-data-center-backlash-leadership-audit-7-stress-tests-for-your-corporate-expa",
+        "published_at": "2026-09-11T21:29:32+00:00",
+        "word_count": 694,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3391990255373647364",
+        "title": "The 'Dependency-Hell' Migration Audit: 7 Stress-Tests for Your Legacy Monolith Against Modern Runtime Obsolescence \u2014 A How-To Guides Perspective \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-dependency-hell-migration-audit-7_0602914440.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Programming",
+          "How-To Guides",
+          "legacy code migration",
+          "monolith to microservices",
+          "technical debt management"
+        ],
+        "slug": "the-dependency-hell-migration-audit-7-stress-tests-for-your-legacy-monolith-agai",
+        "published_at": "2026-09-11T21:29:54+00:00",
+        "word_count": 961,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
