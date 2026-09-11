@@ -61536,5 +61536,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4171219155735162713",
+    "title": "The 'autonomous-rescue' ethics audit: 7 stress-tests for your local search-and-rescue protocols against AI-driven drone deployment",
+    "url": "https://theomniview.blogspot.com/2026/09/the-autonomous-rescue-ethics-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Research Articles",
+      "search and rescue drones",
+      "robotics ethics",
+      "autonomous rescue"
+    ],
+    "slug": "the-autonomous-rescue-ethics-audit-7-stress-tests-for-your-local-search-and-resc",
+    "published_at": "2026-09-11T11:59:58+00:00",
+    "word_count": 1036,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "4098594456568308427",
+    "title": "The 'self-custody' emergency audit: 7 stress-tests for your cryptocurrency savings against sudden job-loss liquidity needs \u2014 an opinion analysis perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-self-custody-emergency-audit-7.html",
+    "genre": "finance",
+    "topic": "cryptocurrency",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Cryptocurrency",
+      "Opinion & Analysis",
+      "cryptocurrency emergency fund",
+      "crypto liquidation strategy",
+      "self-custody portfolio management"
+    ],
+    "slug": "the-self-custody-emergency-audit-7-stress-tests-for-your-cryptocurrency-savings-",
+    "published_at": "2026-09-11T12:05:09+00:00",
+    "word_count": 871,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
