@@ -61712,5 +61712,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2463874885797841643",
+    "title": "The 'Power-Hungry' Infrastructure Audit: 7 Stress-Tests for Your Local Renewable Grid Against AI Data Center Expansion",
+    "url": "https://theomniview.blogspot.com/2026/09/the-power-hungry-infrastructure-audit-7.html",
+    "genre": "environment",
+    "topic": "renewable-energy",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Renewable Energy",
+      "Latest News",
+      "AI data centers",
+      "renewable energy grid",
+      "energy infrastructure resilience"
+    ],
+    "slug": "the-power-hungry-infrastructure-audit-7-stress-tests-for-your-local-renewable-gr",
+    "published_at": "2026-09-11T23:43:00+00:00",
+    "word_count": 718,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "4583731308775365977",
+    "title": "The 'algorithmic-vigilante' gaming audit: 7 stress-tests for your open-world immersion against player-led surveillance mods",
+    "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-vigilante-gaming-audit.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Opinion & Analysis",
+      "gaming surveillance",
+      "GTA V mods",
+      "open-world immersion"
+    ],
+    "slug": "the-algorithmic-vigilante-gaming-audit-7-stress-tests-for-your-open-world-immers",
+    "published_at": "2026-09-11T23:43:20+00:00",
+    "word_count": 901,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
