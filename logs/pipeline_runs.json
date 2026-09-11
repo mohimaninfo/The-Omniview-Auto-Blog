@@ -72884,5 +72884,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-11T15:23:10.042864",
+    "run_end": "2026-09-11T15:25:02.030817",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3470342449858978163",
+        "title": "The 'smart-wearable' intimacy audit: 7 stress-tests for your romantic relationship against Meta-style smart glasses surveillance",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-wearable-intimacy-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "Opinion & Analysis",
+          "smart glasses privacy",
+          "relationship boundaries",
+          "AI surveillance"
+        ],
+        "slug": "the-smart-wearable-intimacy-audit-7-stress-tests-for-your-romantic-relationship-",
+        "published_at": "2026-09-11T15:29:18+00:00",
+        "word_count": 790,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5402820482937632539",
+        "title": "The 'Data-Exile' Travel Audit: 7 Stress-Tests for Your Vacation Privacy Against Global AI Data Center Proliferation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-data-exile-travel-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Explainers",
+          "travel privacy",
+          "AI data centers",
+          "digital surveillance"
+        ],
+        "slug": "the-data-exile-travel-audit-7-stress-tests-for-your-vacation-privacy-against-glo",
+        "published_at": "2026-09-11T15:30:00+00:00",
+        "word_count": 963,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
