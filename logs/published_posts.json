@@ -61492,5 +61492,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6090074598586416290",
+    "title": "the 'emergency-buffer' liquidity audit: 7 stress-tests for your savings account against unexpected job-loss volatility \u2014 a how-to guides perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-emergency-buffer-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "how-to-guides",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "How-To Guides",
+      "emergency fund strategy",
+      "how to survive a layoff",
+      "personal finance stress test"
+    ],
+    "slug": "the-emergency-buffer-liquidity-audit-7-stress-tests-for-your-savings-account-aga",
+    "published_at": "2026-09-11T06:49:48+00:00",
+    "word_count": 1146,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "8211509676726938046",
+    "title": "The 'Yield-Curve' Contagion Audit: 7 Stress-Tests for Your Fixed-Income Portfolio Against Sudden Central Bank Policy Pivots",
+    "url": "https://theomniview.blogspot.com/2026/09/the-yield-curve-contagion-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Latest News",
+      "fixed-income investing",
+      "yield curve inversion",
+      "portfolio stress test"
+    ],
+    "slug": "the-yield-curve-contagion-audit-7-stress-tests-for-your-fixed-income-portfolio-a",
+    "published_at": "2026-09-11T06:50:05+00:00",
+    "word_count": 777,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
