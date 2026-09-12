@@ -62020,5 +62020,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6924398230243230398",
+    "title": "The 'Melatonin-Heart' Metabolic Audit: 7 Stress-Tests for Your Sleep Supplement Routine Against Recent Cardiac Findings",
+    "url": "https://theomniview.blogspot.com/2026/09/the-melatonin-heart-metabolic-audit-7.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Opinion & Analysis",
+      "melatonin heart health",
+      "sleep supplement risks",
+      "circadian rhythm nutrition"
+    ],
+    "slug": "the-melatonin-heart-metabolic-audit-7-stress-tests-for-your-sleep-supplement-rou",
+    "published_at": "2026-09-12T21:51:04+00:00",
+    "word_count": 1011,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4730845095584188516",
+    "title": "The 'thermal-contraction' planetary audit: 7 physics stress-tests for Mercury\u2019s crust against new cooling models",
+    "url": "https://theomniview.blogspot.com/2026/09/the-thermal-contraction-planetary-audit.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "Mercury planetary science",
+      "thermal contraction physics",
+      "planetary cooling models"
+    ],
+    "slug": "the-thermal-contraction-planetary-audit-7-physics-stress-tests-for-mercurys-crus",
+    "published_at": "2026-09-12T21:51:30+00:00",
+    "word_count": 871,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
