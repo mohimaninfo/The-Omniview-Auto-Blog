@@ -73144,5 +73144,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-12T06:37:31.179667",
+    "run_end": "2026-09-12T06:38:12.197389",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5135517658505406666",
+        "title": "The 'equity-gap' portfolio audit: 7 stress-tests for your non-homeowner investment strategy against rising real estate costs",
+        "url": "https://theomniview.blogspot.com/2026/09/the-equity-gap-portfolio-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Listicles",
+          "alternative investments",
+          "wealth building without homeownership",
+          "equity portfolio strategy"
+        ],
+        "slug": "the-equity-gap-portfolio-audit-7-stress-tests-for-your-non-homeowner-investment-",
+        "published_at": "2026-09-12T06:42:49+00:00",
+        "word_count": 876,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4599072441670960777",
+        "title": "The 'circadian-synchrony' office audit: 7 stress-tests for your metabolic health against artificial blue-light exposure in coworking spaces",
+        "url": "https://theomniview.blogspot.com/2026/09/the-circadian-synchrony-office-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "circadian rhythm",
+          "metabolic health",
+          "office lighting"
+        ],
+        "slug": "the-circadian-synchrony-office-audit-7-stress-tests-for-your-metabolic-health-ag",
+        "published_at": "2026-09-12T06:43:10+00:00",
+        "word_count": 895,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
