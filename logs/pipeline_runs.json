@@ -73092,5 +73092,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-12T01:51:55.518256",
+    "run_end": "2026-09-12T01:52:43.893943",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2066350401740436438",
+        "title": "The 'Digital-Sovereignty' Border Audit: 7 Stress-Tests for Your Personal Privacy Against State-Sponsored Disinformation Campaigns",
+        "url": "https://theomniview.blogspot.com/2026/09/the-digital-sovereignty-border-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Latest News",
+          "digital sovereignty",
+          "state-sponsored disinformation",
+          "personal data privacy"
+        ],
+        "slug": "the-digital-sovereignty-border-audit-7-stress-tests-for-your-personal-privacy-ag",
+        "published_at": "2026-09-12T01:57:16+00:00",
+        "word_count": 815,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1127230727342109004",
+        "title": "The 'digital-receipt' gaming audit: 7 stress-tests for your physical game collection against Sony\u2019s license-revocation policy",
+        "url": "https://theomniview.blogspot.com/2026/09/the-digital-receipt-gaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Listicles",
+          "game preservation",
+          "digital ownership rights",
+          "Sony PlayStation controversy"
+        ],
+        "slug": "the-digital-receipt-gaming-audit-7-stress-tests-for-your-physical-game-collectio",
+        "published_at": "2026-09-12T01:57:42+00:00",
+        "word_count": 851,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
