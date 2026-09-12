@@ -73352,5 +73352,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-12T19:46:34.571564",
+    "run_end": "2026-09-12T19:47:22.769616",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6826746866189809935",
+        "title": "The 'license-revocation' remote-work audit: 7 stress-tests for your home-office software stack against sudden 'kill-switch' account closures",
+        "url": "https://theomniview.blogspot.com/2026/09/the-license-revocation-remote-work.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote work software",
+          "SaaS risk management",
+          "digital ownership"
+        ],
+        "slug": "the-license-revocation-remote-work-audit-7-stress-tests-for-your-home-office-sof",
+        "published_at": "2026-09-12T19:52:02+00:00",
+        "word_count": 1077,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7162053280253259218",
+        "title": "The 'carbon-credit' accountability audit: 7 stress-tests for your corporate climate-policy against EPA data-center oversight",
+        "url": "https://theomniview.blogspot.com/2026/09/the-carbon-credit-accountability-audit.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Latest News",
+          "climate policy",
+          "data center pollution",
+          "EPA regulations"
+        ],
+        "slug": "the-carbon-credit-accountability-audit-7-stress-tests-for-your-corporate-climate",
+        "published_at": "2026-09-12T19:52:22+00:00",
+        "word_count": 746,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
