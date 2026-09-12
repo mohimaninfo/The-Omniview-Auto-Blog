@@ -61844,5 +61844,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4749749140047916346",
+    "title": "The 'Smart-Glass' Detection Audit: 7 Stress-Tests for Your Privacy Against Meta-Style Wearable Surveillance \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-smart-glass-detection-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "privacy engineering",
+      "smart glasses detection",
+      "Meta smart glasses"
+    ],
+    "slug": "the-smart-glass-detection-audit-7-stress-tests-for-your-privacy-against-meta-sty",
+    "published_at": "2026-09-12T11:26:00+00:00",
+    "word_count": 581,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1275563800547683994",
+    "title": "The 'Data-Center-NIMBY' Mitigation Audit: 7 Stress-Tests for Your Startup's Infrastructure Expansion Against Local Community Resistance",
+    "url": "https://theomniview.blogspot.com/2026/09/the-data-center-nimby-mitigation-audit.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "How-To Guides",
+      "data center expansion",
+      "community relations strategy",
+      "NIMBY mitigation"
+    ],
+    "slug": "the-data-center-nimby-mitigation-audit-7-stress-tests-for-your-startups-infrastr",
+    "published_at": "2026-09-12T11:26:24+00:00",
+    "word_count": 1021,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
