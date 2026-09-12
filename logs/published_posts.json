@@ -61888,5 +61888,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1328689390389099284",
+    "title": "The 'Zuckoff' Resilience Audit: 7 Stress-Tests for Your Physical Privacy Against Wearable AI Surveillance",
+    "url": "https://theomniview.blogspot.com/2026/09/the-zuckoff-resilience-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Opinion & Analysis",
+      "wearable AI privacy",
+      "smart glasses surveillance",
+      "personal data protection"
+    ],
+    "slug": "the-zuckoff-resilience-audit-7-stress-tests-for-your-physical-privacy-against-we",
+    "published_at": "2026-09-12T14:37:11+00:00",
+    "word_count": 918,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8721450272849040197",
+    "title": "The 'Digital-Extinction' Streaming Audit: 7 Stress-Tests for Your Favorite Shows Against Sudden Platform Deletions",
+    "url": "https://theomniview.blogspot.com/2026/09/the-digital-extinction-streaming-audit.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Explainers",
+      "streaming platform deletions",
+      "digital content ownership",
+      "streaming service cancellations"
+    ],
+    "slug": "the-digital-extinction-streaming-audit-7-stress-tests-for-your-favorite-shows-ag",
+    "published_at": "2026-09-12T14:37:49+00:00",
+    "word_count": 1223,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
