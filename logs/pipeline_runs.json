@@ -73456,5 +73456,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-12T23:30:10.198019",
+    "run_end": "2026-09-12T23:32:49.366695",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6383710890495923354",
+        "title": "The 'Gut-Brain' Anxiety Audit: 7 Stress-Tests for Your ADHD Mental Health Against Modern Dietary Inflammation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-gut-brain-anxiety-audit-7-stress.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "Latest News",
+          "ADHD mental health",
+          "gut-brain axis",
+          "ADHD and gut health"
+        ],
+        "slug": "the-gut-brain-anxiety-audit-7-stress-tests-for-your-adhd-mental-health-against-m",
+        "published_at": "2026-09-12T23:35:38+00:00",
+        "word_count": 714,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5273887558073326136",
+        "title": "The 'sovereign-cloud' residency audit: 7 stress-tests for your personal data against cross-border jurisdictional seizure",
+        "url": "https://theomniview.blogspot.com/2026/09/the-sovereign-cloud-residency-audit-7.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Latest News",
+          "sovereign cloud",
+          "data sovereignty",
+          "cross-border data privacy"
+        ],
+        "slug": "the-sovereign-cloud-residency-audit-7-stress-tests-for-your-personal-data-agains",
+        "published_at": "2026-09-12T23:37:48+00:00",
+        "word_count": 760,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
