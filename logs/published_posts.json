@@ -62328,5 +62328,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1600827548081188447",
+    "title": "The 'Platform-Hopping' Resilience Audit: 7 Stress-Tests for Your Streaming Subscriptions Against Sudden Library Purges",
+    "url": "https://theomniview.blogspot.com/2026/09/the-platform-hopping-resilience-audit-7.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Reviews",
+      "streaming subscriptions",
+      "content library",
+      "streaming service"
+    ],
+    "slug": "the-platform-hopping-resilience-audit-7-stress-tests-for-your-streaming-subscrip",
+    "published_at": "2026-09-13T23:48:51+00:00",
+    "word_count": 532,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "869799939275320049",
+    "title": "The 'Cognitive-Offloading' Classroom Audit: 7 Stress-Tests for Your Student\u2019s Critical Thinking Against Generative AI Reliance \u2014 A Research Articles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-cognitive-offloading-classroom.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Research Articles",
+      "generative AI in K-12",
+      "cognitive offloading",
+      "academic integrity"
+    ],
+    "slug": "the-cognitive-offloading-classroom-audit-7-stress-tests-for-your-students-critic",
+    "published_at": "2026-09-13T23:50:44+00:00",
+    "word_count": 976,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
