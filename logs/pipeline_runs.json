@@ -73576,5 +73576,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-09-13T12:24:00.676973",
+    "run_end": "2026-09-13T12:24:38.774851",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6454182180765963070",
+        "title": "the 'sovereign-grid' resilience audit: 7 stress-tests for your local infrastructure against geopolitical energy-warfare \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-sovereign-grid-resilience-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Latest News",
+          "energy resilience",
+          "geopolitical risk",
+          "grid security"
+        ],
+        "slug": "the-sovereign-grid-resilience-audit-7-stress-tests-for-your-local-infrastructure",
+        "published_at": "2026-09-13T12:29:17+00:00",
+        "word_count": 853,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2438287301803256542",
+        "title": "The 'Fan-Fiction' Copyright Audit: 7 Stress-Tests for Your Creative Canon Against AI-Generated Derivative Works \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-fan-fiction-copyright-audit-7.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "explainers",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Explainers",
+          "fan fiction copyright",
+          "AI content generation",
+          "fan-created narratives"
+        ],
+        "slug": "the-fan-fiction-copyright-audit-7-stress-tests-for-your-creative-canon-against-a",
+        "published_at": "2026-09-13T12:29:38+00:00",
+        "word_count": 1091,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
