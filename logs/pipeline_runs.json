@@ -73508,5 +73508,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-13T01:43:45.526095",
+    "run_end": "2026-09-13T01:44:30.980808",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8633704819828070003",
+        "title": "The 'Offline-Nomad' Resilience Audit: 7 Stress-Tests for Your Travel Itinerary Against Global Cloud-Service Outages",
+        "url": "https://theomniview.blogspot.com/2026/09/the-offline-nomad-resilience-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "case-studies",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Case Studies",
+          "digital nomad travel",
+          "travel resilience",
+          "offline travel planning"
+        ],
+        "slug": "the-offline-nomad-resilience-audit-7-stress-tests-for-your-travel-itinerary-agai",
+        "published_at": "2026-09-13T01:49:09+00:00",
+        "word_count": 787,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5461641656070439675",
+        "title": "The 'Fast-Fashion' Exit Audit: 7 Stress-Tests for Your Wardrobe Against Emerging European Sustainability Laws",
+        "url": "https://theomniview.blogspot.com/2026/09/the-fast-fashion-exit-audit-7-stress.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "fast fashion regulation",
+          "sustainable wardrobe",
+          "textile recycling laws"
+        ],
+        "slug": "the-fast-fashion-exit-audit-7-stress-tests-for-your-wardrobe-against-emerging-eu",
+        "published_at": "2026-09-13T01:49:30+00:00",
+        "word_count": 1165,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
