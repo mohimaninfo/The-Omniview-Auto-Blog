@@ -73628,5 +73628,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-09-13T16:42:29.954334",
+    "run_end": "2026-09-13T16:43:23.450811",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8915361820916658127",
+        "title": "The 'Degree-Devaluation' Credibility Audit: 7 Stress-Tests for Your University Diploma Against AI-Driven Hiring Filters",
+        "url": "https://theomniview.blogspot.com/2026/09/the-degree-devaluation-credibility.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Explainers",
+          "degree devaluation",
+          "AI hiring filters",
+          "higher education trends"
+        ],
+        "slug": "the-degree-devaluation-credibility-audit-7-stress-tests-for-your-university-dipl",
+        "published_at": "2026-09-13T16:47:52+00:00",
+        "word_count": 1155,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "952214939435138080",
+        "title": "the 'parasocial-parasite' fandom audit: 7 stress-tests for your favorite celebrity\u2019s brand against ai-generated deepfake fan fiction",
+        "url": "https://theomniview.blogspot.com/2026/09/the-parasocial-parasite-fandom-audit-7.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Listicles",
+          "ai deepfakes",
+          "celebrity brand management",
+          "fan fiction ethics"
+        ],
+        "slug": "the-parasocial-parasite-fandom-audit-7-stress-tests-for-your-favorite-celebritys",
+        "published_at": "2026-09-13T16:48:22+00:00",
+        "word_count": 988,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
