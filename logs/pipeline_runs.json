@@ -73732,5 +73732,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-13T21:52:27.062344",
+    "run_end": "2026-09-13T21:53:11.347604",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4284792127833803358",
+        "title": "The 'Data-Center-Drain' Resilience Audit: 7 Stress-Tests for Your Local Renewable Grid Against AI-Driven Energy Demand \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-data-center-drain-resilience-audit.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Latest News",
+          "renewable energy grid",
+          "AI data center energy consumption",
+          "grid resilience"
+        ],
+        "slug": "the-data-center-drain-resilience-audit-7-stress-tests-for-your-local-renewable-g",
+        "published_at": "2026-09-13T21:57:48+00:00",
+        "word_count": 852,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 2
+      },
+      {
+        "post_id": "1747746124399086759",
+        "title": "The 'Transcript-Drift' Assessment Audit: 7 Stress-Tests for Your Academic Record Against AI-Generated Grade Inflation \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-transcript-drift-assessment-audit-7.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Explainers",
+          "academic integrity",
+          "AI in higher education",
+          "grade inflation"
+        ],
+        "slug": "the-transcript-drift-assessment-audit-7-stress-tests-for-your-academic-record-ag",
+        "published_at": "2026-09-13T21:58:10+00:00",
+        "word_count": 953,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
