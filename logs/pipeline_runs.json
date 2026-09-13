@@ -73560,5 +73560,21 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-13T06:53:43.177482",
+    "run_end": "2026-09-13T06:54:44.331079",
+    "posts_attempted": 2,
+    "posts_succeeded": 0,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}",
+        "post_index": 1
+      },
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 2
+      }
+    ]
   }
 ]
