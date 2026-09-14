@@ -73836,5 +73836,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-14T02:01:42.731013",
+    "run_end": "2026-09-14T02:02:36.467125",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3085913661971673635",
+        "title": "The 'AI-Detox' Protocol: 7 Stress-Tests for Your Cognitive Agency Against Predictive Text Over-Reliance",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ai-detox-protocol-7-stress-tests.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Explainers",
+          "AI detox",
+          "cognitive agency",
+          "predictive text"
+        ],
+        "slug": "the-ai-detox-protocol-7-stress-tests-for-your-cognitive-agency-against-predictiv",
+        "published_at": "2026-09-14T02:07:05+00:00",
+        "word_count": 1042,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6278802441666920877",
+        "title": "The 'Civilian-Defense' Readiness Audit: 7 Stress-Tests for Your Household Preparedness Against Escalating Geopolitical Volatility",
+        "url": "https://theomniview.blogspot.com/2026/09/the-civilian-defense-readiness-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "household emergency preparedness",
+          "geopolitical volatility",
+          "resilience planning"
+        ],
+        "slug": "the-civilian-defense-readiness-audit-7-stress-tests-for-your-household-preparedn",
+        "published_at": "2026-09-14T02:07:35+00:00",
+        "word_count": 860,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 7
+      }
+    ]
   }
 ]
