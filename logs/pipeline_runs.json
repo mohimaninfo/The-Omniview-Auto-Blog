@@ -73940,5 +73940,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-14T15:19:47.317074",
+    "run_end": "2026-09-14T15:21:14.620245",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1664010475940862747",
+        "title": "The 'kinetic-proxy' energy audit: 7 stress-tests for your household heating budget against escalating geopolitical trade-war volatility",
+        "url": "https://theomniview.blogspot.com/2026/09/the-kinetic-proxy-energy-audit-7-stress.html",
+        "genre": "society",
+        "topic": "global-affairs",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Global Affairs",
+          "Opinion & Analysis",
+          "geopolitical energy risk",
+          "household energy security",
+          "energy infrastructure sabotage"
+        ],
+        "slug": "the-kinetic-proxy-energy-audit-7-stress-tests-for-your-household-heating-budget-",
+        "published_at": "2026-09-14T15:25:22+00:00",
+        "word_count": 898,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2236984683921341395",
+        "title": "The 'Divorce-Proof' Wallet Audit: 7 Stress-Tests for Your Cryptocurrency Portfolio Against Asset Division Disputes \u2014 An Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-divorce-proof-wallet-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "cryptocurrency divorce",
+          "crypto asset division",
+          "self-custody legal risks"
+        ],
+        "slug": "the-divorce-proof-wallet-audit-7-stress-tests-for-your-cryptocurrency-portfolio-",
+        "published_at": "2026-09-14T15:26:13+00:00",
+        "word_count": 829,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
