@@ -62504,5 +62504,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "87524685155286750",
+    "title": "The 'proctor-proof' assessment audit: 7 stress-tests for your classroom\u2019s AI-detection policy against evasive generative tools",
+    "url": "https://theomniview.blogspot.com/2026/09/the-proctor-proof-assessment-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "How-To Guides",
+      "AI detection in education",
+      "classroom assessment strategies",
+      "academic integrity"
+    ],
+    "slug": "the-proctor-proof-assessment-audit-7-stress-tests-for-your-classrooms-ai-detecti",
+    "published_at": "2026-09-14T20:04:54+00:00",
+    "word_count": 1007,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "3964983578564015618",
+    "title": "The 'Neural-Interface' Latency Audit: 7 Stress-Tests for Your Brain-Computer Interface (BCI) Against Real-Time Signal Degradation",
+    "url": "https://theomniview.blogspot.com/2026/09/the-neural-interface-latency-audit-7.html",
+    "genre": "science",
+    "topic": "neuroscience",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Neuroscience",
+      "Latest News",
+      "brain-computer interface",
+      "neuroscience research",
+      "neural latency"
+    ],
+    "slug": "the-neural-interface-latency-audit-7-stress-tests-for-your-brain-computer-interf",
+    "published_at": "2026-09-14T20:05:22+00:00",
+    "word_count": 761,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
