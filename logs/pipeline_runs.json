@@ -73888,5 +73888,57 @@
         "reference_count": 7
       }
     ]
+  },
+  {
+    "run_start": "2026-09-14T08:11:00.596003",
+    "run_end": "2026-09-14T08:11:52.118779",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1418504239226400713",
+        "title": "The 'GPU-Shortage' Gaming Audit: 7 Stress-Tests for Your Next PC Build Against the RTX 5090 AI-Demand Spike",
+        "url": "https://theomniview.blogspot.com/2026/09/the-gpu-shortage-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "RTX 5090",
+          "GPU shortage",
+          "gaming PC build"
+        ],
+        "slug": "the-gpu-shortage-gaming-audit-7-stress-tests-for-your-next-pc-build-against-the-",
+        "published_at": "2026-09-14T08:16:21+00:00",
+        "word_count": 740,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "9054343301939796815",
+        "title": "The 'Epigenetic-Clock' Aging Audit: 7 Biological Stress-Tests for Your Longevity Against Modern Oxidative Stress",
+        "url": "https://theomniview.blogspot.com/2026/09/the-epigenetic-clock-aging-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Research Articles",
+          "epigenetic clock",
+          "biological aging",
+          "oxidative stress"
+        ],
+        "slug": "the-epigenetic-clock-aging-audit-7-biological-stress-tests-for-your-longevity-ag",
+        "published_at": "2026-09-14T08:16:51+00:00",
+        "word_count": 895,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
