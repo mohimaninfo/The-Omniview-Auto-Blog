@@ -74286,5 +74286,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-15T20:32:52.582798",
+    "run_end": "2026-09-15T20:34:42.246590",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "post_id": "1701757323331680792",
+        "title": "The 'botnet-swarm' resilience audit: 7 stress-tests for your home network against self-replicating AI threats",
+        "url": "https://theomniview.blogspot.com/2026/09/the-botnet-swarm-resilience-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Latest News",
+          "AI botnet swarm",
+          "home network security",
+          "cybersecurity threats"
+        ],
+        "slug": "the-botnet-swarm-resilience-audit-7-stress-tests-for-your-home-network-against-s",
+        "published_at": "2026-09-15T20:38:24+00:00",
+        "word_count": 713,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 2
+      }
+    ]
   }
 ]
