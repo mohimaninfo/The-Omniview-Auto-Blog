@@ -62768,5 +62768,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3316160640795864047",
+    "title": "The 'Hardware-Lock' Gaming Audit: 7 Stress-Tests for Your Steam Library Against Digital Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/09/the-hardware-lock-gaming-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Explainers",
+      "digital ownership in gaming",
+      "Steam library rights",
+      "GPU hardware costs"
+    ],
+    "slug": "the-hardware-lock-gaming-audit-7-stress-tests-for-your-steam-library-against-dig",
+    "published_at": "2026-09-15T23:22:09+00:00",
+    "word_count": 923,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5118904588576658693",
+    "title": "The 'Nuclear-Deterrence' Sovereignty Audit: 7 Stress-Tests for Your National Security Strategy Against Shifting NATO Alignments",
+    "url": "https://theomniview.blogspot.com/2026/09/the-nuclear-deterrence-sovereignty.html",
+    "genre": "society",
+    "topic": "global-affairs",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Global Affairs",
+      "Opinion & Analysis",
+      "national security strategy",
+      "NATO",
+      "geopolitical volatility"
+    ],
+    "slug": "the-nuclear-deterrence-sovereignty-audit-7-stress-tests-for-your-national-securi",
+    "published_at": "2026-09-15T23:23:21+00:00",
+    "word_count": 813,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
