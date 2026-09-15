@@ -74252,5 +74252,39 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-15T17:22:02.093923",
+    "run_end": "2026-09-15T17:23:48.698871",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 1
+      },
+      {
+        "post_id": "6161470225291921648",
+        "title": "the 'shadow-leader' succession audit: 7 stress-tests for your corporate continuity plan against sudden ai-driven role obsolescence",
+        "url": "https://theomniview.blogspot.com/2026/09/the-shadow-leader-succession-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Listicles",
+          "corporate succession planning",
+          "leadership continuity",
+          "ai-driven management"
+        ],
+        "slug": "the-shadow-leader-succession-audit-7-stress-tests-for-your-corporate-continuity-",
+        "published_at": "2026-09-15T17:28:48+00:00",
+        "word_count": 800,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
