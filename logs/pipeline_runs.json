@@ -74096,5 +74096,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-15T01:06:37.873304",
+    "run_end": "2026-09-15T01:07:34.769137",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "655650015027391502",
+        "title": "The 'algorithmic-liability' accountability audit: 7 stress-tests for your startup\u2019s product roadmap against emerging AI-regulation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-liability.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Opinion & Analysis",
+          "AI liability",
+          "AI regulation",
+          "algorithmic accountability"
+        ],
+        "slug": "the-algorithmic-liability-accountability-audit-7-stress-tests-for-your-startups-",
+        "published_at": "2026-09-15T01:11:59+00:00",
+        "word_count": 833,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "3095444005954869258",
+        "title": "The 'ai-replacement' layoff audit: 7 stress-tests for your startup\u2019s workforce against aggressive automation scaling",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ai-replacement-layoff-audit-7.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "listicles",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Listicles",
+          "startup layoffs",
+          "AI workforce replacement",
+          "organizational debt"
+        ],
+        "slug": "the-ai-replacement-layoff-audit-7-stress-tests-for-your-startups-workforce-again",
+        "published_at": "2026-09-15T01:12:33+00:00",
+        "word_count": 851,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
