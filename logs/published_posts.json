@@ -62680,5 +62680,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6964169865365118021",
+    "title": "The 'Deep-Mantle' Resilience Audit: 7 Stress-Tests for Your Local Water Security Against Planetary Water-Cycle Shifts",
+    "url": "https://theomniview.blogspot.com/2026/09/the-deep-mantle-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "case-studies",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Case Studies",
+      "water security",
+      "deep-earth water",
+      "climate resilience"
+    ],
+    "slug": "the-deep-mantle-resilience-audit-7-stress-tests-for-your-local-water-security-ag",
+    "published_at": "2026-09-15T12:23:40+00:00",
+    "word_count": 757,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "3248464221333108048",
+    "title": "the 'permafrost-methane' feedback audit: 7 stress-tests for your regional climate policy against accelerating arctic thaw",
+    "url": "https://theomniview.blogspot.com/2026/09/the-permafrost-methane-feedback-audit-7.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "latest-news",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Latest News",
+      "permafrost thaw",
+      "methane feedback loop",
+      "climate policy"
+    ],
+    "slug": "the-permafrost-methane-feedback-audit-7-stress-tests-for-your-regional-climate-p",
+    "published_at": "2026-09-15T12:24:06+00:00",
+    "word_count": 724,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
