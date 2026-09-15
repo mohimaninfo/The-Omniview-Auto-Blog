@@ -74148,5 +74148,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-15T06:52:40.536422",
+    "run_end": "2026-09-15T06:54:33.970293",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1132539335497532401",
+        "title": "The 'on-chain' divorce audit: 7 stress-tests for your cryptocurrency portfolio against asset division disputes \u2014 an opinion analysis perspective \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-on-chain-divorce-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Opinion & Analysis",
+          "cryptocurrency divorce",
+          "crypto asset division",
+          "blockchain asset discovery"
+        ],
+        "slug": "the-on-chain-divorce-audit-7-stress-tests-for-your-cryptocurrency-portfolio-agai",
+        "published_at": "2026-09-15T06:58:28+00:00",
+        "word_count": 867,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5935285687259954753",
+        "title": "The 'gut-brain' ADHD pantry audit: 7 stress-tests for your neurodivergent diet against ultra-processed inflammation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-gut-brain-adhd-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "ADHD nutrition",
+          "gut-brain axis",
+          "ultra-processed foods"
+        ],
+        "slug": "the-gut-brain-adhd-pantry-audit-7-stress-tests-for-your-neurodivergent-diet-agai",
+        "published_at": "2026-09-15T06:59:32+00:00",
+        "word_count": 1080,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
