@@ -74424,5 +74424,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-16T07:58:20.153602",
+    "run_end": "2026-09-16T07:59:06.826627",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6328562952569378934",
+        "title": "The 'Hydrological-Blindspot' Audit: 7 Stress-Tests for Your Local Water Security Against Planetary Groundwater Shifts",
+        "url": "https://theomniview.blogspot.com/2026/09/the-hydrological-blindspot-audit-7.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Opinion & Analysis",
+          "water security",
+          "groundwater depletion",
+          "hydrological cycle"
+        ],
+        "slug": "the-hydrological-blindspot-audit-7-stress-tests-for-your-local-water-security-ag",
+        "published_at": "2026-09-16T08:03:44+00:00",
+        "word_count": 853,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8665261435419414144",
+        "title": "the 'cloud-save' corruption audit: 7 stress-tests for your cross-platform progress against server-side synchronization failure \u2014 a how-to guides perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-cloud-save-corruption-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "cloud save corruption",
+          "game data backup",
+          "cross-platform gaming"
+        ],
+        "slug": "the-cloud-save-corruption-audit-7-stress-tests-for-your-cross-platform-progress-",
+        "published_at": "2026-09-16T08:04:06+00:00",
+        "word_count": 1113,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
