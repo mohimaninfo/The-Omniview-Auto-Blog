@@ -74372,5 +74372,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-16T02:01:15.053778",
+    "run_end": "2026-09-16T02:02:01.391768",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1991267926795306027",
+        "title": "The 'Synthetic-Star' Casting Audit: 7 Stress-Tests for Your Favorite Film Franchises Against AI-Generated Lead Actors \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-synthetic-star-casting-audit-7.html",
+        "genre": "entertainment",
+        "topic": "film-tv",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Film & TV",
+          "Opinion & Analysis",
+          "AI in film",
+          "deepfake actors",
+          "Hollywood labor rights"
+        ],
+        "slug": "the-synthetic-star-casting-audit-7-stress-tests-for-your-favorite-film-franchise",
+        "published_at": "2026-09-16T02:06:36+00:00",
+        "word_count": 959,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6501027914341142023",
+        "title": "The 'Subscription-Fatigue' Loyalty Audit: 7 Stress-Tests for Your Monthly Digital Spend Against Platform Enshittification",
+        "url": "https://theomniview.blogspot.com/2026/09/the-subscription-fatigue-loyalty-audit.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "subscription fatigue",
+          "digital spending",
+          "platform enshittification"
+        ],
+        "slug": "the-subscription-fatigue-loyalty-audit-7-stress-tests-for-your-monthly-digital-s",
+        "published_at": "2026-09-16T02:07:00+00:00",
+        "word_count": 917,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
