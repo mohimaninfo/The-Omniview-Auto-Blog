@@ -74580,5 +74580,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-16T20:32:36.467276",
+    "run_end": "2026-09-16T20:33:34.227621",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 1
+      },
+      {
+        "post_id": "9156948399404445326",
+        "title": "The 'algorithmic-stewardship' classroom audit: 7 stress-tests for your school's 1:1 device policy against massive AI-driven data-harvesting",
+        "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-stewardship-classroom.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "edtech privacy",
+          "student data protection",
+          "AI in the classroom"
+        ],
+        "slug": "the-algorithmic-stewardship-classroom-audit-7-stress-tests-for-your-schools-11-d",
+        "published_at": "2026-09-16T20:38:33+00:00",
+        "word_count": 984,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
