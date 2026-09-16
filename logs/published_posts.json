@@ -62900,5 +62900,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3455666658466043113",
+    "title": "The 'botnet-swarm' security audit: 7 stress-tests for your remote-work infrastructure against self-replicating AI threats",
+    "url": "https://theomniview.blogspot.com/2026/09/the-botnet-swarm-security-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "How-To Guides",
+      "remote-work security",
+      "AI botnet threat",
+      "home network hardening"
+    ],
+    "slug": "the-botnet-swarm-security-audit-7-stress-tests-for-your-remote-work-infrastructu",
+    "published_at": "2026-09-16T13:09:07+00:00",
+    "word_count": 964,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
+  },
+  {
+    "post_id": "3370725548809592435",
+    "title": "The 'asylum-exclusion' housing audit: 7 stress-tests for your community\u2019s social cohesion against the rise of localized border-policy protests",
+    "url": "https://theomniview.blogspot.com/2026/09/the-asylum-exclusion-housing-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Case Studies",
+      "social cohesion",
+      "asylum housing policy",
+      "municipal protest"
+    ],
+    "slug": "the-asylum-exclusion-housing-audit-7-stress-tests-for-your-communitys-social-coh",
+    "published_at": "2026-09-16T13:09:50+00:00",
+    "word_count": 841,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
