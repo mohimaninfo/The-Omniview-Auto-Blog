@@ -74528,5 +74528,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-16T17:47:26.574388",
+    "run_end": "2026-09-16T17:48:55.115675",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4948358180879584267",
+        "title": "The 'total-loss' liquidity audit: 7 stress-tests for your emergency fund against sudden auto-debt volatility",
+        "url": "https://theomniview.blogspot.com/2026/09/the-total-loss-liquidity-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Latest News",
+          "emergency fund management",
+          "auto insurance payout",
+          "total loss debt strategy"
+        ],
+        "slug": "the-total-loss-liquidity-audit-7-stress-tests-for-your-emergency-fund-against-su",
+        "published_at": "2026-09-16T17:52:59+00:00",
+        "word_count": 775,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6327087339178246563",
+        "title": "The 'debt-co-sign' liability audit: 7 stress-tests for your startup equity against personal loan entanglement",
+        "url": "https://theomniview.blogspot.com/2026/09/the-debt-co-sign-liability-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "case-studies",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Case Studies",
+          "startup debt liability",
+          "co-signing business loans",
+          "startup founder financial risk"
+        ],
+        "slug": "the-debt-co-sign-liability-audit-7-stress-tests-for-your-startup-equity-against-",
+        "published_at": "2026-09-16T17:53:54+00:00",
+        "word_count": 748,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
