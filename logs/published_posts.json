@@ -63054,5 +63054,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6747408576927117484",
+    "title": "the 'age-gating' enrollment audit: 7 stress-tests for your school's edtech stack against mandatory biometric age-verification laws",
+    "url": "https://theomniview.blogspot.com/2026/09/the-age-gating-enrollment-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Research Articles",
+      "edtech privacy",
+      "age verification in schools",
+      "biometric student data"
+    ],
+    "slug": "the-age-gating-enrollment-audit-7-stress-tests-for-your-schools-edtech-stack-aga",
+    "published_at": "2026-09-17T02:10:54+00:00",
+    "word_count": 1135,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3886943367884461193",
+    "title": "The 'doom-scrolling' recovery audit: 7 stress-tests for your mental health against infinite-scroll dopamine loops \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-doom-scrolling-recovery-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "How-To Guides",
+      "mental health",
+      "doomscrolling",
+      "digital wellbeing"
+    ],
+    "slug": "the-doom-scrolling-recovery-audit-7-stress-tests-for-your-mental-health-against-",
+    "published_at": "2026-09-17T02:11:19+00:00",
+    "word_count": 983,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
