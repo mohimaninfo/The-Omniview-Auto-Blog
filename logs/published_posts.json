@@ -63230,5 +63230,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1901080325001660175",
+    "title": "The 'ghost-track' provenance audit: 7 stress-tests for your high-fidelity vinyl collection against AI-upscaled digital masters",
+    "url": "https://theomniview.blogspot.com/2026/09/the-ghost-track-provenance-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Reviews",
+      "vinyl record reviews",
+      "analog vs digital audio",
+      "AI music remastering"
+    ],
+    "slug": "the-ghost-track-provenance-audit-7-stress-tests-for-your-high-fidelity-vinyl-col",
+    "published_at": "2026-09-17T20:44:47+00:00",
+    "word_count": 594,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "2328562491165320227",
+    "title": "The 'Fan-Edit' Canon Audit: 7 Stress-Tests for Your Favorite Film Franchises Against AI-Assisted Narrative Re-Writes",
+    "url": "https://theomniview.blogspot.com/2026/09/the-fan-edit-canon-audit-7-stress-tests.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Opinion & Analysis",
+      "fan-edits",
+      "AI film editing",
+      "cinematic canon"
+    ],
+    "slug": "the-fan-edit-canon-audit-7-stress-tests-for-your-favorite-film-franchises-agains",
+    "published_at": "2026-09-17T20:45:09+00:00",
+    "word_count": 903,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
