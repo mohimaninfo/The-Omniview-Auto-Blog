@@ -63142,5 +63142,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "8779001169229152457",
+    "title": "The 'High-Interest' Debt Audit: 7 Stress-Tests for Your Investment Portfolio Against Crushing Auto-Loan APRs",
+    "url": "https://theomniview.blogspot.com/2026/09/the-high-interest-debt-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "explainers",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Explainers",
+      "high interest debt vs investing",
+      "pay off debt or invest",
+      "auto loan interest rates"
+    ],
+    "slug": "the-high-interest-debt-audit-7-stress-tests-for-your-investment-portfolio-agains",
+    "published_at": "2026-09-17T13:57:58+00:00",
+    "word_count": 1105,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "6555331974688375117",
+    "title": "The 'self-replicating' code audit: 7 stress-tests for your open-source repository against autonomous AI-agent contamination",
+    "url": "https://theomniview.blogspot.com/2026/09/the-self-replicating-code-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Research Articles",
+      "autonomous AI agents",
+      "open source security",
+      "code integrity"
+    ],
+    "slug": "the-self-replicating-code-audit-7-stress-tests-for-your-open-source-repository-a",
+    "published_at": "2026-09-17T13:59:14+00:00",
+    "word_count": 992,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
