@@ -63296,5 +63296,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "51470524451119809",
+    "title": "the 'diplomatic-proxy' infrastructure audit: 7 stress-tests for your local digital sovereignty against the rise of 'associated' EU membership",
+    "url": "https://theomniview.blogspot.com/2026/09/the-diplomatic-proxy-infrastructure.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "digital sovereignty",
+      "EU associated membership",
+      "data privacy regulations"
+    ],
+    "slug": "the-diplomatic-proxy-infrastructure-audit-7-stress-tests-for-your-local-digital-",
+    "published_at": "2026-09-17T23:16:43+00:00",
+    "word_count": 1090,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1815671875397482321",
+    "title": "The 'Right-to-Repair' Hardware Audit: 7 Stress-Tests for Your Home Appliances Against Planned Obsolescence \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-right-to-repair-hardware-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "How-To Guides",
+      "circular economy",
+      "right to repair",
+      "planned obsolescence"
+    ],
+    "slug": "the-right-to-repair-hardware-audit-7-stress-tests-for-your-home-appliances-again",
+    "published_at": "2026-09-17T23:17:18+00:00",
+    "word_count": 994,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
