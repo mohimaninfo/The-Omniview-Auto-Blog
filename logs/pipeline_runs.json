@@ -74718,5 +74718,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-17T08:03:16.635853",
+    "run_end": "2026-09-17T08:04:04.772210",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2375890371505295721",
+        "title": "The 'LLM-Dependency' Tooling Audit: 7 Stress-Tests for Your Open-Source Project Against AI-Driven Code Rot",
+        "url": "https://theomniview.blogspot.com/2026/09/the-llm-dependency-tooling-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Reviews",
+          "LLM code quality",
+          "open source maintenance",
+          "AI-generated code"
+        ],
+        "slug": "the-llm-dependency-tooling-audit-7-stress-tests-for-your-open-source-project-aga",
+        "published_at": "2026-09-17T08:08:37+00:00",
+        "word_count": 575,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4711932921282208021",
+        "title": "The 'synaptic-pruning' focus audit: 7 stress-tests for your attention span against short-form video dopamine cycles \u2014 a how-to guides perspective \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-synaptic-pruning-focus-audit-7_0549401576.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "how-to-guides",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "How-To Guides",
+          "synaptic pruning",
+          "attention span",
+          "dopamine detox"
+        ],
+        "slug": "the-synaptic-pruning-focus-audit-7-stress-tests-for-your-attention-span-against-",
+        "published_at": "2026-09-17T08:09:03+00:00",
+        "word_count": 976,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
