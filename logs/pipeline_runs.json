@@ -75198,5 +75198,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-18T18:42:16.200146",
+    "run_end": "2026-09-18T18:44:12.287102",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1261522398869509328",
+        "title": "The 'Gut-Brain' Symptom Audit: 7 Stress-Tests for Your ADHD Management Against Modern Ultra-Processed Dietary Triggers",
+        "url": "https://theomniview.blogspot.com/2026/09/the-gut-brain-symptom-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "How-To Guides",
+          "ADHD gut health",
+          "ultra-processed foods",
+          "neurodivergent diet"
+        ],
+        "slug": "the-gut-brain-symptom-audit-7-stress-tests-for-your-adhd-management-against-mode",
+        "published_at": "2026-09-18T18:48:12+00:00",
+        "word_count": 1105,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3904141468934264542",
+        "title": "The 'Indie-Resilience' studio audit: 7 stress-tests for your favorite gaming franchises against the 'Big Tech' layoff contagion",
+        "url": "https://theomniview.blogspot.com/2026/09/the-indie-resilience-studio-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Listicles",
+          "gaming industry layoffs",
+          "indie game development",
+          "AAA studio crisis"
+        ],
+        "slug": "the-indie-resilience-studio-audit-7-stress-tests-for-your-favorite-gaming-franch",
+        "published_at": "2026-09-18T18:49:11+00:00",
+        "word_count": 745,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
