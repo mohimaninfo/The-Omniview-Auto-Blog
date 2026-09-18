@@ -75112,5 +75112,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-18T11:56:58.332788",
+    "run_end": "2026-09-18T11:58:28.798827",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6954913010046391020",
+        "title": "The 'Slop-Grenade' Mitigation Audit: 7 Stress-Tests for Your Marketing Workflow Against AI-Generated Noise",
+        "url": "https://theomniview.blogspot.com/2026/09/the-slop-grenade-mitigation-audit-7.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "How-To Guides",
+          "marketing workflow",
+          "generative AI marketing",
+          "content quality control"
+        ],
+        "slug": "the-slop-grenade-mitigation-audit-7-stress-tests-for-your-marketing-workflow-aga",
+        "published_at": "2026-09-18T12:03:01+00:00",
+        "word_count": 885,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7309437345666940876",
+        "title": "The 'Slop-Grenade' Mitigation Audit: 7 Stress-Tests for Your Ecommerce Marketing Workflow Against AI-Generated Noise \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-slop-grenade-mitigation-audit-7_0706656069.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "How-To Guides",
+          "ecommerce marketing",
+          "AI content strategy",
+          "brand authority"
+        ],
+        "slug": "the-slop-grenade-mitigation-audit-7-stress-tests-for-your-ecommerce-marketing-wo",
+        "published_at": "2026-09-18T12:03:28+00:00",
+        "word_count": 1056,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
