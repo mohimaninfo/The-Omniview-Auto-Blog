@@ -75008,5 +75008,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-18T01:52:37.569566",
+    "run_end": "2026-09-18T01:53:32.374160",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1978285841774057309",
+        "title": "The 'Zero-APR' trap audit: 7 stress-tests for your household budget against predatory 'buy now, pay later' financing",
+        "url": "https://theomniview.blogspot.com/2026/09/the-zero-apr-trap-audit-7-stress-tests.html",
+        "genre": "finance",
+        "topic": "economics",
+        "layer": "latest-news",
+        "labels": [
+          "Finance",
+          "Economics",
+          "Latest News",
+          "buy now pay later",
+          "BNPL risks",
+          "zero percent APR"
+        ],
+        "slug": "the-zero-apr-trap-audit-7-stress-tests-for-your-household-budget-against-predato",
+        "published_at": "2026-09-18T01:58:05+00:00",
+        "word_count": 834,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3390158523492560921",
+        "title": "The 'Slop-Grenade' Performance Audit: 7 Stress-Tests for Your Career Longevity Against AI-Generated Busywork",
+        "url": "https://theomniview.blogspot.com/2026/09/the-slop-grenade-performance-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Explainers",
+          "AI productivity",
+          "career longevity",
+          "workplace automation"
+        ],
+        "slug": "the-slop-grenade-performance-audit-7-stress-tests-for-your-career-longevity-agai",
+        "published_at": "2026-09-18T01:58:31+00:00",
+        "word_count": 967,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
