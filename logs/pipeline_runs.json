@@ -75250,5 +75250,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-18T21:19:49.316132",
+    "run_end": "2026-09-18T21:21:37.364085",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1497598957766158509",
+        "title": "The 'AI-Ghosting' Relationship Audit: 7 Stress-Tests for Your Romantic Communication Against Generative Text Bias",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ai-ghosting-relationship-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "relationships",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Relationships",
+          "How-To Guides",
+          "relationship advice",
+          "digital intimacy",
+          "AI in relationships"
+        ],
+        "slug": "the-ai-ghosting-relationship-audit-7-stress-tests-for-your-romantic-communicatio",
+        "published_at": "2026-09-18T21:25:12+00:00",
+        "word_count": 1094,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4487157019258300603",
+        "title": "The 'knowledge-atrophy' curriculum audit: 7 stress-tests for your student\u2019s foundational reasoning against generative AI reliance",
+        "url": "https://theomniview.blogspot.com/2026/09/the-knowledge-atrophy-curriculum-audit.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Opinion & Analysis",
+          "generative AI in education",
+          "cognitive science",
+          "learning retention"
+        ],
+        "slug": "the-knowledge-atrophy-curriculum-audit-7-stress-tests-for-your-students-foundati",
+        "published_at": "2026-09-18T21:26:36+00:00",
+        "word_count": 984,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
