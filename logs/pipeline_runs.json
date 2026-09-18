@@ -75060,5 +75060,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-18T06:48:13.786589",
+    "run_end": "2026-09-18T06:51:15.698386",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "254388454673917460",
+        "title": "The 'Lean-Team' leadership audit: 7 stress-tests for your corporate structure against the 'Japanese efficiency' model",
+        "url": "https://theomniview.blogspot.com/2026/09/the-lean-team-leadership-audit-7-stress.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Opinion & Analysis",
+          "corporate leadership",
+          "lean management",
+          "team efficiency"
+        ],
+        "slug": "the-lean-team-leadership-audit-7-stress-tests-for-your-corporate-structure-again",
+        "published_at": "2026-09-18T06:54:32+00:00",
+        "word_count": 960,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1616809636237053489",
+        "title": "The 'thermal-drain' conservation audit: 7 stress-tests for your local watershed resilience against AI data center cooling demands \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-thermal-drain-conservation-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Explainers",
+          "data center water usage",
+          "watershed conservation",
+          "AI environmental impact"
+        ],
+        "slug": "the-thermal-drain-conservation-audit-7-stress-tests-for-your-local-watershed-res",
+        "published_at": "2026-09-18T06:56:14+00:00",
+        "word_count": 943,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
