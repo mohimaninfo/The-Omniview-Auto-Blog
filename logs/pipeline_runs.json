@@ -75302,5 +75302,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-18T23:42:40.741900",
+    "run_end": "2026-09-18T23:43:22.966747",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8357033666875796783",
+        "title": "The 'Data-Sovereignty' Blackout Audit: 7 Stress-Tests for Your Business Continuity Against Geopolitical Data-Center Sabotage",
+        "url": "https://theomniview.blogspot.com/2026/09/the-data-sovereignty-blackout-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Latest News",
+          "data sovereignty",
+          "business continuity",
+          "infrastructure sabotage"
+        ],
+        "slug": "the-data-sovereignty-blackout-audit-7-stress-tests-for-your-business-continuity-",
+        "published_at": "2026-09-18T23:48:03+00:00",
+        "word_count": 704,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1055884996666757282",
+        "title": "The 'Smart-Home' Surveillance Audit: 7 Stress-Tests for Your Privacy Against AI-Driven Predictive Maintenance",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-home-surveillance-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Reviews",
+          "smart home privacy",
+          "AI home appliances",
+          "predictive maintenance security"
+        ],
+        "slug": "the-smart-home-surveillance-audit-7-stress-tests-for-your-privacy-against-ai-dri",
+        "published_at": "2026-09-18T23:48:22+00:00",
+        "word_count": 622,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
