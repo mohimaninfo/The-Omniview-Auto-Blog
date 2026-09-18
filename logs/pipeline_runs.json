@@ -75164,5 +75164,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-18T15:31:14.443686",
+    "run_end": "2026-09-18T15:33:55.597220",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 1
+      },
+      {
+        "post_id": "7828299387392176160",
+        "title": "The 'Neuro-Inflammation' Pantry Audit: 7 Stress-Tests for Your ADHD-Friendly Diet Against Ultra-Processed Triggers",
+        "url": "https://theomniview.blogspot.com/2026/09/the-neuro-inflammation-pantry-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "How-To Guides",
+          "ADHD diet",
+          "gut-brain axis",
+          "neuro-inflammation"
+        ],
+        "slug": "the-neuro-inflammation-pantry-audit-7-stress-tests-for-your-adhd-friendly-diet-a",
+        "published_at": "2026-09-18T15:38:55+00:00",
+        "word_count": 953,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
