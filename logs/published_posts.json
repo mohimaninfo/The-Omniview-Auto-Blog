@@ -63670,5 +63670,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5458945033120670459",
+    "title": "The 'tradwife' digital-hygiene audit: 7 stress-tests for your online anonymity against AI-driven persona scraping",
+    "url": "https://theomniview.blogspot.com/2026/09/the-tradwife-digital-hygiene-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Listicles",
+      "digital hygiene",
+      "online anonymity",
+      "AI persona scraping"
+    ],
+    "slug": "the-tradwife-digital-hygiene-audit-7-stress-tests-for-your-online-anonymity-agai",
+    "published_at": "2026-09-19T07:00:55+00:00",
+    "word_count": 843,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3887378458120248539",
+    "title": "The 'quantum-decoherence' stability audit: 7 physics stress-tests for your error-corrected qubit architecture against thermal noise",
+    "url": "https://theomniview.blogspot.com/2026/09/the-quantum-decoherence-stability-audit.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Physics",
+      "Research Articles",
+      "quantum decoherence",
+      "error-corrected qubits",
+      "quantum computing hardware"
+    ],
+    "slug": "the-quantum-decoherence-stability-audit-7-physics-stress-tests-for-your-error-co",
+    "published_at": "2026-09-19T07:01:43+00:00",
+    "word_count": 1026,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
