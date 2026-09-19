@@ -63758,5 +63758,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "6951034729204741629",
+    "title": "The 'Deep-Fake' Dating Audit: 7 Stress-Tests for Your Romantic Privacy Against AI-Driven Persona Scraping",
+    "url": "https://theomniview.blogspot.com/2026/09/the-deep-fake-dating-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "reviews",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "Reviews",
+      "AI dating privacy",
+      "digital persona protection",
+      "deepfake safety"
+    ],
+    "slug": "the-deep-fake-dating-audit-7-stress-tests-for-your-romantic-privacy-against-ai-d",
+    "published_at": "2026-09-19T15:02:03+00:00",
+    "word_count": 534,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "166478409720090904",
+    "title": "The 'quantum-jump' stability audit: 7 physics stress-tests for your future quantum computing reliability",
+    "url": "https://theomniview.blogspot.com/2026/09/the-quantum-jump-stability-audit-7.html",
+    "genre": "science",
+    "topic": "physics",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Physics",
+      "Explainers",
+      "quantum computing",
+      "quantum jumps",
+      "mechanical resonator"
+    ],
+    "slug": "the-quantum-jump-stability-audit-7-physics-stress-tests-for-your-future-quantum-",
+    "published_at": "2026-09-19T15:02:25+00:00",
+    "word_count": 1061,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
