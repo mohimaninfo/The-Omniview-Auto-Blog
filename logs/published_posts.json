@@ -63626,5 +63626,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5900664566627037997",
+    "title": "The 'synthetic-trust' crisis audit: 7 stress-tests for your brand\u2019s marketing authenticity against AI-generated astroturfing",
+    "url": "https://theomniview.blogspot.com/2026/09/the-synthetic-trust-crisis-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Opinion & Analysis",
+      "brand authenticity",
+      "AI marketing ethics",
+      "astroturfing"
+    ],
+    "slug": "the-synthetic-trust-crisis-audit-7-stress-tests-for-your-brands-marketing-authen",
+    "published_at": "2026-09-19T02:03:32+00:00",
+    "word_count": 945,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "9014531693672301183",
+    "title": "The 'Equity-Risk' Compensation Audit: 7 Stress-Tests for Your Startup Offer Against $96k Job Security",
+    "url": "https://theomniview.blogspot.com/2026/09/the-equity-risk-compensation-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "interviews",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Interviews",
+      "startup equity compensation",
+      "job security vs startup",
+      "salary negotiation"
+    ],
+    "slug": "the-equity-risk-compensation-audit-7-stress-tests-for-your-startup-offer-against",
+    "published_at": "2026-09-19T02:03:58+00:00",
+    "word_count": 1045,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
