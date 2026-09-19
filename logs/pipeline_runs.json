@@ -75458,5 +75458,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-19T11:41:40.757468",
+    "run_end": "2026-09-19T11:42:41.335593",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6937077727307302183",
+        "title": "The 'smart-home' privacy audit: 7 stress-tests for your household security against AI-powered surveillance creep \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-home-privacy-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Listicles",
+          "smart home privacy",
+          "home security audit",
+          "AI surveillance"
+        ],
+        "slug": "the-smart-home-privacy-audit-7-stress-tests-for-your-household-security-against-",
+        "published_at": "2026-09-19T11:47:07+00:00",
+        "word_count": 895,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5352206411126387394",
+        "title": "The 'E-Waste' Mining Audit: 7 Stress-Tests for Your Old Tech Against the New Circular Economy Reality",
+        "url": "https://theomniview.blogspot.com/2026/09/the-e-waste-mining-audit-7-stress-tests.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Explainers",
+          "circular economy",
+          "urban mining",
+          "e-waste recycling"
+        ],
+        "slug": "the-e-waste-mining-audit-7-stress-tests-for-your-old-tech-against-the-new-circul",
+        "published_at": "2026-09-19T11:47:40+00:00",
+        "word_count": 1161,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
