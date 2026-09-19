@@ -63802,5 +63802,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "1893108084743111758",
+    "title": "The 'Seismic-Echo' Climate Audit: 7 Stress-Tests for Your Local Fault Lines Against Anthropogenic Groundwater Depletion",
+    "url": "https://theomniview.blogspot.com/2026/09/the-seismic-echo-climate-audit-7-stress.html",
+    "genre": "science",
+    "topic": "climate-environment",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Climate & Environment",
+      "Research Articles",
+      "groundwater depletion",
+      "tectonic stress",
+      "climate adaptation"
+    ],
+    "slug": "the-seismic-echo-climate-audit-7-stress-tests-for-your-local-fault-lines-against",
+    "published_at": "2026-09-19T17:42:02+00:00",
+    "word_count": 993,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5119230961452215888",
+    "title": "The 'ad-supported' migration audit: 7 stress-tests for your Disney+ subscription value against mandatory ad-tier integration",
+    "url": "https://theomniview.blogspot.com/2026/09/the-ad-supported-migration-audit-7.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Reviews",
+      "Disney+ subscription",
+      "ad-supported streaming",
+      "streaming service value"
+    ],
+    "slug": "the-ad-supported-migration-audit-7-stress-tests-for-your-disney-subscription-val",
+    "published_at": "2026-09-19T17:42:23+00:00",
+    "word_count": 679,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
