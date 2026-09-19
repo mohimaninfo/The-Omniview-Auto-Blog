@@ -75614,5 +75614,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-19T19:41:48.263731",
+    "run_end": "2026-09-19T19:42:37.784414",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7828350065311273537",
+        "title": "The 'shadow-manager' performance audit: 7 stress-tests for your remote-work output against AI-driven productivity surveillance \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-shadow-manager-performance-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "explainers",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "Explainers",
+          "remote-work productivity",
+          "AI workplace surveillance",
+          "employee monitoring software"
+        ],
+        "slug": "the-shadow-manager-performance-audit-7-stress-tests-for-your-remote-work-output-",
+        "published_at": "2026-09-19T19:47:12+00:00",
+        "word_count": 1004,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3458320576964091760",
+        "title": "The 'biotech-bias' conservation audit: 7 stress-tests for your local biodiversity strategy against Anthropic-driven wet lab research",
+        "url": "https://theomniview.blogspot.com/2026/09/the-biotech-bias-conservation-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Opinion & Analysis",
+          "biodiversity conservation",
+          "synthetic biology",
+          "Anthropic wet lab"
+        ],
+        "slug": "the-biotech-bias-conservation-audit-7-stress-tests-for-your-local-biodiversity-s",
+        "published_at": "2026-09-19T19:47:37+00:00",
+        "word_count": 938,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
