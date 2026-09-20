@@ -64110,5 +64110,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "1904782423050668847",
+    "title": "The 'Shadow-Dependency' Refactoring Audit: 7 Stress-Tests for Your Legacy Codebase Against Autonomous AI Agent Contamination",
+    "url": "https://theomniview.blogspot.com/2026/09/the-shadow-dependency-refactoring-audit.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Research Articles",
+      "legacy code refactoring",
+      "AI code contamination",
+      "autonomous coding agents"
+    ],
+    "slug": "the-shadow-dependency-refactoring-audit-7-stress-tests-for-your-legacy-codebase-",
+    "published_at": "2026-09-20T16:40:11+00:00",
+    "word_count": 920,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7654108883193719596",
+    "title": "The 'Analog-Switch' Focus Audit: 7 Stress-Tests for Your Deep Work Routine Against AI-Driven Distraction",
+    "url": "https://theomniview.blogspot.com/2026/09/the-analog-switch-focus-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "self-improvement",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Self-Improvement",
+      "How-To Guides",
+      "deep work",
+      "digital minimalism",
+      "focus strategies"
+    ],
+    "slug": "the-analog-switch-focus-audit-7-stress-tests-for-your-deep-work-routine-against-",
+    "published_at": "2026-09-20T16:40:36+00:00",
+    "word_count": 1094,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
