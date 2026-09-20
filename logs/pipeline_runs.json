@@ -75978,5 +75978,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-20T19:08:30.620394",
+    "run_end": "2026-09-20T19:09:37.710289",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6779780703796127817",
+        "title": "the 'border-crossing' digital audit: 7 stress-tests for your travel smartphone against warrantless search zones",
+        "url": "https://theomniview.blogspot.com/2026/09/the-border-crossing-digital-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "travel",
+        "layer": "case-studies",
+        "labels": [
+          "Lifestyle",
+          "Travel",
+          "Case Studies",
+          "travel privacy",
+          "border security",
+          "digital rights"
+        ],
+        "slug": "the-border-crossing-digital-audit-7-stress-tests-for-your-travel-smartphone-agai",
+        "published_at": "2026-09-20T19:14:00+00:00",
+        "word_count": 910,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6333011732816113989",
+        "title": "The 'orbital-debris' collision audit: 7 stress-tests for your satellite-based internet against the rising Kessler Syndrome risk \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-orbital-debris-collision-audit-7_01556355308.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Opinion & Analysis",
+          "Kessler Syndrome",
+          "orbital debris",
+          "space junk"
+        ],
+        "slug": "the-orbital-debris-collision-audit-7-stress-tests-for-your-satellite-based-inter",
+        "published_at": "2026-09-20T19:14:37+00:00",
+        "word_count": 917,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
