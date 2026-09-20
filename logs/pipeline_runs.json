@@ -75874,5 +75874,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-20T12:49:34.835448",
+    "run_end": "2026-09-20T12:50:46.371227",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1725585621853658492",
+        "title": "the 'autonomous-warfare' readiness audit: 7 stress-tests for your household\u2019s physical security against the rise of domestic AI-drone surveillance",
+        "url": "https://theomniview.blogspot.com/2026/09/the-autonomous-warfare-readiness-audit.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Latest News",
+          "autonomous systems",
+          "AI drone surveillance",
+          "domestic security"
+        ],
+        "slug": "the-autonomous-warfare-readiness-audit-7-stress-tests-for-your-households-physic",
+        "published_at": "2026-09-20T12:55:14+00:00",
+        "word_count": 722,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4406982228666520941",
+        "title": "The 'Lossless-Authenticity' Streaming Audit: 7 Stress-Tests for Your Hi-Fi Music Library Against AI-Generated 'Ghost' Tracks",
+        "url": "https://theomniview.blogspot.com/2026/09/the-lossless-authenticity-streaming.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Reviews",
+          "AI music detection",
+          "hi-fi streaming",
+          "music provenance"
+        ],
+        "slug": "the-lossless-authenticity-streaming-audit-7-stress-tests-for-your-hi-fi-music-li",
+        "published_at": "2026-09-20T12:55:45+00:00",
+        "word_count": 516,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
