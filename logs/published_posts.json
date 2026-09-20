@@ -64242,5 +64242,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5253394073071272210",
+    "title": "The 'expendable-drone' battlefield audit: 7 stress-tests for your local infrastructure security against the rise of autonomous swarm robotics",
+    "url": "https://theomniview.blogspot.com/2026/09/the-expendable-drone-battlefield-audit.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "expendable drones",
+      "swarm robotics",
+      "critical infrastructure security"
+    ],
+    "slug": "the-expendable-drone-battlefield-audit-7-stress-tests-for-your-local-infrastruct",
+    "published_at": "2026-09-20T23:57:20+00:00",
+    "word_count": 669,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2004233084793880621",
+    "title": "The 'circular-compute' server audit: 7 stress-tests for your data center\u2019s hardware lifespan against AI-driven forced obsolescence \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-circular-compute-server-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "case-studies",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Case Studies",
+      "circular economy",
+      "data center sustainability",
+      "e-waste management"
+    ],
+    "slug": "the-circular-compute-server-audit-7-stress-tests-for-your-data-centers-hardware-",
+    "published_at": "2026-09-20T23:59:22+00:00",
+    "word_count": 769,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
