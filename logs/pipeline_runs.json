@@ -75822,5 +75822,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-20T07:58:18.361242",
+    "run_end": "2026-09-20T07:59:21.502307",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6785349357171460048",
+        "title": "The 'mega-donor' influence audit: 7 stress-tests for your local political representation against the surge in billionaire election funding",
+        "url": "https://theomniview.blogspot.com/2026/09/the-mega-donor-influence-audit-7-stress.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Latest News",
+          "political inequality",
+          "campaign finance reform",
+          "billionaire influence"
+        ],
+        "slug": "the-mega-donor-influence-audit-7-stress-tests-for-your-local-political-represent",
+        "published_at": "2026-09-20T08:03:56+00:00",
+        "word_count": 752,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      },
+      {
+        "post_id": "8878930854670285986",
+        "title": "The 'Cognitive-Friction' Study Audit: 7 Stress-Tests for Your Deep Learning Routine Against Digital Distraction",
+        "url": "https://theomniview.blogspot.com/2026/09/the-cognitive-friction-study-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "How-To Guides",
+          "learning science",
+          "deep work",
+          "desirable difficulty"
+        ],
+        "slug": "the-cognitive-friction-study-audit-7-stress-tests-for-your-deep-learning-routine",
+        "published_at": "2026-09-20T08:04:21+00:00",
+        "word_count": 1017,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
