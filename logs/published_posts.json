@@ -64198,5 +64198,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5483553765320615118",
+    "title": "The 'Pain-Switch' Neurological Audit: 7 Stress-Tests for Your Chronic Pain Management Against Newly Discovered Warmth-Sensor Biology",
+    "url": "https://theomniview.blogspot.com/2026/09/the-pain-switch-neurological-audit-7.html",
+    "genre": "health",
+    "topic": "medical-research",
+    "layer": "latest-news",
+    "labels": [
+      "Health",
+      "Medical Research",
+      "Latest News",
+      "chronic pain management",
+      "pain research",
+      "neurological health"
+    ],
+    "slug": "the-pain-switch-neurological-audit-7-stress-tests-for-your-chronic-pain-manageme",
+    "published_at": "2026-09-20T22:04:41+00:00",
+    "word_count": 728,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5865233743361603252",
+    "title": "The 'Shadow-Update' Patch Audit: 7 Stress-Tests for Your Enterprise Supply Chain Against Silent Firmware Backdoors",
+    "url": "https://theomniview.blogspot.com/2026/09/the-shadow-update-patch-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Case Studies",
+      "firmware security",
+      "supply chain cybersecurity",
+      "hardware backdoors"
+    ],
+    "slug": "the-shadow-update-patch-audit-7-stress-tests-for-your-enterprise-supply-chain-ag",
+    "published_at": "2026-09-20T22:05:02+00:00",
+    "word_count": 747,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
