@@ -76254,5 +76254,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-09-21T20:09:52.006388",
+    "run_end": "2026-09-21T20:11:29.181571",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8188615908394236731",
+        "title": "The 'debt-inheritance' liquidity audit: 7 stress-tests for your family wealth transfer against sudden collection claims",
+        "url": "https://theomniview.blogspot.com/2026/09/the-debt-inheritance-liquidity-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "inherited debt",
+          "debt collection rights",
+          "personal finance for heirs"
+        ],
+        "slug": "the-debt-inheritance-liquidity-audit-7-stress-tests-for-your-family-wealth-trans",
+        "published_at": "2026-09-21T20:15:37+00:00",
+        "word_count": 897,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2620328821901784078",
+        "title": "The 'GLP-1' metabolic audit: 7 stress-tests for your long-term cardiovascular health against rapid weight-loss protocols \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-glp-1-metabolic-audit-7-stress.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "latest-news",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Latest News",
+          "GLP-1 side effects",
+          "cardiovascular health",
+          "medical research news"
+        ],
+        "slug": "the-glp-1-metabolic-audit-7-stress-tests-for-your-long-term-cardiovascular-healt",
+        "published_at": "2026-09-21T20:16:28+00:00",
+        "word_count": 809,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
