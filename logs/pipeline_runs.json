@@ -76134,5 +76134,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-09-21T02:01:41.290940",
+    "run_end": "2026-09-21T02:02:41.647688",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6262055461113625631",
+        "title": "The 'Cold-Storage' Inheritance Audit: 7 Stress-Tests for Your Cryptocurrency Portfolio Against Family Access Failure",
+        "url": "https://theomniview.blogspot.com/2026/09/the-cold-storage-inheritance-audit-7.html",
+        "genre": "finance",
+        "topic": "cryptocurrency",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Cryptocurrency",
+          "Explainers",
+          "crypto inheritance planning",
+          "bitcoin estate planning",
+          "cold storage security"
+        ],
+        "slug": "the-cold-storage-inheritance-audit-7-stress-tests-for-your-cryptocurrency-portfo",
+        "published_at": "2026-09-21T02:07:16+00:00",
+        "word_count": 997,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4581765238614988509",
+        "title": "The 'Kitchen-Compute' Resilience Audit: 7 Stress-Tests for Your Smart Appliances Against AI-Driven Ad-Injection",
+        "url": "https://theomniview.blogspot.com/2026/09/the-kitchen-compute-resilience-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Listicles",
+          "smart kitchen security",
+          "ad-free cooking",
+          "smart appliance privacy"
+        ],
+        "slug": "the-kitchen-compute-resilience-audit-7-stress-tests-for-your-smart-appliances-ag",
+        "published_at": "2026-09-21T02:07:40+00:00",
+        "word_count": 715,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
