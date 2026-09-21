@@ -76186,5 +76186,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-21T08:16:56.994373",
+    "run_end": "2026-09-21T08:18:03.577906",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2574836105840537812",
+        "title": "The 'Grid-Sovereignty' Policy Audit: 7 Stress-Tests for Your Local Utility Against AI-Driven Energy Spikes",
+        "url": "https://theomniview.blogspot.com/2026/09/the-grid-sovereignty-policy-audit-7.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Explainers",
+          "climate policy",
+          "AI data center energy",
+          "grid resilience"
+        ],
+        "slug": "the-grid-sovereignty-policy-audit-7-stress-tests-for-your-local-utility-against-",
+        "published_at": "2026-09-21T08:22:39+00:00",
+        "word_count": 965,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "2844785938035195668",
+        "title": "The 'Silver-Tsunami' Infrastructure Audit: 7 Stress-Tests for Your Community\u2019s Essential Services Against an Aging Population",
+        "url": "https://theomniview.blogspot.com/2026/09/the-silver-tsunami-infrastructure-audit.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "listicles",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Listicles",
+          "aging population impact",
+          "silver tsunami",
+          "municipal infrastructure"
+        ],
+        "slug": "the-silver-tsunami-infrastructure-audit-7-stress-tests-for-your-communitys-essen",
+        "published_at": "2026-09-21T08:23:03+00:00",
+        "word_count": 876,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
