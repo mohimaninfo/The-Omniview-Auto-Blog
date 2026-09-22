@@ -64506,5 +64506,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "972240413308424659",
+    "title": "The 'Shadow-Patch' Vulnerability Audit: 7 Stress-Tests for Your Enterprise Supply Chain Against Silent Firmware Backdoors \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-shadow-patch-vulnerability-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Latest News",
+      "firmware security",
+      "supply chain vulnerability",
+      "cybersecurity audit"
+    ],
+    "slug": "the-shadow-patch-vulnerability-audit-7-stress-tests-for-your-enterprise-supply-c",
+    "published_at": "2026-09-22T08:08:33+00:00",
+    "word_count": 727,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7136562664330515814",
+    "title": "The 'Data-Center' Proximity Audit: 7 Stress-Tests for Your Remote-Work Reliability Against Local Energy Grid Instability",
+    "url": "https://theomniview.blogspot.com/2026/09/the-data-center-proximity-audit-7.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "explainers",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Explainers",
+      "remote-work reliability",
+      "data center energy demand",
+      "home office power grid"
+    ],
+    "slug": "the-data-center-proximity-audit-7-stress-tests-for-your-remote-work-reliability-",
+    "published_at": "2026-09-22T08:09:05+00:00",
+    "word_count": 1021,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
