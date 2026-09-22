@@ -64616,5 +64616,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4400750901177980371",
+    "title": "The 'Joy-Deficit' Resilience Audit: 7 Stress-Tests for Your Mental Health Against Modern Existential Burnout",
+    "url": "https://theomniview.blogspot.com/2026/09/the-joy-deficit-resilience-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "case-studies",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Case Studies",
+      "mental health resilience",
+      "micro-joys",
+      "preventing suicide"
+    ],
+    "slug": "the-joy-deficit-resilience-audit-7-stress-tests-for-your-mental-health-against-m",
+    "published_at": "2026-09-22T20:43:08+00:00",
+    "word_count": 749,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1584730150254339804",
+    "title": "The 'Digital-Nomad' Border Audit: 7 Stress-Tests for Your Smartphone Privacy Against Mandatory ID Scanning",
+    "url": "https://theomniview.blogspot.com/2026/09/the-digital-nomad-border-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "How-To Guides",
+      "travel privacy",
+      "digital nomad security",
+      "smartphone data protection"
+    ],
+    "slug": "the-digital-nomad-border-audit-7-stress-tests-for-your-smartphone-privacy-agains",
+    "published_at": "2026-09-22T20:44:18+00:00",
+    "word_count": 1071,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
