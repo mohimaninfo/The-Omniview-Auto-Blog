@@ -76358,5 +76358,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-22T02:08:01.790430",
+    "run_end": "2026-09-22T02:08:50.670053",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5065517336896599320",
+        "title": "The 'Digital-Legacy' Vault Audit: 7 Stress-Tests for Your Streaming Library Against AI-Generated Actor Deepfakes",
+        "url": "https://theomniview.blogspot.com/2026/09/the-digital-legacy-vault-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "listicles",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Listicles",
+          "streaming library",
+          "AI deepfakes",
+          "digital ownership"
+        ],
+        "slug": "the-digital-legacy-vault-audit-7-stress-tests-for-your-streaming-library-against",
+        "published_at": "2026-09-22T02:13:26+00:00",
+        "word_count": 801,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "1972725562820116446",
+        "title": "The 'analog-anchor' classroom audit: 7 stress-tests for your student\u2019s handwriting retention against mandatory digital-first curricula",
+        "url": "https://theomniview.blogspot.com/2026/09/the-analog-anchor-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "how-to-guides",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "How-To Guides",
+          "handwriting retention",
+          "cognitive development",
+          "k12 digital literacy"
+        ],
+        "slug": "the-analog-anchor-classroom-audit-7-stress-tests-for-your-students-handwriting-r",
+        "published_at": "2026-09-22T02:13:50+00:00",
+        "word_count": 856,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
