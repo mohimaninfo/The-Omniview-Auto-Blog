@@ -76462,5 +76462,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-22T13:09:29.714164",
+    "run_end": "2026-09-22T13:10:54.584984",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1068912547483743187",
+        "title": "The 'algorithmic-exile' labor audit: 7 stress-tests for your gig-economy income against sudden platform de-platforming",
+        "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-exile-labor-audit-7.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Opinion & Analysis",
+          "gig economy inequality",
+          "algorithmic management",
+          "digital labor rights"
+        ],
+        "slug": "the-algorithmic-exile-labor-audit-7-stress-tests-for-your-gig-economy-income-aga",
+        "published_at": "2026-09-22T13:15:02+00:00",
+        "word_count": 1065,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4971645360135049181",
+        "title": "The 'Human-in-the-Loop' Management Audit: 7 Stress-Tests for Your Leadership Style Against Autonomous Agent Drift",
+        "url": "https://theomniview.blogspot.com/2026/09/the-human-in-loop-management-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "AI leadership",
+          "autonomous agents",
+          "management strategy"
+        ],
+        "slug": "the-human-in-the-loop-management-audit-7-stress-tests-for-your-leadership-style-",
+        "published_at": "2026-09-22T13:15:53+00:00",
+        "word_count": 933,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
