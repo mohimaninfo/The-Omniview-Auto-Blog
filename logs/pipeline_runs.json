@@ -76756,5 +76756,21 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-23T13:55:13.525717",
+    "run_end": "2026-09-23T13:56:16.263451",
+    "posts_attempted": 2,
+    "posts_succeeded": 0,
+    "results": [
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 1
+      },
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 2
+      }
+    ]
   }
 ]
