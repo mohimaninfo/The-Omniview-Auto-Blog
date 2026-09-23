@@ -64748,5 +64748,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "5914482263266945158",
+    "title": "The 'biometric-border' transit audit: 7 stress-tests for your travel privacy against mandatory facial recognition at airports",
+    "url": "https://theomniview.blogspot.com/2026/09/the-biometric-border-transit-audit-7.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "case-studies",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Case Studies",
+      "travel privacy",
+      "facial recognition airports",
+      "digital identity protection"
+    ],
+    "slug": "the-biometric-border-transit-audit-7-stress-tests-for-your-travel-privacy-agains",
+    "published_at": "2026-09-23T08:07:50+00:00",
+    "word_count": 768,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6256977688732307926",
+    "title": "The 'save-scum' persistence audit: 7 stress-tests for your gaming legacy against the rise of 'always-online' single-player DRM",
+    "url": "https://theomniview.blogspot.com/2026/09/the-save-scum-persistence-audit-7.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Listicles",
+      "gaming preservation",
+      "DRM issues",
+      "single-player gaming"
+    ],
+    "slug": "the-save-scum-persistence-audit-7-stress-tests-for-your-gaming-legacy-against-th",
+    "published_at": "2026-09-23T08:08:21+00:00",
+    "word_count": 763,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
