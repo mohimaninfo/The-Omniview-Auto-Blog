@@ -64792,5 +64792,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1130965841579804782",
+    "title": "The 'micro-joy' restoration audit: 7 stress-tests for your mental health against chronic existential burnout",
+    "url": "https://theomniview.blogspot.com/2026/09/the-micro-joy-restoration-audit-7.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "research-articles",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "Research Articles",
+      "mental health strategies",
+      "suicide prevention",
+      "existential burnout"
+    ],
+    "slug": "the-micro-joy-restoration-audit-7-stress-tests-for-your-mental-health-against-ch",
+    "published_at": "2026-09-23T18:08:58+00:00",
+    "word_count": 1140,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "9200149591315804526",
+    "title": "The 'Bricked-Appliance' Robotics Audit: 7 Stress-Tests for Your Smart Home Against Forced Firmware Obsolescence",
+    "url": "https://theomniview.blogspot.com/2026/09/the-bricked-appliance-robotics-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Case Studies",
+      "smart home robotics",
+      "planned obsolescence",
+      "firmware security"
+    ],
+    "slug": "the-bricked-appliance-robotics-audit-7-stress-tests-for-your-smart-home-against-",
+    "published_at": "2026-09-23T18:10:25+00:00",
+    "word_count": 743,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
