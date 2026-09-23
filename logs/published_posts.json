@@ -64704,5 +64704,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1489036914152432283",
+    "title": "The 'synthetic-persona' trust audit: 7 stress-tests for your brand\u2019s influencer partnerships against ai-generated astroturfing",
+    "url": "https://theomniview.blogspot.com/2026/09/the-synthetic-persona-trust-audit-7.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "Opinion & Analysis",
+      "influencer marketing",
+      "AI-generated content",
+      "brand trust"
+    ],
+    "slug": "the-synthetic-persona-trust-audit-7-stress-tests-for-your-brands-influencer-part",
+    "published_at": "2026-09-23T02:12:54+00:00",
+    "word_count": 934,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8136254736428747419",
+    "title": "The 'context-window' retention audit: 7 stress-tests for your long-term project planning against LLM memory degradation \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-context-window-retention-audit-7_01505550482.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Opinion & Analysis",
+      "LLM memory degradation",
+      "AI project management",
+      "context window limits"
+    ],
+    "slug": "the-context-window-retention-audit-7-stress-tests-for-your-long-term-project-pla",
+    "published_at": "2026-09-23T02:13:32+00:00",
+    "word_count": 1029,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
