@@ -77082,5 +77082,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-24T22:47:14.342687",
+    "run_end": "2026-09-24T22:48:57.803215",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5933370837555247440",
+        "title": "the 'credential-collapse' career audit: 7 stress-tests for your industry certification against AI-driven skill devaluation",
+        "url": "https://theomniview.blogspot.com/2026/09/the-credential-collapse-career-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "career longevity",
+          "skill devaluation",
+          "professional certification"
+        ],
+        "slug": "the-credential-collapse-career-audit-7-stress-tests-for-your-industry-certificat",
+        "published_at": "2026-09-24T22:53:09+00:00",
+        "word_count": 887,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8476506643660067546",
+        "title": "The 'employer-trust' payroll audit: 7 stress-tests for your 401k account against phantom contributions",
+        "url": "https://theomniview.blogspot.com/2026/09/the-employer-trust-payroll-audit-7.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Listicles",
+          "401k contribution verification",
+          "payroll deduction fraud",
+          "employer 401k audit"
+        ],
+        "slug": "the-employer-trust-payroll-audit-7-stress-tests-for-your-401k-account-against-ph",
+        "published_at": "2026-09-24T22:53:57+00:00",
+        "word_count": 857,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
