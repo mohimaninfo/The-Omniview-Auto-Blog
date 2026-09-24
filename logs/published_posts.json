@@ -64902,5 +64902,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "3143454818820111262",
+    "title": "The 'Degree-Inflation' Enrollment Audit: 7 Stress-Tests for Your University\u2019s Reputation Against AI-Driven Credential Devaluation",
+    "url": "https://theomniview.blogspot.com/2026/09/the-degree-inflation-enrollment-audit-7.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Opinion & Analysis",
+      "higher-education",
+      "degree-inflation",
+      "academic-integrity"
+    ],
+    "slug": "the-degree-inflation-enrollment-audit-7-stress-tests-for-your-universitys-reputa",
+    "published_at": "2026-09-24T05:41:46+00:00",
+    "word_count": 940,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3159828011126394465",
+    "title": "The 'human-latency' career audit: 7 stress-tests for your professional value against the rise of 24/7 AI agent collaboration",
+    "url": "https://theomniview.blogspot.com/2026/09/the-human-latency-career-audit-7-stress.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Opinion & Analysis",
+      "career longevity",
+      "AI agent collaboration",
+      "human latency"
+    ],
+    "slug": "the-human-latency-career-audit-7-stress-tests-for-your-professional-value-agains",
+    "published_at": "2026-09-24T05:42:33+00:00",
+    "word_count": 728,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
