@@ -76858,5 +76858,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-09-24T00:04:44.934743",
+    "run_end": "2026-09-24T00:06:09.288334",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3911548439774440924",
+        "title": "The 'Joy-Anchor' Suicide Prevention Audit: 7 Stress-Tests for Your Mental Health Against Existential Burnout",
+        "url": "https://theomniview.blogspot.com/2026/09/the-joy-anchor-suicide-prevention-audit.html",
+        "genre": "health",
+        "topic": "mental-health",
+        "layer": "how-to-guides",
+        "labels": [
+          "Health",
+          "Mental Health",
+          "How-To Guides",
+          "suicide prevention",
+          "mental health resilience",
+          "existential burnout"
+        ],
+        "slug": "the-joy-anchor-suicide-prevention-audit-7-stress-tests-for-your-mental-health-ag",
+        "published_at": "2026-09-24T00:10:21+00:00",
+        "word_count": 1102,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7378183460592714431",
+        "title": "The 'pollinator-corridor' connectivity audit: 7 stress-tests for your local biodiversity strategy against fragmented urban expansion",
+        "url": "https://theomniview.blogspot.com/2026/09/the-pollinator-corridor-connectivity.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Explainers",
+          "biodiversity conservation",
+          "pollinator corridors",
+          "urban ecology"
+        ],
+        "slug": "the-pollinator-corridor-connectivity-audit-7-stress-tests-for-your-local-biodive",
+        "published_at": "2026-09-24T00:11:08+00:00",
+        "word_count": 908,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
