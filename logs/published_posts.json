@@ -64990,5 +64990,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "2037089021074599178",
+    "title": "The 'Data-Haven' Travel Audit: 7 Stress-Tests for Your Privacy Against AI-Driven Surveillance at International Borders",
+    "url": "https://theomniview.blogspot.com/2026/09/the-data-haven-travel-audit-7-stress.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "listicles",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Listicles",
+      "travel privacy",
+      "digital security for travelers",
+      "border surveillance"
+    ],
+    "slug": "the-data-haven-travel-audit-7-stress-tests-for-your-privacy-against-ai-driven-su",
+    "published_at": "2026-09-24T19:40:22+00:00",
+    "word_count": 911,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "1084923297736784099",
+    "title": "The 'supply-chain' hunger audit: 7 stress-tests for your local food security against global UN aid cuts",
+    "url": "https://theomniview.blogspot.com/2026/09/the-supply-chain-hunger-audit-7-stress.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Case Studies",
+      "food security",
+      "global hunger crisis",
+      "food deserts"
+    ],
+    "slug": "the-supply-chain-hunger-audit-7-stress-tests-for-your-local-food-security-agains",
+    "published_at": "2026-09-24T19:41:21+00:00",
+    "word_count": 801,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
