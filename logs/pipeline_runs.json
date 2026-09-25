@@ -77342,5 +77342,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-09-25T19:38:32.876668",
+    "run_end": "2026-09-25T19:41:23.066932",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4793203485440793958",
+        "title": "The 'Smart-Kitchen' Latency Audit: 7 Stress-Tests for Your Connected Oven Against AI-Driven Ad-Injection",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-kitchen-latency-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen appliances",
+          "connected cooking privacy",
+          "ad-free cooking"
+        ],
+        "slug": "the-smart-kitchen-latency-audit-7-stress-tests-for-your-connected-oven-against-a",
+        "published_at": "2026-09-25T19:45:39+00:00",
+        "word_count": 1049,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4798568081589611628",
+        "title": "The 'smart-pantry' surveillance audit: 7 stress-tests for your kitchen privacy against ai-driven predictive restocking \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-smart-pantry-surveillance-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "smart kitchen privacy",
+          "ai cooking apps",
+          "data-driven grocery shopping"
+        ],
+        "slug": "the-smart-pantry-surveillance-audit-7-stress-tests-for-your-kitchen-privacy-agai",
+        "published_at": "2026-09-25T19:46:21+00:00",
+        "word_count": 944,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
