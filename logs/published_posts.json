@@ -65078,5 +65078,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "5578665375561183511",
+    "title": "the 'campus-surveillance' privacy audit: 7 stress-tests for your school\u2019s safety protocol against flock-style camera data-harvesting",
+    "url": "https://theomniview.blogspot.com/2026/09/the-campus-surveillance-privacy-audit-7.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Opinion & Analysis",
+      "k12 school safety",
+      "student privacy",
+      "flock camera systems"
+    ],
+    "slug": "the-campus-surveillance-privacy-audit-7-stress-tests-for-your-schools-safety-pro",
+    "published_at": "2026-09-25T01:04:28+00:00",
+    "word_count": 981,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5315721598797758318",
+    "title": "The 'algorithmic-tenancy' eviction audit: 7 stress-tests for your housing stability against automated landlord-tenant scoring",
+    "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-tenancy-eviction-audit.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "case-studies",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Case Studies",
+      "tenant screening algorithms",
+      "housing inequality",
+      "automated eviction"
+    ],
+    "slug": "the-algorithmic-tenancy-eviction-audit-7-stress-tests-for-your-housing-stability",
+    "published_at": "2026-09-25T01:04:50+00:00",
+    "word_count": 869,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
