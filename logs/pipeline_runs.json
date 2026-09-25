@@ -77238,5 +77238,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-25T10:42:19.888560",
+    "run_end": "2026-09-25T10:45:12.465371",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3555162722667039243",
+        "title": "The 'Young-Stroke' Prevention Audit: 7 Stress-Tests for Your Fitness Routine Against Modern Cardiovascular Risks",
+        "url": "https://theomniview.blogspot.com/2026/09/the-young-stroke-prevention-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Listicles",
+          "stroke prevention for young adults",
+          "fitness routine audit",
+          "cardiovascular health"
+        ],
+        "slug": "the-young-stroke-prevention-audit-7-stress-tests-for-your-fitness-routine-agains",
+        "published_at": "2026-09-25T10:48:01+00:00",
+        "word_count": 791,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7517880174756234322",
+        "title": "The 'Digital-Sovereignty' Nomad Audit: 7 Stress-Tests for Your Privacy Against Mandatory Biometric Border Control",
+        "url": "https://theomniview.blogspot.com/2026/09/the-digital-sovereignty-nomad-audit-7.html",
+        "genre": "society",
+        "topic": "social-trends",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Social Trends",
+          "Explainers",
+          "digital nomad privacy",
+          "biometric border control",
+          "data sovereignty"
+        ],
+        "slug": "the-digital-sovereignty-nomad-audit-7-stress-tests-for-your-privacy-against-mand",
+        "published_at": "2026-09-25T10:50:11+00:00",
+        "word_count": 1089,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
