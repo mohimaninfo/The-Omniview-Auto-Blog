@@ -65210,5 +65210,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "3767461541423440764",
+    "title": "The 'Bulk-Scan' Circularity Audit: 7 Stress-Tests for Your Local Library\u2019s Preservation Strategy Against AI-Driven Book Shredding",
+    "url": "https://theomniview.blogspot.com/2026/09/the-bulk-scan-circularity-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Explainers",
+      "circular economy",
+      "book preservation",
+      "AI data scraping"
+    ],
+    "slug": "the-bulk-scan-circularity-audit-7-stress-tests-for-your-local-librarys-preservat",
+    "published_at": "2026-09-25T15:43:22+00:00",
+    "word_count": 1009,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3967735148379963440",
+    "title": "The 'Linux-Migration' Desktop Audit: 7 Stress-Tests for Your Enterprise Workflow Against Forced Windows Updates",
+    "url": "https://theomniview.blogspot.com/2026/09/the-linux-migration-desktop-audit-7.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Programming",
+      "How-To Guides",
+      "Linux migration",
+      "Windows 11 update issues",
+      "enterprise desktop Linux"
+    ],
+    "slug": "the-linux-migration-desktop-audit-7-stress-tests-for-your-enterprise-workflow-ag",
+    "published_at": "2026-09-25T15:44:18+00:00",
+    "word_count": 976,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 6
   }
 ]
