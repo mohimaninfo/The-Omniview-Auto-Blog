@@ -77186,5 +77186,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-25T05:49:02.839839",
+    "run_end": "2026-09-25T05:50:08.888482",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1722283552495848987",
+        "title": "The 'Code-Deletion' Safety Audit: 7 Stress-Tests for Your CI/CD Pipeline Against Autonomous AI Agent Failures",
+        "url": "https://theomniview.blogspot.com/2026/09/the-code-deletion-safety-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Reviews",
+          "AI coding agents",
+          "CI/CD pipeline security",
+          "autonomous software development"
+        ],
+        "slug": "the-code-deletion-safety-audit-7-stress-tests-for-your-cicd-pipeline-against-aut",
+        "published_at": "2026-09-25T05:54:26+00:00",
+        "word_count": 580,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8404246970683688194",
+        "title": "The 'Inference-Cost' Profitability Audit: 7 Stress-Tests for Your SaaS Margins Against LLM Token Inflation \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-inference-cost-profitability-audit.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Research Articles",
+          "AI cost optimization",
+          "LLM inference costs",
+          "SaaS profitability metrics"
+        ],
+        "slug": "the-inference-cost-profitability-audit-7-stress-tests-for-your-saas-margins-agai",
+        "published_at": "2026-09-25T05:55:08+00:00",
+        "word_count": 919,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
