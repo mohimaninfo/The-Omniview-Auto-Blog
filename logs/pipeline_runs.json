@@ -77654,5 +77654,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-26T18:46:36.564789",
+    "run_end": "2026-09-26T18:47:27.085674",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8287962181686035666",
+        "title": "The 'Neuro-Inflammation' Midlife Audit: 7 Stress-Tests for Your Brain Health Against Visceral Fat Markers",
+        "url": "https://theomniview.blogspot.com/2026/09/the-neuro-inflammation-midlife-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Research Articles",
+          "neuro-inflammation",
+          "visceral fat",
+          "Alzheimer's prevention"
+        ],
+        "slug": "the-neuro-inflammation-midlife-audit-7-stress-tests-for-your-brain-health-agains",
+        "published_at": "2026-09-26T18:52:02+00:00",
+        "word_count": 1005,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5047765195436457601",
+        "title": "The 'Ad-Tier' Fatigue Audit: 7 Stress-Tests for Your Streaming Budget Against Rising Subscription Costs",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ad-tier-fatigue-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Latest News",
+          "streaming subscription costs",
+          "ad-supported streaming",
+          "cord cutting"
+        ],
+        "slug": "the-ad-tier-fatigue-audit-7-stress-tests-for-your-streaming-budget-against-risin",
+        "published_at": "2026-09-26T18:52:25+00:00",
+        "word_count": 807,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
