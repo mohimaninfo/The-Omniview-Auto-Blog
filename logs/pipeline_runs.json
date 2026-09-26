@@ -77602,5 +77602,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-26T15:14:24.336674",
+    "run_end": "2026-09-26T15:16:25.293797",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4554022172099523023",
+        "title": "The 'Digital-Sovereignty' Border Audit: 7 Stress-Tests for Your Smartphone Privacy Against Mandatory Biometric ID Scanning \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-digital-sovereignty-border-audit-7_02040322827.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "research-articles",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Research Articles",
+          "digital sovereignty",
+          "biometric privacy",
+          "border surveillance"
+        ],
+        "slug": "the-digital-sovereignty-border-audit-7-stress-tests-for-your-smartphone-privacy-",
+        "published_at": "2026-09-26T15:20:41+00:00",
+        "word_count": 1069,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4884793570677640818",
+        "title": "The 'Ultra-Processed' Longevity Audit: 7 Stress-Tests for Your Cognitive Health Against Modern Dietary Triggers",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ultra-processed-longevity-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "ultra-processed foods",
+          "cognitive health",
+          "neuro-inflammation"
+        ],
+        "slug": "the-ultra-processed-longevity-audit-7-stress-tests-for-your-cognitive-health-aga",
+        "published_at": "2026-09-26T15:21:24+00:00",
+        "word_count": 900,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
