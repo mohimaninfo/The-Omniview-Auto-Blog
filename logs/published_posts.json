@@ -65562,5 +65562,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1625020270700842236",
+    "title": "The 'proof-of-human' hiring audit: 7 stress-tests for your resume against AI-generated candidate spoofing \u2014 A Listicles Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-proof-of-human-hiring-audit-7.html",
+    "genre": "education",
+    "topic": "skills-careers",
+    "layer": "listicles",
+    "labels": [
+      "Education",
+      "Skills & Careers",
+      "Listicles",
+      "AI hiring trends",
+      "resume optimization",
+      "job search strategy"
+    ],
+    "slug": "the-proof-of-human-hiring-audit-7-stress-tests-for-your-resume-against-ai-genera",
+    "published_at": "2026-09-26T21:45:44+00:00",
+    "word_count": 735,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8256481215025009480",
+    "title": "The 'sonic-drift' fidelity audit: 7 stress-tests for your high-fidelity music collection against the rise of lossy cloud-syncing algorithms",
+    "url": "https://theomniview.blogspot.com/2026/09/the-sonic-drift-fidelity-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Opinion & Analysis",
+      "high-fidelity music",
+      "streaming audio quality",
+      "lossless streaming"
+    ],
+    "slug": "the-sonic-drift-fidelity-audit-7-stress-tests-for-your-high-fidelity-music-colle",
+    "published_at": "2026-09-26T21:46:15+00:00",
+    "word_count": 973,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
