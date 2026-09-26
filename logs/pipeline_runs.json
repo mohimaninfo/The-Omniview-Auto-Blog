@@ -77550,5 +77550,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-26T11:54:11.091466",
+    "run_end": "2026-09-26T11:54:56.362233",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3841766373456385371",
+        "title": "The 'Permafrost-Physics' Climate Audit: 7 Stress-Tests for Your Local Water Infrastructure Against Arctic Metal Leaching",
+        "url": "https://theomniview.blogspot.com/2026/09/the-permafrost-physics-climate-audit-7.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "permafrost thawing",
+          "physics of climate change",
+          "acid mine drainage"
+        ],
+        "slug": "the-permafrost-physics-climate-audit-7-stress-tests-for-your-local-water-infrast",
+        "published_at": "2026-09-26T11:59:34+00:00",
+        "word_count": 1104,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "2142403571142990",
+        "title": "The 'human-verification' interview audit: 7 stress-tests for your remote-hiring process against ai-generated video candidates",
+        "url": "https://theomniview.blogspot.com/2026/09/the-human-verification-interview-audit.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "interviews",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Interviews",
+          "ai-generated candidates",
+          "remote hiring security",
+          "deepfake job interviews"
+        ],
+        "slug": "the-human-verification-interview-audit-7-stress-tests-for-your-remote-hiring-pro",
+        "published_at": "2026-09-26T11:59:55+00:00",
+        "word_count": 917,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
