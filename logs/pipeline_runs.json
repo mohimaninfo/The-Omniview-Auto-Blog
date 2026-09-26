@@ -77446,5 +77446,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-26T01:00:57.968776",
+    "run_end": "2026-09-26T01:01:52.034798",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6973733074656984539",
+        "title": "The 'Stroke-Proof' Lifestyle Audit: 7 Stress-Tests for Your Daily Habits Against Rising Cardiovascular Risks in Young Adults",
+        "url": "https://theomniview.blogspot.com/2026/09/the-stroke-proof-lifestyle-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Explainers",
+          "stroke prevention for young adults",
+          "cardiovascular health",
+          "early-onset stroke symptoms"
+        ],
+        "slug": "the-stroke-proof-lifestyle-audit-7-stress-tests-for-your-daily-habits-against-ri",
+        "published_at": "2026-09-26T01:06:22+00:00",
+        "word_count": 1010,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7994441114802101521",
+        "title": "The 'wildlife-surveillance' conservation audit: 7 stress-tests for your local habitat protection against Flock-style camera expansion",
+        "url": "https://theomniview.blogspot.com/2026/09/the-wildlife-surveillance-conservation.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Latest News",
+          "wildlife conservation",
+          "AI surveillance",
+          "habitat fragmentation"
+        ],
+        "slug": "the-wildlife-surveillance-conservation-audit-7-stress-tests-for-your-local-habit",
+        "published_at": "2026-09-26T01:06:51+00:00",
+        "word_count": 699,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
