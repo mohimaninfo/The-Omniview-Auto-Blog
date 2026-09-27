@@ -65826,5 +65826,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "3545364149467084695",
+    "title": "The 'cosmic-shield' radiation audit: 7 stress-tests for your future lunar habitat against eCIRP-linked neuroinflammation",
+    "url": "https://theomniview.blogspot.com/2026/09/the-cosmic-shield-radiation-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Research Articles",
+      "space radiation exposure",
+      "neuroinflammation",
+      "lunar colonization"
+    ],
+    "slug": "the-cosmic-shield-radiation-audit-7-stress-tests-for-your-future-lunar-habitat-a",
+    "published_at": "2026-09-27T21:48:16+00:00",
+    "word_count": 1067,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1260399592404289950",
+    "title": "The 'GLP-1' Kitchen Audit: 7 Stress-Tests for Your Meal Planning Against Rapid Metabolic Shifts",
+    "url": "https://theomniview.blogspot.com/2026/09/the-glp-1-kitchen-audit-7-stress-tests.html",
+    "genre": "lifestyle",
+    "topic": "food-cooking",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Food & Cooking",
+      "Explainers",
+      "GLP-1 meal planning",
+      "metabolic health cooking",
+      "high-protein recipes"
+    ],
+    "slug": "the-glp-1-kitchen-audit-7-stress-tests-for-your-meal-planning-against-rapid-meta",
+    "published_at": "2026-09-27T21:48:45+00:00",
+    "word_count": 1015,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
