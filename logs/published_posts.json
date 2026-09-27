@@ -65782,5 +65782,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "2451833475215949125",
+    "title": "The 'Kill-Switch' Curriculum Audit: 7 Stress-Tests for Your District\u2019s EdTech Stack Against Emergency State-Mandated Shutdowns \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/09/the-kill-switch-curriculum-audit-7_01302323120.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "latest-news",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "Latest News",
+      "K12 edtech security",
+      "digital learning continuity",
+      "school district cybersecurity"
+    ],
+    "slug": "the-kill-switch-curriculum-audit-7-stress-tests-for-your-districts-edtech-stack-",
+    "published_at": "2026-09-27T18:49:26+00:00",
+    "word_count": 856,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4640876853848460193",
+    "title": "The 'Kill-Switch' Liability Audit: 7 Stress-Tests for Your Enterprise AI Stack Against Regulatory Shutdowns",
+    "url": "https://theomniview.blogspot.com/2026/09/the-kill-switch-liability-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Opinion & Analysis",
+      "AI kill-switch",
+      "AI regulatory liability",
+      "enterprise AI security"
+    ],
+    "slug": "the-kill-switch-liability-audit-7-stress-tests-for-your-enterprise-ai-stack-agai",
+    "published_at": "2026-09-27T18:50:04+00:00",
+    "word_count": 759,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
