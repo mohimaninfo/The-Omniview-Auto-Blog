@@ -77914,5 +77914,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-27T14:53:02.348647",
+    "run_end": "2026-09-27T14:53:54.992043",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "630775857805839095",
+        "title": "The 'Agent-Governance' Deployment Audit: 7 Stress-Tests for Your CI/CD Pipeline Against Autonomous AI Agent Hallucinations",
+        "url": "https://theomniview.blogspot.com/2026/09/the-agent-governance-deployment-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Opinion & Analysis",
+          "autonomous AI agents",
+          "CI/CD pipeline security",
+          "AI code generation"
+        ],
+        "slug": "the-agent-governance-deployment-audit-7-stress-tests-for-your-cicd-pipeline-agai",
+        "published_at": "2026-09-27T14:58:25+00:00",
+        "word_count": 891,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6519992797698338789",
+        "title": "The 'proctor-bias' integrity audit: 7 stress-tests for your school\u2019s remote assessment software against algorithmic racial profiling",
+        "url": "https://theomniview.blogspot.com/2026/09/the-proctor-bias-integrity-audit-7_01785880288.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "reviews",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Reviews",
+          "remote proctoring bias",
+          "edtech accessibility",
+          "algorithmic fairness in education"
+        ],
+        "slug": "the-proctor-bias-integrity-audit-7-stress-tests-for-your-schools-remote-assessme",
+        "published_at": "2026-09-27T14:58:54+00:00",
+        "word_count": 586,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
