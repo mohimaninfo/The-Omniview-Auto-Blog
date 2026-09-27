@@ -77862,5 +77862,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-27T09:36:16.010145",
+    "run_end": "2026-09-27T09:38:24.156882",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4460471178710140817",
+        "title": "The 'Digital-Ownership' Preservation Audit: 7 Stress-Tests for Your Gaming Library Against the Rise of Mandatory Kill-Switches",
+        "url": "https://theomniview.blogspot.com/2026/09/the-digital-ownership-preservation.html",
+        "genre": "entertainment",
+        "topic": "pop-culture",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Pop Culture",
+          "Opinion & Analysis",
+          "digital game ownership",
+          "video game preservation",
+          "kill-switch legislation"
+        ],
+        "slug": "the-digital-ownership-preservation-audit-7-stress-tests-for-your-gaming-library-",
+        "published_at": "2026-09-27T09:42:24+00:00",
+        "word_count": 988,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4880714671140556754",
+        "title": "The 'equity-vesting' divorce audit: 7 stress-tests for your startup co-founder agreement against sudden marital dissolution",
+        "url": "https://theomniview.blogspot.com/2026/09/the-equity-vesting-divorce-audit-7.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "interviews",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Interviews",
+          "startup equity",
+          "founder divorce",
+          "co-founder agreement"
+        ],
+        "slug": "the-equity-vesting-divorce-audit-7-stress-tests-for-your-startup-co-founder-agre",
+        "published_at": "2026-09-27T09:43:23+00:00",
+        "word_count": 908,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
