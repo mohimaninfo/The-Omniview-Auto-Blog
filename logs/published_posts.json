@@ -65870,5 +65870,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "723118079444705245",
+    "title": "The 'pension-buyout' liquidity audit: 7 stress-tests for your retirement strategy against the lump-sum temptation",
+    "url": "https://theomniview.blogspot.com/2026/09/the-pension-buyout-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Opinion & Analysis",
+      "pension vs lump sum",
+      "retirement planning",
+      "investing strategies"
+    ],
+    "slug": "the-pension-buyout-liquidity-audit-7-stress-tests-for-your-retirement-strategy-a",
+    "published_at": "2026-09-28T00:10:35+00:00",
+    "word_count": 1031,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "7716505093583926969",
+    "title": "the 'rewilding-infrastructure' resilience audit: 7 stress-tests for your local flood defenses against beaver-led ecosystem restoration",
+    "url": "https://theomniview.blogspot.com/2026/09/the-rewilding-infrastructure-resilience.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "latest-news",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Latest News",
+      "rewilding",
+      "beaver conservation",
+      "flood resilience"
+    ],
+    "slug": "the-rewilding-infrastructure-resilience-audit-7-stress-tests-for-your-local-floo",
+    "published_at": "2026-09-28T00:10:58+00:00",
+    "word_count": 742,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
