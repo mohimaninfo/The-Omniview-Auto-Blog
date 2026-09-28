@@ -78122,5 +78122,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-09-28T06:02:39.389946",
+    "run_end": "2026-09-28T06:05:25.199985",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "9154897896202603227",
+        "title": "The 'ghost-track' authenticity audit: 7 stress-tests for your music streaming library against AI-generated vocal cloning \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ghost-track-authenticity-audit-7.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Reviews",
+          "AI music detection",
+          "music streaming platforms",
+          "vocal deepfakes"
+        ],
+        "slug": "the-ghost-track-authenticity-audit-7-stress-tests-for-your-music-streaming-libra",
+        "published_at": "2026-09-28T06:09:01+00:00",
+        "word_count": 539,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7040944770802083355",
+        "title": "The 'AI-Agent' Enrollment Audit: 7 Stress-Tests for Your University's Admissions Pipeline Against Autonomous Bot Application Floods",
+        "url": "https://theomniview.blogspot.com/2026/09/the-ai-agent-enrollment-audit-7-stress.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Research Articles",
+          "university admissions",
+          "AI agents",
+          "enrollment management"
+        ],
+        "slug": "the-ai-agent-enrollment-audit-7-stress-tests-for-your-universitys-admissions-pip",
+        "published_at": "2026-09-28T06:10:24+00:00",
+        "word_count": 1020,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
