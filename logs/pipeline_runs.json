@@ -78190,5 +78190,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-09-28T20:54:30.911864",
+    "run_end": "2026-09-28T20:56:31.558191",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8748504332681317834",
+        "title": "The 'Digital-Refugee' Sovereignty Audit: 7 Stress-Tests for Your Data Privacy Against State-Level Digital Asset Seizure",
+        "url": "https://theomniview.blogspot.com/2026/09/the-digital-refugee-sovereignty-audit-7.html",
+        "genre": "society",
+        "topic": "culture",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Culture & Arts",
+          "Explainers",
+          "digital sovereignty",
+          "data privacy",
+          "asset seizure"
+        ],
+        "slug": "the-digital-refugee-sovereignty-audit-7-stress-tests-for-your-data-privacy-again",
+        "published_at": "2026-09-28T21:00:37+00:00",
+        "word_count": 1107,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4877279817500854807",
+        "title": "The 'Cognitive-Offload' Classroom Audit: 7 Stress-Tests for Your Student\u2019s Long-Term Retention Against AI-Assisted Homework Tools \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-cognitive-offload-classroom-audit-7.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Research Articles",
+          "learning science",
+          "cognitive offloading",
+          "AI in education"
+        ],
+        "slug": "the-cognitive-offload-classroom-audit-7-stress-tests-for-your-students-long-term",
+        "published_at": "2026-09-28T21:01:31+00:00",
+        "word_count": 1115,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
