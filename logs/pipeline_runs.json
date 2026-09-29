@@ -78242,5 +78242,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-29T00:41:29.656262",
+    "run_end": "2026-09-29T00:42:46.836572",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5758313615478401161",
+        "title": "The 'thermal-sovereignty' data-center audit: 7 stress-tests for your local power grid against AI-driven energy spikes \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-thermal-sovereignty-data-center.html",
+        "genre": "environment",
+        "topic": "climate-policy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Climate Policy",
+          "Research Articles",
+          "data center energy consumption",
+          "climate policy",
+          "grid stability"
+        ],
+        "slug": "the-thermal-sovereignty-data-center-audit-7-stress-tests-for-your-local-power-gr",
+        "published_at": "2026-09-29T00:47:12+00:00",
+        "word_count": 994,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1467028153575463836",
+        "title": "The 'Home-Address' Privacy Audit: 7 Stress-Tests for Your Smart Home Gadgets Against AI-Powered Doxing",
+        "url": "https://theomniview.blogspot.com/2026/09/the-home-address-privacy-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "How-To Guides",
+          "smart home privacy",
+          "data privacy protection",
+          "gadget security"
+        ],
+        "slug": "the-home-address-privacy-audit-7-stress-tests-for-your-smart-home-gadgets-agains",
+        "published_at": "2026-09-29T00:47:46+00:00",
+        "word_count": 1065,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
