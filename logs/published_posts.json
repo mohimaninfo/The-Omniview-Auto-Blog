@@ -66134,5 +66134,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "3180934573699314136",
+    "title": "The 'mortgage-lock' liquidity audit: 7 stress-tests for your retirement portfolio against the 3% interest rate trap",
+    "url": "https://theomniview.blogspot.com/2026/09/the-mortgage-lock-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "investing",
+    "layer": "latest-news",
+    "labels": [
+      "Finance",
+      "Investing",
+      "Latest News",
+      "mortgage interest rate trap",
+      "retirement portfolio strategy",
+      "opportunity cost of debt"
+    ],
+    "slug": "the-mortgage-lock-liquidity-audit-7-stress-tests-for-your-retirement-portfolio-a",
+    "published_at": "2026-09-29T19:03:07+00:00",
+    "word_count": 776,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7322570447101105564",
+    "title": "The 'AI-Ghosting' Relationship Audit: 7 Stress-Tests for Your Digital Dating Profile Against Synthetic Impersonation",
+    "url": "https://theomniview.blogspot.com/2026/09/the-ai-ghosting-relationship-audit-7_011708748.html",
+    "genre": "lifestyle",
+    "topic": "relationships",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Lifestyle",
+      "Relationships",
+      "Opinion & Analysis",
+      "ai dating scams",
+      "digital relationship trust",
+      "synthetic persona detection"
+    ],
+    "slug": "the-ai-ghosting-relationship-audit-7-stress-tests-for-your-digital-dating-profil",
+    "published_at": "2026-09-29T19:03:52+00:00",
+    "word_count": 916,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
