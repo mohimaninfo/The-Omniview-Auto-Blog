@@ -78346,5 +78346,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-29T13:29:57.455169",
+    "run_end": "2026-09-29T13:31:26.223302",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6718565201729825278",
+        "title": "The 'vector-shift' climate audit: 7 stress-tests for your local public health against rapid tick-borne disease expansion",
+        "url": "https://theomniview.blogspot.com/2026/09/the-vector-shift-climate-audit-7-stress.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Research Articles",
+          "Lyme disease expansion",
+          "climate change and health",
+          "tick-borne diseases"
+        ],
+        "slug": "the-vector-shift-climate-audit-7-stress-tests-for-your-local-public-health-again",
+        "published_at": "2026-09-29T13:35:39+00:00",
+        "word_count": 1091,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "6296718329991800266",
+        "title": "The 'Data-Dox' Gaming Audit: 7 Stress-Tests for Your Privacy Against AI-Powered Marketplace Scams",
+        "url": "https://theomniview.blogspot.com/2026/09/the-data-dox-gaming-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "how-to-guides",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "How-To Guides",
+          "gaming privacy",
+          "digital safety for gamers",
+          "preventing AI doxing"
+        ],
+        "slug": "the-data-dox-gaming-audit-7-stress-tests-for-your-privacy-against-ai-powered-mar",
+        "published_at": "2026-09-29T13:36:25+00:00",
+        "word_count": 1069,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
