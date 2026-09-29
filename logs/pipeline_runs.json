@@ -78294,5 +78294,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-29T06:21:02.673751",
+    "run_end": "2026-09-29T06:22:05.494235",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3321940102639306085",
+        "title": "The 'wildlife-surveillance' conservation audit: 7 stress-tests for your local habitat protection against flock-style camera expansion \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/09/the-wildlife-surveillance-conservation_0168699084.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "explainers",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Explainers",
+          "wildlife surveillance",
+          "habitat protection",
+          "conservation technology"
+        ],
+        "slug": "the-wildlife-surveillance-conservation-audit-7-stress-tests-for-your-local-habit",
+        "published_at": "2026-09-29T06:26:33+00:00",
+        "word_count": 947,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8336024750504800811",
+        "title": "The 'flavor-drift' sensory audit: 7 stress-tests for your home cooking against the rise of ultra-processed salt-replacement technology",
+        "url": "https://theomniview.blogspot.com/2026/09/the-flavor-drift-sensory-audit-7-stress.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Explainers",
+          "home cooking",
+          "flavor profile",
+          "ultra-processed foods"
+        ],
+        "slug": "the-flavor-drift-sensory-audit-7-stress-tests-for-your-home-cooking-against-the-",
+        "published_at": "2026-09-29T06:27:04+00:00",
+        "word_count": 1078,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
