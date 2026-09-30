@@ -66222,5 +66222,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6911634197320575779",
+    "title": "The 'Cosmic-Signal' Resilience Audit: 7 Stress-Tests for Your Satellite-Based Internet Against Solar Superstorm Vulnerability",
+    "url": "https://theomniview.blogspot.com/2026/09/the-cosmic-signal-resilience-audit-7.html",
+    "genre": "science",
+    "topic": "space-astronomy",
+    "layer": "explainers",
+    "labels": [
+      "Science",
+      "Space & Astronomy",
+      "Explainers",
+      "solar superstorm",
+      "satellite internet",
+      "space weather"
+    ],
+    "slug": "the-cosmic-signal-resilience-audit-7-stress-tests-for-your-satellite-based-inter",
+    "published_at": "2026-09-30T01:47:50+00:00",
+    "word_count": 906,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 8
+  },
+  {
+    "post_id": "945996534576984753",
+    "title": "The 'Cloud-Rot' Gaming Audit: 7 Stress-Tests for Your Physical Game Collection Against Mandatory Server Sunset Protocols",
+    "url": "https://theomniview.blogspot.com/2026/09/the-cloud-rot-gaming-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "reviews",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Reviews",
+      "physical game preservation",
+      "gaming server sunset",
+      "game ownership rights"
+    ],
+    "slug": "the-cloud-rot-gaming-audit-7-stress-tests-for-your-physical-game-collection-agai",
+    "published_at": "2026-09-30T01:48:30+00:00",
+    "word_count": 621,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
