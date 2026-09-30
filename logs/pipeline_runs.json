@@ -78710,5 +78710,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-09-30T23:16:41.460695",
+    "run_end": "2026-09-30T23:18:21.913634",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8142187496271446621",
+        "title": "The 'dynamic-pantry' inflation audit: 7 stress-tests for your home meal planning against AI-driven grocery surge pricing",
+        "url": "https://theomniview.blogspot.com/2026/09/the-dynamic-pantry-inflation-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Listicles",
+          "grocery inflation",
+          "dynamic pricing",
+          "AI grocery prices"
+        ],
+        "slug": "the-dynamic-pantry-inflation-audit-7-stress-tests-for-your-home-meal-planning-ag",
+        "published_at": "2026-09-30T23:22:34+00:00",
+        "word_count": 877,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "1375240756486860898",
+        "title": "The 'algorithmic-admissions' enrollment audit: 7 stress-tests for your university\u2019s registrar against AI-driven bot application floods",
+        "url": "https://theomniview.blogspot.com/2026/09/the-algorithmic-admissions-enrollment.html",
+        "genre": "education",
+        "topic": "edtech",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "EdTech & Online Learning",
+          "Opinion & Analysis",
+          "university admissions",
+          "AI application spam",
+          "edtech"
+        ],
+        "slug": "the-algorithmic-admissions-enrollment-audit-7-stress-tests-for-your-universitys-",
+        "published_at": "2026-09-30T23:23:21+00:00",
+        "word_count": 914,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
