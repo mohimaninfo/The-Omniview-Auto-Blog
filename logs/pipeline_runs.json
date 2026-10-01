@@ -78830,5 +78830,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-10-01T16:45:07.746171",
+    "run_end": "2026-10-01T16:46:51.583990",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7674200896366299336",
+        "title": "The 'protein-maxxing' recovery audit: 7 stress-tests for your muscle-building supplement regimen against hazardous plastic contaminants",
+        "url": "https://theomniview.blogspot.com/2026/10/the-protein-maxxing-recovery-audit-7.html",
+        "genre": "health",
+        "topic": "fitness",
+        "layer": "reviews",
+        "labels": [
+          "Health",
+          "Fitness & Exercise",
+          "Reviews",
+          "protein powder purity",
+          "proteinmaxxing",
+          "fitness supplement safety"
+        ],
+        "slug": "the-protein-maxxing-recovery-audit-7-stress-tests-for-your-muscle-building-suppl",
+        "published_at": "2026-10-01T16:51:02+00:00",
+        "word_count": 620,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "7817744672974123010",
+        "title": "The 'orbital-debris' cleanup audit: 7 stress-tests for your satellite-based internet against the rising Kessler Syndrome risk \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-orbital-debris-cleanup-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Latest News",
+          "orbital debris",
+          "Kessler Syndrome",
+          "satellite internet"
+        ],
+        "slug": "the-orbital-debris-cleanup-audit-7-stress-tests-for-your-satellite-based-interne",
+        "published_at": "2026-10-01T16:51:51+00:00",
+        "word_count": 783,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
