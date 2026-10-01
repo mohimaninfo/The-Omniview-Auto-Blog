@@ -78796,5 +78796,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-01T09:31:45.714873",
+    "run_end": "2026-10-01T09:33:14.697067",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "post_id": "7315797790108341186",
+        "title": "The 'Water-Footprint' Data-Center Audit: 7 Stress-Tests for Your Local Watershed Against AI-Driven Cooling Demands \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-water-footprint-data-center-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "How-To Guides",
+          "data center water usage",
+          "sustainable living",
+          "watershed conservation"
+        ],
+        "slug": "the-water-footprint-data-center-audit-7-stress-tests-for-your-local-watershed-ag",
+        "published_at": "2026-10-01T09:37:32+00:00",
+        "word_count": 985,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 2
+      }
+    ]
   }
 ]
