@@ -66662,5 +66662,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1418833648387081579",
+    "title": "The 'Energy-Apartheid' Grid Audit: 7 Stress-Tests for Your Local Neighborhood Against AI-Driven Power Rationing",
+    "url": "https://theomniview.blogspot.com/2026/10/the-energy-apartheid-grid-audit-7.html",
+    "genre": "society",
+    "topic": "inequality",
+    "layer": "latest-news",
+    "labels": [
+      "Society",
+      "Inequality & Justice",
+      "Latest News",
+      "energy inequality",
+      "data center power consumption",
+      "grid reliability"
+    ],
+    "slug": "the-energy-apartheid-grid-audit-7-stress-tests-for-your-local-neighborhood-again",
+    "published_at": "2026-10-02T14:21:53+00:00",
+    "word_count": 879,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3150735741518256522",
+    "title": "The 'algorithmic-tenure' audit: 7 stress-tests for your remote-work status against ai-driven performance surveillance",
+    "url": "https://theomniview.blogspot.com/2026/10/the-algorithmic-tenure-audit-7-stress.html",
+    "genre": "business",
+    "topic": "remote-work",
+    "layer": "research-articles",
+    "labels": [
+      "Business",
+      "Remote Work & Future of Work",
+      "Research Articles",
+      "remote-work performance",
+      "ai workplace surveillance",
+      "algorithmic management"
+    ],
+    "slug": "the-algorithmic-tenure-audit-7-stress-tests-for-your-remote-work-status-against-",
+    "published_at": "2026-10-02T14:24:10+00:00",
+    "word_count": 1085,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
