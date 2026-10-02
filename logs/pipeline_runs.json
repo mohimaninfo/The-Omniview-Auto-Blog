@@ -79142,5 +79142,39 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-10-02T23:22:10.173647",
+    "run_end": "2026-10-02T23:27:16.848203",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "post_id": "9123424065855597548",
+        "title": "The 'Dragnet-Data' Liability Audit: 7 Stress-Tests for Your Local Law Enforcement Policy Against Unconstitutional Flock-Style Surveillance",
+        "url": "https://theomniview.blogspot.com/2026/10/the-dragnet-data-liability-audit-7.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "research-articles",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Research Articles",
+          "automated license plate recognition",
+          "mass surveillance",
+          "Flock Safety"
+        ],
+        "slug": "the-dragnet-data-liability-audit-7-stress-tests-for-your-local-law-enforcement-p",
+        "published_at": "2026-10-02T23:29:32+00:00",
+        "word_count": 1048,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 2
+      }
+    ]
   }
 ]
