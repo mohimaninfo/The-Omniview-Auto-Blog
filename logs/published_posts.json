@@ -66706,5 +66706,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1709002873552469042",
+    "title": "the 'equity-lock' divorce audit: 7 stress-tests for your home-equity strategy against volatile housing markets",
+    "url": "https://theomniview.blogspot.com/2026/10/the-equity-lock-divorce-audit-7-stress.html",
+    "genre": "finance",
+    "topic": "economics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Finance",
+      "Economics",
+      "Opinion & Analysis",
+      "home equity divorce",
+      "dividing property assets",
+      "housing market volatility"
+    ],
+    "slug": "the-equity-lock-divorce-audit-7-stress-tests-for-your-home-equity-strategy-again",
+    "published_at": "2026-10-02T19:42:53+00:00",
+    "word_count": 946,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3402090519557874989",
+    "title": "the 'shadow-packet' infiltration audit: 7 stress-tests for your home network security against ai-driven iot botnet hijacking",
+    "url": "https://theomniview.blogspot.com/2026/10/the-shadow-packet-infiltration-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "case-studies",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Case Studies",
+      "home network security",
+      "iot botnet",
+      "cybersecurity audit"
+    ],
+    "slug": "the-shadow-packet-infiltration-audit-7-stress-tests-for-your-home-network-securi",
+    "published_at": "2026-10-02T19:43:32+00:00",
+    "word_count": 654,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
