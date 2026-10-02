@@ -78934,5 +78934,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-02T01:09:36.374149",
+    "run_end": "2026-10-02T01:10:20.651449",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4326167084238144750",
+        "title": "The 'Subscription-Trap' Enrollment Audit: 7 Stress-Tests for Your University\u2019s Financial Aid Portal Against NYC\u2019s New Click-to-Cancel Law",
+        "url": "https://theomniview.blogspot.com/2026/10/the-subscription-trap-enrollment-audit.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Latest News",
+          "higher education compliance",
+          "click-to-cancel law",
+          "university financial aid portals"
+        ],
+        "slug": "the-subscription-trap-enrollment-audit-7-stress-tests-for-your-universitys-finan",
+        "published_at": "2026-10-02T01:14:55+00:00",
+        "word_count": 830,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6067810097839243764",
+        "title": "The 'deepfake-voice' verification audit: 7 stress-tests for your banking security against real-time AI audio spoofing",
+        "url": "https://theomniview.blogspot.com/2026/10/the-deepfake-voice-verification-audit-7.html",
+        "genre": "technology",
+        "topic": "cybersecurity",
+        "layer": "reviews",
+        "labels": [
+          "Technology",
+          "Cybersecurity",
+          "Reviews",
+          "AI voice spoofing",
+          "biometric security",
+          "cybersecurity audit"
+        ],
+        "slug": "the-deepfake-voice-verification-audit-7-stress-tests-for-your-banking-security-a",
+        "published_at": "2026-10-02T01:15:19+00:00",
+        "word_count": 568,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
