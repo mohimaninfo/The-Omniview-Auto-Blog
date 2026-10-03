@@ -79384,5 +79384,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-10-03T21:52:55.691010",
+    "run_end": "2026-10-03T21:55:26.695219",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2736353683582173654",
+        "title": "the 'deepfake-litigation' evidence audit: 7 stress-tests for your legal defense against ai-generated video tampering",
+        "url": "https://theomniview.blogspot.com/2026/10/the-deepfake-litigation-evidence-audit.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "How-To Guides",
+          "ai deepfake detection",
+          "digital evidence verification",
+          "courtroom ai evidence"
+        ],
+        "slug": "the-deepfake-litigation-evidence-audit-7-stress-tests-for-your-legal-defense-aga",
+        "published_at": "2026-10-03T21:59:09+00:00",
+        "word_count": 901,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "1053304367667481660",
+        "title": "The 'kernel-sovereignty' OS audit: 7 stress-tests for your local development environment against forced cloud-dependency",
+        "url": "https://theomniview.blogspot.com/2026/10/the-kernel-sovereignty-os-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Explainers",
+          "Linux desktop development",
+          "local-first software",
+          "data sovereignty"
+        ],
+        "slug": "the-kernel-sovereignty-os-audit-7-stress-tests-for-your-local-development-enviro",
+        "published_at": "2026-10-03T22:00:25+00:00",
+        "word_count": 930,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 6
+      }
+    ]
   }
 ]
