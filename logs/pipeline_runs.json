@@ -79280,5 +79280,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-03T14:01:30.861451",
+    "run_end": "2026-10-03T14:04:37.001816",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2809278308030989788",
+        "title": "The 'Shadow-Governance' Leadership Audit: 7 Stress-Tests for Your Corporate AI Policy Against Unregulated Surveillance Tech",
+        "url": "https://theomniview.blogspot.com/2026/10/the-shadow-governance-leadership-audit.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "corporate surveillance",
+          "AI governance",
+          "workplace privacy"
+        ],
+        "slug": "the-shadow-governance-leadership-audit-7-stress-tests-for-your-corporate-ai-poli",
+        "published_at": "2026-10-03T14:08:39+00:00",
+        "word_count": 900,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "4483482368089364970",
+        "title": "The 'dynamic-royalty' streaming audit: 7 stress-tests for your independent music catalog against AI-driven surge pricing \u2014 A Latest News Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-dynamic-royalty-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Latest News",
+          "music streaming royalties",
+          "AI dynamic pricing",
+          "independent music industry"
+        ],
+        "slug": "the-dynamic-royalty-streaming-audit-7-stress-tests-for-your-independent-music-ca",
+        "published_at": "2026-10-03T14:09:36+00:00",
+        "word_count": 839,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
