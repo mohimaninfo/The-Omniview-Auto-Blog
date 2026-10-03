@@ -66772,5 +66772,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "3788045310250424963",
+    "title": "The 'Herd-Immunity' Paradox: 7 Stress-Tests for Your Community\u2019s Public Health Resilience Against Vaccine Misinformation",
+    "url": "https://theomniview.blogspot.com/2026/10/the-herd-immunity-paradox-7-stress.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Opinion & Analysis",
+      "herd immunity",
+      "public health biology",
+      "vaccine efficacy"
+    ],
+    "slug": "the-herd-immunity-paradox-7-stress-tests-for-your-communitys-public-health-resil",
+    "published_at": "2026-10-03T02:43:02+00:00",
+    "word_count": 882,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "6169678610942498339",
+    "title": "The 'underwater-equity' renovation audit: 7 stress-tests for your home improvement budget against negative housing equity",
+    "url": "https://theomniview.blogspot.com/2026/10/the-underwater-equity-renovation-audit.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "case-studies",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "Case Studies",
+      "negative home equity",
+      "home improvement budget",
+      "underwater mortgage"
+    ],
+    "slug": "the-underwater-equity-renovation-audit-7-stress-tests-for-your-home-improvement-",
+    "published_at": "2026-10-03T02:44:23+00:00",
+    "word_count": 803,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
