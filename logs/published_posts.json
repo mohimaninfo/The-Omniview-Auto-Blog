@@ -66816,5 +66816,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "2669100071667378617",
+    "title": "The 'subscription-exit' compliance audit: 7 stress-tests for your SaaS churn strategy against NYC\u2019s new click-to-cancel law",
+    "url": "https://theomniview.blogspot.com/2026/10/the-subscription-exit-compliance-audit.html",
+    "genre": "business",
+    "topic": "marketing",
+    "layer": "how-to-guides",
+    "labels": [
+      "Business",
+      "Marketing & Growth",
+      "How-To Guides",
+      "click-to-cancel law",
+      "SaaS churn reduction",
+      "subscription management"
+    ],
+    "slug": "the-subscription-exit-compliance-audit-7-stress-tests-for-your-saas-churn-strate",
+    "published_at": "2026-10-03T08:44:29+00:00",
+    "word_count": 1077,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "1532029945313182338",
+    "title": "The 'human-in-the-loop' dexterity audit: 7 stress-tests for your warehouse automation against AI-driven robotic hand failure",
+    "url": "https://theomniview.blogspot.com/2026/10/the-human-in-loop-dexterity-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Explainers",
+      "warehouse automation",
+      "robotic dexterity",
+      "AI-driven robotics"
+    ],
+    "slug": "the-human-in-the-loop-dexterity-audit-7-stress-tests-for-your-warehouse-automati",
+    "published_at": "2026-10-03T08:44:59+00:00",
+    "word_count": 941,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
