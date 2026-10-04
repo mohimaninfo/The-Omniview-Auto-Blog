@@ -79488,5 +79488,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-04T06:29:07.065985",
+    "run_end": "2026-10-04T06:32:02.801747",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "error": "<HttpError 503 when requesting https://blogger.googleapis.com/v3/blogs/1475086792050038552/posts?isDraft=false&fetchImages=false&alt=json returned \"The service is currently unavailable.\". Details: \"[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]\">",
+        "post_index": 1
+      },
+      {
+        "post_id": "146022486688955402",
+        "title": "the 'robotic-surveillance' precinct audit: 7 stress-tests for your city\u2019s public safety budget against autonomous license plate reader expansion",
+        "url": "https://theomniview.blogspot.com/2026/10/the-robotic-surveillance-precinct-audit.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "robotic surveillance",
+          "public safety technology",
+          "autonomous license plate readers"
+        ],
+        "slug": "the-robotic-surveillance-precinct-audit-7-stress-tests-for-your-citys-public-saf",
+        "published_at": "2026-10-04T06:37:02+00:00",
+        "word_count": 757,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
