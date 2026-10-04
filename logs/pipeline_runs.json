@@ -79436,5 +79436,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-10-04T00:11:07.965467",
+    "run_end": "2026-10-04T00:13:20.642877",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1034421176395101251",
+        "title": "The 'algorithmic-tenure' audit: 7 stress-tests for your university\u2019s faculty evaluation process against ai-driven performance surveillance \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-algorithmic-tenure-audit-7-stress_0293530248.html",
+        "genre": "education",
+        "topic": "higher-education",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "Higher Education",
+          "Opinion & Analysis",
+          "faculty evaluation",
+          "higher education AI",
+          "academic tenure"
+        ],
+        "slug": "the-algorithmic-tenure-audit-7-stress-tests-for-your-universitys-faculty-evaluat",
+        "published_at": "2026-10-04T00:17:18+00:00",
+        "word_count": 1047,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "8493132041890484300",
+        "title": "The 'GLP-1' Kitchen Audit: 7 Stress-Tests for Your Meal Planning Against Rapid Metabolic Shifts \u2014 A Listicles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-glp-1-kitchen-audit-7-stress-tests.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Listicles",
+          "GLP-1 meal planning",
+          "cooking for weight loss",
+          "metabolic health recipes"
+        ],
+        "slug": "the-glp-1-kitchen-audit-7-stress-tests-for-your-meal-planning-against-rapid-meta",
+        "published_at": "2026-10-04T00:18:20+00:00",
+        "word_count": 887,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
