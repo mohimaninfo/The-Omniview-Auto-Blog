@@ -79522,5 +79522,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-04T12:54:57.779117",
+    "run_end": "2026-10-04T12:56:02.823947",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6058216720018388216",
+        "title": "The 'Phage-Therapy' Resilience Audit: 7 Stress-Tests for Your Antibiotic Strategy Against Drug-Resistant Bacterial Infections",
+        "url": "https://theomniview.blogspot.com/2026/10/the-phage-therapy-resilience-audit-7.html",
+        "genre": "health",
+        "topic": "medical-research",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Medical Research",
+          "Explainers",
+          "bacteriophage therapy",
+          "drug-resistant bacteria",
+          "antibiotic resistance"
+        ],
+        "slug": "the-phage-therapy-resilience-audit-7-stress-tests-for-your-antibiotic-strategy-a",
+        "published_at": "2026-10-04T13:00:26+00:00",
+        "word_count": 933,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "121018869776303272",
+        "title": "The 'Snap-Gap' Nutrition Audit: 7 Stress-Tests for Your Family\u2019s Dietary Resilience Against Rising SNAP Benefit Cuts",
+        "url": "https://theomniview.blogspot.com/2026/10/the-snap-gap-nutrition-audit-7-stress.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Opinion & Analysis",
+          "SNAP benefit cuts",
+          "nutrient-dense meal planning",
+          "food insecurity nutrition"
+        ],
+        "slug": "the-snap-gap-nutrition-audit-7-stress-tests-for-your-familys-dietary-resilience-",
+        "published_at": "2026-10-04T13:01:02+00:00",
+        "word_count": 891,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
