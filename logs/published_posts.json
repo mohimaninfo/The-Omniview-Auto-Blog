@@ -67146,5 +67146,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1179238507964313890",
+    "title": "The 'biometric-lock' privacy audit: 7 stress-tests for your smartphone\u2019s security against AI-driven forensic bypass",
+    "url": "https://theomniview.blogspot.com/2026/10/the-biometric-lock-privacy-audit-7.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Explainers",
+      "smartphone privacy",
+      "biometric security",
+      "AI forensic tools"
+    ],
+    "slug": "the-biometric-lock-privacy-audit-7-stress-tests-for-your-smartphones-security-ag",
+    "published_at": "2026-10-04T20:40:38+00:00",
+    "word_count": 884,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8432053035353288901",
+    "title": "the 'cobot-collaboration' safety audit: 7 stress-tests for your manufacturing floor against rising human-robot collision risks",
+    "url": "https://theomniview.blogspot.com/2026/10/the-cobot-collaboration-safety-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Opinion & Analysis",
+      "cobot safety",
+      "manufacturing robotics",
+      "human-robot collaboration"
+    ],
+    "slug": "the-cobot-collaboration-safety-audit-7-stress-tests-for-your-manufacturing-floor",
+    "published_at": "2026-10-04T20:41:07+00:00",
+    "word_count": 851,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
