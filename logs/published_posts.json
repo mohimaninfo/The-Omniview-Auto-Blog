@@ -67322,5 +67322,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "8180700609058346915",
+    "title": "The 'AI-Bloat' Deletion Audit: 7 Stress-Tests for Your Mac\u2019s Storage Against Unwanted Apple Intelligence Models",
+    "url": "https://theomniview.blogspot.com/2026/10/the-ai-bloat-deletion-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "Apple Intelligence removal",
+      "macOS storage optimization",
+      "RemoveMacAI"
+    ],
+    "slug": "the-ai-bloat-deletion-audit-7-stress-tests-for-your-macs-storage-against-unwante",
+    "published_at": "2026-10-05T19:00:44+00:00",
+    "word_count": 847,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "9052093974482313050",
+    "title": "The 'Data-Center' Zoning Audit: 7 Stress-Tests for Your Startup\u2019s Real Estate Strategy Against Local NIMBY Backlash",
+    "url": "https://theomniview.blogspot.com/2026/10/the-data-center-zoning-audit-7-stress.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Case Studies",
+      "data center zoning",
+      "startup real estate strategy",
+      "NIMBY backlash"
+    ],
+    "slug": "the-data-center-zoning-audit-7-stress-tests-for-your-startups-real-estate-strate",
+    "published_at": "2026-10-05T19:02:02+00:00",
+    "word_count": 804,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
