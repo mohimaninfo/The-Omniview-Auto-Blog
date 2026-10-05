@@ -79730,5 +79730,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-05T02:42:23.922792",
+    "run_end": "2026-10-05T02:43:47.944909",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8192414007980238580",
+        "title": "The 'plague-readiness' infrastructure audit: 7 stress-tests for your local public health resilience against modern quarantine mandates",
+        "url": "https://theomniview.blogspot.com/2026/10/the-plague-readiness-infrastructure.html",
+        "genre": "society",
+        "topic": "inequality",
+        "layer": "explainers",
+        "labels": [
+          "Society",
+          "Inequality & Justice",
+          "Explainers",
+          "public health resilience",
+          "quarantine mandates",
+          "social inequality"
+        ],
+        "slug": "the-plague-readiness-infrastructure-audit-7-stress-tests-for-your-local-public-h",
+        "published_at": "2026-10-05T02:48:00+00:00",
+        "word_count": 976,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "6333755302956662634",
+        "title": "The 'Data-Center' Binge Audit: 7 Stress-Tests for Your Streaming Habits Against the Environmental Cost of AI-Driven Infrastructure",
+        "url": "https://theomniview.blogspot.com/2026/10/the-data-center-binge-audit-7-stress.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Opinion & Analysis",
+          "streaming environmental impact",
+          "sustainable streaming",
+          "data center water usage"
+        ],
+        "slug": "the-data-center-binge-audit-7-stress-tests-for-your-streaming-habits-against-the",
+        "published_at": "2026-10-05T02:48:47+00:00",
+        "word_count": 843,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
