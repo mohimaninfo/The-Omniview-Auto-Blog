@@ -67278,5 +67278,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "879719339640133668",
+    "title": "The 'Biomimicry' Screen Audit: 7 Stress-Tests for Your Favorite Sci-Fi Blockbusters Against Real-World Data Center Camouflage",
+    "url": "https://theomniview.blogspot.com/2026/10/the-biomimicry-screen-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "film-tv",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Film & TV",
+      "Listicles",
+      "biomimicry in architecture",
+      "data center environmental impact",
+      "sci-fi film tropes"
+    ],
+    "slug": "the-biomimicry-screen-audit-7-stress-tests-for-your-favorite-sci-fi-blockbusters",
+    "published_at": "2026-10-05T09:48:20+00:00",
+    "word_count": 840,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
+  },
+  {
+    "post_id": "8327821299448809397",
+    "title": "The 'Micro-Nutrient' Resilience Audit: 7 Stress-Tests for Your Gut Microbiome Against Drug-Resistant Bacterial Exposure",
+    "url": "https://theomniview.blogspot.com/2026/10/the-micro-nutrient-resilience-audit-7.html",
+    "genre": "health",
+    "topic": "nutrition",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Health",
+      "Nutrition & Diet",
+      "Opinion & Analysis",
+      "gut microbiome health",
+      "drug-resistant bacteria",
+      "nutritional immunity"
+    ],
+    "slug": "the-micro-nutrient-resilience-audit-7-stress-tests-for-your-gut-microbiome-again",
+    "published_at": "2026-10-05T09:48:56+00:00",
+    "word_count": 749,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
