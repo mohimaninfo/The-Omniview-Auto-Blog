@@ -80076,5 +80076,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-10-06T23:24:31.125768",
+    "run_end": "2026-10-06T23:26:08.797522",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7497438831122494846",
+        "title": "The 'Vocal-Fingerprint' Authenticity Audit: 7 Stress-Tests for Your Music Collection Against AI-Generated Deepfake Infiltration",
+        "url": "https://theomniview.blogspot.com/2026/10/the-vocal-fingerprint-authenticity.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "interviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Interviews",
+          "AI music detection",
+          "vocal deepfakes",
+          "music authenticity"
+        ],
+        "slug": "the-vocal-fingerprint-authenticity-audit-7-stress-tests-for-your-music-collectio",
+        "published_at": "2026-10-06T23:30:37+00:00",
+        "word_count": 1003,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2619717106437851682",
+        "title": "The 'Skydance' Consolidation Audit: 7 Stress-Tests for Your Streaming Subscriptions Against the Paramount-Warner Merger",
+        "url": "https://theomniview.blogspot.com/2026/10/the-skydance-consolidation-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Latest News",
+          "Paramount Warner merger",
+          "streaming subscription consolidation",
+          "Skydance media news"
+        ],
+        "slug": "the-skydance-consolidation-audit-7-stress-tests-for-your-streaming-subscriptions",
+        "published_at": "2026-10-06T23:31:08+00:00",
+        "word_count": 807,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
