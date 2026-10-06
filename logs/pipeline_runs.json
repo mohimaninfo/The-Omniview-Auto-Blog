@@ -79886,5 +79886,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-06T00:26:17.225541",
+    "run_end": "2026-10-06T00:29:36.689420",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7981059825119408022",
+        "title": "The 'human-in-the-loop' leadership audit: 7 stress-tests for your management style against AI-driven surge pricing \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-human-in-loop-leadership-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "leadership management",
+          "AI-driven surge pricing",
+          "human-in-the-loop"
+        ],
+        "slug": "the-human-in-the-loop-leadership-audit-7-stress-tests-for-your-management-style-",
+        "published_at": "2026-10-06T00:33:44+00:00",
+        "word_count": 1015,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4379824404073709677",
+        "title": "The 'circadian-orbit' resilience audit: 7 stress-tests for your space-station sleep cycle against microgravity dysregulation",
+        "url": "https://theomniview.blogspot.com/2026/10/the-circadian-orbit-resilience-audit-7.html",
+        "genre": "science",
+        "topic": "space-astronomy",
+        "layer": "listicles",
+        "labels": [
+          "Science",
+          "Space & Astronomy",
+          "Listicles",
+          "circadian rhythm",
+          "space medicine",
+          "astronaut sleep health"
+        ],
+        "slug": "the-circadian-orbit-resilience-audit-7-stress-tests-for-your-space-station-sleep",
+        "published_at": "2026-10-06T00:34:36+00:00",
+        "word_count": 707,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
