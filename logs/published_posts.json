@@ -67608,5 +67608,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "559343535964165859",
+    "title": "The 'Gym-Safety' Playground Audit: 7 Stress-Tests for Your Local Workout Facility Against Hidden Equipment Hazards",
+    "url": "https://theomniview.blogspot.com/2026/10/the-gym-safety-playground-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "reviews",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Reviews",
+      "gym safety inspection",
+      "fitness equipment maintenance",
+      "workout facility hazards"
+    ],
+    "slug": "the-gym-safety-playground-audit-7-stress-tests-for-your-local-workout-facility-a",
+    "published_at": "2026-10-07T10:01:14+00:00",
+    "word_count": 684,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "789275142409486388",
+    "title": "The 'Eco-Latency' Infrastructure Audit: 7 Stress-Tests for Your Local Watershed Against AI-Driven Data Center Cooling Demands",
+    "url": "https://theomniview.blogspot.com/2026/10/the-eco-latency-infrastructure-audit-7.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Research Articles",
+      "AI data center water consumption",
+      "watershed conservation",
+      "sustainable AI infrastructure"
+    ],
+    "slug": "the-eco-latency-infrastructure-audit-7-stress-tests-for-your-local-watershed-aga",
+    "published_at": "2026-10-07T10:02:41+00:00",
+    "word_count": 1243,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
