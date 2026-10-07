@@ -80284,5 +80284,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-07T22:21:44.663942",
+    "run_end": "2026-10-07T22:23:16.979037",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "1359661522175266515",
+        "title": "The 'shadow-manager' delegation audit: 7 stress-tests for your leadership style against autonomous AI agent workflows \u2014 A Interviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-shadow-manager-delegation-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "interviews",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "Interviews",
+          "AI leadership",
+          "autonomous agents",
+          "management delegation"
+        ],
+        "slug": "the-shadow-manager-delegation-audit-7-stress-tests-for-your-leadership-style-aga",
+        "published_at": "2026-10-07T22:27:32+00:00",
+        "word_count": 863,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3850756700978568692",
+        "title": "the 'bandwidth-budget' streaming audit: 7 stress-tests for your home network against ai-driven data center spikes \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-bandwidth-budget-streaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "streaming",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Streaming & Digital Media",
+          "Reviews",
+          "streaming bandwidth",
+          "data caps",
+          "home network optimization"
+        ],
+        "slug": "the-bandwidth-budget-streaming-audit-7-stress-tests-for-your-home-network-agains",
+        "published_at": "2026-10-07T22:28:15+00:00",
+        "word_count": 526,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
