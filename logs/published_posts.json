@@ -67564,5 +67564,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "3432916047529560533",
+    "title": "The 'self-checkout' reversal audit: 7 stress-tests for your ecommerce checkout against the return of human-assisted retail",
+    "url": "https://theomniview.blogspot.com/2026/10/the-self-checkout-reversal-audit-7.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Case Studies",
+      "ecommerce checkout optimization",
+      "retail technology trends",
+      "self-checkout failure"
+    ],
+    "slug": "the-self-checkout-reversal-audit-7-stress-tests-for-your-ecommerce-checkout-agai",
+    "published_at": "2026-10-07T03:06:45+00:00",
+    "word_count": 691,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "5739924189306124004",
+    "title": "The 'autonomous-patrol' liability audit: 7 stress-tests for your local municipality\u2019s robotics procurement against algorithmic speed-trap error",
+    "url": "https://theomniview.blogspot.com/2026/10/the-autonomous-patrol-liability-audit-7.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "research-articles",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Research Articles",
+      "autonomous traffic enforcement",
+      "robotics procurement",
+      "computer vision errors"
+    ],
+    "slug": "the-autonomous-patrol-liability-audit-7-stress-tests-for-your-local-municipality",
+    "published_at": "2026-10-07T03:07:46+00:00",
+    "word_count": 1117,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
