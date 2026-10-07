@@ -30,7 +30,7 @@ QUOTA_STATE_FILE = str(LoggingConfig.QUOTA_STATE)
 
 DAILY_LIMITS = {
     GeminiConfig.PRIMARY_MODEL: GeminiConfig.DAILY_TOKEN_LIMIT,
-    "gemini-3.1-flash-lite": GeminiConfig.DAILY_TOKEN_LIMIT,
+    "gemini-3.5-flash-lite": GeminiConfig.DAILY_TOKEN_LIMIT,
     GeminiConfig.FALLBACK_MODEL: GeminiConfig.DAILY_TOKEN_LIMIT,
     "gemini-3.1-flash-lite": GeminiConfig.DAILY_TOKEN_LIMIT,
 }
