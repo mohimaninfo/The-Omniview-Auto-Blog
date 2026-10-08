@@ -67872,5 +67872,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "526285576843364371",
+    "title": "The 'degree-devaluation' transcript audit: 7 stress-tests for your university\u2019s digital credentials against AI-powered resume fraud",
+    "url": "https://theomniview.blogspot.com/2026/10/the-degree-devaluation-transcript-audit.html",
+    "genre": "education",
+    "topic": "higher-education",
+    "layer": "explainers",
+    "labels": [
+      "Education",
+      "Higher Education",
+      "Explainers",
+      "degree fraud",
+      "digital transcripts",
+      "academic integrity"
+    ],
+    "slug": "the-degree-devaluation-transcript-audit-7-stress-tests-for-your-universitys-digi",
+    "published_at": "2026-10-08T22:40:02+00:00",
+    "word_count": 903,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3383882730802183593",
+    "title": "The 'obsolescence-trap' hardware audit: 7 stress-tests for your enterprise server lifecycle against forced AI-driven decommissioning \u2014 A Explainers Perspective",
+    "url": "https://theomniview.blogspot.com/2026/10/the-obsolescence-trap-hardware-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Explainers",
+      "circular economy",
+      "e-waste reduction",
+      "enterprise hardware lifecycle"
+    ],
+    "slug": "the-obsolescence-trap-hardware-audit-7-stress-tests-for-your-enterprise-server-l",
+    "published_at": "2026-10-08T22:40:59+00:00",
+    "word_count": 974,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 7
   }
 ]
