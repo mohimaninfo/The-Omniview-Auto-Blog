@@ -80336,5 +80336,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-10-08T02:20:05.788091",
+    "run_end": "2026-10-08T02:20:52.083835",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3330294087209217340",
+        "title": "The 'BC200-Pox' neuro-genetic audit: 7 stress-tests for your brain's memory stability against viral-encoded gene reactivation",
+        "url": "https://theomniview.blogspot.com/2026/10/the-bc200-pox-neuro-genetic-audit-7.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Research Articles",
+          "BC200 gene",
+          "neurogenetics",
+          "viral gene transfer"
+        ],
+        "slug": "the-bc200-pox-neuro-genetic-audit-7-stress-tests-for-your-brains-memory-stabilit",
+        "published_at": "2026-10-08T02:25:26+00:00",
+        "word_count": 1042,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4734653208927277798",
+        "title": "the 'synthetic-provenance' verification audit: 7 stress-tests for your intellectual property against AI-driven content scraping",
+        "url": "https://theomniview.blogspot.com/2026/10/the-synthetic-provenance-verification.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "Explainers",
+          "AI content scraping",
+          "intellectual property protection",
+          "synthetic provenance"
+        ],
+        "slug": "the-synthetic-provenance-verification-audit-7-stress-tests-for-your-intellectual",
+        "published_at": "2026-10-08T02:25:51+00:00",
+        "word_count": 975,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
