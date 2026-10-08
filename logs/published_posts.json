@@ -67828,5 +67828,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "1509027534133683197",
+    "title": "The 'Smart-Home' Data Leakage Audit: 7 Stress-Tests for Your IoT Network Against Excessive Telemetry",
+    "url": "https://theomniview.blogspot.com/2026/10/the-smart-home-data-leakage-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "How-To Guides",
+      "smart home privacy",
+      "IoT network security",
+      "data leakage prevention"
+    ],
+    "slug": "the-smart-home-data-leakage-audit-7-stress-tests-for-your-iot-network-against-ex",
+    "published_at": "2026-10-08T17:08:14+00:00",
+    "word_count": 1127,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8715715827197341928",
+    "title": "The 'anti-cheat' hardware audit: 7 stress-tests for your gaming PC against kernel-level surveillance",
+    "url": "https://theomniview.blogspot.com/2026/10/the-anti-cheat-hardware-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "explainers",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Explainers",
+      "kernel-level anti-cheat",
+      "gaming PC security",
+      "privacy in gaming"
+    ],
+    "slug": "the-anti-cheat-hardware-audit-7-stress-tests-for-your-gaming-pc-against-kernel-l",
+    "published_at": "2026-10-08T17:09:25+00:00",
+    "word_count": 922,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
