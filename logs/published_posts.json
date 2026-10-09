@@ -68048,5 +68048,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4340416514095221055",
+    "title": "the 'executive-revolt' contingency audit: 7 stress-tests for your corporate leadership team against a catastrophic ai event",
+    "url": "https://theomniview.blogspot.com/2026/10/the-executive-revolt-contingency-audit.html",
+    "genre": "business",
+    "topic": "leadership",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "Leadership & Management",
+      "Listicles",
+      "corporate leadership",
+      "AI risk management",
+      "AI governance"
+    ],
+    "slug": "the-executive-revolt-contingency-audit-7-stress-tests-for-your-corporate-leaders",
+    "published_at": "2026-10-09T21:27:51+00:00",
+    "word_count": 819,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "910578057679458316",
+    "title": "The 'save-file' corruption audit: 7 stress-tests for your favorite RPGs against cloud-sync latency and data-loss",
+    "url": "https://theomniview.blogspot.com/2026/10/the-save-file-corruption-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "gaming",
+    "layer": "listicles",
+    "labels": [
+      "Entertainment",
+      "Gaming",
+      "Listicles",
+      "game save file corruption",
+      "cloud gaming data loss",
+      "RPG save backup"
+    ],
+    "slug": "the-save-file-corruption-audit-7-stress-tests-for-your-favorite-rpgs-against-clo",
+    "published_at": "2026-10-09T21:28:17+00:00",
+    "word_count": 844,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
