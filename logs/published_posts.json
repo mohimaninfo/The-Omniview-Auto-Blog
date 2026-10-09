@@ -68004,5 +68004,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1327456240303908038",
+    "title": "The 'catastrophic-event' contingency audit: 7 stress-tests for your corporate AI strategy against the looming political revolt",
+    "url": "https://theomniview.blogspot.com/2026/10/the-catastrophic-event-contingency.html",
+    "genre": "technology",
+    "topic": "artificial-intelligence",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Artificial Intelligence",
+      "Opinion & Analysis",
+      "corporate AI strategy",
+      "AI regulatory risk",
+      "AI catastrophe planning"
+    ],
+    "slug": "the-catastrophic-event-contingency-audit-7-stress-tests-for-your-corporate-ai-st",
+    "published_at": "2026-10-09T16:46:00+00:00",
+    "word_count": 831,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "4018885050979597242",
+    "title": "The 'war-blogger' influence audit: 7 stress-tests for your news literacy against state-aligned digital propaganda",
+    "url": "https://theomniview.blogspot.com/2026/10/the-war-blogger-influence-audit-7.html",
+    "genre": "society",
+    "topic": "culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Culture & Arts",
+      "Opinion & Analysis",
+      "war-bloggers",
+      "digital propaganda",
+      "news literacy"
+    ],
+    "slug": "the-war-blogger-influence-audit-7-stress-tests-for-your-news-literacy-against-st",
+    "published_at": "2026-10-09T16:46:51+00:00",
+    "word_count": 929,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
