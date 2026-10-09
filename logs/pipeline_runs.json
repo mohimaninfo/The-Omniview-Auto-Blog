@@ -80596,5 +80596,57 @@
         "reference_count": 6
       }
     ]
+  },
+  {
+    "run_start": "2026-10-09T09:44:10.426998",
+    "run_end": "2026-10-09T09:47:36.744584",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3205808198264646340",
+        "title": "The 'thermal-sovereignty' cooling audit: 7 stress-tests for your home energy footprint against AI-driven data center demand",
+        "url": "https://theomniview.blogspot.com/2026/10/the-thermal-sovereignty-cooling-audit-7.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "listicles",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "Listicles",
+          "sustainable living",
+          "AI environmental impact",
+          "home energy efficiency"
+        ],
+        "slug": "the-thermal-sovereignty-cooling-audit-7-stress-tests-for-your-home-energy-footpr",
+        "published_at": "2026-10-09T09:50:19+00:00",
+        "word_count": 874,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 5
+      },
+      {
+        "post_id": "5276550784636151440",
+        "title": "The 'Deep-Trust' verification audit: 7 stress-tests for your personal reputation against AI-generated impersonation \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-deep-trust-verification-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "Reviews",
+          "AI identity protection",
+          "digital reputation management",
+          "deepfake prevention"
+        ],
+        "slug": "the-deep-trust-verification-audit-7-stress-tests-for-your-personal-reputation-ag",
+        "published_at": "2026-10-09T09:52:35+00:00",
+        "word_count": 489,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
