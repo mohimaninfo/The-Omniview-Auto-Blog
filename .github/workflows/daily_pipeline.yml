@@ -3,7 +3,7 @@ name: Daily Content Pipeline
 on:
   schedule:
   
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
     
   workflow_dispatch:
     inputs:
