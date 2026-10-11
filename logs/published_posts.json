@@ -68136,5 +68136,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 6
+  },
+  {
+    "post_id": "947278573017341883",
+    "title": "The 'bootstrapper-liquidity' audit: 7 stress-tests for your startup\u2019s survival against forced 401(k) withdrawals",
+    "url": "https://theomniview.blogspot.com/2026/10/the-bootstrapper-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "startups",
+    "layer": "interviews",
+    "labels": [
+      "Finance",
+      "Startups & Venture",
+      "Interviews",
+      "startup liquidity",
+      "founder personal finance",
+      "401k withdrawal penalties"
+    ],
+    "slug": "the-bootstrapper-liquidity-audit-7-stress-tests-for-your-startups-survival-again",
+    "published_at": "2026-10-11T04:02:49+00:00",
+    "word_count": 1012,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2729086907233654511",
+    "title": "the 'destination-overtourism' resilience audit: 7 stress-tests for your travel itinerary against local infrastructure collapse \u2014 a explainers perspective",
+    "url": "https://theomniview.blogspot.com/2026/10/the-destination-overtourism-resilience.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "explainers",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "Explainers",
+      "sustainable travel",
+      "overtourism",
+      "ethical tourism"
+    ],
+    "slug": "the-destination-overtourism-resilience-audit-7-stress-tests-for-your-travel-itin",
+    "published_at": "2026-10-11T04:03:29+00:00",
+    "word_count": 1069,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
