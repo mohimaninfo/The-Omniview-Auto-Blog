@@ -80856,5 +80856,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-10-12T04:17:57.256445",
+    "run_end": "2026-10-12T04:21:24.855987",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3733062920763904668",
+        "title": "the 'algorithmic-hiring' bias audit: 7 stress-tests for your career search against ai-driven resume screening",
+        "url": "https://theomniview.blogspot.com/2026/10/the-algorithmic-hiring-bias-audit-7.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "listicles",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Listicles",
+          "ai hiring tools",
+          "resume screening software",
+          "career strategy"
+        ],
+        "slug": "the-algorithmic-hiring-bias-audit-7-stress-tests-for-your-career-search-against-",
+        "published_at": "2026-10-12T04:24:36+00:00",
+        "word_count": 759,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6061555952557452065",
+        "title": "The Physics of Chirality: How Asymmetric Synthesis Explains the Building Blocks of Life",
+        "url": "https://theomniview.blogspot.com/2026/10/the-physics-of-chirality-how-asymmetric.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "chirality in physics",
+          "asymmetric synthesis",
+          "non-linear autocatalysis"
+        ],
+        "slug": "the-physics-of-chirality-how-asymmetric-synthesis-explains-the-building-blocks-o",
+        "published_at": "2026-10-12T04:26:23+00:00",
+        "word_count": 964,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
