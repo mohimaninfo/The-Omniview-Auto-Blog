@@ -80976,5 +80976,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-10-15T03:09:42.534265",
+    "run_end": "2026-10-15T03:10:49.864852",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4859263822497325837",
+        "title": "The 'Bouba-Kiki' Brain Audit: 7 Stress-Tests for Your Sensory Processing Against Cross-Modal Mapping",
+        "url": "https://theomniview.blogspot.com/2026/10/the-bouba-kiki-brain-audit-7-stress.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Explainers",
+          "neuroscience",
+          "cross-modal perception",
+          "bouba-kiki effect"
+        ],
+        "slug": "the-bouba-kiki-brain-audit-7-stress-tests-for-your-sensory-processing-against-cr",
+        "published_at": "2026-10-15T03:15:16+00:00",
+        "word_count": 994,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "1701744279403329748",
+        "title": "The 'Neuro-Inflammation' Menopause Audit: 7 Stress-Tests for Your Cognitive Health Against Ovarian-Driven Protein Shifts",
+        "url": "https://theomniview.blogspot.com/2026/10/the-neuro-inflammation-menopause-audit.html",
+        "genre": "science",
+        "topic": "neuroscience",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Neuroscience",
+          "Research Articles",
+          "neuro-inflammation",
+          "menopause cognitive health",
+          "ovarian protein production"
+        ],
+        "slug": "the-neuro-inflammation-menopause-audit-7-stress-tests-for-your-cognitive-health-",
+        "published_at": "2026-10-15T03:15:49+00:00",
+        "word_count": 948,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
