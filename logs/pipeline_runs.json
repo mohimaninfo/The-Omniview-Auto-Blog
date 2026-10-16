@@ -81028,5 +81028,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-16T03:06:16.548014",
+    "run_end": "2026-10-16T03:06:53.455482",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6588158746484618743",
+        "title": "The 'Data-Center' NIMBY Audit: 7 Stress-Tests for Your Startup\u2019s Location Strategy Against Local Zoning Backlash \u2014 A Case Studies Perspective",
+        "url": "https://theomniview.blogspot.com/2026/10/the-data-center-nimby-audit-7-stress.html",
+        "genre": "business",
+        "topic": "entrepreneurship",
+        "layer": "case-studies",
+        "labels": [
+          "Business",
+          "Entrepreneurship",
+          "Case Studies",
+          "startup location strategy",
+          "data center zoning",
+          "infrastructure capacity planning"
+        ],
+        "slug": "the-data-center-nimby-audit-7-stress-tests-for-your-startups-location-strategy-a",
+        "published_at": "2026-10-16T03:11:33+00:00",
+        "word_count": 786,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4162441834855355296",
+        "title": "The 'V2G' grid-balancing audit: 7 stress-tests for your home EV charger against mandatory utility-led load shedding",
+        "url": "https://theomniview.blogspot.com/2026/10/the-v2g-grid-balancing-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "latest-news",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Latest News",
+          "Vehicle-to-Grid",
+          "V2G technology",
+          "EV charging infrastructure"
+        ],
+        "slug": "the-v2g-grid-balancing-audit-7-stress-tests-for-your-home-ev-charger-against-man",
+        "published_at": "2026-10-16T03:11:52+00:00",
+        "word_count": 719,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
