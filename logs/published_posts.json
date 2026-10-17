@@ -68356,5 +68356,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "7013188893394121503",
+    "title": "The 'Cognitive-Offload' Resilience Audit: 7 Stress-Tests for Your Deep Learning Retention Against AI-Driven Prompt Dependence",
+    "url": "https://theomniview.blogspot.com/2026/10/the-cognitive-offload-resilience-audit.html",
+    "genre": "education",
+    "topic": "learning-science",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "Learning Science",
+      "How-To Guides",
+      "learning science",
+      "cognitive offload",
+      "generative AI in education"
+    ],
+    "slug": "the-cognitive-offload-resilience-audit-7-stress-tests-for-your-deep-learning-ret",
+    "published_at": "2026-10-17T03:03:38+00:00",
+    "word_count": 956,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "6161107061610021522",
+    "title": "the 'ephemeral-identity' compromise audit: 7 stress-tests for your passkey security against ai-driven session hijacking",
+    "url": "https://theomniview.blogspot.com/2026/10/the-ephemeral-identity-compromise-audit.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "how-to-guides",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "How-To Guides",
+      "passkey security",
+      "session hijacking",
+      "cybersecurity audit"
+    ],
+    "slug": "the-ephemeral-identity-compromise-audit-7-stress-tests-for-your-passkey-security",
+    "published_at": "2026-10-17T03:03:59+00:00",
+    "word_count": 971,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
