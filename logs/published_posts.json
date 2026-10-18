@@ -68400,5 +68400,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1631700331208687873",
+    "title": "The 'Data-Center' Drought Audit: 7 Stress-Tests for Your Local Watershed Against AI-Driven Cooling Demands \u2014 A Reviews Perspective",
+    "url": "https://theomniview.blogspot.com/2026/10/the-data-center-drought-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "reviews",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "Reviews",
+      "data center water usage",
+      "sustainable living",
+      "ai environmental impact"
+    ],
+    "slug": "the-data-center-drought-audit-7-stress-tests-for-your-local-watershed-against-ai",
+    "published_at": "2026-10-18T03:06:26+00:00",
+    "word_count": 621,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3054297149897212550",
+    "title": "The 'AI-Proof' Assessment Audit: 7 Stress-Tests for Your K-12 Curriculum Against Large Language Model Cheating",
+    "url": "https://theomniview.blogspot.com/2026/10/the-ai-proof-assessment-audit-7-stress.html",
+    "genre": "education",
+    "topic": "k12",
+    "layer": "how-to-guides",
+    "labels": [
+      "Education",
+      "K-12 Education",
+      "How-To Guides",
+      "K-12 curriculum design",
+      "AI-proof assessments",
+      "academic integrity in schools"
+    ],
+    "slug": "the-ai-proof-assessment-audit-7-stress-tests-for-your-k-12-curriculum-against-la",
+    "published_at": "2026-10-18T03:06:50+00:00",
+    "word_count": 904,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
