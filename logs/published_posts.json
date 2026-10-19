@@ -68444,5 +68444,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4388705873048365164",
+    "title": "The 'ultra-processed' fitness audit: 7 stress-tests for your muscle-recovery diet against industry-funded nutrition science",
+    "url": "https://theomniview.blogspot.com/2026/10/the-ultra-processed-fitness-audit-7.html",
+    "genre": "health",
+    "topic": "fitness",
+    "layer": "reviews",
+    "labels": [
+      "Health",
+      "Fitness & Exercise",
+      "Reviews",
+      "ultra-processed foods",
+      "muscle recovery diet",
+      "fitness nutrition myths"
+    ],
+    "slug": "the-ultra-processed-fitness-audit-7-stress-tests-for-your-muscle-recovery-diet-a",
+    "published_at": "2026-10-19T03:18:58+00:00",
+    "word_count": 592,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "7332561470889668644",
+    "title": "the 'shadow-compute' exfiltration audit: 7 stress-tests for your air-gapped infrastructure against acoustic side-channel attacks \u2014 A Opinion Analysis Perspective",
+    "url": "https://theomniview.blogspot.com/2026/10/the-shadow-compute-exfiltration-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Opinion & Analysis",
+      "acoustic side-channel attacks",
+      "air-gapped security",
+      "data exfiltration"
+    ],
+    "slug": "the-shadow-compute-exfiltration-audit-7-stress-tests-for-your-air-gapped-infrast",
+    "published_at": "2026-10-19T03:19:19+00:00",
+    "word_count": 929,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 2
   }
 ]
