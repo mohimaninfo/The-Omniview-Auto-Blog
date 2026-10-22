@@ -68576,5 +68576,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6754549816349168116",
+    "title": "The 'Windfall-Trap' Liquidity Audit: 7 Stress-Tests for Your Settlement or Inheritance Against Tax and Debt Liability",
+    "url": "https://theomniview.blogspot.com/2026/10/the-windfall-trap-liquidity-audit-7.html",
+    "genre": "finance",
+    "topic": "personal-finance",
+    "layer": "how-to-guides",
+    "labels": [
+      "Finance",
+      "Personal Finance",
+      "How-To Guides",
+      "financial windfall management",
+      "lump sum investment strategy",
+      "inheritance tax planning"
+    ],
+    "slug": "the-windfall-trap-liquidity-audit-7-stress-tests-for-your-settlement-or-inherita",
+    "published_at": "2026-10-22T03:21:46+00:00",
+    "word_count": 1010,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "949172816188545289",
+    "title": "The 'patch-velocity' vulnerability audit: 7 stress-tests for your production PHP environment against the latest critical RCE exploits",
+    "url": "https://theomniview.blogspot.com/2026/10/the-patch-velocity-vulnerability-audit.html",
+    "genre": "technology",
+    "topic": "programming",
+    "layer": "reviews",
+    "labels": [
+      "Technology",
+      "Programming",
+      "Reviews",
+      "PHP vulnerability",
+      "RCE exploit",
+      "production security"
+    ],
+    "slug": "the-patch-velocity-vulnerability-audit-7-stress-tests-for-your-production-php-en",
+    "published_at": "2026-10-22T03:22:41+00:00",
+    "word_count": 525,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
