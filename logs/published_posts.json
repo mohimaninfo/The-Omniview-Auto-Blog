@@ -68620,5 +68620,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3391488168363272348",
+    "title": "The 'Coolant-Crisis' Watershed Audit: 7 Stress-Tests for Your Local Ecosystem Against AI-Driven Data Center Expansion",
+    "url": "https://theomniview.blogspot.com/2026/10/the-coolant-crisis-watershed-audit-7.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Explainers",
+      "data center water consumption",
+      "watershed conservation",
+      "AI infrastructure impact"
+    ],
+    "slug": "the-coolant-crisis-watershed-audit-7-stress-tests-for-your-local-ecosystem-again",
+    "published_at": "2026-10-23T03:26:39+00:00",
+    "word_count": 1068,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5651515896378830384",
+    "title": "the 'offline-navigation' resilience audit: 7 stress-tests for your travel itinerary against satellite-driven blackouts",
+    "url": "https://theomniview.blogspot.com/2026/10/the-offline-navigation-resilience-audit.html",
+    "genre": "lifestyle",
+    "topic": "travel",
+    "layer": "how-to-guides",
+    "labels": [
+      "Lifestyle",
+      "Travel",
+      "How-To Guides",
+      "offline travel navigation",
+      "digital nomad security",
+      "travel risk management"
+    ],
+    "slug": "the-offline-navigation-resilience-audit-7-stress-tests-for-your-travel-itinerary",
+    "published_at": "2026-10-23T03:29:39+00:00",
+    "word_count": 1110,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
