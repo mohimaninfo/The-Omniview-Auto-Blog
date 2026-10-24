@@ -81444,5 +81444,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-24T03:15:01.219313",
+    "run_end": "2026-10-24T03:16:36.995956",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "6838943013929606553",
+        "title": "The 'warhound' ethics audit: 7 stress-tests for your municipal robotics procurement against militarized canine platforms",
+        "url": "https://theomniview.blogspot.com/2026/10/the-warhound-ethics-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Opinion & Analysis",
+          "robotic platforms",
+          "military robotics",
+          "law enforcement technology"
+        ],
+        "slug": "the-warhound-ethics-audit-7-stress-tests-for-your-municipal-robotics-procurement",
+        "published_at": "2026-10-24T03:20:38+00:00",
+        "word_count": 802,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "4913794588459863591",
+        "title": "the 'proctor-gap' integrity audit: 7 stress-tests for your k-12 district\u2019s remote testing policy against ai-driven surveillance bypass",
+        "url": "https://theomniview.blogspot.com/2026/10/the-proctor-gap-integrity-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Opinion & Analysis",
+          "k12 remote proctoring",
+          "ai-assisted cheating",
+          "academic integrity"
+        ],
+        "slug": "the-proctor-gap-integrity-audit-7-stress-tests-for-your-k-12-districts-remote-te",
+        "published_at": "2026-10-24T03:21:36+00:00",
+        "word_count": 891,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
