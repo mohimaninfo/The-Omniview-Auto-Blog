@@ -81496,5 +81496,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-25T03:10:14.468750",
+    "run_end": "2026-10-25T03:11:14.371141",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5514833881078054106",
+        "title": "The 'hardware-cannibalization' audit: 7 stress-tests for your robotics startup against the GPU-for-AI supply chain crisis",
+        "url": "https://theomniview.blogspot.com/2026/10/the-hardware-cannibalization-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Opinion & Analysis",
+          "robotics supply chain",
+          "GPU shortage",
+          "AI hardware"
+        ],
+        "slug": "the-hardware-cannibalization-audit-7-stress-tests-for-your-robotics-startup-agai",
+        "published_at": "2026-10-25T03:15:35+00:00",
+        "word_count": 855,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "7954333273999268353",
+        "title": "The 'synthetic-alpha' volatility audit: 7 stress-tests for your quantitative trading strategy against AI-driven market mimicry",
+        "url": "https://theomniview.blogspot.com/2026/10/the-synthetic-alpha-volatility-audit-7.html",
+        "genre": "finance",
+        "topic": "investing",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Finance",
+          "Investing",
+          "Opinion & Analysis",
+          "quantitative trading",
+          "market volatility",
+          "algorithmic investing"
+        ],
+        "slug": "the-synthetic-alpha-volatility-audit-7-stress-tests-for-your-quantitative-tradin",
+        "published_at": "2026-10-25T03:16:13+00:00",
+        "word_count": 893,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
