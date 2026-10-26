@@ -68752,5 +68752,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "6150172280128814599",
+    "title": "the 'thermal-drain' watershed audit: 7 stress-tests for your local river health against ai-driven data center cooling",
+    "url": "https://theomniview.blogspot.com/2026/10/the-thermal-drain-watershed-audit-7.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "research-articles",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Research Articles",
+      "data center water usage",
+      "freshwater conservation",
+      "ai environmental impact"
+    ],
+    "slug": "the-thermal-drain-watershed-audit-7-stress-tests-for-your-local-river-health-aga",
+    "published_at": "2026-10-26T03:18:58+00:00",
+    "word_count": 1090,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
+  },
+  {
+    "post_id": "5066947704769436093",
+    "title": "The 'circular-chip' salvage audit: 7 stress-tests for your enterprise server lifecycle against AI-driven hardware cannibalization",
+    "url": "https://theomniview.blogspot.com/2026/10/the-circular-chip-salvage-audit-7.html",
+    "genre": "environment",
+    "topic": "circular-economy",
+    "layer": "explainers",
+    "labels": [
+      "Environment",
+      "Circular Economy",
+      "Explainers",
+      "circular economy",
+      "server lifecycle management",
+      "hardware salvage"
+    ],
+    "slug": "the-circular-chip-salvage-audit-7-stress-tests-for-your-enterprise-server-lifecy",
+    "published_at": "2026-10-26T03:19:37+00:00",
+    "word_count": 915,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
