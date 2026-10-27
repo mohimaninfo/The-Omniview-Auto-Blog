@@ -81600,5 +81600,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-10-27T03:40:54.162349",
+    "run_end": "2026-10-27T03:42:26.572152",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "306970089691137208",
+        "title": "The 'Smart-Kitchen' De-bloat Audit: 7 Stress-Tests for Your Connected Appliances Against Forced Cloud-Dependency",
+        "url": "https://theomniview.blogspot.com/2026/10/the-smart-kitchen-de-bloat-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "listicles",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Listicles",
+          "smart kitchen security",
+          "de-bloating appliances",
+          "offline cooking tech"
+        ],
+        "slug": "the-smart-kitchen-de-bloat-audit-7-stress-tests-for-your-connected-appliances-ag",
+        "published_at": "2026-10-27T03:46:43+00:00",
+        "word_count": 828,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7367913946594706549",
+        "title": "The 'Multiverse' Entropy Audit: 7 Stress-Tests for Your Understanding of Reality Against Cosmological Inflation",
+        "url": "https://theomniview.blogspot.com/2026/10/the-multiverse-entropy-audit-7-stress.html",
+        "genre": "science",
+        "topic": "physics",
+        "layer": "explainers",
+        "labels": [
+          "Science",
+          "Physics",
+          "Explainers",
+          "multiverse theory",
+          "quantum decoherence",
+          "cosmological inflation"
+        ],
+        "slug": "the-multiverse-entropy-audit-7-stress-tests-for-your-understanding-of-reality-ag",
+        "published_at": "2026-10-27T03:47:26+00:00",
+        "word_count": 1012,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
