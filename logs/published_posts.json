@@ -68840,5 +68840,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 5
+  },
+  {
+    "post_id": "6176446822558682236",
+    "title": "The 'telerobotic-latency' surgical audit: 7 stress-tests for your hospital\u2019s remote procedure safety against network jitter",
+    "url": "https://theomniview.blogspot.com/2026/10/the-telerobotic-latency-surgical-audit.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Explainers",
+      "telerobotic surgery",
+      "robotic surgery safety",
+      "remote medical procedures"
+    ],
+    "slug": "the-telerobotic-latency-surgical-audit-7-stress-tests-for-your-hospitals-remote-",
+    "published_at": "2026-10-28T04:02:28+00:00",
+    "word_count": 847,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3977892486038457463",
+    "title": "The 'Adaptive-Friction' LMS Audit: 7 Stress-Tests for Your Classroom\u2019s Learning Management System Against AI-Driven Prompt Dependence",
+    "url": "https://theomniview.blogspot.com/2026/10/the-adaptive-friction-lms-audit-7.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "reviews",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Reviews",
+      "LMS software",
+      "adaptive learning technology",
+      "AI in education"
+    ],
+    "slug": "the-adaptive-friction-lms-audit-7-stress-tests-for-your-classrooms-learning-mana",
+    "published_at": "2026-10-28T04:03:00+00:00",
+    "word_count": 644,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
