@@ -81704,5 +81704,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-29T04:20:58.933140",
+    "run_end": "2026-10-29T04:21:43.596124",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "8468205661891161195",
+        "title": "The 'Audiophile-Isolation' Reality Audit: 7 Stress-Tests for Your High-End Music Setup Against $4,700 Network Hub Marketing",
+        "url": "https://theomniview.blogspot.com/2026/10/the-audiophile-isolation-reality-audit.html",
+        "genre": "entertainment",
+        "topic": "music",
+        "layer": "reviews",
+        "labels": [
+          "Entertainment",
+          "Music",
+          "Reviews",
+          "audiophile network hub",
+          "digital audio signal processing",
+          "high-end audio equipment review"
+        ],
+        "slug": "the-audiophile-isolation-reality-audit-7-stress-tests-for-your-high-end-music-se",
+        "published_at": "2026-10-29T04:26:22+00:00",
+        "word_count": 697,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5464646715427411506",
+        "title": "The 'peptide-pantry' safety audit: 7 stress-tests for your biohacking regimen against unregulated peptide supplements",
+        "url": "https://theomniview.blogspot.com/2026/10/the-peptide-pantry-safety-audit-7.html",
+        "genre": "health",
+        "topic": "nutrition",
+        "layer": "listicles",
+        "labels": [
+          "Health",
+          "Nutrition & Diet",
+          "Listicles",
+          "peptide supplements",
+          "biohacking safety",
+          "supplement quality control"
+        ],
+        "slug": "the-peptide-pantry-safety-audit-7-stress-tests-for-your-biohacking-regimen-again",
+        "published_at": "2026-10-29T04:26:42+00:00",
+        "word_count": 896,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
