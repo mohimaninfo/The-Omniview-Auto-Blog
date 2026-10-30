@@ -81756,5 +81756,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-10-30T04:21:08.106957",
+    "run_end": "2026-10-30T04:21:53.269163",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "3048660052040463217",
+        "title": "The 'human-autonomy' employment audit: 7 stress-tests for your remote-work contract against AI-driven religious accommodation claims",
+        "url": "https://theomniview.blogspot.com/2026/10/the-human-autonomy-employment-audit-7.html",
+        "genre": "business",
+        "topic": "remote-work",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Remote Work & Future of Work",
+          "How-To Guides",
+          "remote-work policy",
+          "AI in the workplace",
+          "Title VII religious accommodation"
+        ],
+        "slug": "the-human-autonomy-employment-audit-7-stress-tests-for-your-remote-work-contract",
+        "published_at": "2026-10-30T04:26:31+00:00",
+        "word_count": 1151,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4616248632532691374",
+        "title": "The 'Neuro-Diverse' Inclusion Audit: 7 Stress-Tests for Your Remote Leadership Style Against AI-Driven Sensory Overload",
+        "url": "https://theomniview.blogspot.com/2026/10/the-neuro-diverse-inclusion-audit-7.html",
+        "genre": "business",
+        "topic": "leadership",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Leadership & Management",
+          "How-To Guides",
+          "neurodiversity in the workplace",
+          "inclusive remote leadership",
+          "digital accessibility for leadership"
+        ],
+        "slug": "the-neuro-diverse-inclusion-audit-7-stress-tests-for-your-remote-leadership-styl",
+        "published_at": "2026-10-30T04:26:52+00:00",
+        "word_count": 879,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
