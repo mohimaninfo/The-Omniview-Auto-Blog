@@ -81808,5 +81808,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-10-31T04:00:02.720558",
+    "run_end": "2026-10-31T04:01:54.719935",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "238017723878487740",
+        "title": "The 'DRAM-Hoarding' Ecommerce Audit: 7 Stress-Tests for Your Server Architecture Against AI-Driven Compute Scarcity",
+        "url": "https://theomniview.blogspot.com/2026/10/the-dram-hoarding-ecommerce-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Opinion & Analysis",
+          "ecommerce infrastructure",
+          "server architecture",
+          "DRAM scarcity"
+        ],
+        "slug": "the-dram-hoarding-ecommerce-audit-7-stress-tests-for-your-server-architecture-ag",
+        "published_at": "2026-10-31T04:05:34+00:00",
+        "word_count": 810,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3387020648475298421",
+        "title": "The 'xenobot-plastic' waste audit: 7 stress-tests for your local ecosystem against synthetic biological pollution",
+        "url": "https://theomniview.blogspot.com/2026/10/the-xenobot-plastic-waste-audit-7.html",
+        "genre": "science",
+        "topic": "biology",
+        "layer": "latest-news",
+        "labels": [
+          "Science",
+          "Biology & Life Sciences",
+          "Latest News",
+          "xenobots",
+          "synthetic biology",
+          "environmental bio-pollution"
+        ],
+        "slug": "the-xenobot-plastic-waste-audit-7-stress-tests-for-your-local-ecosystem-against-",
+        "published_at": "2026-10-31T04:06:53+00:00",
+        "word_count": 848,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
