@@ -81894,5 +81894,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-11-02T04:23:19.473301",
+    "run_end": "2026-11-02T04:24:03.236595",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2817239685237787147",
+        "title": "The 'Co-Signer's Liability' Audit: 7 Stress-Tests for Your Credit Score Against a Relative's Mortgage Default",
+        "url": "https://theomniview.blogspot.com/2026/11/the-co-signers-liability-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "personal-finance",
+        "layer": "explainers",
+        "labels": [
+          "Finance",
+          "Personal Finance",
+          "Explainers",
+          "co-signing a mortgage",
+          "financial liability",
+          "credit score protection"
+        ],
+        "slug": "the-co-signers-liability-audit-7-stress-tests-for-your-credit-score-against-a-re",
+        "published_at": "2026-11-02T04:28:44+00:00",
+        "word_count": 974,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "488004561814996823",
+        "title": "The 'virtual-peaker' plant audit: 7 stress-tests for your community\u2019s renewable-energy integration against ai-driven demand spikes",
+        "url": "https://theomniview.blogspot.com/2026/11/the-virtual-peaker-plant-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "renewable-energy",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Environment",
+          "Renewable Energy",
+          "Opinion & Analysis",
+          "virtual power plants",
+          "renewable energy integration",
+          "demand response"
+        ],
+        "slug": "the-virtual-peaker-plant-audit-7-stress-tests-for-your-communitys-renewable-ener",
+        "published_at": "2026-11-02T04:29:02+00:00",
+        "word_count": 932,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
