@@ -82050,5 +82050,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-11-05T05:04:10.318584",
+    "run_end": "2026-11-05T05:04:44.017772",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4613216143539124316",
+        "title": "The 'Doppler-Localizer' Privacy Audit: 7 Stress-Tests for Your Development Workflow Against Audio-Based Geolocation Exploits",
+        "url": "https://theomniview.blogspot.com/2026/11/the-doppler-localizer-privacy-audit-7.html",
+        "genre": "technology",
+        "topic": "programming",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Technology",
+          "Programming",
+          "Opinion & Analysis",
+          "acoustic side-channel attacks",
+          "geolocation privacy",
+          "developer security"
+        ],
+        "slug": "the-doppler-localizer-privacy-audit-7-stress-tests-for-your-development-workflow",
+        "published_at": "2026-11-05T05:09:25+00:00",
+        "word_count": 865,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "7671776739934586062",
+        "title": "The 'Cognitive-Friction' Curriculum Audit: 7 Stress-Tests for Your Study Habits Against AI-Generated Summaries \u2014 A Explainers Perspective",
+        "url": "https://theomniview.blogspot.com/2026/11/the-cognitive-friction-curriculum-audit.html",
+        "genre": "education",
+        "topic": "learning-science",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Learning Science",
+          "Explainers",
+          "learning science",
+          "desirable difficulty",
+          "cognitive load theory"
+        ],
+        "slug": "the-cognitive-friction-curriculum-audit-7-stress-tests-for-your-study-habits-aga",
+        "published_at": "2026-11-05T05:09:43+00:00",
+        "word_count": 1204,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
