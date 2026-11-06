@@ -82102,5 +82102,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-11-06T05:03:58.793856",
+    "run_end": "2026-11-06T05:04:50.613316",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5657608892116845424",
+        "title": "the 'thermal-plume' habitat audit: 7 stress-tests for your local river ecosystem against ai-driven data center cooling \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/11/the-thermal-plume-habitat-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Research Articles",
+          "data center environmental impact",
+          "thermal pollution",
+          "aquatic ecosystem conservation"
+        ],
+        "slug": "the-thermal-plume-habitat-audit-7-stress-tests-for-your-local-river-ecosystem-ag",
+        "published_at": "2026-11-06T05:09:33+00:00",
+        "word_count": 1187,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6397070292222707622",
+        "title": "the 'smart-kitchen' de-bloat audit: 7 stress-tests for your connected appliances against forced cloud-dependency \u2014 A Reviews Perspective",
+        "url": "https://theomniview.blogspot.com/2026/11/the-smart-kitchen-de-bloat-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "food-cooking",
+        "layer": "reviews",
+        "labels": [
+          "Lifestyle",
+          "Food & Cooking",
+          "Reviews",
+          "smart kitchen appliances",
+          "cloud dependency",
+          "connected home security"
+        ],
+        "slug": "the-smart-kitchen-de-bloat-audit-7-stress-tests-for-your-connected-appliances-ag",
+        "published_at": "2026-11-06T05:09:49+00:00",
+        "word_count": 640,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
