@@ -82154,5 +82154,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-11-07T04:37:34.972532",
+    "run_end": "2026-11-07T04:39:01.770783",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2221253034792529926",
+        "title": "The 'Smart-Home' De-Bloat Audit: 7 Stress-Tests for Your Connected Appliances Against Forced Cloud-Dependency \u2014 A How To Guides Perspective",
+        "url": "https://theomniview.blogspot.com/2026/11/the-smart-home-de-bloat-audit-7-stress.html",
+        "genre": "environment",
+        "topic": "sustainable-living",
+        "layer": "how-to-guides",
+        "labels": [
+          "Environment",
+          "Sustainable Living",
+          "How-To Guides",
+          "smart home privacy",
+          "sustainable living",
+          "IoT energy efficiency"
+        ],
+        "slug": "the-smart-home-de-bloat-audit-7-stress-tests-for-your-connected-appliances-again",
+        "published_at": "2026-11-07T04:43:29+00:00",
+        "word_count": 1025,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "4088997453737340560",
+        "title": "The 'cognitive-surrender' classroom audit: 7 stress-tests for your K-12 lesson plans against AI-agent dependency",
+        "url": "https://theomniview.blogspot.com/2026/11/the-cognitive-surrender-classroom-audit.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "latest-news",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Latest News",
+          "cognitive surrender",
+          "AI in K-12 education",
+          "critical thinking skills"
+        ],
+        "slug": "the-cognitive-surrender-classroom-audit-7-stress-tests-for-your-k-12-lesson-plan",
+        "published_at": "2026-11-07T04:44:01+00:00",
+        "word_count": 814,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
