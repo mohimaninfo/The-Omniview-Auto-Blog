@@ -82206,5 +82206,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-11-08T04:25:53.641627",
+    "run_end": "2026-11-08T04:27:35.837359",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "4703433596177707828",
+        "title": "The 'Smart-Grid' Sovereignty Audit: 7 Stress-Tests for Your Home Energy Resilience Against Utility-Led Load Shedding",
+        "url": "https://theomniview.blogspot.com/2026/11/the-smart-grid-sovereignty-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "home-living",
+        "layer": "explainers",
+        "labels": [
+          "Lifestyle",
+          "Home & Living",
+          "Explainers",
+          "home energy resilience",
+          "smart grid load shedding",
+          "energy sovereignty"
+        ],
+        "slug": "the-smart-grid-sovereignty-audit-7-stress-tests-for-your-home-energy-resilience-",
+        "published_at": "2026-11-08T04:32:01+00:00",
+        "word_count": 1012,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3857745279386087012",
+        "title": "The 'Deepfake-CEO' Fraud Audit: 7 Stress-Tests for Your Enterprise Communications Against AI-Driven Impersonation",
+        "url": "https://theomniview.blogspot.com/2026/11/the-deepfake-ceo-fraud-audit-7-stress.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "Reviews",
+          "AI fraud prevention",
+          "enterprise communication security",
+          "deepfake detection"
+        ],
+        "slug": "the-deepfake-ceo-fraud-audit-7-stress-tests-for-your-enterprise-communications-a",
+        "published_at": "2026-11-08T04:32:34+00:00",
+        "word_count": 534,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 5
+      }
+    ]
   }
 ]
