@@ -82258,5 +82258,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-11-09T04:37:59.253724",
+    "run_end": "2026-11-09T04:38:55.978998",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "870750689409539468",
+        "title": "The 'GLP-1' metabolic audit: 7 stress-tests for your weight-loss journey against long-term muscle atrophy",
+        "url": "https://theomniview.blogspot.com/2026/11/the-glp-1-metabolic-audit-7-stress.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "explainers",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Explainers",
+          "GLP-1 side effects",
+          "muscle atrophy prevention",
+          "weight loss injections"
+        ],
+        "slug": "the-glp-1-metabolic-audit-7-stress-tests-for-your-weight-loss-journey-against-lo",
+        "published_at": "2026-11-09T04:43:15+00:00",
+        "word_count": 1050,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "5049483365186044845",
+        "title": "The 'skill-stack' rot audit: 7 stress-tests for your career trajectory against AI-driven talent displacement",
+        "url": "https://theomniview.blogspot.com/2026/11/the-skill-stack-rot-audit-7-stress.html",
+        "genre": "education",
+        "topic": "skills-careers",
+        "layer": "explainers",
+        "labels": [
+          "Education",
+          "Skills & Careers",
+          "Explainers",
+          "career resilience",
+          "future of work",
+          "AI talent displacement"
+        ],
+        "slug": "the-skill-stack-rot-audit-7-stress-tests-for-your-career-trajectory-against-ai-d",
+        "published_at": "2026-11-09T04:43:55+00:00",
+        "word_count": 1101,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
