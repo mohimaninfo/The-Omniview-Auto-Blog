@@ -69390,5 +69390,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "4915958154021044923",
+    "title": "The 'NPC-Performance' audit: 7 stress-tests for your GTA VI immersion against the rise of AI-driven gaming productivity",
+    "url": "https://theomniview.blogspot.com/2026/11/the-npc-performance-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "pop-culture",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Entertainment",
+      "Pop Culture",
+      "Opinion & Analysis",
+      "GTA VI",
+      "AI in gaming",
+      "Rockstar Games"
+    ],
+    "slug": "the-npc-performance-audit-7-stress-tests-for-your-gta-vi-immersion-against-the-r",
+    "published_at": "2026-11-11T04:46:21+00:00",
+    "word_count": 1014,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8504857253739376352",
+    "title": "The 'Sound-Leak' Sovereignty Audit: 7 Stress-Tests for Your Music Metadata Against AI-Driven Deepfake Extraction",
+    "url": "https://theomniview.blogspot.com/2026/11/the-sound-leak-sovereignty-audit-7.html",
+    "genre": "entertainment",
+    "topic": "music",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Music",
+      "Latest News",
+      "AI music deepfakes",
+      "music metadata protection",
+      "vocal cloning security"
+    ],
+    "slug": "the-sound-leak-sovereignty-audit-7-stress-tests-for-your-music-metadata-against-",
+    "published_at": "2026-11-11T04:46:43+00:00",
+    "word_count": 752,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 5
   }
 ]
