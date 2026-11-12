@@ -82378,5 +82378,57 @@
         "reference_count": 5
       }
     ]
+  },
+  {
+    "run_start": "2026-11-12T05:43:37.076383",
+    "run_end": "2026-11-12T05:44:18.611522",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "2335594516507547868",
+        "title": "The 'GPU-Allocation' Gaming Audit: 7 Stress-Tests for Your PC Build Against Nvidia's Data Center Pivot",
+        "url": "https://theomniview.blogspot.com/2026/11/the-gpu-allocation-gaming-audit-7.html",
+        "genre": "entertainment",
+        "topic": "gaming",
+        "layer": "latest-news",
+        "labels": [
+          "Entertainment",
+          "Gaming",
+          "Latest News",
+          "Nvidia GPU shortage",
+          "gaming PC build",
+          "Jensen Huang"
+        ],
+        "slug": "the-gpu-allocation-gaming-audit-7-stress-tests-for-your-pc-build-against-nvidias",
+        "published_at": "2026-11-12T05:48:53+00:00",
+        "word_count": 727,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      },
+      {
+        "post_id": "8087531868194002619",
+        "title": "The 'Right-to-Repair' Hardware Audit: 7 Stress-Tests for Your Gadget Longevity Against Component Serialization",
+        "url": "https://theomniview.blogspot.com/2026/11/the-right-to-repair-hardware-audit-7.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "explainers",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Explainers",
+          "right to repair",
+          "gadget longevity",
+          "parts pairing"
+        ],
+        "slug": "the-right-to-repair-hardware-audit-7-stress-tests-for-your-gadget-longevity-agai",
+        "published_at": "2026-11-12T05:49:18+00:00",
+        "word_count": 979,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
