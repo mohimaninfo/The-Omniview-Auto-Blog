@@ -82430,5 +82430,39 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-11-13T05:00:41.724392",
+    "run_end": "2026-11-13T05:02:20.993476",
+    "posts_attempted": 2,
+    "posts_succeeded": 1,
+    "results": [
+      {
+        "post_id": "306365863146920307",
+        "title": "The 'GPU-Exodus' Hardware Audit: 7 Stress-Tests for Your Gaming PC Against the Post-Jensen NVIDIA Pivot",
+        "url": "https://theomniview.blogspot.com/2026/11/the-gpu-exodus-hardware-audit-7-stress.html",
+        "genre": "technology",
+        "topic": "gadgets",
+        "layer": "latest-news",
+        "labels": [
+          "Technology",
+          "Gadgets & Hardware",
+          "Latest News",
+          "NVIDIA GPU shortage",
+          "gaming PC hardware",
+          "GeForce scarcity"
+        ],
+        "slug": "the-gpu-exodus-hardware-audit-7-stress-tests-for-your-gaming-pc-against-the-post",
+        "published_at": "2026-11-13T05:06:26+00:00",
+        "word_count": 718,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "error": "Gemini request failed after 3 attempts: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "post_index": 2
+      }
+    ]
   }
 ]
