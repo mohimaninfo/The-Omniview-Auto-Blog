@@ -82464,5 +82464,57 @@
         "post_index": 2
       }
     ]
+  },
+  {
+    "run_start": "2026-11-14T04:53:54.683518",
+    "run_end": "2026-11-14T04:57:44.481847",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7109519721054362806",
+        "title": "The 'fail-safe' redundancy audit: 7 stress-tests for your marketing stack against cloud-infrastructure outages",
+        "url": "https://theomniview.blogspot.com/2026/11/the-fail-safe-redundancy-audit-7-stress.html",
+        "genre": "business",
+        "topic": "marketing",
+        "layer": "how-to-guides",
+        "labels": [
+          "Business",
+          "Marketing & Growth",
+          "How-To Guides",
+          "marketing stack resilience",
+          "cloud infrastructure outage",
+          "marketing operations"
+        ],
+        "slug": "the-fail-safe-redundancy-audit-7-stress-tests-for-your-marketing-stack-against-c",
+        "published_at": "2026-11-14T05:00:33+00:00",
+        "word_count": 1107,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "6684862052430006432",
+        "title": "The 'Air-Traffic' Resilience Audit: 7 Stress-Tests for Your Robotics Fleet Against AI-Driven Ground Stops",
+        "url": "https://theomniview.blogspot.com/2026/11/the-air-traffic-resilience-audit-7.html",
+        "genre": "technology",
+        "topic": "robotics",
+        "layer": "case-studies",
+        "labels": [
+          "Technology",
+          "Robotics",
+          "Case Studies",
+          "robotics fleet management",
+          "autonomous systems resilience",
+          "AI air traffic control"
+        ],
+        "slug": "the-air-traffic-resilience-audit-7-stress-tests-for-your-robotics-fleet-against-",
+        "published_at": "2026-11-14T05:02:44+00:00",
+        "word_count": 743,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
