@@ -82568,5 +82568,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-11-16T04:43:38.863481",
+    "run_end": "2026-11-16T04:44:42.699762",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7662149957232715782",
+        "title": "The 'Remote-Fired' Resilience Audit: 7 Stress-Tests for Your Employment Contract Against AI-Driven Monitoring",
+        "url": "https://theomniview.blogspot.com/2026/11/the-remote-fired-resilience-audit-7.html",
+        "genre": "lifestyle",
+        "topic": "self-improvement",
+        "layer": "how-to-guides",
+        "labels": [
+          "Lifestyle",
+          "Self-Improvement",
+          "How-To Guides",
+          "employee surveillance",
+          "remote work rights",
+          "workplace monitoring"
+        ],
+        "slug": "the-remote-fired-resilience-audit-7-stress-tests-for-your-employment-contract-ag",
+        "published_at": "2026-11-16T04:49:04+00:00",
+        "word_count": 1037,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "3986911815325051390",
+        "title": "The 'Cloud-Dependency' Outage Audit: 7 Stress-Tests for Your Enterprise Workflow Against Single-Provider AI Failures",
+        "url": "https://theomniview.blogspot.com/2026/11/the-cloud-dependency-outage-audit-7.html",
+        "genre": "technology",
+        "topic": "artificial-intelligence",
+        "layer": "how-to-guides",
+        "labels": [
+          "Technology",
+          "Artificial Intelligence",
+          "How-To Guides",
+          "enterprise AI strategy",
+          "cloud provider outage",
+          "AI infrastructure resilience"
+        ],
+        "slug": "the-cloud-dependency-outage-audit-7-stress-tests-for-your-enterprise-workflow-ag",
+        "published_at": "2026-11-16T04:49:41+00:00",
+        "word_count": 1035,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
