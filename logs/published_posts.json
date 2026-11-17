@@ -69632,5 +69632,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "1373704951832648556",
+    "title": "The 'Mucus-Starvation' Microbiome Audit: 7 Stress-Tests for Your Gut Health Against Low-Fiber Diets",
+    "url": "https://theomniview.blogspot.com/2026/11/the-mucus-starvation-microbiome-audit-7.html",
+    "genre": "science",
+    "topic": "biology",
+    "layer": "research-articles",
+    "labels": [
+      "Science",
+      "Biology & Life Sciences",
+      "Research Articles",
+      "gut microbiome health",
+      "dietary fiber intake",
+      "intestinal mucus barrier"
+    ],
+    "slug": "the-mucus-starvation-microbiome-audit-7-stress-tests-for-your-gut-health-against",
+    "published_at": "2026-11-17T06:36:23+00:00",
+    "word_count": 1114,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
+  },
+  {
+    "post_id": "8975463238373510445",
+    "title": "The 'Return-to-Sender' logistics audit: 7 stress-tests for your ecommerce reverse supply chain against rising carrier surcharges",
+    "url": "https://theomniview.blogspot.com/2026/11/the-return-to-sender-logistics-audit-7.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "listicles",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Listicles",
+      "ecommerce returns",
+      "reverse logistics",
+      "supply chain optimization"
+    ],
+    "slug": "the-return-to-sender-logistics-audit-7-stress-tests-for-your-ecommerce-reverse-s",
+    "published_at": "2026-11-17T06:36:48+00:00",
+    "word_count": 866,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
