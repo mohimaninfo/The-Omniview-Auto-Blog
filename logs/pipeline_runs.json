@@ -82672,5 +82672,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-11-18T05:53:08.990948",
+    "run_end": "2026-11-18T05:54:16.723688",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "395630802756977915",
+        "title": "The 'analog-resilience' pedagogy audit: 7 stress-tests for your k-12 district\u2019s digital literacy curriculum against AI-driven epistemic drift",
+        "url": "https://theomniview.blogspot.com/2026/11/the-analog-resilience-pedagogy-audit-7.html",
+        "genre": "education",
+        "topic": "k12",
+        "layer": "research-articles",
+        "labels": [
+          "Education",
+          "K-12 Education",
+          "Research Articles",
+          "k12 digital literacy",
+          "ai in education",
+          "critical thinking skills"
+        ],
+        "slug": "the-analog-resilience-pedagogy-audit-7-stress-tests-for-your-k-12-districts-digi",
+        "published_at": "2026-11-18T05:58:34+00:00",
+        "word_count": 1050,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2441049866374237867",
+        "title": "The 'circadian-drift' lighting audit: 7 stress-tests for your home sleep environment against blue-light-enriched smart bulbs \u2014 A Opinion Analysis Perspective",
+        "url": "https://theomniview.blogspot.com/2026/11/the-circadian-drift-lighting-audit-7.html",
+        "genre": "health",
+        "topic": "wellness",
+        "layer": "opinion-analysis",
+        "labels": [
+          "Health",
+          "Wellness & Lifestyle",
+          "Opinion & Analysis",
+          "circadian rhythm",
+          "smart home lighting",
+          "sleep hygiene"
+        ],
+        "slug": "the-circadian-drift-lighting-audit-7-stress-tests-for-your-home-sleep-environmen",
+        "published_at": "2026-11-18T05:59:15+00:00",
+        "word_count": 920,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
