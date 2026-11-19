@@ -82724,5 +82724,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-11-19T05:52:44.505620",
+    "run_end": "2026-11-19T05:53:38.345143",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "5007488185817588454",
+        "title": "The 'dynamic-pricing' volatility audit: 7 stress-tests for your ecommerce checkout against real-time algorithmic price fluctuations",
+        "url": "https://theomniview.blogspot.com/2026/11/the-dynamic-pricing-volatility-audit-7.html",
+        "genre": "business",
+        "topic": "ecommerce",
+        "layer": "reviews",
+        "labels": [
+          "Business",
+          "E-Commerce",
+          "Reviews",
+          "dynamic pricing",
+          "ecommerce checkout optimization",
+          "algorithmic pricing"
+        ],
+        "slug": "the-dynamic-pricing-volatility-audit-7-stress-tests-for-your-ecommerce-checkout-",
+        "published_at": "2026-11-19T05:58:11+00:00",
+        "word_count": 517,
+        "has_video": true,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "247640766049025300",
+        "title": "The 'myco-remediation' soil audit: 7 stress-tests for your local conservation project against industrial heavy metal runoff",
+        "url": "https://theomniview.blogspot.com/2026/11/the-myco-remediation-soil-audit-7.html",
+        "genre": "environment",
+        "topic": "conservation",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Conservation & Biodiversity",
+          "Research Articles",
+          "mycoremediation",
+          "soil conservation",
+          "heavy metal contamination"
+        ],
+        "slug": "the-myco-remediation-soil-audit-7-stress-tests-for-your-local-conservation-proje",
+        "published_at": "2026-11-19T05:58:37+00:00",
+        "word_count": 967,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
