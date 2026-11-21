@@ -69808,5 +69808,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 2
+  },
+  {
+    "post_id": "5802554980880416489",
+    "title": "The 'synthetic-hallucination' assessment audit: 7 stress-tests for your university\u2019s digital literacy program against generative AI confidence gaps",
+    "url": "https://theomniview.blogspot.com/2026/11/the-synthetic-hallucination-assessment.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Opinion & Analysis",
+      "digital literacy",
+      "generative AI in education",
+      "academic integrity"
+    ],
+    "slug": "the-synthetic-hallucination-assessment-audit-7-stress-tests-for-your-universitys",
+    "published_at": "2026-11-21T05:42:03+00:00",
+    "word_count": 972,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3015955321791661127",
+    "title": "The 'context-window' retention audit: 7 stress-tests for your long-term memory against AI-assisted information synthesis",
+    "url": "https://theomniview.blogspot.com/2026/11/the-context-window-retention-audit-7.html",
+    "genre": "society",
+    "topic": "digital-society",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Society",
+      "Digital Society",
+      "Opinion & Analysis",
+      "cognitive atrophy",
+      "AI context window",
+      "information synthesis"
+    ],
+    "slug": "the-context-window-retention-audit-7-stress-tests-for-your-long-term-memory-agai",
+    "published_at": "2026-11-21T05:42:28+00:00",
+    "word_count": 945,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
