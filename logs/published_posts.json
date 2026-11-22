@@ -69852,5 +69852,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "117939220006050288",
+    "title": "the 'dopamine-loop' social audit: 7 stress-tests for your mental health against infinite-scroll algorithmic reinforcement \u2014 A How To Guides Perspective",
+    "url": "https://theomniview.blogspot.com/2026/11/the-dopamine-loop-social-audit-7-stress.html",
+    "genre": "health",
+    "topic": "mental-health",
+    "layer": "how-to-guides",
+    "labels": [
+      "Health",
+      "Mental Health",
+      "How-To Guides",
+      "digital mental health",
+      "dopamine detox",
+      "algorithmic anxiety"
+    ],
+    "slug": "the-dopamine-loop-social-audit-7-stress-tests-for-your-mental-health-against-inf",
+    "published_at": "2026-11-22T05:11:30+00:00",
+    "word_count": 980,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "2571786879894745505",
+    "title": "the 'silicon-rot' storage audit: 7 stress-tests for your cold-storage ssd longevity against long-term data degradation",
+    "url": "https://theomniview.blogspot.com/2026/11/the-silicon-rot-storage-audit-7-stress.html",
+    "genre": "technology",
+    "topic": "gadgets",
+    "layer": "listicles",
+    "labels": [
+      "Technology",
+      "Gadgets & Hardware",
+      "Listicles",
+      "SSD longevity",
+      "data degradation",
+      "cold storage"
+    ],
+    "slug": "the-silicon-rot-storage-audit-7-stress-tests-for-your-cold-storage-ssd-longevity",
+    "published_at": "2026-11-22T05:11:49+00:00",
+    "word_count": 852,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
