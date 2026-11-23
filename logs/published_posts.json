@@ -69896,5 +69896,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "527004410730837257",
+    "title": "The 'actuator-fatigue' maintenance audit: 7 stress-tests for your warehouse robotics fleet against high-cycle operational wear",
+    "url": "https://theomniview.blogspot.com/2026/11/the-actuator-fatigue-maintenance-audit.html",
+    "genre": "technology",
+    "topic": "robotics",
+    "layer": "explainers",
+    "labels": [
+      "Technology",
+      "Robotics",
+      "Explainers",
+      "warehouse robotics maintenance",
+      "robotic actuator failure",
+      "predictive maintenance robotics"
+    ],
+    "slug": "the-actuator-fatigue-maintenance-audit-7-stress-tests-for-your-warehouse-robotic",
+    "published_at": "2026-11-23T05:49:14+00:00",
+    "word_count": 922,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "9206982083245954691",
+    "title": "The 'Bit-Rate' Bottleneck Audit: 7 Stress-Tests for Your 4K Streaming Quality Against ISP Traffic Shaping \u2014 A Latest News Perspective",
+    "url": "https://theomniview.blogspot.com/2026/11/the-bit-rate-bottleneck-audit-7-stress.html",
+    "genre": "entertainment",
+    "topic": "streaming",
+    "layer": "latest-news",
+    "labels": [
+      "Entertainment",
+      "Streaming & Digital Media",
+      "Latest News",
+      "4K streaming",
+      "ISP throttling",
+      "bitrate optimization"
+    ],
+    "slug": "the-bit-rate-bottleneck-audit-7-stress-tests-for-your-4k-streaming-quality-again",
+    "published_at": "2026-11-23T05:49:30+00:00",
+    "word_count": 815,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 3
   }
 ]
