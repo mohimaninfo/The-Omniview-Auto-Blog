@@ -69940,5 +69940,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 3
+  },
+  {
+    "post_id": "6708559296955664088",
+    "title": "The 'E-Waste' Biodiversity Audit: 7 Stress-Tests for Your Local Conservation Project Against Illegal Tech Dumping",
+    "url": "https://theomniview.blogspot.com/2026/11/the-e-waste-biodiversity-audit-7-stress.html",
+    "genre": "environment",
+    "topic": "conservation",
+    "layer": "opinion-analysis",
+    "labels": [
+      "Environment",
+      "Conservation & Biodiversity",
+      "Opinion & Analysis",
+      "e-waste conservation",
+      "habitat restoration",
+      "environmental toxicity"
+    ],
+    "slug": "the-e-waste-biodiversity-audit-7-stress-tests-for-your-local-conservation-projec",
+    "published_at": "2026-11-24T08:30:24+00:00",
+    "word_count": 808,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "8722862526781799665",
+    "title": "The 'founder-exit' liquidity audit: 7 stress-tests for your startup\u2019s valuation against post-acquisition earn-out clawbacks",
+    "url": "https://theomniview.blogspot.com/2026/11/the-founder-exit-liquidity-audit-7.html",
+    "genre": "business",
+    "topic": "entrepreneurship",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "Entrepreneurship",
+      "Case Studies",
+      "startup exit strategy",
+      "M&A earn-out clauses",
+      "founder liquidity"
+    ],
+    "slug": "the-founder-exit-liquidity-audit-7-stress-tests-for-your-startups-valuation-agai",
+    "published_at": "2026-11-24T08:33:31+00:00",
+    "word_count": 689,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
