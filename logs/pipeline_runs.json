@@ -83036,5 +83036,57 @@
         "reference_count": 4
       }
     ]
+  },
+  {
+    "run_start": "2026-11-25T06:58:01.696115",
+    "run_end": "2026-11-25T06:59:34.332756",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "783255265505145909",
+        "title": "The 'burn-rate' solvency audit: 7 stress-tests for your startup\u2019s runway against sudden venture debt acceleration",
+        "url": "https://theomniview.blogspot.com/2026/11/the-burn-rate-solvency-audit-7-stress.html",
+        "genre": "finance",
+        "topic": "startups",
+        "layer": "listicles",
+        "labels": [
+          "Finance",
+          "Startups & Venture",
+          "Listicles",
+          "startup venture debt",
+          "burn rate optimization",
+          "startup runway management"
+        ],
+        "slug": "the-burn-rate-solvency-audit-7-stress-tests-for-your-startups-runway-against-sud",
+        "published_at": "2026-11-25T07:03:58+00:00",
+        "word_count": 727,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "5750502486057856939",
+        "title": "The 'human-in-the-loop' reliability audit: 7 stress-tests for your corporate decision-making against AI-driven hallucination bias",
+        "url": "https://theomniview.blogspot.com/2026/11/the-human-in-loop-reliability-audit-7.html",
+        "genre": "society",
+        "topic": "digital-society",
+        "layer": "latest-news",
+        "labels": [
+          "Society",
+          "Digital Society",
+          "Latest News",
+          "AI reliability",
+          "corporate decision-making",
+          "generative AI bias"
+        ],
+        "slug": "the-human-in-the-loop-reliability-audit-7-stress-tests-for-your-corporate-decisi",
+        "published_at": "2026-11-25T07:04:33+00:00",
+        "word_count": 781,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 3
+      }
+    ]
   }
 ]
