@@ -83088,5 +83088,57 @@
         "reference_count": 3
       }
     ]
+  },
+  {
+    "run_start": "2026-11-26T06:49:34.545990",
+    "run_end": "2026-11-26T06:50:25.630115",
+    "posts_attempted": 2,
+    "posts_succeeded": 2,
+    "results": [
+      {
+        "post_id": "7963081312997453714",
+        "title": "The 'battery-passport' traceability audit: 7 stress-tests for your EV supply chain against EU circular economy mandates \u2014 A Research Articles Perspective",
+        "url": "https://theomniview.blogspot.com/2026/11/the-battery-passport-traceability-audit.html",
+        "genre": "environment",
+        "topic": "circular-economy",
+        "layer": "research-articles",
+        "labels": [
+          "Environment",
+          "Circular Economy",
+          "Research Articles",
+          "battery passport",
+          "circular economy",
+          "EV supply chain"
+        ],
+        "slug": "the-battery-passport-traceability-audit-7-stress-tests-for-your-ev-supply-chain-",
+        "published_at": "2026-11-26T06:54:54+00:00",
+        "word_count": 1061,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      },
+      {
+        "post_id": "2039763768789366897",
+        "title": "the 'atmospheric-river' infrastructure audit: 7 stress-tests for your municipal drainage resilience against shifting climate precipitation patterns",
+        "url": "https://theomniview.blogspot.com/2026/11/the-atmospheric-river-infrastructure.html",
+        "genre": "science",
+        "topic": "climate-environment",
+        "layer": "research-articles",
+        "labels": [
+          "Science",
+          "Climate & Environment",
+          "Research Articles",
+          "atmospheric river",
+          "climate resilience",
+          "urban infrastructure"
+        ],
+        "slug": "the-atmospheric-river-infrastructure-audit-7-stress-tests-for-your-municipal-dra",
+        "published_at": "2026-11-26T06:55:25+00:00",
+        "word_count": 1014,
+        "has_video": false,
+        "image_count": 1,
+        "reference_count": 4
+      }
+    ]
   }
 ]
