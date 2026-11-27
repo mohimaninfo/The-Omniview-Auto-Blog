@@ -70072,5 +70072,49 @@
     "has_video": false,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "4130747696592819671",
+    "title": "the 'thermal-insulation' retrofit audit: 7 stress-tests for your home energy efficiency against extreme heatwaves",
+    "url": "https://theomniview.blogspot.com/2026/11/the-thermal-insulation-retrofit-audit-7.html",
+    "genre": "environment",
+    "topic": "sustainable-living",
+    "layer": "how-to-guides",
+    "labels": [
+      "Environment",
+      "Sustainable Living",
+      "How-To Guides",
+      "home energy efficiency",
+      "thermal insulation audit",
+      "sustainable living"
+    ],
+    "slug": "the-thermal-insulation-retrofit-audit-7-stress-tests-for-your-home-energy-effici",
+    "published_at": "2026-11-27T06:47:23+00:00",
+    "word_count": 1112,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3706414218001860968",
+    "title": "the 'zero-party' data audit: 7 stress-tests for your ecommerce personalization strategy against upcoming third-party cookie deprecation \u2014 A Case Studies Perspective",
+    "url": "https://theomniview.blogspot.com/2026/11/the-zero-party-data-audit-7-stress.html",
+    "genre": "business",
+    "topic": "ecommerce",
+    "layer": "case-studies",
+    "labels": [
+      "Business",
+      "E-Commerce",
+      "Case Studies",
+      "zero-party data",
+      "ecommerce personalization",
+      "third-party cookie deprecation"
+    ],
+    "slug": "the-zero-party-data-audit-7-stress-tests-for-your-ecommerce-personalization-stra",
+    "published_at": "2026-11-27T06:47:55+00:00",
+    "word_count": 752,
+    "has_video": true,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
