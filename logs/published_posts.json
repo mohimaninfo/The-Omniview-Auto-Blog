@@ -70116,5 +70116,49 @@
     "has_video": true,
     "image_count": 1,
     "reference_count": 4
+  },
+  {
+    "post_id": "3759948169062402897",
+    "title": "the 'shadow-token' authentication audit: 7 stress-tests for your enterprise SSO security against ai-driven session token theft",
+    "url": "https://theomniview.blogspot.com/2026/11/the-shadow-token-authentication-audit-7.html",
+    "genre": "technology",
+    "topic": "cybersecurity",
+    "layer": "latest-news",
+    "labels": [
+      "Technology",
+      "Cybersecurity",
+      "Latest News",
+      "session token theft",
+      "SSO security",
+      "cybersecurity"
+    ],
+    "slug": "the-shadow-token-authentication-audit-7-stress-tests-for-your-enterprise-sso-sec",
+    "published_at": "2026-11-28T06:21:38+00:00",
+    "word_count": 812,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
+  },
+  {
+    "post_id": "3877222897405768022",
+    "title": "the 'epistemic-anchoring' pedagogy audit: 7 stress-tests for your university\u2019s research methodology against ai-driven hallucination loops",
+    "url": "https://theomniview.blogspot.com/2026/11/the-epistemic-anchoring-pedagogy-audit.html",
+    "genre": "education",
+    "topic": "edtech",
+    "layer": "research-articles",
+    "labels": [
+      "Education",
+      "EdTech & Online Learning",
+      "Research Articles",
+      "academic integrity",
+      "generative AI in research",
+      "epistemic anchoring"
+    ],
+    "slug": "the-epistemic-anchoring-pedagogy-audit-7-stress-tests-for-your-universitys-resea",
+    "published_at": "2026-11-28T06:21:52+00:00",
+    "word_count": 1129,
+    "has_video": false,
+    "image_count": 1,
+    "reference_count": 4
   }
 ]
